@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 30: React, Part 2 on Introduction to Web Dev</title>
+    <link>http://localhost:1313/react-part-2/index.html</link>
+    <description>Recent content in Chapter 30: React, Part 2 on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-part-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/react-part-2/reading/index.html</link>
+      <pubDate>Wed, 03 May 2023 11:39:25 -0500</pubDate>
+      <guid>http://localhost:1313/react-part-2/reading/index.html</guid>
+      <description>Reading Content JavaScript in React Conditional Rendering The map( ) Function </description>
+    </item>
+    <item>
+      <title>Exercises</title>
+      <link>http://localhost:1313/react-part-2/exercises/index.html</link>
+      <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
+      <guid>http://localhost:1313/react-part-2/exercises/index.html</guid>
+      <description>Getting Started: Check out the starter code for the exercises-2 in the part2 directory on the main branch of react-exercises-and-studios Code Review App is returning 2 components: Profile and Banner. Open the components directory to see what it contains. You should see the following files:
+Banner.jsx Creates a banner for the application Button.jsx Creates a button for the application that uses the alert Window method. oceans.json holds multiple objects, which we will use in our application Profile.</description>
+    </item>
+    <item>
+      <title>Studio</title>
+      <link>http://localhost:1313/react-part-2/studio/index.html</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/react-part-2/studio/index.html</guid>
+      <description>In this studio, you will make a second Pinterest-inspired application. This studio will add conditional rendering and the map function to the project.
+The app you complete in this studio will have the following functionality:
+A star rating component that can be updated to display 0 - 5 stars. The ability to mimic the Save vs Saved button on a Pinterest pin using conditional rendering. Displaying specific recipe information using the map function, if necessary, and a JSON file.</description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/react-part-2/next-steps/index.html</link>
+      <pubDate>Wed, 03 May 2023 11:39:25 -0500</pubDate>
+      <guid>http://localhost:1313/react-part-2/next-steps/index.html</guid>
+      <description> Working with JSON What is the Arrow Function in ReactJS? React Basics: What’s the difference between JavaScript and JSX? React Props Explained with Examples A Beginner’s Guide to Loops in React JSX Using map() in JavaScript and React.js Using a condition inside map() in React </description>
+    </item>
+  </channel>
+</rss>

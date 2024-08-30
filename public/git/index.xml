@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 22: Git More Collaboration on Introduction to Web Dev</title>
+    <link>http://localhost:1313/git/index.html</link>
+    <description>Recent content in Chapter 22: Git More Collaboration on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2023 13:52:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/git/reading/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/reading/index.html</guid>
+      <description> What is Git? Repositories and Commits Remote Repositories Branches Merging in Git </description>
+    </item>
+    <item>
+      <title>Exercises: Git</title>
+      <link>http://localhost:1313/git/exercises/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/exercises/index.html</guid>
+      <description>We will use our new terminal powers to move through the Git exercises.
+In whichever directory you are keeping your coursework outside of javascript-projects, make a new directory called Git-Exercises using the mkdir command. You want to make sure this is outside of javascript-projects because it will cause an issue if you try and make a new Git repository inside an existing one.
+Check your solution My-Computer:my-coursework myusername$ mkdir Git-Exercises Inside the Git-Exercises directory, initialize a new Git repository using git init.</description>
+    </item>
+    <item>
+      <title>Studio: Communication Log</title>
+      <link>http://localhost:1313/git/studio/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/studio/index.html</guid>
+      <description> Task 1: Getting Started Task 2: Time to Communicate! </description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/git/next-steps/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/next-steps/index.html</guid>
+      <description>You are now ready to tackle the DOM. Before moving on to the next chapter, if you would like additional resources on Git, here are a few of our favorites.
+Linux Basics Git Commands Documentation </description>
+    </item>
+  </channel>
+</rss>

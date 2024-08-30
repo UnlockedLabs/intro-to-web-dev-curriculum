@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Introduction to Web Dev</title>
+    <link>http://localhost:1313/http/reading/index.html</link>
+    <description>Recent content in Reading on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2023 09:32:07 -0500</lastBuildDate><atom:link href="http://localhost:1313/http/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the Internet Works</title>
+      <link>http://localhost:1313/http/reading/how-the-internet-works/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 09:32:07 -0500</pubDate>
+      <guid>http://localhost:1313/http/reading/how-the-internet-works/index.html</guid>
+      <description>Most people use the Internet without fully understanding how it works. Without much trouble, they can open a browser, navigate to a site, and interact with it. They do not need to know precisely how the Internet works in order to use it.
+For web developers, however, fundamental understanding of the flow of information across the Internet is essential.
+Servers and Clients The Internet uses the client-server model. A server is an application that provides resources&amp;mdash;such as raw data, web pages, or images.</description>
+    </item>
+    <item>
+      <title>HTTP at a Glance</title>
+      <link>http://localhost:1313/http/reading/http-at-a-glance/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 09:32:07 -0500</pubDate>
+      <guid>http://localhost:1313/http/reading/http-at-a-glance/index.html</guid>
+      <description>While web developers can often get away with a minimal understanding of TCP/IP and DNS, they must understand HTTP much more deeply. Before diving into the details of HTTP, let&amp;rsquo;s gain a high-level understanding.
+Requests and Responses The fundamental units of HTTP are requests and responses. A client (usually a web browser) makes a request to a web server. Based on the details of the request, the server formulates and sends a response.</description>
+    </item>
+    <item>
+      <title>Requests</title>
+      <link>http://localhost:1313/http/reading/http-requests/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 09:32:07 -0500</pubDate>
+      <guid>http://localhost:1313/http/reading/http-requests/index.html</guid>
+      <description>HTTP requests must conform to the structure outlined by the World Wide Web Consortium (W3C) . We&amp;rsquo;ll discuss the most important and most commonly-used aspects of HTTP request structure.
+A generic HTTP request looks like this:
+GET /blog/ HTTP/1.1 Host: www.launchcode.org User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 Accept-Language: en-US,en;q=0.5 Accept-Encoding: gzip, deflate, br DNT: 1 Connection: keep-alive Upgrade-Insecure-Requests: 1 Cache-Control: max-age=0 Request Body The structure has these components:</description>
+    </item>
+    <item>
+      <title>Responses</title>
+      <link>http://localhost:1313/http/reading/http-responses/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 09:32:07 -0500</pubDate>
+      <guid>http://localhost:1313/http/reading/http-responses/index.html</guid>
+      <description>Each HTTP request that reaches a web server results in an HTTP response to the client.
+A generic HTTP response looks like this:
+HTTP/2.0 200 OK Date: Wed, 22 May 2019 17:36:50 GMT Content-Type: text/html; charset=UTF-8 Content-Length: 8050 Last-Modified: Wed, 22 May 2019 17:33:45 GMT &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt; &amp;lt;!--Rest of HTML page --&amp;gt; &amp;lt;/html&amp;gt; The structure has these components:
+Status line: The first line of the response is the response line, which contains status information about the response including the response code.</description>
+    </item>
+    <item>
+      <title>HTTP in the Browser</title>
+      <link>http://localhost:1313/http/reading/http-in-the-browser/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 09:32:07 -0500</pubDate>
+      <guid>http://localhost:1313/http/reading/http-in-the-browser/index.html</guid>
+      <description>While we have covered all of the HTTP concepts you need to know at this point, it&amp;rsquo;s worth spending some time explaining how web browsers submit requests and receive responses.
+Viewing Requests and Response Using Developer Tools Tip This section requires you to use Firefox&amp;rsquo;s developer tools. If you need a refresher or just a reference, visit MDN .
+Open a web browser and visit some web page, say, our example from the HTML Me Something assignment .</description>
+    </item>
+  </channel>
+</rss>

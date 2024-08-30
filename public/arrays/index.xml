@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 8: Arrays Keep Things in Order on Introduction to Web Dev</title>
+    <link>http://localhost:1313/arrays/index.html</link>
+    <description>Recent content in Chapter 8: Arrays Keep Things in Order on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/arrays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/arrays/reading/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/arrays/reading/index.html</guid>
+      <description>Reading Content Links Arrays Are Like Strings Working With Arrays Array Methods Multi-Dimensional Arrays </description>
+    </item>
+    <item>
+      <title>Exercises: Arrays</title>
+      <link>http://localhost:1313/arrays/exercises/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/arrays/exercises/index.html</guid>
+      <description>OK, rookie. It&amp;rsquo;s time to train you on how to modify the shuttle&amp;rsquo;s cargo manifest. The following actions will teach you how to add, remove, modify and rearrange our records for the items stored in our hold.
+Note All of the following exercise files can be found in the javascript-projects directory at the following location:
+javascript-projects/arrays/exercises/part-(one-six)-arrays.js
+Part 1 Create an array called practiceFile with the following entry: 273.15. Use the push method to add the following elements to the array.</description>
+    </item>
+    <item>
+      <title>Studio: Strings and Arrays</title>
+      <link>http://localhost:1313/arrays/studio/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/arrays/studio/index.html</guid>
+      <description>Strings are ordered collections of characters, which are strings of length 1. The characters in a string can be accessed using bracket notation.
+Arrays are ordered collections of items, which can be strings, numbers, other arrays, etc. The items/elements/entries stored in an array can be accessed using bracket notation.
+Strings are immutable, whereas arrays can be changed.
+Strings and arrays have properties and methods that allow us to easily perform some useful actions.</description>
+    </item>
+  </channel>
+</rss>

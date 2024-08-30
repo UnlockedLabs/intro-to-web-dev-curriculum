@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Introduction to Web Dev</title>
+    <link>http://localhost:1313/html/reading/index.html</link>
+    <description>Recent content in Reading on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 14:37:14 -0500</lastBuildDate><atom:link href="http://localhost:1313/html/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>http://localhost:1313/html/reading/background/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 14:37:14 -0500</pubDate>
+      <guid>http://localhost:1313/html/reading/background/index.html</guid>
+      <description>When programmers make web pages, they want their pages to be beautiful, interactive, and fun. Programmers may use JavaScript to make their pages interactive, but JavaScript does not do much to define the structure and appearance of a web page. The next two chapters cover HTML and CSS, which are the two most common languages for structuring content and making it beautiful.
+Before jumping in to learn HTML and CSS, we need to understand how web pages appear on screens.</description>
+    </item>
+    <item>
+      <title>HTML Structure</title>
+      <link>http://localhost:1313/html/reading/structure/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 14:37:14 -0500</pubDate>
+      <guid>http://localhost:1313/html/reading/structure/index.html</guid>
+      <description>Programmers should follow certain rules about how to structure an HTML file. The rules about how to structure an HTML file and the tags used to lay out this structure are vital to the browser being able to render the page.
+Structure Rules When it comes to laying out the overarching structure of an HTML file, a programmer should follow 5 rules:
+Every HTML file needs a DOCTYPE tag, specifying the HTML version used.</description>
+    </item>
+    <item>
+      <title>HTML Tags</title>
+      <link>http://localhost:1313/html/reading/tags/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 14:37:14 -0500</pubDate>
+      <guid>http://localhost:1313/html/reading/tags/index.html</guid>
+      <description>Time to dive into learning about all the different tags for creating content! This page contains a helpful table of tags to know for beginning programmers to bookmark. This is by no means an exhaustive list of all HTML tags, but it is a good place to start.
+Tags to Know Tag Name Code Definition Bold &amp;lt;b&amp;gt; When surrounding text, makes that text bold. Emphasis &amp;lt;em&amp;gt; When surrounding text, makes that text italic.</description>
+    </item>
+  </channel>
+</rss>

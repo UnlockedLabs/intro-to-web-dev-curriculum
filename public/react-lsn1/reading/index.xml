@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Introduction to Web Dev</title>
+    <link>http://localhost:1313/react-lsn1/reading/index.html</link>
+    <description>Recent content in Reading on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2023 09:42:17 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-lsn1/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/react-lsn1/reading/introduction/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/reading/introduction/index.html</guid>
+      <description>What is a Library and Why Would We Use One? Many programming languages, such as JavaScript, have libraries. A library in programming is a collection of reusable code, such as methods and classes, that developers can use to write more complex applications more efficiently.
+When it comes to web-based applications, there are two very different places code can exist: in the user&amp;rsquo;s browser (front-end) and on the host&amp;rsquo;s server (back-end).</description>
+    </item>
+    <item>
+      <title>React Components</title>
+      <link>http://localhost:1313/react-lsn1/reading/components/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/reading/components/index.html</guid>
+      <description>Components are the building blocks of React applications. Components are reusable, independent, and are responsible from individual elements of the webpage. For example, take a look at Instacart and make note of elements of the webpage. You might see:
+A button for logging into your account. A button for signing up for a new account. A section full of local to you stores so that you can select one you would like delivery from.</description>
+    </item>
+    <item>
+      <title>Create a React Application</title>
+      <link>http://localhost:1313/react-lsn1/reading/setup/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/reading/setup/index.html</guid>
+      <description>Now that we understand more about React and components, we are ready to build a React app. To make a new React application, we will be using a front-end tool called Vite . This will allow us to scaffold a new React project with the required dependencies and launch a local dev server.
+To get started we first need to install vite within the project directory.
+npm create vite@latest You will be asked to provide a name for the project.</description>
+    </item>
+    <item>
+      <title>More on Vite</title>
+      <link>http://localhost:1313/react-lsn1/reading/more-on-vite/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/reading/more-on-vite/index.html</guid>
+      <description>After scaffolding your React application with Vite there are a couple of things to cover in regards to the structure of the project directory and the default Vite config file.
+Initial Project Structure index.html the index.html file resides within the root folder of the application. You may have worked with different tools that scaffold the index.html file into the public directory.
+With Vite, the index.html is the entry point for the entire application.</description>
+    </item>
+    <item>
+      <title>Make a New Component</title>
+      <link>http://localhost:1313/react-lsn1/reading/first-component/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/reading/first-component/index.html</guid>
+      <description>With your application set up, you are ready to make your first component.
+Creating a Component Create a directory called components within src. Inside components make a new file called Hello.jsx Write a function called Hello that does not have any parameters and returns a &amp;lt;div&amp;gt; that contains one &amp;lt;p&amp;gt; tag that just says &amp;ldquo;Hello World!&amp;rdquo;. At the front of your function declaration add export default. This will allow us to import it into other files.</description>
+    </item>
+  </channel>
+</rss>

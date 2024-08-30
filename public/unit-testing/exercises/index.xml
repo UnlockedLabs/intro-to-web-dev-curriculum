@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exercises: Unit Testing on Introduction to Web Dev</title>
+    <link>http://localhost:1313/unit-testing/exercises/index.html</link>
+    <description>Recent content in Exercises: Unit Testing on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2023 13:40:41 -0500</lastBuildDate><atom:link href="http://localhost:1313/unit-testing/exercises/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Introduction to Web Dev</title>
+    <link>http://localhost:1313/exceptions/reading/index.html</link>
+    <description>Recent content in Reading on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/exceptions/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/exceptions/reading/introduction/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/exceptions/reading/introduction/index.html</guid>
+      <description>Errors are a part of coding. Occasionally, we make mistakes as programmers. However, we are always trying to fix those mistakes by reading different resources, examining a list of error messages (also called the stacktrace), or asking for help.
+Earlier in this course, we learned about two different types of errors: runtime and logic. A logic error is when your program executes without breaking, but doesn&amp;rsquo;t behave the way you thought it would.</description>
+    </item>
+    <item>
+      <title>Throw</title>
+      <link>http://localhost:1313/exceptions/reading/throw/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/exceptions/reading/throw/index.html</guid>
+      <description>In most programming languages, when the compiler or interpreter encounters code it doesn&amp;rsquo;t know how to handle, it throws an exception. This is how the compiler notifies the programmer that something has gone wrong. Throwing an exception is also known as raising an exception.
+JavaScript gives us the ability to raise exceptions using the throw statement. One reason to throw an exception is if your code is being used in an unexpected way.</description>
+    </item>
+    <item>
+      <title>Exceptions as Control Flow</title>
+      <link>http://localhost:1313/exceptions/reading/exceptions-control-flow/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/exceptions/reading/exceptions-control-flow/index.html</guid>
+      <description>Runtime errors occur as the program runs, and they are also called exceptions. Exceptions are caused by referencing undeclared variables and invalid or unexpected data.
+Control Flow The control flow of a program is the order in which the statements are executed. Normal control flow runs from top to bottom of a file. An exception breaks the normal flow and stops the program. A stopped program can no longer interact with the user.</description>
+    </item>
+  </channel>
+</rss>
