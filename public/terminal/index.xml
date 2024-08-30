@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 19: Terminal on Introduction to Web Dev</title>
+    <link>http://localhost:1313/terminal/index.html</link>
+    <description>Recent content in Chapter 19: Terminal on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/terminal/reading/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/terminal/reading/index.html</guid>
+      <description>Reading Content What is a terminal anyways? Filesystem and Paths How to Do Stuff in the Terminal Running Programs in the Terminal </description>
+    </item>
+    <item>
+      <title>Exercises</title>
+      <link>http://localhost:1313/terminal/exercises/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/terminal/exercises/index.html</guid>
+      <description>Note The following commands might already be familiar to you. Practicing them and using the commands many times over makes them second nature. Once you are comfortable with them the speed at which you can execute them and move swiftly through your terminal for common tasks becomes an excellent tool at your disposal!
+Using your terminal, navigate to your Home directory using cd ~.
+Use ls to view the contents of your Home directory.</description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/terminal/next-steps/index.html</link>
+      <pubDate>Tue, 01 Aug 2023 10:26:29 -0500</pubDate>
+      <guid>http://localhost:1313/terminal/next-steps/index.html</guid>
+      <description>After completing this chapter, you are ready to step into the chapter covering HTML. If you want some additional resources on terminal usage, here are some of our favorites:
+Linux Curriculum! - Bash: Intro - This walkthrough provides an overview of Bash and basic commands. Keep in mind that this walkthrough was written with a Linux operating system in mind. With that said you are running git bash for this classroom so a lot of the information still applies.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 1: Introduction on Introduction to Web Dev</title>
+    <link>http://localhost:1313/introduction/index.html</link>
+    <description>Recent content in Chapter 1: Introduction on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/introduction/reading/index.html</link>
+      <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
+      <guid>http://localhost:1313/introduction/reading/index.html</guid>
+      <description>Reading Content Why Learn to Code? Why Learn JavaScript? About LaunchCode Programs Blended Learning Class Platforms Using This Book Technologies in This Course </description>
+    </item>
+  </channel>
+</rss>

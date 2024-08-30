@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 3: How to Write Code on Introduction to Web Dev</title>
+    <link>http://localhost:1313/how-to-write-code/index.html</link>
+    <description>Recent content in Chapter 3: How to Write Code on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2023 14:00:03 -0500</lastBuildDate><atom:link href="http://localhost:1313/how-to-write-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/how-to-write-code/reading/index.html</link>
+      <pubDate>Thu, 13 Jul 2023 14:00:03 -0500</pubDate>
+      <guid>http://localhost:1313/how-to-write-code/reading/index.html</guid>
+      <description>Reading Content What is Code? Syntax Rules JavaScript Projects Repository Comments Output with console.log Fixing Errors in Your Code </description>
+    </item>
+    <item>
+      <title>Welcome, Novice Coder</title>
+      <link>http://localhost:1313/how-to-write-code/next-steps/index.html</link>
+      <pubDate>Thu, 13 Jul 2023 14:00:03 -0500</pubDate>
+      <guid>http://localhost:1313/how-to-write-code/next-steps/index.html</guid>
+      <description>Congratulations! You finished the prep work for Web Development. You are ready to take the next steps on your learning journey.
+Some words of advice:
+Take advantage of the resources at your disposal&amp;mdash;your instructor, TAs, and classmates are here to help. Complete all of the homework and practice tasks. To learn how to code, you need to code. Ask and answer questions. Recognize that making mistakes is part of the learning process.</description>
+    </item>
+  </channel>
+</rss>

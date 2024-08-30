@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 4: Data and Variables on Introduction to Web Dev</title>
+    <link>http://localhost:1313/data-and-variables/index.html</link>
+    <description>Recent content in Chapter 4: Data and Variables on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/data-and-variables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/data-and-variables/reading/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/data-and-variables/reading/index.html</guid>
+      <description>Reading Content Values and Data Types Type Conversion Variables More on Variables Expressions and Evaluation Operations Other Operators Input with readline-sync </description>
+    </item>
+    <item>
+      <title>Exercises: Data and Variables</title>
+      <link>http://localhost:1313/data-and-variables/exercises/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/data-and-variables/exercises/index.html</guid>
+      <description>Exercises appear regularly in the book. Just like the concept checks, these exercises will check your understanding of the topics in this chapter. They also provide good practice for the new skills.
+We&amp;rsquo;ve included our solutions to some (but not all) of the exercises so that you can check your own work after you practice. As with any learning opportunity, take it seriously and give every exercise a fair shot before peeking at the solution.</description>
+    </item>
+    <item>
+      <title>Studio: Goal Setting and Getting into the Right Mindset</title>
+      <link>http://localhost:1313/data-and-variables/studio/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/data-and-variables/studio/index.html</guid>
+      <description>During this studio, we will ask you to think about your mindset when it comes to facing challenges. Do challenges deter you or delight you? If challenges are something you delight in, you might have a growth mindset.
+A growth mindset can be powered by one word, &amp;ldquo;yet&amp;rdquo;. The word &amp;ldquo;yet&amp;rdquo; allows us to acknowledge that we don&amp;rsquo;t know something AND that we are capable of learning it. With &amp;ldquo;yet&amp;rdquo;, the sentence &amp;ldquo;I don&amp;rsquo;t understand booleans&amp;rdquo; becomes &amp;ldquo;I don&amp;rsquo;t understand booleans yet.</description>
+    </item>
+  </channel>
+</rss>

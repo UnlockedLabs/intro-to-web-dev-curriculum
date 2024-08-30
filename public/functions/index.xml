@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 10: Functions Are at Your Beck and Call on Introduction to Web Dev</title>
+    <link>http://localhost:1313/functions/index.html</link>
+    <description>Recent content in Chapter 10: Functions Are at Your Beck and Call on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/functions/reading/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/functions/reading/index.html</guid>
+      <description>Reading Content Introduction Using Functions Creating Functions Function Input and Output A Good Function-Writing Process Parameters and Variables Naming Functions Composing Functions Why Create Functions? </description>
+    </item>
+    <item>
+      <title>Exercises: Functions</title>
+      <link>http://localhost:1313/functions/exercises/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/functions/exercises/index.html</guid>
+      <description>To solve problems with code, you need to be able to break large problems into small ones. Usually, these smaller problems will take the form of functions that are used to solve the larger problem. Therefore, to solve problems with code, you need to be skilled at writing functions. And to master functions, you need to write a lot of them.
+These exercises ask you to write many relatively small functions, which combine to form larger, more complicated ones.</description>
+    </item>
+    <item>
+      <title>Studio: Functions</title>
+      <link>http://localhost:1313/functions/studio/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/functions/studio/index.html</guid>
+      <description>The reverse method flips the order of the elements within an array. However, reverse does not affect the digits or characters within those elements.
+Note The following studio can be found within the javascript-projects/functions/studio directory.
+Example let arr = [&amp;#39;hello&amp;#39;, &amp;#39;world&amp;#39;, 123, &amp;#39;orange&amp;#39;]; arr.reverse() console.log(arr); Console Output
+[&amp;#39;orange&amp;#39;, 123, &amp;#39;world&amp;#39;, &amp;#39;hello&amp;#39;] What if we wanted the reversed array to be [&#39;egnaro&#39;, 321, &#39;dlrow&#39;, &#39;olleh&#39;]?
+Let&amp;rsquo;s have some fun by creating a process that reverses BOTH the order of the entries in an array AND the order of characters within the individual elements.</description>
+    </item>
+  </channel>
+</rss>

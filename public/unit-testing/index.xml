@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 14: Unit Testing on Introduction to Web Dev</title>
+    <link>http://localhost:1313/unit-testing/index.html</link>
+    <description>Recent content in Chapter 14: Unit Testing on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2023 13:40:41 -0500</lastBuildDate><atom:link href="http://localhost:1313/unit-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/unit-testing/reading/index.html</link>
+      <pubDate>Wed, 06 Sep 2023 13:40:41 -0500</pubDate>
+      <guid>http://localhost:1313/unit-testing/reading/index.html</guid>
+      <description> Why Test Your Code? Hello, Jest! Unit Testing in Action Test-Driven Development TDD in Action </description>
+    </item>
+    <item>
+      <title>Exercises: Unit Testing</title>
+      <link>http://localhost:1313/unit-testing/exercises/index.html</link>
+      <pubDate>Wed, 06 Sep 2023 13:40:41 -0500</pubDate>
+      <guid>http://localhost:1313/unit-testing/exercises/index.html</guid>
+      <description>In many of your previous coding tasks, you had to verify that your code worked before moving to the next step. This often required you to add console.log() statements to your code to check the value stored in a variable or returned from a function. This approach finds and fixes syntax, reference, or logic errors AFTER you write your code.
+In this chapter, you learned how to use unit testing to solve coding errors.</description>
+    </item>
+    <item>
+      <title>Studio: Unit Testing</title>
+      <link>http://localhost:1313/unit-testing/studio/index.html</link>
+      <pubDate>Wed, 06 Sep 2023 13:40:41 -0500</pubDate>
+      <guid>http://localhost:1313/unit-testing/studio/index.html</guid>
+      <description>LaunchCode&amp;rsquo;s Marketing Team needs your help! To make the website more maintainable, they thought an object called launchcode that contains important facts and functions they need would be helpful. This way if they need to make a change to one of the facts, they just have to change the object in one place as opposed to going through pages of code to make the change in every place.
+Here is what they need the launchcode object to contain:</description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/unit-testing/next-steps/index.html</link>
+      <pubDate>Wed, 06 Sep 2023 13:40:41 -0500</pubDate>
+      <guid>http://localhost:1313/unit-testing/next-steps/index.html</guid>
+      <description>After completing this chapter, you are ready to learn more about scope. If you want some additional resources on unit testing in JavaScript, here are some of our favorites:
+A Beginner&amp;amp;rsquo;s Guide to Unit Testing with Jest Testing with Jest </description>
+    </item>
+  </channel>
+</rss>

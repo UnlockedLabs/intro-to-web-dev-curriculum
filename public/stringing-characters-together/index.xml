@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 7: Stringing Characters Together on Introduction to Web Dev</title>
+    <link>http://localhost:1313/stringing-characters-together/index.html</link>
+    <description>Recent content in Chapter 7: Stringing Characters Together on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/stringing-characters-together/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/stringing-characters-together/reading/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/stringing-characters-together/reading/index.html</guid>
+      <description>Reading Content Strings as Collections Bracket Notation Strings as Objects String Immutability String Methods Encoding Characters Special Characters Template Literals </description>
+    </item>
+    <item>
+      <title>Exercises: Strings</title>
+      <link>http://localhost:1313/stringing-characters-together/exercises/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/stringing-characters-together/exercises/index.html</guid>
+      <description>Part One The length method returns how many characters are in a string. However, the method will NOT give us the length of a number. If num = 1001, num.length returns undefined rather than 4. Use type conversion to print the length (number of digits) of an integer.
+Print the number of digits in a DECIMAL value (e.g. num = 123.45 has 5 digits but a length of 6).
+Modify your code to print out the length of a decimal value EXCLUDING the period.</description>
+    </item>
+  </channel>
+</rss>

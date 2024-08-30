@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 29: React, Part 1 on Introduction to Web Dev</title>
+    <link>http://localhost:1313/react-lsn1/index.html</link>
+    <description>Recent content in Chapter 29: React, Part 1 on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2023 09:42:17 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-lsn1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/react-lsn1/reading/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/reading/index.html</guid>
+      <description>Reading Content Introduction React Components Create a React Application More on Vite Make a New Component </description>
+    </item>
+    <item>
+      <title>Exercises: Chores vs. Hobbies</title>
+      <link>http://localhost:1313/react-lsn1/exercises/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/exercises/index.html</guid>
+      <description>The following exercises walk you through the process of modifying existing components and creating new ones.
+Starter Code For this set of exercises, you will need a copy of the LaunchCode React projects repository. If you haven&amp;rsquo;t done so already,
+Fork the react-exercises-and-studios repository on GitHub. Clone your fork. Navigate into the exercises now:
+$ pwd react-projects $ ls part1 part2 part3 $ cd part1 $ cd exercises You should be able to run npm start, but the page will not look pretty.</description>
+    </item>
+    <item>
+      <title>Studio: A Few of Your Favorite Recipes</title>
+      <link>http://localhost:1313/react-lsn1/studio/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/studio/index.html</guid>
+      <description>One reason we are learning React is because many top tech companies use it, including Pinterest. On Pinterest, we can create boards and save pins of new recipes, wedding decor concepts, and tips and tricks for crafts. When one clicks on the pin, they are taken to a detailed view which includes a photo, a description of the pin, and in the case of recipes, ingredients one needs for that recipe.</description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/react-lsn1/next-steps/index.html</link>
+      <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn1/next-steps/index.html</guid>
+      <description>We are going to continue with React in the next chapter. If you are not sure about React or components yet, here are some additional resources on these topics:
+Vite | Next Generation Frontend Tooling DigitalOcean - How to Set Up a React Project with Vite Your First Component React Functional Components, Props, and JSX The Benefits of ReactJS </description>
+    </item>
+  </channel>
+</rss>

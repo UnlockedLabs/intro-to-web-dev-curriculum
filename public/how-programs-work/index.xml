@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 2: How Programs Work on Introduction to Web Dev</title>
+    <link>http://localhost:1313/how-programs-work/index.html</link>
+    <description>Recent content in Chapter 2: How Programs Work on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2023 13:40:55 -0500</lastBuildDate><atom:link href="http://localhost:1313/how-programs-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/how-programs-work/reading/index.html</link>
+      <pubDate>Thu, 13 Jul 2023 13:40:55 -0500</pubDate>
+      <guid>http://localhost:1313/how-programs-work/reading/index.html</guid>
+      <description>Reading Content Introduction Programming Languages The JavaScript Language Setting Up Your Coding Tools Your First Program Workflow Recap </description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/how-programs-work/next-steps/index.html</link>
+      <pubDate>Thu, 13 Jul 2023 13:40:55 -0500</pubDate>
+      <guid>http://localhost:1313/how-programs-work/next-steps/index.html</guid>
+      <description>Next Steps The following articles and links are optional reading or projects that you can explore.
+Visual Studio Code created a short tutorial for working with Node.js/JavaScript and the terminal.
+Visual Studio Code created Introductory Videos is you want more tips on using this IDE.
+Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook] </description>
+    </item>
+  </channel>
+</rss>

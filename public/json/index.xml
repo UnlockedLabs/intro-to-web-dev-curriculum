@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 26: JSON on Introduction to Web Dev</title>
+    <link>http://localhost:1313/json/index.html</link>
+    <description>Recent content in Chapter 26: JSON on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2023 14:33:43 -0500</lastBuildDate><atom:link href="http://localhost:1313/json/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/json/reading/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 14:33:43 -0500</pubDate>
+      <guid>http://localhost:1313/json/reading/index.html</guid>
+      <description> Introduction Data Formats and JSON </description>
+    </item>
+    <item>
+      <title>Exercises: JSON</title>
+      <link>http://localhost:1313/json/exercises/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 14:33:43 -0500</pubDate>
+      <guid>http://localhost:1313/json/exercises/index.html</guid>
+      <description>Which of the following three code snippets is correct JSON syntax? Why are the other two options incorrect?
+a.
+1 2 3 4 5 { type: &amp;#34;dog&amp;#34;, name: &amp;#34;Bernie&amp;#34;, age: 3 } b.
+1 2 3 4 5 { &amp;#34;type&amp;#34;: &amp;#34;dog&amp;#34;, &amp;#34;name&amp;#34;: &amp;#34;Bernie&amp;#34;, &amp;#34;age&amp;#34;: 3 } c.
+1 2 3 4 5 { &amp;#34;type&amp;#34;: &amp;#39;dog&amp;#39;, &amp;#34;name&amp;#34;: &amp;#39;Bernie&amp;#39;, &amp;#34;age&amp;#34;: 3 } Check your solution a. This not correct JSON syntax because keys in JSON need to be strings.</description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/json/next-steps/index.html</link>
+      <pubDate>Tue, 03 Oct 2023 14:33:43 -0500</pubDate>
+      <guid>http://localhost:1313/json/next-steps/index.html</guid>
+      <description>Now you are ready to take on fetch! Before going on to the next chapter, if you would like to review JSON, here are a few of our favorite resources.
+JSON Introduction Working with JSON </description>
+    </item>
+  </channel>
+</rss>

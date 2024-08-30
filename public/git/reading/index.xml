@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Introduction to Web Dev</title>
+    <link>http://localhost:1313/git/reading/index.html</link>
+    <description>Recent content in Reading on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2023 13:52:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/git/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Git?</title>
+      <link>http://localhost:1313/git/reading/background/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/reading/background/index.html</guid>
+      <description>Version Control Systems A version control system (VCS) is a system for tracking changes to a code base and storing each version. Version control systems assist programmers with keeping backups and a history of the revisions made to the code base over time. With that history, programmers can roll back to a version without a particular bug. A VCS also enables collaboration between programmers as they can work on different versions of a code base and share their work.</description>
+    </item>
+    <item>
+      <title>Repositories and Commits</title>
+      <link>http://localhost:1313/git/reading/repositories-and-commits/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/reading/repositories-and-commits/index.html</guid>
+      <description>Create a Repository To get started with a local git repository, the programmer must first create one. So far, we made all the repositories for you and you were able to clone the code to your local machine. To create a git repository, the programmer navigates to their project directory and uses the command git init, like so:
+Students-Computer:~ student$ mkdir homework Students-Computer:~ student$ cd homework Students-Computer:homework student$ git init Initialized empty Git repository in /Users/student/homework/.</description>
+    </item>
+    <item>
+      <title>Remote Repositories</title>
+      <link>http://localhost:1313/git/reading/remote-repositories/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/reading/remote-repositories/index.html</guid>
+      <description>Local, Remote, GitHub, Oh My! So far, this chapter has covered how to setup a Git repository on the local machine. However, one of the benefits of using a VCS is to store backups. If something bad happens to a coder&amp;rsquo;s machine, they might lose all of the code for their projects! This is where remote repositories come in. Instead of keeping a Git repository only on a local machine, the code base is also saved in a remote repository.</description>
+    </item>
+    <item>
+      <title>Branches</title>
+      <link>http://localhost:1313/git/reading/branches/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/reading/branches/index.html</guid>
+      <description>Branching in Git So far, this book has talked about Git&amp;rsquo;s ability to store different versions of a code base. What if two programmers want to work on different features of the code base at the same time? They may want to start with the same version and then one programmer wants to change the HTML and the other the CSS. It would not be effective for the two programmers to commit their changes to the repository at the same time.</description>
+    </item>
+    <item>
+      <title>Merging in Git</title>
+      <link>http://localhost:1313/git/reading/merge/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
+      <guid>http://localhost:1313/git/reading/merge/index.html</guid>
+      <description>How to Merge A merge in Git occurs when two branches are combined in the repository.
+Example Let&amp;rsquo;s say a programmer wants to merge a branch called test into main. To accomplish this:
+The programmer switches to the branch they want to merge into. In this case: $ git checkout main The programmer then runs the merge command: $ git merge test When successful, the code in the test branch is pulled into main.</description>
+    </item>
+  </channel>
+</rss>

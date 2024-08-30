@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Introduction to Web Dev</title>
+    <link>http://localhost:1313/react-lsn3/reading/index.html</link>
+    <description>Recent content in Reading on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2023 16:25:46 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-lsn3/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Introduction to State in React</title>
+      <link>http://localhost:1313/react-lsn3/reading/state-intro/index.html</link>
+      <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn3/reading/state-intro/index.html</guid>
+      <description>One of the benefits of using React is that as users interact with the application, the application updates the user interface without reloading the entire page. This is due to a concept called state. State is oftentimes referred to as a component&amp;rsquo;s memory.
+Let&amp;rsquo;s think back to the last time you filled out your tax return. If you e-file your taxes, you might have used a React-based web application to do so.</description>
+    </item>
+    <item>
+      <title>Changes in State</title>
+      <link>http://localhost:1313/react-lsn3/reading/state-changes/index.html</link>
+      <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn3/reading/state-changes/index.html</guid>
+      <description>For a quick review, state is the component&amp;rsquo;s memory and when a change in state occurs, the component re-renders. Let&amp;rsquo;s take a more in-depth look into how React re-renders a component. A number of things can trigger the re-render, but right now, we are going to just focus on state changes. While we can use the useState hook to set up a state variable, we can use the state setter function to trigger a change in state.</description>
+    </item>
+    <item>
+      <title>React and the DOM</title>
+      <link>http://localhost:1313/react-lsn3/reading/react-dom/index.html</link>
+      <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn3/reading/react-dom/index.html</guid>
+      <description>When changing the state, our intended effect may involve using some of the methods and processes we learned about earlier when we first talked about the DOM and events . Let&amp;rsquo;s take a closer look at changing state with an application in manufacturing.
+We are at a shoe factory and the mechanism responsible for counting how many shoes come off the line is broken. The factory manager doesn&amp;rsquo;t want to stop production and cause unnecessary delays so they have asked you to sit by the machine and manually count the shoes coming down the line.</description>
+    </item>
+    <item>
+      <title>Introduction to React Forms</title>
+      <link>http://localhost:1313/react-lsn3/reading/form-intro/index.html</link>
+      <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
+      <guid>http://localhost:1313/react-lsn3/reading/form-intro/index.html</guid>
+      <description>Now that we can handle events with React, let&amp;rsquo;s talk about forms. When a form is submitted, the page reloads and the data is sent off to where it needs to go. In React, while form submission requires resetting the state back to the initial state, we can also experiment with changing the state.
+Let&amp;rsquo;s return to manufacturing. Since the shoe factory is having so many issues today, you have been asked to submit a full report online about what is happening.</description>
+    </item>
+  </channel>
+</rss>

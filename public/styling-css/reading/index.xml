@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Introduction to Web Dev</title>
+    <link>http://localhost:1313/styling-css/reading/index.html</link>
+    <description>Recent content in Reading on Introduction to Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/styling-css/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is CSS?</title>
+      <link>http://localhost:1313/styling-css/reading/what-is-css/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/styling-css/reading/what-is-css/index.html</guid>
+      <description>Background As discussed in the previous chapter, HTML lays out the structure of a document. With HTML attributes, programmers can add some specification to tags. Yet, when programmers make pages with only HTML, the web pages look rather bland. When making a web site, the structure of the page elements is important, as is how those elements appear.
+While HTML creates the structure and content of the page, CSS adds the styling to make it beautiful!</description>
+    </item>
+    <item>
+      <title>CSS Structure</title>
+      <link>http://localhost:1313/styling-css/reading/css-structure/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/styling-css/reading/css-structure/index.html</guid>
+      <description>Writing CSS Programmers can change a lot of different styling using CSS rules. A rule includes the selector and a declaration block. A selector determines which elements will be affected by the rule. Inside the declaration block, programmers set CSS properties to specific values. CSS has a lot of different properties and it would be impossible to memorize them all.
+selector { declaration block } CSS Selectors CSS has three different selectors that the programmer can use to make their style choices.</description>
+    </item>
+    <item>
+      <title>CSS Rules</title>
+      <link>http://localhost:1313/styling-css/reading/rules-css/index.html</link>
+      <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
+      <guid>http://localhost:1313/styling-css/reading/rules-css/index.html</guid>
+      <description>Below are some examples of common CSS properties and what they do. It is by no means an exhaustive list of CSS properties, but it is a good place to start.
+Good CSS Properties to Know CSS Property Definition Default Value font-size Changes the size of the font. medium or 20px color Changes the text color. black font-family Changes the font types. Depends on the browser background-color Sets the color of the background of an element.</description>
+    </item>
+  </channel>
+</rss>

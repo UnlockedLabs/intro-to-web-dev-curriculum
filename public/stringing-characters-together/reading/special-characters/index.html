@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.133.0">
+    <meta name="generator" content="Relearn 5.6.5+tip">
+    <meta name="description" content="">
+    <title>Special Characters :: Introduction to Web Dev</title>
+    <link href="http://localhost:1313/stringing-characters-together/reading/special-characters/index.xml" rel="alternate" type="application/rss+xml" title="Special Characters :: Introduction to Web Dev">
+    <link href="http://localhost:1313/images/favicon.png?1725033062" rel="icon" type="image/png">
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="http://localhost:1313/css/fontawesome-all.min.css?1725033062" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="http://localhost:1313/css/fontawesome-all.min.css?1725033062" rel="stylesheet"></noscript>
+    <link href="http://localhost:1313/css/featherlight.min.css?1725033062" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="http://localhost:1313/css/featherlight.min.css?1725033062" rel="stylesheet"></noscript>
+    <link href="http://localhost:1313/css/auto-complete.css?1725033062" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="http://localhost:1313/css/auto-complete.css?1725033062" rel="stylesheet"></noscript>
+    <link href="http://localhost:1313/css/perfect-scrollbar.min.css?1725033062" rel="stylesheet">
+    <link href="http://localhost:1313/css/nucleus.css?1725033062" rel="stylesheet">
+    <link href="http://localhost:1313/css/fonts.css?1725033062" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="http://localhost:1313/css/fonts.css?1725033062" rel="stylesheet"></noscript>
+    <link href="http://localhost:1313/css/theme.css?1725033062" rel="stylesheet">
+    <link href="http://localhost:1313/css/theme-lc-light.css?1725033062" rel="stylesheet" id="variant-style">
+    <link href="http://localhost:1313/css/ie.css?1725033062" rel="stylesheet">
+    <link href="http://localhost:1313/css/variant.css?1725033062" rel="stylesheet">
+    <link href="http://localhost:1313/css/print.css?1725033062" rel="stylesheet" media="print">
+    <script src="http://localhost:1313/js/url.js?1725033062"></script>
+    <script src="http://localhost:1313/js/variant.js?1725033062"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      window.index_json_url="http://localhost:1313/index.json";
+      var root_url="http://localhost:1313/";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy to clipboard';
+      window.T_Copied_to_clipboard = 'Copied to clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
+      // some further base stuff
+      var baseUriFull='http:\/\/localhost:1313/';
+      window.variants && variants.init( [ 'lc-light', 'lc-dark-blue', 'lc-dark-blue-two' ] );
+    </script>
+    <script src="http://localhost:1313/js/jquery.min.js?1725033062" defer></script>
+  </head>
+  <body class="mobile-support html" data-url="http://localhost:1313/stringing-characters-together/reading/special-characters/index.html">
+    <div id="body" class="default-animation">
+      <div id="sidebar-overlay"></div>
+      <div id="toc-overlay"></div>
+      <nav id="topbar" class="highlightable" dir="ltr">
+        <div>
+          <div class="navigation">
+            <a class="nav nav-next" href="http://localhost:1313/stringing-characters-together/reading/template-literals/index.html" title="Template Literals (&#129106;)"><i class="fas fa-chevron-right fa-fw"></i></a>
+          </div>
+          <div class="navigation">
+            <a class="nav nav-prev" href="http://localhost:1313/stringing-characters-together/reading/encoding-characters/index.html" title="Encoding Characters (&#129104;)"><i class="fas fa-chevron-left fa-fw"></i></a>
+          </div>
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" title='Menu (CTRL+ALT+n)'><i class="fas fa-bars fa-fw"></i></a>
+            </span>
+            <span id="toc-menu" title='Table of Contents (CTRL+ALT+t)'><i class="fas fa-list-alt fa-fw"></i></span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="http://localhost:1313/index.html"><span itemprop="name">Home</span></a><meta itemprop="position" content="1"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="http://localhost:1313/stringing-characters-together/index.html"><span itemprop="name">Chapter 7: Stringing Characters Together</span></a><meta itemprop="position" content="2"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="http://localhost:1313/stringing-characters-together/reading/index.html"><span itemprop="name">Reading</span></a><meta itemprop="position" content="3"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Special Characters</span><meta itemprop="position" content="4"></li>
+            </ol>
+          </div>
+          <div class="default-animation progress">
+            <div class="toc-wrapper" dir="ltr">
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#check-your-understanding">Check Your Understanding</a></li>
+  </ul>
+</nav>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <div id="head-tags">
+          </div>
+          <article class="default">
+<h1 id="special-characters">Special Characters</h1>
+
+<p>Aside from letters, numbers, and symbols, there is another class of characters
+that we will occasionally use in strings, known as <strong>special characters</strong>.
+These characters consist of special character combinations that all begin with
+a <code>\</code> (backslash). They allow us to include characters in strings that would
+be difficult or impossible to include otherwise, such as Unicode characters
+that are not on our keyboards, control characters, and whitespace characters.</p>
+<p>The most commonly-used special characters are <code>\n</code> and <code>\t</code>, which are the
+newline and tab characters, respectively. They work as you would expect.</p>
+
+<div class="box notices cstyle blue">
+    <div class="box-label"><i class="fa-fw fas fa-rocket"></i> Example</div>
+    <div class="box-content">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;A message\nbroken across lines,\n\tand indented&#34;</span>);
+</span></span></code></pre></div><p><strong>Console Output</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-console" data-lang="console"><span style="display:flex;"><span>A message
+</span></span><span style="display:flex;"><span>broken across lines,
+</span></span><span style="display:flex;"><span>    and indented
+</span></span></code></pre></div>    </div>
+</div>
+<p>We can also represent Unicode characters (most of which aren&rsquo;t on a normal keyboard) using special character combinations of the form <code>\uXXXX</code>, where the Xs are combinations referenced by the 
+<a href="https://unicode-table.com/en/" target="_blank">
+   Unicode table
+</a>. This allows us to use character sets other than the basic Latin characters that English is based on, such as Greek, Cyrillic, and Arabic, as well as a wider array of symbols.</p>
+
+<div class="box notices cstyle blue">
+    <div class="box-label"><i class="fa-fw fas fa-rocket"></i> Example</div>
+    <div class="box-content">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;The interrobang character, \u203d, combines ? and !&#34;</span>);
+</span></span></code></pre></div><p><strong>Console Output</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-console" data-lang="console"><span style="display:flex;"><span>The interrobang character, ‽, combines ? and !
+</span></span></code></pre></div>    </div>
+</div>
+<p>We can also use the backslash, <code>\</code>, to include quotes within a string. This
+is known as <strong>escaping</strong> a character.</p>
+
+<div class="box notices cstyle blue">
+    <div class="box-label"><i class="fa-fw fas fa-rocket"></i> Example</div>
+    <div class="box-content">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;\&#34;The dog&#39;s favorite toy is a stuffed hedgehog,\&#34; said Chris&#34;</span>);
+</span></span></code></pre></div><p><strong>Console Output</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-console" data-lang="console"><span style="display:flex;"><span>&#34;The dog&#39;s favorite toy is a stuffed hedgehog,&#34; said Chris
+</span></span></code></pre></div>    </div>
+</div>
+<h2 id="check-your-understanding">Check Your Understanding</h2>
+
+<div class="box notices cstyle green">
+    <div class="box-label"><i class="fa-fw fas fa-rocket"></i> Question</div>
+    <div class="box-content">
+<p>Which of the options below prints <code>'Launch'</code> and <code>'Code'</code> on separate
+lines?</p>
+<ol>
+<li><code>console.log('Launch\nCode');</code></li>
+<li><code>console.log('Launch/nCode');</code></li>
+<li><code>console.log('Launch', 'Code');</code></li>
+<li><code>console.log('Launch\tCode');</code></li>
+<li><code>console.log('Launch/tCode');</code></li>
+</ol>
+<!-- raw HTML omitted -->
+    </div>
+</div>
+
+            <footer class="footline">
+            </footer>
+          </article>
+        </div>
+      </main>
+    </div>
+    <aside id="sidebar" class="default-animation" dir="ltr">
+      <div id="header-wrapper" class="default-animation">
+        <div id="header" class="default-animation">
+<a href="http://localhost:1313/"><img src="http://localhost:1313/images/LaunchCode_white.png" alt="LaunchCode" /></a>
+
+
+        </div>
+        <div class="searchbox default-animation">
+          <i class="fas fa-search" title="Search (CTRL+ALT+f)"></i>
+          <label class="a11y-only" for="search-by">Search</label>
+          <input data-search-input id="search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+          <span data-search-clear=""><i class="fas fa-times"></i></span>
+        </div>
+        <script>
+          var contentLangs=['en'];
+        </script>
+        <script src="http://localhost:1313/js/auto-complete.js?1725033066" defer></script>
+        <script src="http://localhost:1313/js/lunr.min.js?1725033066" defer></script>
+        <script src="http://localhost:1313/js/lunr.stemmer.support.min.js?1725033066" defer></script>
+        <script src="http://localhost:1313/js/lunr.multi.min.js?1725033066" defer></script>
+        <script src="http://localhost:1313/js/lunr.en.min.js?1725033066" defer></script>
+        <script src="http://localhost:1313/js/search.js?1725033066" defer></script>
+      </div>
+      <div id="homelinks" class="default-animation">
+        <ul>
+          <li>
+              <a class="padding" href="http://localhost:1313/index.html"><i class="fas fa-home"></i> Home</a>
+          </li>
+        </ul>
+      </div>
+      <div id="content-wrapper" class="highlightable">
+        <ul class="topics">
+          <li data-nav-id="/introduction/index.html" class="dd-item"><a href="http://localhost:1313/introduction/index.html">Chapter 1: Introduction</a><ul id="subsections-f5db5b284a3d023503978d00824e9c16">
+          <li data-nav-id="/introduction/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/introduction/reading/index.html">Reading</a><ul id="subsections-2d7700df6ed9988b077e12ee5aa5516f">
+          <li data-nav-id="/introduction/reading/why-learn-code/index.html" class="dd-item"><a href="http://localhost:1313/introduction/reading/why-learn-code/index.html">Why Learn to Code?</a></li>
+          <li data-nav-id="/introduction/reading/why-learn-javascript/index.html" class="dd-item"><a href="http://localhost:1313/introduction/reading/why-learn-javascript/index.html">Why Learn JavaScript?</a></li>
+          <li data-nav-id="/introduction/reading/about-launchcode-programs/index.html" class="dd-item"><a href="http://localhost:1313/introduction/reading/about-launchcode-programs/index.html">About LaunchCode Programs</a></li>
+          <li data-nav-id="/introduction/reading/blended-learning/index.html" class="dd-item"><a href="http://localhost:1313/introduction/reading/blended-learning/index.html">Blended Learning</a></li>
+          <li data-nav-id="/introduction/reading/class-platforms/index.html" class="dd-item"><a href="http://localhost:1313/introduction/reading/class-platforms/index.html">Class Platforms</a></li>
+          <li data-nav-id="/introduction/reading/using-this-book/index.html" class="dd-item"><a href="http://localhost:1313/introduction/reading/using-this-book/index.html">Using This Book</a></li>
+          <li data-nav-id="/introduction/reading/technologies-in-course/index.html" class="dd-item"><a href="http://localhost:1313/introduction/reading/technologies-in-course/index.html">Technologies in This Course</a></li></ul></li></ul></li>
+          <li data-nav-id="/how-programs-work/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/index.html">Chapter 2: How Programs Work</a><ul id="subsections-329b1caeb3291f35d6878e261c2156a9">
+          <li data-nav-id="/how-programs-work/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/how-programs-work/reading/index.html">Reading</a><ul id="subsections-8bf0c9b305d534f64a4b7dd03932a870">
+          <li data-nav-id="/how-programs-work/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/reading/introduction/index.html">Introduction</a></li>
+          <li data-nav-id="/how-programs-work/reading/programming-languages/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/reading/programming-languages/index.html">Programming Languages</a></li>
+          <li data-nav-id="/how-programs-work/reading/the-js-language/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/reading/the-js-language/index.html">The JavaScript Language</a></li>
+          <li data-nav-id="/how-programs-work/reading/installs-and-setups/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/reading/installs-and-setups/index.html">Setting Up Your Coding Tools</a></li>
+          <li data-nav-id="/how-programs-work/reading/your-first-program/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/reading/your-first-program/index.html">Your First Program</a></li>
+          <li data-nav-id="/how-programs-work/reading/workflow-recap/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/reading/workflow-recap/index.html">Workflow Recap</a></li></ul></li>
+          <li data-nav-id="/how-programs-work/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/how-programs-work/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/how-to-write-code/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/index.html">Chapter 3: How to Write Code</a><ul id="subsections-63feecd4a621e77414513b902eb9201d">
+          <li data-nav-id="/how-to-write-code/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/how-to-write-code/reading/index.html">Reading</a><ul id="subsections-975db1f1a7da5ea03b15269b43747e8e">
+          <li data-nav-id="/how-to-write-code/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/reading/introduction/index.html">What is Code?</a></li>
+          <li data-nav-id="/how-to-write-code/reading/syntax-rules/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/reading/syntax-rules/index.html">Syntax Rules</a></li>
+          <li data-nav-id="/how-to-write-code/reading/javascript-projects-repo/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/reading/javascript-projects-repo/index.html">JavaScript Projects Repository</a></li>
+          <li data-nav-id="/how-to-write-code/reading/comments/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/reading/comments/index.html">Comments</a></li>
+          <li data-nav-id="/how-to-write-code/reading/output/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/reading/output/index.html">Output with console.log</a></li>
+          <li data-nav-id="/how-to-write-code/reading/debugging/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/reading/debugging/index.html">Fixing Errors in Your Code</a></li></ul></li>
+          <li data-nav-id="/how-to-write-code/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/how-to-write-code/next-steps/index.html">Welcome, Novice Coder</a></li></ul></li>
+          <li data-nav-id="/data-and-variables/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/index.html">Chapter 4: Data and Variables</a><ul id="subsections-372d732e7ce463240e6f0e22045e6893">
+          <li data-nav-id="/data-and-variables/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/data-and-variables/reading/index.html">Reading</a><ul id="subsections-0cdf144e92b0876c8000ca5f4e905d51">
+          <li data-nav-id="/data-and-variables/reading/values-and-data-types/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/values-and-data-types/index.html">Values and Data Types</a></li>
+          <li data-nav-id="/data-and-variables/reading/type-conversion/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/type-conversion/index.html">Type Conversion</a></li>
+          <li data-nav-id="/data-and-variables/reading/variables/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/variables/index.html">Variables</a></li>
+          <li data-nav-id="/data-and-variables/reading/more-on-variables/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/more-on-variables/index.html">More on Variables</a></li>
+          <li data-nav-id="/data-and-variables/reading/expressions-and-evaluation/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/expressions-and-evaluation/index.html">Expressions and Evaluation</a></li>
+          <li data-nav-id="/data-and-variables/reading/operations/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/operations/index.html">Operations</a></li>
+          <li data-nav-id="/data-and-variables/reading/other-operators/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/other-operators/index.html">Other Operators</a></li>
+          <li data-nav-id="/data-and-variables/reading/input-readline-sync/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/reading/input-readline-sync/index.html">Input with readline-sync</a></li></ul></li>
+          <li data-nav-id="/data-and-variables/exercises/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/exercises/index.html">Exercises: Data and Variables</a></li>
+          <li data-nav-id="/data-and-variables/studio/index.html" class="dd-item"><a href="http://localhost:1313/data-and-variables/studio/index.html">Studio: Goal Setting and Getting into the Right Mindset</a></li></ul></li>
+          <li data-nav-id="/decisions-with-conditionals/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/index.html">Chapter 5: Making Decisions with Conditionals</a><ul id="subsections-81fafada1e098c88fa536b66fe8ce7c7">
+          <li data-nav-id="/decisions-with-conditionals/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/decisions-with-conditionals/reading/index.html">Reading</a><ul id="subsections-58697150eea77a6883406ac51995c4de">
+          <li data-nav-id="/decisions-with-conditionals/reading/booleans/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/reading/booleans/index.html">Booleans</a></li>
+          <li data-nav-id="/decisions-with-conditionals/reading/equality/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/reading/equality/index.html">Equality</a></li>
+          <li data-nav-id="/decisions-with-conditionals/reading/logical-operators/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/reading/logical-operators/index.html">Logical Operators</a></li>
+          <li data-nav-id="/decisions-with-conditionals/reading/conditionals/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/reading/conditionals/index.html">Conditionals</a></li>
+          <li data-nav-id="/decisions-with-conditionals/reading/nested-conditionals/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/reading/nested-conditionals/index.html">Nested Conditionals</a></li></ul></li>
+          <li data-nav-id="/decisions-with-conditionals/exercises/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/exercises/index.html">Exercises: Booleans and Conditionals</a></li>
+          <li data-nav-id="/decisions-with-conditionals/studio/index.html" class="dd-item"><a href="http://localhost:1313/decisions-with-conditionals/studio/index.html">Studio: Shuttle Launch</a></li></ul></li>
+          <li data-nav-id="/errors-and-debugging/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/index.html">Chapter 6: Errors and Debugging</a><ul id="subsections-b3d986c5b92fd18d21677ea2d6f42978">
+          <li data-nav-id="/errors-and-debugging/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/errors-and-debugging/reading/index.html">Reading</a><ul id="subsections-aadb2faacd74ade30458b6e4801b3624">
+          <li data-nav-id="/errors-and-debugging/reading/what-is-debugging/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/reading/what-is-debugging/index.html">What is Debugging?</a></li>
+          <li data-nav-id="/errors-and-debugging/reading/categories-of-errors/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/reading/categories-of-errors/index.html">Categories of Errors</a></li>
+          <li data-nav-id="/errors-and-debugging/reading/diagnosing-error-messages/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/reading/diagnosing-error-messages/index.html">Diagnosing Error Messages</a></li>
+          <li data-nav-id="/errors-and-debugging/reading/error-types/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/reading/error-types/index.html">Error Types</a></li>
+          <li data-nav-id="/errors-and-debugging/reading/debugging-logic-errors/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/reading/debugging-logic-errors/index.html">Debugging Logic Errors</a></li>
+          <li data-nav-id="/errors-and-debugging/reading/how-to-avoid-debugging/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/reading/how-to-avoid-debugging/index.html">How to Avoid Debugging</a></li>
+          <li data-nav-id="/errors-and-debugging/reading/asking-good-questions/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/reading/asking-good-questions/index.html">Asking Good Questions</a></li></ul></li>
+          <li data-nav-id="/errors-and-debugging/exercises/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/exercises/index.html">Exercises: Debugging</a></li>
+          <li data-nav-id="/errors-and-debugging/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/errors-and-debugging/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/stringing-characters-together/index.html" class="dd-item parent"><a href="http://localhost:1313/stringing-characters-together/index.html">Chapter 7: Stringing Characters Together</a><ul id="subsections-926151771b2cca5649503665f75d042d">
+          <li data-nav-id="/stringing-characters-together/reading/index.html" class="dd-item parent alwaysopen"><a href="http://localhost:1313/stringing-characters-together/reading/index.html">Reading</a><ul id="subsections-9109951bfe2104d33d9015e842897f0f">
+          <li data-nav-id="/stringing-characters-together/reading/strings-as-collections/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/reading/strings-as-collections/index.html">Strings as Collections</a></li>
+          <li data-nav-id="/stringing-characters-together/reading/bracket-notation/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/reading/bracket-notation/index.html">Bracket Notation</a></li>
+          <li data-nav-id="/stringing-characters-together/reading/string-objects/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/reading/string-objects/index.html">Strings as Objects</a></li>
+          <li data-nav-id="/stringing-characters-together/reading/string-immutability/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/reading/string-immutability/index.html">String Immutability</a></li>
+          <li data-nav-id="/stringing-characters-together/reading/string-methods/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/reading/string-methods/index.html">String Methods</a></li>
+          <li data-nav-id="/stringing-characters-together/reading/encoding-characters/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/reading/encoding-characters/index.html">Encoding Characters</a></li>
+          <li data-nav-id="/stringing-characters-together/reading/special-characters/index.html" class="dd-item active"><a href="http://localhost:1313/stringing-characters-together/reading/special-characters/index.html">Special Characters</a></li>
+          <li data-nav-id="/stringing-characters-together/reading/template-literals/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/reading/template-literals/index.html">Template Literals</a></li></ul></li>
+          <li data-nav-id="/stringing-characters-together/exercises/index.html" class="dd-item"><a href="http://localhost:1313/stringing-characters-together/exercises/index.html">Exercises: Strings</a></li></ul></li>
+          <li data-nav-id="/arrays/index.html" class="dd-item"><a href="http://localhost:1313/arrays/index.html">Chapter 8: Arrays Keep Things in Order</a><ul id="subsections-cbd7838ffd1995a1223512757fd30d0c">
+          <li data-nav-id="/arrays/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/arrays/reading/index.html">Reading</a><ul id="subsections-1d9f78bb70cebcdc104519b0a5b9808d">
+          <li data-nav-id="/arrays/reading/arrays-like-strings/index.html" class="dd-item"><a href="http://localhost:1313/arrays/reading/arrays-like-strings/index.html">Arrays Are Like Strings</a></li>
+          <li data-nav-id="/arrays/reading/working-with-arrays/index.html" class="dd-item"><a href="http://localhost:1313/arrays/reading/working-with-arrays/index.html">Working With Arrays</a></li>
+          <li data-nav-id="/arrays/reading/array-methods/index.html" class="dd-item"><a href="http://localhost:1313/arrays/reading/array-methods/index.html">Array Methods</a></li>
+          <li data-nav-id="/arrays/reading/multi-dimensional-arrays/index.html" class="dd-item"><a href="http://localhost:1313/arrays/reading/multi-dimensional-arrays/index.html">Multi-Dimensional Arrays</a></li></ul></li>
+          <li data-nav-id="/arrays/exercises/index.html" class="dd-item"><a href="http://localhost:1313/arrays/exercises/index.html">Exercises: Arrays</a></li>
+          <li data-nav-id="/arrays/studio/index.html" class="dd-item"><a href="http://localhost:1313/arrays/studio/index.html">Studio: Strings and Arrays</a></li></ul></li>
+          <li data-nav-id="/loops/index.html" class="dd-item"><a href="http://localhost:1313/loops/index.html">Chapter 9: Repeating with Loops</a><ul id="subsections-c6712029e477c47559ad947821e3999f">
+          <li data-nav-id="/loops/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/loops/reading/index.html">Reading</a><ul id="subsections-6ff4189569206ec74b305bcf562c05ce">
+          <li data-nav-id="/loops/reading/iteration/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/iteration/index.html">Iteration</a></li>
+          <li data-nav-id="/loops/reading/for-loops/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/for-loops/index.html">for Loops</a></li>
+          <li data-nav-id="/loops/reading/iterating-over-collections/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/iterating-over-collections/index.html">Iterating Over Collections</a></li>
+          <li data-nav-id="/loops/reading/for-statement-breakdown/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/for-statement-breakdown/index.html">Breaking Down the for Statement</a></li>
+          <li data-nav-id="/loops/reading/accumulator-pattern/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/accumulator-pattern/index.html">The Accumulator Pattern</a></li>
+          <li data-nav-id="/loops/reading/while-loops/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/while-loops/index.html">while Loops</a></li>
+          <li data-nav-id="/loops/reading/terminating-loops/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/terminating-loops/index.html">Terminating a Loop with break</a></li>
+          <li data-nav-id="/loops/reading/choosing-loops/index.html" class="dd-item"><a href="http://localhost:1313/loops/reading/choosing-loops/index.html">Choosing Which Loop to Use</a></li></ul></li>
+          <li data-nav-id="/loops/exercises/index.html" class="dd-item"><a href="http://localhost:1313/loops/exercises/index.html">Exercises: Loops</a></li>
+          <li data-nav-id="/loops/studio/index.html" class="dd-item"><a href="http://localhost:1313/loops/studio/index.html">Studio: Loops</a></li>
+          <li data-nav-id="/loops/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/loops/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/functions/index.html" class="dd-item"><a href="http://localhost:1313/functions/index.html">Chapter 10: Functions Are at Your Beck and Call</a><ul id="subsections-3e0e267a34040e215557c0736859a7b3">
+          <li data-nav-id="/functions/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/functions/reading/index.html">Reading</a><ul id="subsections-2c538ac2b0c132909ab521c08f1b2430">
+          <li data-nav-id="/functions/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/introduction/index.html">Introduction</a></li>
+          <li data-nav-id="/functions/reading/using-functions/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/using-functions/index.html">Using Functions</a></li>
+          <li data-nav-id="/functions/reading/creating-functions/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/creating-functions/index.html">Creating Functions</a></li>
+          <li data-nav-id="/functions/reading/input-output/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/input-output/index.html">Function Input and Output</a></li>
+          <li data-nav-id="/functions/reading/function-writing/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/function-writing/index.html">A Good Function-Writing Process</a></li>
+          <li data-nav-id="/functions/reading/parameter-variables/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/parameter-variables/index.html">Parameters and Variables</a></li>
+          <li data-nav-id="/functions/reading/naming-functions/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/naming-functions/index.html">Naming Functions</a></li>
+          <li data-nav-id="/functions/reading/composing-functions/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/composing-functions/index.html">Composing Functions</a></li>
+          <li data-nav-id="/functions/reading/why-create-functions/index.html" class="dd-item"><a href="http://localhost:1313/functions/reading/why-create-functions/index.html">Why Create Functions?</a></li></ul></li>
+          <li data-nav-id="/functions/exercises/index.html" class="dd-item"><a href="http://localhost:1313/functions/exercises/index.html">Exercises: Functions</a></li>
+          <li data-nav-id="/functions/studio/index.html" class="dd-item"><a href="http://localhost:1313/functions/studio/index.html">Studio: Functions</a></li></ul></li>
+          <li data-nav-id="/more-on-functions/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/index.html">Chapter 11: More on Functions</a><ul id="subsections-242a848ccd2f0c4f589ab98e9ee0ea6e">
+          <li data-nav-id="/more-on-functions/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/more-on-functions/reading/index.html">Reading</a><ul id="subsections-119bea122b0e3632848245a82b857d8b">
+          <li data-nav-id="/more-on-functions/reading/functions-as-values/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/functions-as-values/index.html">Functions as Objects</a></li>
+          <li data-nav-id="/more-on-functions/reading/anonymous-functions/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/anonymous-functions/index.html">Anonymous Functions</a></li>
+          <li data-nav-id="/more-on-functions/reading/pass-function-as-arguments/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/pass-function-as-arguments/index.html">Passing Functions as Arguments</a></li>
+          <li data-nav-id="/more-on-functions/reading/receive-function-as-arguments/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/receive-function-as-arguments/index.html">Receiving Functions as Arguments</a></li>
+          <li data-nav-id="/more-on-functions/reading/why-anonymous-functions/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/why-anonymous-functions/index.html">Why Use Anonymous Functions?</a></li>
+          <li data-nav-id="/more-on-functions/reading/recursion/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/recursion/index.html">Recursion</a></li>
+          <li data-nav-id="/more-on-functions/reading/walkthrough-recursion/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/walkthrough-recursion/index.html">Recursion Walkthrough: The Base Case</a></li>
+          <li data-nav-id="/more-on-functions/reading/making-function-call-itself/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/making-function-call-itself/index.html">Making a Function Call Itself</a></li>
+          <li data-nav-id="/more-on-functions/reading/recursion-wrap-up/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/reading/recursion-wrap-up/index.html">Recursion Wrap-Up</a></li></ul></li>
+          <li data-nav-id="/more-on-functions/exercises/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/exercises/index.html">Exercises: More on Functions</a></li>
+          <li data-nav-id="/more-on-functions/studio/index.html" class="dd-item"><a href="http://localhost:1313/more-on-functions/studio/index.html">Studio: More Functions</a></li></ul></li>
+          <li data-nav-id="/objects-and-math/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/index.html">Chapter 12: Objects and the Math Object</a><ul id="subsections-03e61cef092428828d7a018320d12e5d">
+          <li data-nav-id="/objects-and-math/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/objects-and-math/reading/index.html">Reading</a><ul id="subsections-ac6d60209c944daf5a75247083f404f4">
+          <li data-nav-id="/objects-and-math/reading/background/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/reading/background/index.html">Objects and Why They Matter</a></li>
+          <li data-nav-id="/objects-and-math/reading/modifying-objects/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/reading/modifying-objects/index.html">Working with Objects</a></li>
+          <li data-nav-id="/objects-and-math/reading/coding-with-objects/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/reading/coding-with-objects/index.html">Coding with Objects</a></li>
+          <li data-nav-id="/objects-and-math/reading/math-object/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/reading/math-object/index.html">The Math Object</a></li>
+          <li data-nav-id="/objects-and-math/reading/math-methods/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/reading/math-methods/index.html">Math Methods</a></li>
+          <li data-nav-id="/objects-and-math/reading/math-applications/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/reading/math-applications/index.html">Combining Math Methods</a></li></ul></li>
+          <li data-nav-id="/objects-and-math/exercises/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/exercises/index.html">Exercises: Objects and Math</a></li>
+          <li data-nav-id="/objects-and-math/studio/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/studio/index.html">Studio: Objects and Math</a></li>
+          <li data-nav-id="/objects-and-math/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/objects-and-math/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/modules/index.html" class="dd-item"><a href="http://localhost:1313/modules/index.html">Chapter 13: Modules</a><ul id="subsections-3c468c55f4a0234462768c79c3f0fbe3">
+          <li data-nav-id="/modules/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/modules/reading/index.html">Reading</a><ul id="subsections-943fd6b2bb3595c52ae23d4533305058">
+          <li data-nav-id="/modules/reading/what-are-modules/index.html" class="dd-item"><a href="http://localhost:1313/modules/reading/what-are-modules/index.html">What are Modules</a></li>
+          <li data-nav-id="/modules/reading/require-modules/index.html" class="dd-item"><a href="http://localhost:1313/modules/reading/require-modules/index.html">Require Modules</a></li>
+          <li data-nav-id="/modules/reading/npm/index.html" class="dd-item"><a href="http://localhost:1313/modules/reading/npm/index.html">NPM</a></li>
+          <li data-nav-id="/modules/reading/exporting-modules/index.html" class="dd-item"><a href="http://localhost:1313/modules/reading/exporting-modules/index.html">Exporting Modules</a></li></ul></li>
+          <li data-nav-id="/modules/exercises/index.html" class="dd-item"><a href="http://localhost:1313/modules/exercises/index.html">Exercises: Modules</a></li>
+          <li data-nav-id="/modules/studio/index.html" class="dd-item"><a href="http://localhost:1313/modules/studio/index.html">Studio: Boosting Confidence</a></li>
+          <li data-nav-id="/modules/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/modules/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/unit-testing/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/index.html">Chapter 14: Unit Testing</a><ul id="subsections-3bc848ae4ad1b63821b742e20049724d">
+          <li data-nav-id="/unit-testing/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/unit-testing/reading/index.html">Reading</a><ul id="subsections-33c30be509a93475c0cfd6456fd11949">
+          <li data-nav-id="/unit-testing/reading/why-test/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/reading/why-test/index.html">Why Test Your Code?</a></li>
+          <li data-nav-id="/unit-testing/reading/hello-jest/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/reading/hello-jest/index.html">Hello, Jest!</a></li>
+          <li data-nav-id="/unit-testing/reading/unit-testing-in-action/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/reading/unit-testing-in-action/index.html">Unit Testing in Action</a></li>
+          <li data-nav-id="/unit-testing/reading/tdd/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/reading/tdd/index.html">Test-Driven Development</a></li>
+          <li data-nav-id="/unit-testing/reading/tdd-in-action/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/reading/tdd-in-action/index.html">TDD in Action</a></li></ul></li>
+          <li data-nav-id="/unit-testing/exercises/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/exercises/index.html">Exercises: Unit Testing</a></li>
+          <li data-nav-id="/unit-testing/studio/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/studio/index.html">Studio: Unit Testing</a></li>
+          <li data-nav-id="/unit-testing/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/unit-testing/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/scope/index.html" class="dd-item"><a href="http://localhost:1313/scope/index.html">Chapter 15: Scope</a><ul id="subsections-59d583c3f361735a2633a22182c5a515">
+          <li data-nav-id="/scope/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/scope/reading/index.html">Reading</a><ul id="subsections-cdbd86d4ac463c623a1b36cecf2df49b">
+          <li data-nav-id="/scope/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/scope/reading/introduction/index.html">Introduction</a></li>
+          <li data-nav-id="/scope/reading/using-scope/index.html" class="dd-item"><a href="http://localhost:1313/scope/reading/using-scope/index.html">Using Scope</a></li></ul></li>
+          <li data-nav-id="/scope/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/scope/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/more-on-types/index.html" class="dd-item"><a href="http://localhost:1313/more-on-types/index.html">Chapter 16: More on Types</a><ul id="subsections-73956e6d592c5484062393aeed58d352">
+          <li data-nav-id="/more-on-types/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/more-on-types/reading/index.html">Reading</a><ul id="subsections-82f8a7cd0fd31207ca45d260d6fa81aa">
+          <li data-nav-id="/more-on-types/reading/specialty-types/index.html" class="dd-item"><a href="http://localhost:1313/more-on-types/reading/specialty-types/index.html">Primitive Data Types</a></li></ul></li>
+          <li data-nav-id="/more-on-types/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/more-on-types/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/exceptions/index.html" class="dd-item"><a href="http://localhost:1313/exceptions/index.html">Chapter 17: Exceptions</a><ul id="subsections-8eec131254d454a0b50c147e55396a4d">
+          <li data-nav-id="/exceptions/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/exceptions/reading/index.html">Reading</a><ul id="subsections-1e6043265d0493fde6c17672620c53fa">
+          <li data-nav-id="/exceptions/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/exceptions/reading/introduction/index.html">Introduction</a></li>
+          <li data-nav-id="/exceptions/reading/throw/index.html" class="dd-item"><a href="http://localhost:1313/exceptions/reading/throw/index.html">Throw</a></li>
+          <li data-nav-id="/exceptions/reading/exceptions-control-flow/index.html" class="dd-item"><a href="http://localhost:1313/exceptions/reading/exceptions-control-flow/index.html">Exceptions as Control Flow</a></li></ul></li>
+          <li data-nav-id="/exceptions/exercises/index.html" class="dd-item"><a href="http://localhost:1313/exceptions/exercises/index.html">Exercises: Exceptions</a></li>
+          <li data-nav-id="/exceptions/studio/index.html" class="dd-item"><a href="http://localhost:1313/exceptions/studio/index.html">Studio: Strategic Debugging</a></li>
+          <li data-nav-id="/exceptions/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/exceptions/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/classes/index.html" class="dd-item"><a href="http://localhost:1313/classes/index.html">Chapter 18: Classes</a><ul id="subsections-0b0cacde8a4e9970b227851692cc4392">
+          <li data-nav-id="/classes/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/classes/reading/index.html">Reading</a><ul id="subsections-5351516f5c13b92664ea994855398098">
+          <li data-nav-id="/classes/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/classes/reading/introduction/index.html">What are Classes?</a></li>
+          <li data-nav-id="/classes/reading/declaring-a-class/index.html" class="dd-item"><a href="http://localhost:1313/classes/reading/declaring-a-class/index.html">Declaring and Calling a Class</a></li>
+          <li data-nav-id="/classes/reading/class-methods/index.html" class="dd-item"><a href="http://localhost:1313/classes/reading/class-methods/index.html">Assigning Class Methods</a></li>
+          <li data-nav-id="/classes/reading/inheritance/index.html" class="dd-item"><a href="http://localhost:1313/classes/reading/inheritance/index.html">Inheritance</a></li></ul></li>
+          <li data-nav-id="/classes/exercises/index.html" class="dd-item"><a href="http://localhost:1313/classes/exercises/index.html">Exercises: Classes</a></li>
+          <li data-nav-id="/classes/studio/index.html" class="dd-item"><a href="http://localhost:1313/classes/studio/index.html">Studio: Classes</a></li>
+          <li data-nav-id="/classes/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/classes/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/terminal/index.html" class="dd-item"><a href="http://localhost:1313/terminal/index.html">Chapter 19: Terminal</a><ul id="subsections-487e4f01eb2fcd73ad92a1f1221e4869">
+          <li data-nav-id="/terminal/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/terminal/reading/index.html">Reading</a><ul id="subsections-3c4133d4495c2cd6e300dde6477267aa">
+          <li data-nav-id="/terminal/reading/what-is-a-terminal/index.html" class="dd-item"><a href="http://localhost:1313/terminal/reading/what-is-a-terminal/index.html">What is a terminal anyways?</a></li>
+          <li data-nav-id="/terminal/reading/filesystems-paths/index.html" class="dd-item"><a href="http://localhost:1313/terminal/reading/filesystems-paths/index.html">Filesystem and Paths</a></li>
+          <li data-nav-id="/terminal/reading/how-to-do-stuff/index.html" class="dd-item"><a href="http://localhost:1313/terminal/reading/how-to-do-stuff/index.html">How to Do Stuff in the Terminal</a></li>
+          <li data-nav-id="/terminal/reading/running-programs/index.html" class="dd-item"><a href="http://localhost:1313/terminal/reading/running-programs/index.html">Running Programs in the Terminal</a></li></ul></li>
+          <li data-nav-id="/terminal/exercises/index.html" class="dd-item"><a href="http://localhost:1313/terminal/exercises/index.html">Exercises</a></li>
+          <li data-nav-id="/terminal/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/terminal/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/html/index.html" class="dd-item"><a href="http://localhost:1313/html/index.html">Chapter 20: We Built the Internet on HTML</a><ul id="subsections-4c16dc6a20066dfdba219b4250334b8f">
+          <li data-nav-id="/html/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/html/reading/index.html">Reading</a><ul id="subsections-b26440a014442d1d2ddccdbc5fbc37ca">
+          <li data-nav-id="/html/reading/background/index.html" class="dd-item"><a href="http://localhost:1313/html/reading/background/index.html">Background</a></li>
+          <li data-nav-id="/html/reading/structure/index.html" class="dd-item"><a href="http://localhost:1313/html/reading/structure/index.html">HTML Structure</a></li>
+          <li data-nav-id="/html/reading/tags/index.html" class="dd-item"><a href="http://localhost:1313/html/reading/tags/index.html">HTML Tags</a></li></ul></li>
+          <li data-nav-id="/html/exercises/index.html" class="dd-item"><a href="http://localhost:1313/html/exercises/index.html">Exercises: HTML</a></li>
+          <li data-nav-id="/html/studio/index.html" class="dd-item"><a href="http://localhost:1313/html/studio/index.html">Studio: Making Headlines</a></li>
+          <li data-nav-id="/html/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/html/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/styling-css/index.html" class="dd-item"><a href="http://localhost:1313/styling-css/index.html">Chapter 21: Styling the Web With CSS</a><ul id="subsections-fd6b110c9bd567e64ab6d54af68a2324">
+          <li data-nav-id="/styling-css/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/styling-css/reading/index.html">Reading</a><ul id="subsections-4facee90b1f078a250af61271cc433fc">
+          <li data-nav-id="/styling-css/reading/what-is-css/index.html" class="dd-item"><a href="http://localhost:1313/styling-css/reading/what-is-css/index.html">What is CSS?</a></li>
+          <li data-nav-id="/styling-css/reading/css-structure/index.html" class="dd-item"><a href="http://localhost:1313/styling-css/reading/css-structure/index.html">CSS Structure</a></li>
+          <li data-nav-id="/styling-css/reading/rules-css/index.html" class="dd-item"><a href="http://localhost:1313/styling-css/reading/rules-css/index.html">CSS Rules</a></li></ul></li>
+          <li data-nav-id="/styling-css/exercises/index.html" class="dd-item"><a href="http://localhost:1313/styling-css/exercises/index.html">Exercises: CSS</a></li>
+          <li data-nav-id="/styling-css/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/styling-css/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/git/index.html" class="dd-item"><a href="http://localhost:1313/git/index.html">Chapter 22: Git More Collaboration</a><ul id="subsections-b7b75b08ea746eeb407fc7d37ea4cda5">
+          <li data-nav-id="/git/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/git/reading/index.html">Reading</a><ul id="subsections-91b8abe430e4759223b486f9d53f994d">
+          <li data-nav-id="/git/reading/background/index.html" class="dd-item"><a href="http://localhost:1313/git/reading/background/index.html">What is Git?</a></li>
+          <li data-nav-id="/git/reading/repositories-and-commits/index.html" class="dd-item"><a href="http://localhost:1313/git/reading/repositories-and-commits/index.html">Repositories and Commits</a></li>
+          <li data-nav-id="/git/reading/remote-repositories/index.html" class="dd-item"><a href="http://localhost:1313/git/reading/remote-repositories/index.html">Remote Repositories</a></li>
+          <li data-nav-id="/git/reading/branches/index.html" class="dd-item"><a href="http://localhost:1313/git/reading/branches/index.html">Branches</a></li>
+          <li data-nav-id="/git/reading/merge/index.html" class="dd-item"><a href="http://localhost:1313/git/reading/merge/index.html">Merging in Git</a></li></ul></li>
+          <li data-nav-id="/git/exercises/index.html" class="dd-item"><a href="http://localhost:1313/git/exercises/index.html">Exercises: Git</a></li>
+          <li data-nav-id="/git/studio/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/git/studio/index.html">Studio: Communication Log</a><ul id="subsections-9ef6ff3233fff2c00111e182cfffca44">
+          <li data-nav-id="/git/studio/studio-part1/index.html" class="dd-item"><a href="http://localhost:1313/git/studio/studio-part1/index.html">Task 1: Getting Started</a></li>
+          <li data-nav-id="/git/studio/studio-part2/index.html" class="dd-item"><a href="http://localhost:1313/git/studio/studio-part2/index.html">Task 2: Time to Communicate!</a></li></ul></li>
+          <li data-nav-id="/git/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/git/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/dom-and-events/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/index.html">Chapter 23: The DOM and Events</a><ul id="subsections-37f6264239b2e858fe0af7c1c4f0ea49">
+          <li data-nav-id="/dom-and-events/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/dom-and-events/reading/index.html">Reading</a><ul id="subsections-c425f76ed202ca01586a43290295ce5a">
+          <li data-nav-id="/dom-and-events/reading/javascript-and-browser/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/reading/javascript-and-browser/index.html">JavaScript and the Browser</a></li>
+          <li data-nav-id="/dom-and-events/reading/the-dom/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/reading/the-dom/index.html">The Dom</a></li>
+          <li data-nav-id="/dom-and-events/reading/more-dom-methods/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/reading/more-dom-methods/index.html">More DOM Methods and Properties</a></li>
+          <li data-nav-id="/dom-and-events/reading/events/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/reading/events/index.html">Events</a></li>
+          <li data-nav-id="/dom-and-events/reading/event-listeners/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/reading/event-listeners/index.html">Event Listeners</a></li>
+          <li data-nav-id="/dom-and-events/reading/event-types/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/reading/event-types/index.html">Event Types</a></li></ul></li>
+          <li data-nav-id="/dom-and-events/exercises/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/exercises/index.html">Exercises: The DOM and Events</a></li>
+          <li data-nav-id="/dom-and-events/studio/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/studio/index.html">Studio: The DOM and Events</a></li>
+          <li data-nav-id="/dom-and-events/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/dom-and-events/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/http/index.html" class="dd-item"><a href="http://localhost:1313/http/index.html">Chapter 24: HTTP, the Postal Service of the Internet</a><ul id="subsections-716d904b431d76bb61ce30c02bb5e3cf">
+          <li data-nav-id="/http/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/http/reading/index.html">Reading</a><ul id="subsections-693c7a524ede3b024201adc4c7bd14de">
+          <li data-nav-id="/http/reading/how-the-internet-works/index.html" class="dd-item"><a href="http://localhost:1313/http/reading/how-the-internet-works/index.html">How the Internet Works</a></li>
+          <li data-nav-id="/http/reading/http-at-a-glance/index.html" class="dd-item"><a href="http://localhost:1313/http/reading/http-at-a-glance/index.html">HTTP at a Glance</a></li>
+          <li data-nav-id="/http/reading/http-requests/index.html" class="dd-item"><a href="http://localhost:1313/http/reading/http-requests/index.html">Requests</a></li>
+          <li data-nav-id="/http/reading/http-responses/index.html" class="dd-item"><a href="http://localhost:1313/http/reading/http-responses/index.html">Responses</a></li>
+          <li data-nav-id="/http/reading/http-in-the-browser/index.html" class="dd-item"><a href="http://localhost:1313/http/reading/http-in-the-browser/index.html">HTTP in the Browser</a></li></ul></li>
+          <li data-nav-id="/http/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/http/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/user-input-with-forms/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/index.html">Chapter 25: User Input with Forms</a><ul id="subsections-3cf8a7eb42da6271107e8b3896c5ea58">
+          <li data-nav-id="/user-input-with-forms/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/user-input-with-forms/reading/index.html">Reading</a><ul id="subsections-8c336195731e82b5b9b215fe97c2f9ac">
+          <li data-nav-id="/user-input-with-forms/reading/forms/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/forms/index.html">Forms</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/form-submission/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/form-submission/index.html">Form Submission</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/post-form-submission/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/post-form-submission/index.html">POST Form Submission</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/text-inputs/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/text-inputs/index.html">Text Inputs</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/specialized-text-inputs/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/specialized-text-inputs/index.html">Specialized Text Inputs</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/checkbox-input/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/checkbox-input/index.html">Checkbox Input</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/radio-input/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/radio-input/index.html">Radio Input</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/select-input/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/select-input/index.html">Select Input</a></li>
+          <li data-nav-id="/user-input-with-forms/reading/validation-with-javascript/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/reading/validation-with-javascript/index.html">Validation with JavaScript</a></li></ul></li>
+          <li data-nav-id="/user-input-with-forms/exercises/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/exercises/index.html">Exercises: Forms</a></li>
+          <li data-nav-id="/user-input-with-forms/studio/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/studio/index.html">Studio: HTTP and Forms</a></li>
+          <li data-nav-id="/user-input-with-forms/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/user-input-with-forms/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/json/index.html" class="dd-item"><a href="http://localhost:1313/json/index.html">Chapter 26: JSON</a><ul id="subsections-d9dbad4436d17b52d90ecc3907f0cb5f">
+          <li data-nav-id="/json/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/json/reading/index.html">Reading</a><ul id="subsections-d9d157f37136e87adf310eb27b039212">
+          <li data-nav-id="/json/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/json/reading/introduction/index.html">Introduction</a></li>
+          <li data-nav-id="/json/reading/data-formats-json/index.html" class="dd-item"><a href="http://localhost:1313/json/reading/data-formats-json/index.html">Data Formats and JSON</a></li></ul></li>
+          <li data-nav-id="/json/exercises/index.html" class="dd-item"><a href="http://localhost:1313/json/exercises/index.html">Exercises: JSON</a></li>
+          <li data-nav-id="/json/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/json/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/fetch/index.html" class="dd-item"><a href="http://localhost:1313/fetch/index.html">Chapter 27: Fetch</a><ul id="subsections-0d6ea9d254704bf27871d9cbfb7e3b9c">
+          <li data-nav-id="/fetch/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/fetch/reading/index.html">Reading</a><ul id="subsections-1f93832726e9d82ccb6ec70826b61cd7">
+          <li data-nav-id="/fetch/reading/fetching-data/index.html" class="dd-item"><a href="http://localhost:1313/fetch/reading/fetching-data/index.html">Fetching Data</a></li>
+          <li data-nav-id="/fetch/reading/asynch-promies/index.html" class="dd-item"><a href="http://localhost:1313/fetch/reading/asynch-promies/index.html">Asynchronous and Promises</a></li></ul></li>
+          <li data-nav-id="/fetch/exercises/index.html" class="dd-item"><a href="http://localhost:1313/fetch/exercises/index.html">Exercises: Fetch</a></li>
+          <li data-nav-id="/fetch/studio/index.html" class="dd-item"><a href="http://localhost:1313/fetch/studio/index.html">Studio: Fetch &amp; JSON</a></li>
+          <li data-nav-id="/fetch/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/fetch/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/modern-js/index.html" class="dd-item"><a href="http://localhost:1313/modern-js/index.html">Chapter 28: The Modern JavaScript Landscape</a><ul id="subsections-db32fd2df4a70b6688bc1a50c217f656">
+          <li data-nav-id="/modern-js/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/modern-js/reading/index.html">Reading</a><ul id="subsections-d872cc655bc6dda2b92aecccb3164e5d">
+          <li data-nav-id="/modern-js/reading/es6-syntax/index.html" class="dd-item"><a href="http://localhost:1313/modern-js/reading/es6-syntax/index.html">The JavaScript-y Way</a></li>
+          <li data-nav-id="/modern-js/reading/extensions/index.html" class="dd-item"><a href="http://localhost:1313/modern-js/reading/extensions/index.html">JavaScript Syntax Extensions</a></li>
+          <li data-nav-id="/modern-js/reading/supersets/index.html" class="dd-item"><a href="http://localhost:1313/modern-js/reading/supersets/index.html">Supersets</a></li>
+          <li data-nav-id="/modern-js/reading/transpilers/index.html" class="dd-item"><a href="http://localhost:1313/modern-js/reading/transpilers/index.html">Transpilation</a></li></ul></li>
+          <li data-nav-id="/modern-js/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/modern-js/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/react-lsn1/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/index.html">Chapter 29: React, Part 1</a><ul id="subsections-eca4a1893e918f1dfc722e52417b8125">
+          <li data-nav-id="/react-lsn1/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/react-lsn1/reading/index.html">Reading</a><ul id="subsections-42e8ee31c9830030f3b7e305a08046d6">
+          <li data-nav-id="/react-lsn1/reading/introduction/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/reading/introduction/index.html">Introduction</a></li>
+          <li data-nav-id="/react-lsn1/reading/components/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/reading/components/index.html">React Components</a></li>
+          <li data-nav-id="/react-lsn1/reading/setup/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/reading/setup/index.html">Create a React Application</a></li>
+          <li data-nav-id="/react-lsn1/reading/more-on-vite/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/reading/more-on-vite/index.html">More on Vite</a></li>
+          <li data-nav-id="/react-lsn1/reading/first-component/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/reading/first-component/index.html">Make a New Component</a></li></ul></li>
+          <li data-nav-id="/react-lsn1/exercises/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/exercises/index.html">Exercises: Chores vs. Hobbies</a></li>
+          <li data-nav-id="/react-lsn1/studio/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/studio/index.html">Studio: A Few of Your Favorite Recipes</a></li>
+          <li data-nav-id="/react-lsn1/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn1/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/react-part-2/index.html" class="dd-item"><a href="http://localhost:1313/react-part-2/index.html">Chapter 30: React, Part 2</a><ul id="subsections-82e8c31a484d1f450a399321e8cf757a">
+          <li data-nav-id="/react-part-2/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/react-part-2/reading/index.html">Reading</a><ul id="subsections-b16c0e0f2d2701049020daf94c24166e">
+          <li data-nav-id="/react-part-2/reading/js-in-react/index.html" class="dd-item"><a href="http://localhost:1313/react-part-2/reading/js-in-react/index.html">JavaScript in React</a></li>
+          <li data-nav-id="/react-part-2/reading/conditional-rendering/index.html" class="dd-item"><a href="http://localhost:1313/react-part-2/reading/conditional-rendering/index.html">Conditional Rendering</a></li>
+          <li data-nav-id="/react-part-2/reading/mapping/index.html" class="dd-item"><a href="http://localhost:1313/react-part-2/reading/mapping/index.html">The map( ) Function</a></li></ul></li>
+          <li data-nav-id="/react-part-2/exercises/index.html" class="dd-item"><a href="http://localhost:1313/react-part-2/exercises/index.html">Exercises</a></li>
+          <li data-nav-id="/react-part-2/studio/index.html" class="dd-item"><a href="http://localhost:1313/react-part-2/studio/index.html">Studio</a></li>
+          <li data-nav-id="/react-part-2/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/react-part-2/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/react-lsn3/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/index.html">Chapter 31: React, Part 3</a><ul id="subsections-0533ca6b961e57026a6b4dfaf2769f63">
+          <li data-nav-id="/react-lsn3/reading/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/react-lsn3/reading/index.html">Reading</a><ul id="subsections-0602a3cc662c62ad55e16e47365ebe78">
+          <li data-nav-id="/react-lsn3/reading/state-intro/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/reading/state-intro/index.html">An Introduction to State in React</a></li>
+          <li data-nav-id="/react-lsn3/reading/state-changes/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/reading/state-changes/index.html">Changes in State</a></li>
+          <li data-nav-id="/react-lsn3/reading/react-dom/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/reading/react-dom/index.html">React and the DOM</a></li>
+          <li data-nav-id="/react-lsn3/reading/form-intro/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/reading/form-intro/index.html">Introduction to React Forms</a></li></ul></li>
+          <li data-nav-id="/react-lsn3/exercises/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/exercises/index.html">Exercises</a></li>
+          <li data-nav-id="/react-lsn3/studio/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/studio/index.html">Studio</a></li>
+          <li data-nav-id="/react-lsn3/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/react-lsn3/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/booster-rockets/index.html" class="dd-item"><a href="http://localhost:1313/booster-rockets/index.html">Chapter 32: Booster Rockets</a><ul id="subsections-479971825702e15f398fda965c59d239">
+          <li data-nav-id="/booster-rockets/bestpractices/index.html" class="dd-item"><a href="http://localhost:1313/booster-rockets/bestpractices/index.html">Best Practices: Learning to Code</a></li>
+          <li data-nav-id="/booster-rockets/personaldrive/index.html" class="dd-item"><a href="http://localhost:1313/booster-rockets/personaldrive/index.html">The Power of Persistence</a></li>
+          <li data-nav-id="/booster-rockets/sportsstuff/index.html" class="dd-item"><a href="http://localhost:1313/booster-rockets/sportsstuff/index.html">Let&#39;s Play Ball</a></li>
+          <li data-nav-id="/booster-rockets/brainbreaks/index.html" class="dd-item"><a href="http://localhost:1313/booster-rockets/brainbreaks/index.html">Brain Breaks</a></li></ul></li>
+          <li data-nav-id="/assignments/index.html" class="dd-item"><a href="http://localhost:1313/assignments/index.html">Graded Assignments</a><ul id="subsections-ac1a358b456bc5017269265633799872">
+          <li data-nav-id="/assignments/github-actions/index.html" class="dd-item"><a href="http://localhost:1313/assignments/github-actions/index.html">Autograding Your Tests</a></li>
+          <li data-nav-id="/assignments/hello-world/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/assignments/hello-world/index.html">Assignment 0: Hello, World!</a><ul id="subsections-02d0ebf35b5ff3d48a26353c9b77ea46">
+          <li data-nav-id="/assignments/hello-world/project-intro/index.html" class="dd-item"><a href="http://localhost:1313/assignments/hello-world/project-intro/index.html">Task 1: Project Introduction</a></li>
+          <li data-nav-id="/assignments/hello-world/code-refactor/index.html" class="dd-item"><a href="http://localhost:1313/assignments/hello-world/code-refactor/index.html">Task 2: Hello, World!</a></li>
+          <li data-nav-id="/assignments/hello-world/test-and-commit/index.html" class="dd-item"><a href="http://localhost:1313/assignments/hello-world/test-and-commit/index.html">Task 3: Test and Commit</a></li></ul></li>
+          <li data-nav-id="/assignments/candidate-testing/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/assignments/candidate-testing/index.html">Assignment 1: Candidate Testing</a><ul id="subsections-6fc3442af7b9f1d54c3d0c4adf99f47e">
+          <li data-nav-id="/assignments/candidate-testing/intro/index.html" class="dd-item"><a href="http://localhost:1313/assignments/candidate-testing/intro/index.html">Project Introduction</a></li>
+          <li data-nav-id="/assignments/candidate-testing/task-1/index.html" class="dd-item"><a href="http://localhost:1313/assignments/candidate-testing/task-1/index.html">Task 1: Minimum Viable Quiz</a></li>
+          <li data-nav-id="/assignments/candidate-testing/task-2/index.html" class="dd-item"><a href="http://localhost:1313/assignments/candidate-testing/task-2/index.html">Task 2: Multiple Questions</a></li>
+          <li data-nav-id="/assignments/candidate-testing/task-3/index.html" class="dd-item"><a href="http://localhost:1313/assignments/candidate-testing/task-3/index.html">Task 3: Grade the Quiz</a></li></ul></li>
+          <li data-nav-id="/assignments/scrabble-scorer/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/assignments/scrabble-scorer/index.html">Assignment 2: Scrabble Scorer</a><ul id="subsections-db896b14554f40730abc921f2a807bf2">
+          <li data-nav-id="/assignments/scrabble-scorer/initial-prompt/index.html" class="dd-item"><a href="http://localhost:1313/assignments/scrabble-scorer/initial-prompt/index.html">Task 1: Initial Prompt</a></li>
+          <li data-nav-id="/assignments/scrabble-scorer/scoring-algorithms/index.html" class="dd-item"><a href="http://localhost:1313/assignments/scrabble-scorer/scoring-algorithms/index.html">Task 2: Add and Organize Scoring Algorithms</a></li>
+          <li data-nav-id="/assignments/scrabble-scorer/scoring-transform/index.html" class="dd-item"><a href="http://localhost:1313/assignments/scrabble-scorer/scoring-transform/index.html">Task 3: Transform Scrabble Scoring</a></li>
+          <li data-nav-id="/assignments/scrabble-scorer/object-transform/index.html" class="dd-item"><a href="http://localhost:1313/assignments/scrabble-scorer/object-transform/index.html">Task 4: Transform the Object</a></li>
+          <li data-nav-id="/assignments/scrabble-scorer/submitting-your-work/index.html" class="dd-item"><a href="http://localhost:1313/assignments/scrabble-scorer/submitting-your-work/index.html">Task 5: Submitting Your Work</a></li></ul></li>
+          <li data-nav-id="/assignments/mars-rover/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/assignments/mars-rover/index.html">Assignment 3: Mars Rover</a><ul id="subsections-1f1f469837280d4485d7c330ef27c674">
+          <li data-nav-id="/assignments/mars-rover/starter-code/index.html" class="dd-item"><a href="http://localhost:1313/assignments/mars-rover/starter-code/index.html">Task 1: Intro and Starter Code</a></li>
+          <li data-nav-id="/assignments/mars-rover/command-class/index.html" class="dd-item"><a href="http://localhost:1313/assignments/mars-rover/command-class/index.html">Task 2: Command Class</a></li>
+          <li data-nav-id="/assignments/mars-rover/message-class/index.html" class="dd-item"><a href="http://localhost:1313/assignments/mars-rover/message-class/index.html">Task 3: Message Class</a></li>
+          <li data-nav-id="/assignments/mars-rover/rover-class/index.html" class="dd-item"><a href="http://localhost:1313/assignments/mars-rover/rover-class/index.html">Task 4: Rover Class</a></li>
+          <li data-nav-id="/assignments/mars-rover/submitting-your-work/index.html" class="dd-item"><a href="http://localhost:1313/assignments/mars-rover/submitting-your-work/index.html">Task 5: Submitting Your Work</a></li></ul></li>
+          <li data-nav-id="/assignments/html-me-something/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/assignments/html-me-something/index.html">Assignment 4: Html Me Something</a><ul id="subsections-c45078455f7de2ceb0beed375c6a0d02">
+          <li data-nav-id="/assignments/html-me-something/project-intro/index.html" class="dd-item"><a href="http://localhost:1313/assignments/html-me-something/project-intro/index.html">Project Introduction</a></li>
+          <li data-nav-id="/assignments/html-me-something/part-1/index.html" class="dd-item"><a href="http://localhost:1313/assignments/html-me-something/part-1/index.html">Task 1: Creating Your Content</a></li>
+          <li data-nav-id="/assignments/html-me-something/part-2/index.html" class="dd-item"><a href="http://localhost:1313/assignments/html-me-something/part-2/index.html">Task 2: Styling</a></li>
+          <li data-nav-id="/assignments/html-me-something/part-3/index.html" class="dd-item"><a href="http://localhost:1313/assignments/html-me-something/part-3/index.html">Task 3: Testing and Submitting Your Project</a></li>
+          <li data-nav-id="/assignments/html-me-something/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/assignments/html-me-something/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/assignments/launch-checklist/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/assignments/launch-checklist/index.html">Assignment 5: Launch Checklist</a><ul id="subsections-6a5f15c4819eb92464e3360d66d0696c">
+          <li data-nav-id="/assignments/launch-checklist/starter-code/index.html" class="dd-item"><a href="http://localhost:1313/assignments/launch-checklist/starter-code/index.html">Task 1: Setting Up the Starter Code</a></li>
+          <li data-nav-id="/assignments/launch-checklist/validation/index.html" class="dd-item"><a href="http://localhost:1313/assignments/launch-checklist/validation/index.html">Task 2: Adding Validation</a></li>
+          <li data-nav-id="/assignments/launch-checklist/planet-fetch/index.html" class="dd-item"><a href="http://localhost:1313/assignments/launch-checklist/planet-fetch/index.html">Task 3: Fetching Planetary Data</a></li>
+          <li data-nav-id="/assignments/launch-checklist/submission/index.html" class="dd-item"><a href="http://localhost:1313/assignments/launch-checklist/submission/index.html">Task 4: Submitting Your Work</a></li></ul></li>
+          <li data-nav-id="/assignments/orbit-report/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/assignments/orbit-report/index.html">Assignment 6: Orbit Report</a><ul id="subsections-f3fbbc04b66c5e541584f9f55eca565c">
+          <li data-nav-id="/assignments/orbit-report/project-intro/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/project-intro/index.html">Project Introduction</a></li>
+          <li data-nav-id="/assignments/orbit-report/getting-started/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/getting-started/index.html">Task 1: Getting Started</a></li>
+          <li data-nav-id="/assignments/orbit-report/banner/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/banner/index.html">Task 2: Create the Banner Component</a></li>
+          <li data-nav-id="/assignments/orbit-report/update-app/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/update-app/index.html">Task 3: Update App.jsx</a></li>
+          <li data-nav-id="/assignments/orbit-report/update-buttons/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/update-buttons/index.html">Task 4: Update Buttons.jsx</a></li>
+          <li data-nav-id="/assignments/orbit-report/update-table/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/update-table/index.html">Task 5: Update Table.jsx</a></li>
+          <li data-nav-id="/assignments/orbit-report/styling/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/styling/index.html">Task 6: Optional Styling</a></li>
+          <li data-nav-id="/assignments/orbit-report/testing/index.html" class="dd-item"><a href="http://localhost:1313/assignments/orbit-report/testing/index.html">Task 7: Running the Auto-grading Tests</a></li></ul></li>
+          <li data-nav-id="/assignments/next-steps/index.html" class="dd-item"><a href="http://localhost:1313/assignments/next-steps/index.html">Next Steps</a></li></ul></li>
+          <li data-nav-id="/installations/index.html" class="dd-item"><a href="http://localhost:1313/installations/index.html">Installations</a><ul id="subsections-6088887900ccfbd71a3bddbc0bb97d6c">
+          <li data-nav-id="/installations/install-git/index.html" class="dd-item"><a href="http://localhost:1313/installations/install-git/index.html">Installing Git</a></li>
+          <li data-nav-id="/installations/install-node/index.html" class="dd-item"><a href="http://localhost:1313/installations/install-node/index.html">Installing Node</a></li>
+          <li data-nav-id="/installations/install-visual-studio/index.html" class="dd-item"><a href="http://localhost:1313/installations/install-visual-studio/index.html">Visual Studio Code Installation</a></li>
+          <li data-nav-id="/installations/terminal-setup/index.html" class="dd-item"><a href="http://localhost:1313/installations/terminal-setup/index.html">Terminal Setup</a></li></ul></li>
+          <li data-nav-id="/appendices/index.html" class="dd-item"><a href="http://localhost:1313/appendices/index.html">Appendices</a><ul id="subsections-b483d80bdb9b2ad6e87ce036148cc8e4">
+          <li data-nav-id="/appendices/array-method-examples/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/appendices/array-method-examples/index.html">Array Method Examples</a><ul id="subsections-6550c4a9a4455e588eeed3380982a33e">
+          <li data-nav-id="/appendices/array-method-examples/concat-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/concat-examples/index.html">concat Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/includes-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/includes-examples/index.html">includes Example</a></li>
+          <li data-nav-id="/appendices/array-method-examples/indexof-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/indexof-examples/index.html">indexOf Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/join-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/join-examples/index.html">join Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/push-pop-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/push-pop-examples/index.html">push and pop Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/reverse-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/reverse-examples/index.html">reverse Example</a></li>
+          <li data-nav-id="/appendices/array-method-examples/shift-unshift-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/shift-unshift-examples/index.html">shift and unshift Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/slice-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/slice-examples/index.html">slice Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/sort-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/sort-examples/index.html">sort Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/splice-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/splice-examples/index.html">splice Examples</a></li>
+          <li data-nav-id="/appendices/array-method-examples/split-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/array-method-examples/split-examples/index.html">split Examples</a></li></ul></li>
+          <li data-nav-id="/appendices/dom-method-examples/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/appendices/dom-method-examples/index.html">DOM Method Examples</a><ul id="subsections-10d78da4304becc685a380f4d24e2ef3">
+          <li data-nav-id="/appendices/dom-method-examples/confirm-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/dom-method-examples/confirm-examples/index.html">confirm Examples</a></li>
+          <li data-nav-id="/appendices/dom-method-examples/get-element-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/dom-method-examples/get-element-examples/index.html">getElementById Examples</a></li>
+          <li data-nav-id="/appendices/dom-method-examples/queryselector-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/dom-method-examples/queryselector-examples/index.html">querySelector and querySelectorAll Examples</a></li>
+          <li data-nav-id="/appendices/dom-method-examples/innerhtml-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/dom-method-examples/innerhtml-examples/index.html">innerHTML Examples</a></li>
+          <li data-nav-id="/appendices/dom-method-examples/style-property-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/dom-method-examples/style-property-examples/index.html">style property Examples</a></li></ul></li>
+          <li data-nav-id="/appendices/math-method-examples/index.html" class="dd-item alwaysopen"><a href="http://localhost:1313/appendices/math-method-examples/index.html">Math Method Examples</a><ul id="subsections-1345db2cd55b3d3996929a5276cb13ce">
+          <li data-nav-id="/appendices/math-method-examples/abs-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/math-method-examples/abs-examples/index.html">Math.abs Examples</a></li>
+          <li data-nav-id="/appendices/math-method-examples/ceilfloortrunc-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/math-method-examples/ceilfloortrunc-examples/index.html">Math.ceil, floor, and trunc Examples</a></li>
+          <li data-nav-id="/appendices/math-method-examples/max-and-min-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/math-method-examples/max-and-min-examples/index.html">Math.max and Math.min Examples</a></li>
+          <li data-nav-id="/appendices/math-method-examples/pow-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/math-method-examples/pow-examples/index.html">Math.pow and Math.sqrt Examples</a></li>
+          <li data-nav-id="/appendices/math-method-examples/random-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/math-method-examples/random-examples/index.html">Math.random Examples</a></li>
+          <li data-nav-id="/appendices/math-method-examples/round-examples/index.html" class="dd-item"><a href="http://localhost:1313/appendices/math-method-examples/round-examples/index.html">Math.round Examples</a></li></ul></li>
+          <li data-nav-id="/appendices/terminal-commands/index.html" class="dd-item"><a href="http://localhost:1313/appendices/terminal-commands/index.html">Terminal Commands Tutorial</a></li></ul></li>
+        </ul>
+        <div class="footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showFooter"></div>
+        <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showFooter">
+        <div id="prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVariantSwitch">
+          <ul>
+            <li id="select-language-container" class="footerLangSwitch">
+              <div class="padding select-container">
+                <i class="fas fa-language fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="select-style">
+                  <label class="a11y-only" for="select-language">Language</label>
+                  <select id="select-language" onchange="location = baseUri + this.value;">
+                    <option lang="en" id="en" value="/stringing-characters-together/reading/special-characters/index.html" selected></option>
+                  </select>
+                </div>
+                <div class="select-clear"></div>
+              </div>
+            </li>
+            <li id="select-variant-container" class="footerVariantSwitch showVariantSwitch">
+              <div class="padding select-container">
+                <i class="fas fa-paint-brush fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="select-style">
+                  <label class="a11y-only" for="select-variant">Theme</label>
+                  <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
+                    <option id="lc-light" value="lc-light" selected>Lc Light</option>
+                    <option id="lc-dark-blue" value="lc-dark-blue">Lc Dark Blue</option>
+                    <option id="lc-dark-blue-two" value="lc-dark-blue-two">Lc Dark Blue Two</option>
+                  </select>
+                </div>
+                <div class="select-clear"></div>
+              </div>
+              <script>window.variants && variants.markSelectedVariant();</script>
+            </li>
+            <li class="footerVisitedLinks"><button class="padding" onclick="clearHistory();"><i class="fas fa-history fa-fw"></i> Clear History</button></li>
+          </ul>
+        </div>
+        <div id="footer" class="footerFooter showFooter">
+
+        </div>
+      </div>
+    </aside>
+    <script src="http://localhost:1313/js/clipboard.min.js?1725033066" defer></script>
+    <script src="http://localhost:1313/js/perfect-scrollbar.min.js?1725033066" defer></script>
+    <script src="http://localhost:1313/js/featherlight.min.js?1725033066" defer></script>
+    <script src="http://localhost:1313/js/theme.js?1725033066" defer></script>
+  </body>
+</html>
