@@ -209,7 +209,7 @@ It then decides which player won the match and returns a string.
    RPS.spec.js:
 
    ```js
-   const test = require('../RPS.js');
+   const rps = require('../RPS.js');
    ```
 
    {{% /expand %}}
@@ -231,12 +231,12 @@ It then decides which player won the match and returns a string.
 
    ```js
    test("returns 'Player 2 wins!' if P1 = rock & P2 = paper", function(){
-      let output = test.whoWon('rock','paper');
+      let output = rps.whoWon('rock','paper');
       expect(output).toBe("Player 2 wins!");
    });
 
    test("returns 'Player 2 wins!' if P1 = paper & P2 = scissors", function(){
-      let output = test.whoWon('paper','scissors');
+      let output = rps.whoWon('paper','scissors');
       expect(output).toBe("Player 2 wins!");
    });
    ```
