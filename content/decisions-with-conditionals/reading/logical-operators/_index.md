@@ -174,7 +174,7 @@ The following table lists operators in order of precedence, from highest (applie
 |            | Comparison                    | `<=`, `>=`, `>`, `<`     |
 |            | Equality                      | `===`, `!==`, `==`, `!=` |
 |            | Logical AND                   | `&&`                     |
-| (lowest)   | Logical OR                    | `||`                     |
+| (lowest)   | Logical OR                    | `\|\|`                     |
 
 
 ## Truth Tables
