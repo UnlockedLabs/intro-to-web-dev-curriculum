@@ -88,7 +88,7 @@ in the object. The loop stops once it has accessed every property.
         diet: "leaves"
       };
 
-      for (item in giraffe) {
+      for (let item in giraffe) {
          console.log(item + ", " + giraffe[item]);
       }
    ```
