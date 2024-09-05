@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal Commands Tutorial on Introduction to Web Dev</title>
+    <title>Terminal Commands Tutorial :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/terminal-commands/index.html</link>
-    <description>Recent content in Terminal Commands Tutorial on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>As mentioned in the terminal chapter, the essence of the command line is text. Since this is quite different from how many may be used to using their computers, this tutorial is meant to help you picture how your machine is responding when you input common commands into the terminal.&#xA;Your computer is basically a file storage system. Sure, you may have many applications installed. But where do they all live? In folders. Aka, directories. The basics of terminal usage involve navigating these directories.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/terminal-commands/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/terminal-commands/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

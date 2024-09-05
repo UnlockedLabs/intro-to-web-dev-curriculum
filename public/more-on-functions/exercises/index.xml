@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exercises: More on Functions on Introduction to Web Dev</title>
+    <title>Exercises: More on Functions :: Introduction to Web Dev</title>
     <link>http://localhost:1313/more-on-functions/exercises/index.html</link>
-    <description>Recent content in Exercises: More on Functions on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description> Note Work on the following studio within your javascript-projects/more-on-functions/exercises directory.&#xA;Arrr! Welcome back, pirates.&#xA;Practice Your Skills First, create an anonymous function and practice how to use the map method.&#xA;Create an anonymous function and set it equal to a variable. Your function should: If passed a number, return the tripled value.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/more-on-functions/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/more-on-functions/exercises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

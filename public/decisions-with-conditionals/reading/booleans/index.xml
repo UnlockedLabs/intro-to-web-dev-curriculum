@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Booleans on Introduction to Web Dev</title>
+    <title>Booleans :: Introduction to Web Dev</title>
     <link>http://localhost:1313/decisions-with-conditionals/reading/booleans/index.html</link>
-    <description>Recent content in Booleans on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>One of the core features of any programming language is the ability to conditionally execute a segment of code. This means that a program will run a segment of code only if a given condition is met.&#xA;Example Consider a banking application that can remind you when a bill is due. The application will notify you that a bill is due soon, but only if the bill has not already been paid.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/decisions-with-conditionals/reading/booleans/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/decisions-with-conditionals/reading/booleans/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

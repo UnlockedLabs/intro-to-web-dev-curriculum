@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math.max and Math.min Examples on Introduction to Web Dev</title>
+    <title>Math.max and Math.min Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/math-method-examples/max-and-min-examples/index.html</link>
-    <description>Recent content in Math.max and Math.min Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Math.max The general syntax for this method is:&#xA;Math.max(x, y, z, ...) This method finds and returns the largest value from a set of numbers (x, y, z, …).&#xA;To find the maximum value in an array, see below.&#xA;Example console.log(Math.max(2, 3, 100.01, 0, -5.2, 100));</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/math-method-examples/max-and-min-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/math-method-examples/max-and-min-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

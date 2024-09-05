@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exercises: Loops on Introduction to Web Dev</title>
+    <title>Exercises: Loops :: Introduction to Web Dev</title>
     <link>http://localhost:1313/loops/exercises/index.html</link>
-    <description>Recent content in Exercises: Loops on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Practice makes better. Repetition is a good thing. Repetition is a good thing. Repetition is a good thing. Repetition is a good thing.&#xA;WAIT!!! Why type “Repetition is a good thing,” four times when we can code a better result? How about printing the phrase 100 times instead?&#xA;1 2 3 </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2023 09:21:11 -0500</lastBuildDate><atom:link href="http://localhost:1313/loops/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/loops/exercises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

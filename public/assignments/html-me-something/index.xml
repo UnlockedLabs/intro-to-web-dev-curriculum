@@ -1,61 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Assignment 4: Html Me Something on Introduction to Web Dev</title>
+    <title>Assignment 4: Html Me Something :: Introduction to Web Dev</title>
     <link>http://localhost:1313/assignments/html-me-something/index.html</link>
-    <description>Recent content in Assignment 4: Html Me Something on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Assignment Overview Project Introduction Task 1: Creating Your Content Task 2: Styling Task 3: Testing and Submitting Your Project Next Steps </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 13:06:26 -0500</lastBuildDate><atom:link href="http://localhost:1313/assignments/html-me-something/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 13:06:26 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/html-me-something/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Introduction</title>
       <link>http://localhost:1313/assignments/html-me-something/project-intro/index.html</link>
       <pubDate>Wed, 28 Jun 2023 13:06:26 -0500</pubDate>
       <guid>http://localhost:1313/assignments/html-me-something/project-intro/index.html</guid>
-      <description>You’ve learned a bit of HTML and some CSS, but you have likely only used it in bits and pieces so far, adding or modifying content in exercises or pre-existing files. Here, you are going to take another step forward by building an entire page from scratch. You will also get some practice using Git.
-There are two parts to this exercise, one focused on HTML and another focused on CSS.</description>
+      <description>You’ve learned a bit of HTML and some CSS, but you have likely only used it in bits and pieces so far, adding or modifying content in exercises or pre-existing files. Here, you are going to take another step forward by building an entire page from scratch. You will also get some practice using Git.&#xA;There are two parts to this exercise, one focused on HTML and another focused on CSS. HTML makes up the structure and content of web pages, while CSS dictates the visual style.</description>
     </item>
     <item>
       <title>Task 1: Creating Your Content</title>
       <link>http://localhost:1313/assignments/html-me-something/part-1/index.html</link>
       <pubDate>Wed, 28 Jun 2023 13:06:26 -0500</pubDate>
       <guid>http://localhost:1313/assignments/html-me-something/part-1/index.html</guid>
-      <description>For Task 1, you will get comfortable with writing markup, and with separating content from design and layout.
-Getting Started Open your index.html file.
-Your index.html comes with a simplified HTML5 boilerplate:
-1 2 3 4 5 6 7 8 9 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt;&amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Getting to Work Your mission is to build a page that:
-Tells a story. This can be personal or impersonal, funny, serious or neither.</description>
+      <description>For Task 1, you will get comfortable with writing markup, and with separating content from design and layout.&#xA;Getting Started Open your index.html file.&#xA;Your index.html comes with a simplified HTML5 boilerplate:&#xA;1 2 3 4 5 6 7 8 9 </description>
     </item>
     <item>
       <title>Task 2: Styling</title>
       <link>http://localhost:1313/assignments/html-me-something/part-2/index.html</link>
       <pubDate>Wed, 28 Jun 2023 13:06:26 -0500</pubDate>
       <guid>http://localhost:1313/assignments/html-me-something/part-2/index.html</guid>
-      <description>For Task 2, you’ll get comfortable with using CSS selectors and rules to dictate display, while keeping your styles separate from your content.
-Getting Started Open the file named styles.css in your html-me-something/ directory.
-Getting to Work Go ahead and start adding styles in your styles.css file!
-Requirements Your CSS must:
-Use margin and padding to space your elements in a visually pleasing manner.
-Use at least one of each of the following types of selectors:</description>
+      <description>For Task 2, you’ll get comfortable with using CSS selectors and rules to dictate display, while keeping your styles separate from your content.&#xA;Getting Started Open the file named styles.css in your html-me-something/ directory.&#xA;Getting to Work Go ahead and start adding styles in your styles.css file!&#xA;Requirements Your CSS must:&#xA;Use margin and padding to space your elements in a visually pleasing manner.</description>
     </item>
     <item>
       <title>Task 3: Testing and Submitting Your Project</title>
       <link>http://localhost:1313/assignments/html-me-something/part-3/index.html</link>
       <pubDate>Wed, 12 Jul 2023 13:06:26 -0500</pubDate>
       <guid>http://localhost:1313/assignments/html-me-something/part-3/index.html</guid>
-      <description>Running your tests Now that you have your index.html and styles.css completed, it&amp;rsquo;s time to run the tests.
-In your terminal, make sure you are inside your project directory then run npm test.
-The tests are looking for the elements required. If you fail one, look for the message and apply your changes. When they all pass, stage, commit and push your changes to your repository.
-Submitting your work Once you are done with your site and have passed all of your tests, navigate to the Canvas assignment and paste the link to your repo in the submission box and submit!</description>
+      <description>Running your tests Now that you have your index.html and styles.css completed, it’s time to run the tests.&#xA;In your terminal, make sure you are inside your project directory then run npm test.&#xA;The tests are looking for the elements required. If you fail one, look for the message and apply your changes. When they all pass, stage, commit and push your changes to your repository.</description>
     </item>
     <item>
       <title>Next Steps</title>
       <link>http://localhost:1313/assignments/html-me-something/next-steps/index.html</link>
       <pubDate>Wed, 28 Jun 2023 13:06:26 -0500</pubDate>
       <guid>http://localhost:1313/assignments/html-me-something/next-steps/index.html</guid>
-      <description>Next Steps: Bonus Mission! If you want to show off your hard work to all your friends, Github has a cool feature called Github Pages that makes this really easy.
-Github provides free hosting for any “static” web content (like this project). All you have to do is change a setting on your GitHub repository.
-In a browser, go to the Github page for your repository. Click on the Settings tab Scroll down to the GitHub Pages section and enable the GitHub Pages feature by choosing your main branch from the dropdown.</description>
+      <description>Next Steps: Bonus Mission! If you want to show off your hard work to all your friends, Github has a cool feature called Github Pages that makes this really easy.&#xA;Github provides free hosting for any “static” web content (like this project). All you have to do is change a setting on your GitHub repository.&#xA;In a browser, go to the Github page for your repository. Click on the Settings tab Scroll down to the GitHub Pages section and enable the GitHub Pages feature by choosing your main branch from the dropdown. Hit Save. In any browser, you should now be able to visit YOUR_USERNAME.github.io/html-me-something and see your web page! Remember, Bonus Missions are always optional.</description>
     </item>
   </channel>
 </rss>

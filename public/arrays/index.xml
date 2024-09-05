@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 8: Arrays Keep Things in Order on Introduction to Web Dev</title>
+    <title>Chapter 8: Arrays Keep Things in Order :: Introduction to Web Dev</title>
     <link>http://localhost:1313/arrays/index.html</link>
-    <description>Recent content in Chapter 8: Arrays Keep Things in Order on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives Upon completion of this chapter, you should be able to do the following:&#xA;Understand arrays, like strings, are indexed collections Create an array literal Create an array of size n with Array(n) Create arrays that store multiple types of values Create arrays that store other arrays (i.e. multi-dimensional arrays) Access elements within multi-dimensional arrays Find the length of an array using the .length method Index into an array using bracket notation Set an element of an array using bracket notation assignment Describe what it means for arrays to be mutable Understand what happens when asking for an element at index at which no element exists Use common array methods: concat, join, split, push, pop, shift, unshift, slice, reverse, sort, indexOf Convert character arrays to strings using .join(&#39;&#39;) Convert strings to characters arrays using .split(&#39;&#39;) Key Terminology While reading this chapter, you will notice the following key terms listed by the page they first appear on. As you read, you should make note of the definitions of these terms.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/arrays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/arrays/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/arrays/reading/index.html</link>
@@ -19,20 +20,14 @@
       <link>http://localhost:1313/arrays/exercises/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/arrays/exercises/index.html</guid>
-      <description>OK, rookie. It&amp;rsquo;s time to train you on how to modify the shuttle&amp;rsquo;s cargo manifest. The following actions will teach you how to add, remove, modify and rearrange our records for the items stored in our hold.
-Note All of the following exercise files can be found in the javascript-projects directory at the following location:
-javascript-projects/arrays/exercises/part-(one-six)-arrays.js
-Part 1 Create an array called practiceFile with the following entry: 273.15. Use the push method to add the following elements to the array.</description>
+      <description>OK, rookie. It’s time to train you on how to modify the shuttle’s cargo manifest. The following actions will teach you how to add, remove, modify and rearrange our records for the items stored in our hold.&#xA;Note All of the following exercise files can be found in the javascript-projects directory at the following location:</description>
     </item>
     <item>
       <title>Studio: Strings and Arrays</title>
       <link>http://localhost:1313/arrays/studio/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/arrays/studio/index.html</guid>
-      <description>Strings are ordered collections of characters, which are strings of length 1. The characters in a string can be accessed using bracket notation.
-Arrays are ordered collections of items, which can be strings, numbers, other arrays, etc. The items/elements/entries stored in an array can be accessed using bracket notation.
-Strings are immutable, whereas arrays can be changed.
-Strings and arrays have properties and methods that allow us to easily perform some useful actions.</description>
+      <description>Strings are ordered collections of characters, which are strings of length 1. The characters in a string can be accessed using bracket notation.&#xA;Arrays are ordered collections of items, which can be strings, numbers, other arrays, etc. The items/elements/entries stored in an array can be accessed using bracket notation.&#xA;Strings are immutable, whereas arrays can be changed.&#xA;Strings and arrays have properties and methods that allow us to easily perform some useful actions.</description>
     </item>
   </channel>
 </rss>

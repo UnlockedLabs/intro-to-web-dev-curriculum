@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/introduction/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content Why Learn to Code? Why Learn JavaScript? About LaunchCode Programs Blended Learning Class Platforms Using This Book Technologies in This Course </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/introduction/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/introduction/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Learn to Code?</title>
       <link>http://localhost:1313/introduction/reading/why-learn-code/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/introduction/reading/why-learn-code/index.html</guid>
-      <description>How many times do you use a computer in a day? What do you use it for? Maybe you use one to check email and social media, to watch TV, or to even set an alarm for the next day. Computers and technology are everywhere in our society.
-With the rise of technology and computers, coding has risen as well. At its most basic level, coding is how humans communicate with computers.</description>
+      <description>How many times do you use a computer in a day? What do you use it for? Maybe you use one to check email and social media, to watch TV, or to even set an alarm for the next day. Computers and technology are everywhere in our society.&#xA;With the rise of technology and computers, coding has risen as well. At its most basic level, coding is how humans communicate with computers. With code, humans tell computers to complete specific tasks and store specific information. Many would argue that due to the prevalence of computers, learning to code is vital to living in the 21st century. Writing and reading code is becoming a new form of literacy for today’s world.</description>
     </item>
     <item>
       <title>Why Learn JavaScript?</title>
       <link>http://localhost:1313/introduction/reading/why-learn-javascript/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/introduction/reading/why-learn-javascript/index.html</guid>
-      <description>With all the different coding languages in the world, it can be difficult to choose which one to learn first. JavaScript is a programming language that has many different applications. Programmers can use JavaScript to make websites, visualize data, and even create art! This class will start with JavaScript for several reasons.
-The main reason is that JavaScript has become a key language for web development. Understanding how the internet works and being able to create web applications are important skills in today&amp;rsquo;s landscape.</description>
+      <description>With all the different coding languages in the world, it can be difficult to choose which one to learn first. JavaScript is a programming language that has many different applications. Programmers can use JavaScript to make websites, visualize data, and even create art! This class will start with JavaScript for several reasons.&#xA;The main reason is that JavaScript has become a key language for web development. Understanding how the internet works and being able to create web applications are important skills in today’s landscape. With JavaScript, you can work on your own web applications and support current applications for a company.</description>
     </item>
     <item>
       <title>About LaunchCode Programs</title>
@@ -35,33 +34,28 @@ The main reason is that JavaScript has become a key language for web development
       <link>http://localhost:1313/introduction/reading/blended-learning/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/introduction/reading/blended-learning/index.html</guid>
-      <description>This page covers what to expect during in-class time for students enrolled in a LaunchCode blended learning course. Students taking an independent learning course may skip this page.
-We only have a short amount of time in class to learn a lot, so using a blended learning model helps us make the most of our time in this course. A blended learning model incorporates in-class learning with online materials like this textbook.</description>
+      <description>This page covers what to expect during in-class time for students enrolled in a LaunchCode blended learning course. Students taking an independent learning course may skip this page.&#xA;We only have a short amount of time in class to learn a lot, so using a blended learning model helps us make the most of our time in this course. A blended learning model incorporates in-class learning with online materials like this textbook.</description>
     </item>
     <item>
       <title>Class Platforms</title>
       <link>http://localhost:1313/introduction/reading/class-platforms/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/introduction/reading/class-platforms/index.html</guid>
-      <description>Besides this book, this class uses additional platforms for enrollment, assignments, and grading.
-Canvas LaunchCode monitors your progress in this class through a management system called Canvas. It provides a central location to manage the flow of information, but it does not hold the actual course content. Instead, it links to the lessons you need, and it keeps a record of your completed assignments and scores.
-Login to Canvas Access Canvas and the course materials at this link .</description>
+      <description>Besides this book, this class uses additional platforms for enrollment, assignments, and grading.&#xA;Canvas LaunchCode monitors your progress in this class through a management system called Canvas. It provides a central location to manage the flow of information, but it does not hold the actual course content. Instead, it links to the lessons you need, and it keeps a record of your completed assignments and scores.&#xA;Login to Canvas Access Canvas and the course materials at this link . To login, use your launchcode.org username and password, which are the same ones you used to apply for this class.</description>
     </item>
     <item>
       <title>Using This Book</title>
       <link>http://localhost:1313/introduction/reading/using-this-book/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/introduction/reading/using-this-book/index.html</guid>
-      <description>Throughout this book, you will find a variety of different sections and practice exercises. We are writing this guide to help you make the most of the book.
-Concept Checks Many pages end with a &amp;ldquo;Check Your Understanding&amp;rdquo; header. This section is full of questions for you to double check that you understand the concepts in the reading. Although your score does not count towards your final grade in the class, you should use it to help evaluate your understanding of the main concepts.</description>
+      <description>Throughout this book, you will find a variety of different sections and practice exercises. We are writing this guide to help you make the most of the book.&#xA;Concept Checks Many pages end with a “Check Your Understanding” header. This section is full of questions for you to double check that you understand the concepts in the reading. Although your score does not count towards your final grade in the class, you should use it to help evaluate your understanding of the main concepts. After you read the chapter, you will take a quiz in Canvas that includes all of these questions.</description>
     </item>
     <item>
       <title>Technologies in This Course</title>
       <link>http://localhost:1313/introduction/reading/technologies-in-course/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/introduction/reading/technologies-in-course/index.html</guid>
-      <description>As you work your way through this course you might find yourself wondering why we chose specific technologies and what job opportunities are available to someone with your newfound skillset.
-Below you will find brief descriptions on the main technologies used in this course. Do not worry about understanding what each technology is used for at this very moment. This is just meant to serve as an outlook on what to expect throughout the course.</description>
+      <description>As you work your way through this course you might find yourself wondering why we chose specific technologies and what job opportunities are available to someone with your newfound skillset.&#xA;Below you will find brief descriptions on the main technologies used in this course. Do not worry about understanding what each technology is used for at this very moment. This is just meant to serve as an outlook on what to expect throughout the course. You will learn more about each technology individually as you progress through the book.</description>
     </item>
   </channel>
 </rss>

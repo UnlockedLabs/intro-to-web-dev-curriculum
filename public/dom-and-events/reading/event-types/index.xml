@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Event Types on Introduction to Web Dev</title>
+    <title>Event Types :: Introduction to Web Dev</title>
     <link>http://localhost:1313/dom-and-events/reading/event-types/index.html</link>
-    <description>Recent content in Event Types on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>DOM and JavaScript can handle numerous event types. We will discuss a few different types of events here. As you continue your studies of the DOM and events, you may find these two reference links helpful.&#xA;W3Schools Event reference . MDN Event reference . load Event The DOM includes the load event, which is triggered when the window, elements, and resources have been loaded by the browser. Why is it important to know when things have loaded? Remember you can’t interact with HTML elements in JavaScript unless they have been loaded into the DOM.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/dom-and-events/reading/event-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/dom-and-events/reading/event-types/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

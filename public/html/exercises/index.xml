@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exercises: HTML on Introduction to Web Dev</title>
+    <title>Exercises: HTML :: Introduction to Web Dev</title>
     <link>http://localhost:1313/html/exercises/index.html</link>
-    <description>Recent content in Exercises: HTML on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>In this course, we will mostly use Firefox as our browser. If you haven’t installed Firefox, you can get it from Mozilla . Other browsers have good developer tools as well (Chrome, in particular) but we’re going to stick with Firefox. If you are more comfortable with another browser, you’ll find that most of the developer tools functionality exists in other browsers’ dev tools as well.&#xA;Complete the HTML file for this simple web page. Open up javascript-projects/html/exercises. Add lines to index.html that do the following.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 14:37:14 -0500</lastBuildDate><atom:link href="http://localhost:1313/html/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/html/exercises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Installing Node on Introduction to Web Dev</title>
+    <title>Installing Node :: Introduction to Web Dev</title>
     <link>http://localhost:1313/installations/install-node/index.html</link>
-    <description>Recent content in Installing Node on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>We will need Node.js to run JavaScript code in our IDE.&#xA;Setting up Node Installing Node on your computer also installs the NPM Command Line Interface (CLI), which allows you to run specialized commands in the terminal .&#xA;Follow this link to the Node website , and examine the selection screen:&#xA;The LTS version of Node is an older, reliable build that has been tested, debugged, and runs well. The Current version brings in newer features, but it is still being tested. Either option works for this course, but we recommend downloading the LTS version.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/installations/install-node/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/installations/install-node/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

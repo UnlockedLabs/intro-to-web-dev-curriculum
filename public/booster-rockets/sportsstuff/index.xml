@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Let&#39;s Play Ball on Introduction to Web Dev</title>
+    <title>Let&#39;s Play Ball :: Introduction to Web Dev</title>
     <link>http://localhost:1313/booster-rockets/sportsstuff/index.html</link>
-    <description>Recent content in Let&#39;s Play Ball on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Attention sports fans! Embrace your favorite quote(s):&#xA;Sport Quote Baseball “There may be people who have more talent than you, but there’s no excuse for anyone to work harder than you do.” - Derek Jeter Basketball “I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot… and missed. I’ve failed over and over and over again in my life. That is why I succeed.” - Michael Jordan Gymnastics “I’d rather regret the risks that didn’t work out than the chances I didn’t take at all.” - Simone Biles Football “I was always willing to work. I was not the fastest or biggest player, but I was determined to be the best football player I could be on the football field, and I think I was able to accomplish that through hard work.” - Jerry Rice Soccer “The backbone of success is…hard work, determination, good planning, and perseverance.” - Mia Hamm Tennis “If I don’t get it right, I don’t stop until I do.” - Serena Williams Rocky How can you listen to this and NOT be inspired? (Gonna Fly now ) Optional Imagine your favorite motivational phrase here. - Some admired person Marathon Analogy Pretend you are not a runner (complete with the “0.0” sticker on your car), but you decide to compete in a marathon. You cannot just drive to the starting line, put on your running shoes and go.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 12:36:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/booster-rockets/sportsstuff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/booster-rockets/sportsstuff/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

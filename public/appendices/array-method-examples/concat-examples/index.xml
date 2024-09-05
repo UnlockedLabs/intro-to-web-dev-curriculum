@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>concat Examples on Introduction to Web Dev</title>
+    <title>concat Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/array-method-examples/concat-examples/index.html</link>
-    <description>Recent content in concat Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>.concat() Examples The general syntax for this method is:&#xA;arrayName.concat(otherArray1, otherArray2, ...)This method adds the elements of one array to the end of another. The new array must be stored in a variable or printed to the screen, because concat does NOT alter the original arrays.&#xA;Example let arr = [1, 2, 3]; let otherArray = [&#39;M&#39;, &#39;F&#39;, &#39;E&#39;]; let newArray = []; newArray = arr.concat(otherArray); console.log(newArray); newArray = otherArray.concat(arr); console.log(newArray); console.log(arr.concat(otherArray, arr)); console.log(arr);</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/array-method-examples/concat-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/array-method-examples/concat-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

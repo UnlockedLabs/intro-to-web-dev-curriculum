@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Why Learn to Code? on Introduction to Web Dev</title>
+    <title>Why Learn to Code? :: Introduction to Web Dev</title>
     <link>http://localhost:1313/introduction/reading/why-learn-code/index.html</link>
-    <description>Recent content in Why Learn to Code? on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>How many times do you use a computer in a day? What do you use it for? Maybe you use one to check email and social media, to watch TV, or to even set an alarm for the next day. Computers and technology are everywhere in our society.&#xA;With the rise of technology and computers, coding has risen as well. At its most basic level, coding is how humans communicate with computers. With code, humans tell computers to complete specific tasks and store specific information. Many would argue that due to the prevalence of computers, learning to code is vital to living in the 21st century. Writing and reading code is becoming a new form of literacy for today’s world.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/introduction/reading/why-learn-code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/introduction/reading/why-learn-code/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

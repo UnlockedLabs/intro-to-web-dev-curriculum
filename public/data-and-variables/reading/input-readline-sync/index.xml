@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Input with readline-sync on Introduction to Web Dev</title>
+    <title>Input with readline-sync :: Introduction to Web Dev</title>
     <link>http://localhost:1313/data-and-variables/reading/input-readline-sync/index.html</link>
-    <description>Recent content in Input with readline-sync on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>console.log works fine for printing static (unchanging) messages to the screen. If we wanted to print a phrase greeting a specific user, then console.log(&#34;Hello, Dave.&#34;); would be OK as long as Dave is the actual user.&#xA;What if we want to greet someone else? We could change the string inside the () to be &#39;Hello, Sarah&#39; or &#39;Hello, Elastigirl&#39; or any other name we need. However, this is inefficient. Also, what if we do not know the name of the user beforehand? We need to make our code more general and able to respond to different conditions.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/data-and-variables/reading/input-readline-sync/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/data-and-variables/reading/input-readline-sync/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

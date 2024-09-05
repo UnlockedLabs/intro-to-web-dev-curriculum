@@ -1,77 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/stringing-characters-together/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content Strings as Collections Bracket Notation Strings as Objects String Immutability String Methods Encoding Characters Special Characters Template Literals </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/stringing-characters-together/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/stringing-characters-together/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strings as Collections</title>
       <link>http://localhost:1313/stringing-characters-together/reading/strings-as-collections/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/strings-as-collections/index.html</guid>
-      <description>Throughout the first chapters of this book we have used strings to represent words or phrases we wanted to print out. Our definition of a string was simple: a string is a sequence of characters inside quotes.
-In this chapter we explore strings in much more detail. Strings come with a special group of operations that can be carried out on them, known as methods. Strings are also what is called a collection data type.</description>
+      <description>Throughout the first chapters of this book we have used strings to represent words or phrases we wanted to print out. Our definition of a string was simple: a string is a sequence of characters inside quotes.&#xA;In this chapter we explore strings in much more detail. Strings come with a special group of operations that can be carried out on them, known as methods. Strings are also what is called a collection data type. Let’s look at what this means.</description>
     </item>
     <item>
       <title>Bracket Notation</title>
       <link>http://localhost:1313/stringing-characters-together/reading/bracket-notation/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/bracket-notation/index.html</guid>
-      <description>Understanding strings as sequential collections of characters gives us much more than just a mental model of how they are structured. JavaScript provides a rich collection of tools&amp;mdash;including special syntax and operations&amp;mdash;that allows us to work with strings.
-Bracket notation is the special syntax that allows us to access the individual characters that make up a string. To access a character, we use the syntax someString[i], where i is the index of the character we want to access.</description>
+      <description>Understanding strings as sequential collections of characters gives us much more than just a mental model of how they are structured. JavaScript provides a rich collection of tools—including special syntax and operations—that allows us to work with strings.&#xA;Bracket notation is the special syntax that allows us to access the individual characters that make up a string. To access a character, we use the syntax someString[i], where i is the index of the character we want to access. String indices are integers representing the position of a character within a given string, and they start at 0. Thus, the first character of a string has index 0, the second has index 1, and so on.</description>
     </item>
     <item>
       <title>Strings as Objects</title>
       <link>http://localhost:1313/stringing-characters-together/reading/string-objects/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/string-objects/index.html</guid>
-      <description>Beyond bracket notation, there are many other tools we can use to work with strings. Talking about these tools requires some new terminology.
-Object Terminology In JavaScript, strings are objects, so to understand how we can use them in our programs, we must first understand some basics about objects.
-An object is a collection of related data and operations. An operation that can be carried out on an object is known as a method.</description>
+      <description>Beyond bracket notation, there are many other tools we can use to work with strings. Talking about these tools requires some new terminology.&#xA;Object Terminology In JavaScript, strings are objects, so to understand how we can use them in our programs, we must first understand some basics about objects.&#xA;An object is a collection of related data and operations. An operation that can be carried out on an object is known as a method. A piece of data associated with an object is known as a property.</description>
     </item>
     <item>
       <title>String Immutability</title>
       <link>http://localhost:1313/stringing-characters-together/reading/string-immutability/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/string-immutability/index.html</guid>
-      <description>If an object cannot be changed, we say that it is immutable. Strings are immutable, which means we cannot change the individual characters within a given string. While we can access individual characters using bracket notation, attempting to change individual characters simply does not work.
-Example 1 2 3 4 5 let nonprofit = &amp;#34;Launchcode&amp;#34;; console.log(nonprofit); nonprofit[6] = &amp;#34;C&amp;#34;; console.log(nonprofit); Console Output
-Launchcode Launchcode We attempted to change the value of the character at index 6 from &#39;c&#39; to &#39;C&#39;, by using an assignment statement along with bracket notation on line 4 (perhaps to align with official LaunchCode branding guidelines).</description>
+      <description>If an object cannot be changed, we say that it is immutable. Strings are immutable, which means we cannot change the individual characters within a given string. While we can access individual characters using bracket notation, attempting to change individual characters simply does not work.&#xA;Example 1 2 3 4 5 </description>
     </item>
     <item>
       <title>String Methods</title>
       <link>http://localhost:1313/stringing-characters-together/reading/string-methods/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/string-methods/index.html</guid>
-      <description>JavaScript provides many useful methods for string objects. Recall that a method is a function that &amp;ldquo;belongs to&amp;rdquo; a specific object. Methods will typically result in some operation being carried out on the data within an object. For strings, this means that our methods will typically transform the characters of the given string in some way.
-As we have learned, strings are immutable. Therefore, string methods will not change the value of a string itself, but instead will return a new string that is the result of the given operation.</description>
+      <description>JavaScript provides many useful methods for string objects. Recall that a method is a function that “belongs to” a specific object. Methods will typically result in some operation being carried out on the data within an object. For strings, this means that our methods will typically transform the characters of the given string in some way.&#xA;As we have learned, strings are immutable. Therefore, string methods will not change the value of a string itself, but instead will return a new string that is the result of the given operation.</description>
     </item>
     <item>
       <title>Encoding Characters</title>
       <link>http://localhost:1313/stringing-characters-together/reading/encoding-characters/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/encoding-characters/index.html</guid>
-      <description>If you had microscope powerful enough to view the data stored on a computer&amp;rsquo;s hard drive, or in its memory, you would see lots of 0s and 1s. Each such 0 and 1 is known as a bit. A bit is a unit of measurement, like a meter or a pound. Collections of computer data are measured in bits; every letter, image, and pixel you interact with on a computer is represented by bits.</description>
+      <description>If you had microscope powerful enough to view the data stored on a computer’s hard drive, or in its memory, you would see lots of 0s and 1s. Each such 0 and 1 is known as a bit. A bit is a unit of measurement, like a meter or a pound. Collections of computer data are measured in bits; every letter, image, and pixel you interact with on a computer is represented by bits.</description>
     </item>
     <item>
       <title>Special Characters</title>
       <link>http://localhost:1313/stringing-characters-together/reading/special-characters/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/special-characters/index.html</guid>
-      <description>Aside from letters, numbers, and symbols, there is another class of characters that we will occasionally use in strings, known as special characters. These characters consist of special character combinations that all begin with a \ (backslash). They allow us to include characters in strings that would be difficult or impossible to include otherwise, such as Unicode characters that are not on our keyboards, control characters, and whitespace characters.
-The most commonly-used special characters are \n and \t, which are the newline and tab characters, respectively.</description>
+      <description>Aside from letters, numbers, and symbols, there is another class of characters that we will occasionally use in strings, known as special characters. These characters consist of special character combinations that all begin with a \ (backslash). They allow us to include characters in strings that would be difficult or impossible to include otherwise, such as Unicode characters that are not on our keyboards, control characters, and whitespace characters.&#xA;The most commonly-used special characters are \n and \t, which are the newline and tab characters, respectively. They work as you would expect.</description>
     </item>
     <item>
       <title>Template Literals</title>
       <link>http://localhost:1313/stringing-characters-together/reading/template-literals/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/reading/template-literals/index.html</guid>
-      <description>Earlier, we used concatenation to combine strings and variables together in order to create specific output:
-Example let name = &amp;#34;Jack&amp;#34;; let currentAge = 9; console.log(&amp;#34;Next year, &amp;#34; + name + &amp;#34; will be &amp;#34; + (currentAge + 1) + &amp;#34;.&amp;#34;); Console Output
-Next year, Jack will be 10. Unfortunately, this process quickly gets tedious for any output that depends on multiple variables. Often, concatenation requires multiple test runs of the code in order to check for syntax errors and proper spacing within the output.</description>
+      <description>Earlier, we used concatenation to combine strings and variables together in order to create specific output:&#xA;Example let name = &#34;Jack&#34;; let currentAge = 9; console.log(&#34;Next year, &#34; + name + &#34; will be &#34; + (currentAge + 1) + &#34;.&#34;);</description>
     </item>
   </channel>
 </rss>

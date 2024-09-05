@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/arrays/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content Links Arrays Are Like Strings Working With Arrays Array Methods Multi-Dimensional Arrays </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/arrays/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/arrays/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arrays Are Like Strings</title>
       <link>http://localhost:1313/arrays/reading/arrays-like-strings/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/arrays/reading/arrays-like-strings/index.html</guid>
-      <description>Arrays are similar to strings, but are a more general collection type. Like strings, arrays are a sequence of values that can be accessed via an ordered index. Unlike strings, arrays can store data of any type.
-The figure below demonstrates an array of named languages. The array contains four strings, each of those values has an index position.
-Declaring an Array Programmers use multiple ways to declare a new array.</description>
+      <description>Arrays are similar to strings, but are a more general collection type. Like strings, arrays are a sequence of values that can be accessed via an ordered index. Unlike strings, arrays can store data of any type.&#xA;The figure below demonstrates an array of named languages. The array contains four strings, each of those values has an index position.</description>
     </item>
     <item>
       <title>Working With Arrays</title>
       <link>http://localhost:1313/arrays/reading/working-with-arrays/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/arrays/reading/working-with-arrays/index.html</guid>
-      <description>Bracket Notation and Index As previously discussed, arrays are an ordered collection where each item can be accessed via index. Similar to strings, an index in an array is the number order given to items. Individual items can be accessed using bracket notation (array[index]). Indexes are zero-based, going from 0 to array.length-1.
-Example Use bracket notation and index to access items in an array.
-let programmingLanguages = [ &amp;#34;JavaScript&amp;#34;, // index 0 &amp;#34;Python&amp;#34;, // index 1 &amp;#34;Java&amp;#34;, // index 2 &amp;#34;C#&amp;#34; // index 3 ]; console.</description>
+      <description>Bracket Notation and Index As previously discussed, arrays are an ordered collection where each item can be accessed via index. Similar to strings, an index in an array is the number order given to items. Individual items can be accessed using bracket notation (array[index]). Indexes are zero-based, going from 0 to array.length-1.&#xA;Example Use bracket notation and index to access items in an array.</description>
     </item>
     <item>
       <title>Array Methods</title>
       <link>http://localhost:1313/arrays/reading/array-methods/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/arrays/reading/array-methods/index.html</guid>
-      <description>As with strings, JavaScript provides us with useful methods for arrays. These methods will either alter an existing array, return information about the array, or create and return a new array.
-Common Array Methods Here is a sample of the most frequently used array methods. More complete lists can be found here:
-W3 Schools Array Methods . MDN Web Docs . To see detailed examples for a particular method, control-click (or right-click) on its name to open the view in a new tab.</description>
+      <description>As with strings, JavaScript provides us with useful methods for arrays. These methods will either alter an existing array, return information about the array, or create and return a new array.&#xA;Common Array Methods Here is a sample of the most frequently used array methods. More complete lists can be found here:&#xA;W3 Schools Array Methods . MDN Web Docs . To see detailed examples for a particular method, control-click (or right-click) on its name to open the view in a new tab.</description>
     </item>
     <item>
       <title>Multi-Dimensional Arrays</title>
       <link>http://localhost:1313/arrays/reading/multi-dimensional-arrays/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/arrays/reading/multi-dimensional-arrays/index.html</guid>
-      <description>Earlier we learned that arrays can store any type of value. If that is true, can we store arrays inside of arrays? Well yes we can&amp;hellip;.
-A multi-dimensional array is an array of arrays, meaning that the values inside the array are also arrays. The inner arrays can store other values such as strings, numbers, or even more arrays.
-The figure below demonstrates a synonyms array that has arrays as values.</description>
+      <description>Earlier we learned that arrays can store any type of value. If that is true, can we store arrays inside of arrays? Well yes we can….&#xA;A multi-dimensional array is an array of arrays, meaning that the values inside the array are also arrays. The inner arrays can store other values such as strings, numbers, or even more arrays.&#xA;The figure below demonstrates a synonyms array that has arrays as values. The inner arrays contain words that are synonyms of each other. Notice each inner array has an index position.</description>
     </item>
   </channel>
 </rss>

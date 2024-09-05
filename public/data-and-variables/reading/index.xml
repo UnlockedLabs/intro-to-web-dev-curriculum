@@ -1,83 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/data-and-variables/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content Values and Data Types Type Conversion Variables More on Variables Expressions and Evaluation Operations Other Operators Input with readline-sync </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/data-and-variables/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/data-and-variables/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Values and Data Types</title>
       <link>http://localhost:1313/data-and-variables/reading/values-and-data-types/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/values-and-data-types/index.html</guid>
-      <description>Programs may be thought of as being made up of two things:
-Data Operations that manipulate data This chapter focuses primarily on the first of these two fundamental components, data.
-Data can be stored in a program in a variety of ways. The most basic unit of data is a value.
-A value is a specific piece of data, such as a word or a number. Some examples are 5, 5.</description>
+      <description>Programs may be thought of as being made up of two things:&#xA;Data Operations that manipulate data This chapter focuses primarily on the first of these two fundamental components, data.&#xA;Data can be stored in a program in a variety of ways. The most basic unit of data is a value.&#xA;A value is a specific piece of data, such as a word or a number. Some examples are 5, 5.2, and &#34;Hello, World!&#34;.</description>
     </item>
     <item>
       <title>Type Conversion</title>
       <link>http://localhost:1313/data-and-variables/reading/type-conversion/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/type-conversion/index.html</guid>
-      <description>Sometimes it is necessary to convert values from one type to another. A common example is when a program receives input from a user or a file. In this situation, numeric data may be passed to the program as strings.
-JavaScript provides a few simple functions that will allow us to convert values to different data types. The functions Number and String will (attempt to) convert their arguments into types number and string, respectively.</description>
+      <description>Sometimes it is necessary to convert values from one type to another. A common example is when a program receives input from a user or a file. In this situation, numeric data may be passed to the program as strings.&#xA;JavaScript provides a few simple functions that will allow us to convert values to different data types. The functions Number and String will (attempt to) convert their arguments into types number and string, respectively. We call these type conversion functions.</description>
     </item>
     <item>
       <title>Variables</title>
       <link>http://localhost:1313/data-and-variables/reading/variables/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/variables/index.html</guid>
-      <description>One of the most powerful features of a programming language is the ability to manipulate variables. A variable is a name that refers to a value. Recall that a value is a single, specific piece of data, such as a specific number or string. Variables allow us to store values for later use.
-A useful visual analogy for how a variable works is that of a label that points to a piece of data.</description>
+      <description>One of the most powerful features of a programming language is the ability to manipulate variables. A variable is a name that refers to a value. Recall that a value is a single, specific piece of data, such as a specific number or string. Variables allow us to store values for later use.&#xA;A useful visual analogy for how a variable works is that of a label that points to a piece of data.</description>
     </item>
     <item>
       <title>More on Variables</title>
       <link>http://localhost:1313/data-and-variables/reading/more-on-variables/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/more-on-variables/index.html</guid>
-      <description>The previous section covered creating, evaluating, and reassigning variables. This section will cover some additional, more nuanced topics related to variables.
-Creating Constants With const One of the key features of variables that we have discussed so far is their ability to change value. We can create a variable with one value, and then reassign it to another value.
-let programmingLanguage = &amp;#34;JavaScript&amp;#34;; programmingLanguage = &amp;#34;Python&amp;#34;; In some situations, we want to create variables that cannot change value.</description>
+      <description>The previous section covered creating, evaluating, and reassigning variables. This section will cover some additional, more nuanced topics related to variables.&#xA;Creating Constants With const One of the key features of variables that we have discussed so far is their ability to change value. We can create a variable with one value, and then reassign it to another value.&#xA;let programmingLanguage = &#34;JavaScript&#34;; programmingLanguage = &#34;Python&#34;;</description>
     </item>
     <item>
       <title>Expressions and Evaluation</title>
       <link>http://localhost:1313/data-and-variables/reading/expressions-and-evaluation/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/expressions-and-evaluation/index.html</guid>
-      <description>An expression is a combination of values, variables, operators, and calls to functions. An expression can be thought of as a formula that is made up of multiple pieces.
-The evaluation of an expression produces a value, known as the return value. We say that an expression returns a value.
-Expressions need to be evaluated when the code executes in order to determine the return value, or specific piece of data that should be used.</description>
+      <description>An expression is a combination of values, variables, operators, and calls to functions. An expression can be thought of as a formula that is made up of multiple pieces.&#xA;The evaluation of an expression produces a value, known as the return value. We say that an expression returns a value.&#xA;Expressions need to be evaluated when the code executes in order to determine the return value, or specific piece of data that should be used. Evaluation is the process of computing the return value.</description>
     </item>
     <item>
       <title>Operations</title>
       <link>http://localhost:1313/data-and-variables/reading/operations/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/operations/index.html</guid>
-      <description>Operators and Operands Now that we can store data in variables, let&amp;rsquo;s explore how we can generate new data from existing data.
-An operator is one or more characters that represents a computation like addition, multiplication, or division. The values an operator works on are called operands.
-The following are all legal JavaScript expressions whose meaning is more or less clear:
-20 + 32 hour - 1 hour * 60 + minute minute / 60 5 ** 2 (5 + 9) * (15 - 7) For example, in the calculation 20 + 32, the operator is + and the operands are 20 and 32.</description>
+      <description>Operators and Operands Now that we can store data in variables, let’s explore how we can generate new data from existing data.&#xA;An operator is one or more characters that represents a computation like addition, multiplication, or division. The values an operator works on are called operands.&#xA;The following are all legal JavaScript expressions whose meaning is more or less clear:&#xA;20 + 32 hour - 1 hour * 60 + minute minute / 60 5 ** 2 (5 + 9) * (15 - 7) For example, in the calculation 20 + 32, the operator is + and the operands are 20 and 32.</description>
     </item>
     <item>
       <title>Other Operators</title>
       <link>http://localhost:1313/data-and-variables/reading/other-operators/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/other-operators/index.html</guid>
-      <description>The String Operator + So far we have only seen operators that work on operands which are of type number, but there are operators that work on other data types as well. In particular, the + operator can be used with string operands to concatenate, or join together two strings.
-Example &amp;quot;Launch&amp;quot; + &amp;quot;Code&amp;quot; evaluates to &amp;quot;LaunchCode&amp;quot;
-Let&amp;rsquo;s compare + used with numbers to + used with strings.
-Example console.log(1 + 1); console.</description>
+      <description>The String Operator + So far we have only seen operators that work on operands which are of type number, but there are operators that work on other data types as well. In particular, the + operator can be used with string operands to concatenate, or join together two strings.&#xA;Example &#34;Launch&#34; + &#34;Code&#34; evaluates to &#34;LaunchCode&#34;</description>
     </item>
     <item>
       <title>Input with readline-sync</title>
       <link>http://localhost:1313/data-and-variables/reading/input-readline-sync/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/reading/input-readline-sync/index.html</guid>
-      <description>console.log works fine for printing static (unchanging) messages to the screen. If we wanted to print a phrase greeting a specific user, then console.log(&amp;quot;Hello, Dave.&amp;quot;); would be OK as long as Dave is the actual user.
-What if we want to greet someone else? We could change the string inside the () to be &#39;Hello, Sarah&#39; or &#39;Hello, Elastigirl&#39; or any other name we need. However, this is inefficient. Also, what if we do not know the name of the user beforehand?</description>
+      <description>console.log works fine for printing static (unchanging) messages to the screen. If we wanted to print a phrase greeting a specific user, then console.log(&#34;Hello, Dave.&#34;); would be OK as long as Dave is the actual user.&#xA;What if we want to greet someone else? We could change the string inside the () to be &#39;Hello, Sarah&#39; or &#39;Hello, Elastigirl&#39; or any other name we need. However, this is inefficient. Also, what if we do not know the name of the user beforehand? We need to make our code more general and able to respond to different conditions.</description>
     </item>
   </channel>
 </rss>

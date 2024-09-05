@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sort Examples on Introduction to Web Dev</title>
+    <title>sort Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/array-method-examples/sort-examples/index.html</link>
-    <description>Recent content in sort Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>.sort() Examples The general syntax for this method is:&#xA;arrayName.sort()This method arranges the elements of an array into increasing order. For strings, this means alphabetical order. HOWEVER, the results are not always what we expect.&#xA;Example Alphabetical order?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/array-method-examples/sort-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/array-method-examples/sort-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fetching Data on Introduction to Web Dev</title>
+    <title>Fetching Data :: Introduction to Web Dev</title>
     <link>http://localhost:1313/fetch/reading/fetching-data/index.html</link>
-    <description>Recent content in Fetching Data on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Now that we know what an API is, let’s use one to update a web page. Let’s use a weather API to add weather data to a web page. The URL for this special LaunchCode weather API is https://handlers.education.launchcode.org/static/weather.json .&#xA;Example JSON returned from our weather API.&#xA;{ &#34;temp&#34;: 67, &#34;windSpeed&#34;: 5, &#34;tempMin&#34;: 50, &#34;tempMax&#34;: 71, &#34;status&#34;: &#34;Sunny&#34;, &#34;chanceOfPrecipitation&#34;: 20, &#34;zipcode&#34;: 63108 }</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/fetch/reading/fetching-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/fetch/reading/fetching-data/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

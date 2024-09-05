@@ -1,66 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/objects-and-math/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description> Objects and Why They Matter Working with Objects Coding with Objects The Math Object Math Methods Combining Math Methods </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 13:16:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/objects-and-math/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 13:16:22 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/objects-and-math/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Objects and Why They Matter</title>
       <link>http://localhost:1313/objects-and-math/reading/background/index.html</link>
       <pubDate>Thu, 31 Aug 2023 13:16:22 -0500</pubDate>
       <guid>http://localhost:1313/objects-and-math/reading/background/index.html</guid>
-      <description>So far we have learned a lot about arrays, which are data structures that can hold many values. Objects are also data structures that can hold many values.
-Unlike arrays, each value in an object has a name or key for reference purposes. The pairing between a key and its value is called a key/value pair.
-Objects store as many key/value pairs as needed, and each value needs a key. Without a key, the value cannot be accessed or modified by the programmer.</description>
+      <description>So far we have learned a lot about arrays, which are data structures that can hold many values. Objects are also data structures that can hold many values.&#xA;Unlike arrays, each value in an object has a name or key for reference purposes. The pairing between a key and its value is called a key/value pair.&#xA;Objects store as many key/value pairs as needed, and each value needs a key. Without a key, the value cannot be accessed or modified by the programmer.</description>
     </item>
     <item>
       <title>Working with Objects</title>
       <link>http://localhost:1313/objects-and-math/reading/modifying-objects/index.html</link>
       <pubDate>Thu, 31 Aug 2023 13:16:22 -0500</pubDate>
       <guid>http://localhost:1313/objects-and-math/reading/modifying-objects/index.html</guid>
-      <description>Accessing Properties When using objects, programmers oftentimes want to retrieve or change the value of one of the properties. To access the value of a property, you will need the object&amp;rsquo;s name and the key of the property.
-Programmers have two ways to access the value of property:
-Bracket syntax Dot notation Bracket Syntax To access a property with bracket syntax, the code looks like: object[&amp;quot;key&amp;quot;].
-Dot Notation To access a property with dot notation, the code looks like: object.</description>
+      <description>Accessing Properties When using objects, programmers oftentimes want to retrieve or change the value of one of the properties. To access the value of a property, you will need the object’s name and the key of the property.&#xA;Programmers have two ways to access the value of property:&#xA;Bracket syntax Dot notation Bracket Syntax To access a property with bracket syntax, the code looks like: object[&#34;key&#34;].</description>
     </item>
     <item>
       <title>Coding with Objects</title>
       <link>http://localhost:1313/objects-and-math/reading/coding-with-objects/index.html</link>
       <pubDate>Thu, 31 Aug 2023 13:16:22 -0500</pubDate>
       <guid>http://localhost:1313/objects-and-math/reading/coding-with-objects/index.html</guid>
-      <description>Booleans and Objects Objects are not stored by their properties or by value, but by reference. Storing something by reference means that it is stored based on its location in memory. This can lead to some confusion when comparing objects.
-Example Let&amp;rsquo;s see how this affects our zoo software! Surely, the zoo has more than one tortoise. The second tortoise is named Patricia!
-1 2 3 4 5 6 7 8 9 10 let tortoiseTwo = { species: &amp;#34;Galapagos Tortoise&amp;#34;, name: &amp;#34;Patricia&amp;#34;, weight: 800, age: 85, diet: [&amp;#34;pumpkins&amp;#34;, &amp;#34;lettuce&amp;#34;, &amp;#34;cabbage&amp;#34;], sign: function() { return this.</description>
+      <description>Booleans and Objects Objects are not stored by their properties or by value, but by reference. Storing something by reference means that it is stored based on its location in memory. This can lead to some confusion when comparing objects.&#xA;Example Let’s see how this affects our zoo software! Surely, the zoo has more than one tortoise. The second tortoise is named Patricia!</description>
     </item>
     <item>
       <title>The Math Object</title>
       <link>http://localhost:1313/objects-and-math/reading/math-object/index.html</link>
       <pubDate>Thu, 31 Aug 2023 13:16:22 -0500</pubDate>
       <guid>http://localhost:1313/objects-and-math/reading/math-object/index.html</guid>
-      <description>JavaScript provides several built-in objects, which can be called directly by the user. One of these is the Math object, which contains more than the standard mathematical operations (+, -, *, /).
-In the previous sections, we learned how to construct, modify, and use objects such as giraffe. However, JavaScript built-in objects cannot be modified by the user.
-Unlike other objects, the Math object is immutable.
-Math Properties Are Constants The Math object has 8 defined properties.</description>
+      <description>JavaScript provides several built-in objects, which can be called directly by the user. One of these is the Math object, which contains more than the standard mathematical operations (+, -, *, /).&#xA;In the previous sections, we learned how to construct, modify, and use objects such as giraffe. However, JavaScript built-in objects cannot be modified by the user.&#xA;Unlike other objects, the Math object is immutable.&#xA;Math Properties Are Constants The Math object has 8 defined properties. These represent mathematical constants, like the value for pi (π) or the square root of 2.</description>
     </item>
     <item>
       <title>Math Methods</title>
       <link>http://localhost:1313/objects-and-math/reading/math-methods/index.html</link>
       <pubDate>Thu, 31 Aug 2023 13:16:22 -0500</pubDate>
       <guid>http://localhost:1313/objects-and-math/reading/math-methods/index.html</guid>
-      <description>As with strings and arrays, JavaScript provides some built-in methods for the Math object. These allow us to perform calculations or tasks that are more involved than simple multiplication, division, addition, or subtraction.
-Common Math Methods The Math object contains over 30 methods. The table below provides a sample of the most frequently used options. More complete lists can be found here:
-W3 Schools Math Reference MDN Web Docs To see detailed examples for a particular method, click on its name.</description>
+      <description>As with strings and arrays, JavaScript provides some built-in methods for the Math object. These allow us to perform calculations or tasks that are more involved than simple multiplication, division, addition, or subtraction.&#xA;Common Math Methods The Math object contains over 30 methods. The table below provides a sample of the most frequently used options. More complete lists can be found here:&#xA;W3 Schools Math Reference MDN Web Docs To see detailed examples for a particular method, click on its name.</description>
     </item>
     <item>
       <title>Combining Math Methods</title>
       <link>http://localhost:1313/objects-and-math/reading/math-applications/index.html</link>
       <pubDate>Thu, 31 Aug 2023 13:16:22 -0500</pubDate>
       <guid>http://localhost:1313/objects-and-math/reading/math-applications/index.html</guid>
-      <description>The Math methods provide useful actions, but each one is fairly specific in what it does (e.g. taking a square root). At first glance, this might seem to limit how often we need to call on Math. However, the methods can be manipulated or combined to produce some clever results.
-Random Selection From an Array To select a random item from the array happiness = [&#39;Hope&#39;, &#39;Joy&#39;, &#39;Peace&#39;, &#39;Love&#39;, &#39;Kindness&#39;, &#39;Puppies&#39;, &#39;Kittens&#39;, &#39;Tortoise&#39;], we need to randomly generate an index value from 0 to 7.</description>
+      <description>The Math methods provide useful actions, but each one is fairly specific in what it does (e.g. taking a square root). At first glance, this might seem to limit how often we need to call on Math. However, the methods can be manipulated or combined to produce some clever results.&#xA;Random Selection From an Array To select a random item from the array happiness = [&#39;Hope&#39;, &#39;Joy&#39;, &#39;Peace&#39;, &#39;Love&#39;, &#39;Kindness&#39;, &#39;Puppies&#39;, &#39;Kittens&#39;, &#39;Tortoise&#39;], we need to randomly generate an index value from 0 to 7. Since Math.random() returns a decimal number between 0 and 1, the method on its own will not work.</description>
     </item>
   </channel>
 </rss>

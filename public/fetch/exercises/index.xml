@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exercises: Fetch on Introduction to Web Dev</title>
+    <title>Exercises: Fetch :: Introduction to Web Dev</title>
     <link>http://localhost:1313/fetch/exercises/index.html</link>
-    <description>Recent content in Exercises: Fetch on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Fetch To practice fetching data, create a file called fetch_planets.html using touch in your terminal.&#xA;Add this preliminary HTML to your fetch_planets document:&#xA;&lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;title&gt;Fetch Planets&lt;/title&gt; &lt;script&gt; window.addEventListener(&#34;load&#34;, function(){ // TODO: fetch planets JSON }); &lt;/script&gt; &lt;/head&gt; &lt;body&gt; &lt;h1&gt;Destination&lt;/h1&gt; &lt;div id=&#34;destination&#34;&gt; &lt;h3&gt;Planet&lt;/h3&gt; &lt;/div&gt; &lt;/body&gt; &lt;/html&gt;</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/fetch/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/fetch/exercises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logical Operators on Introduction to Web Dev</title>
+    <title>Logical Operators :: Introduction to Web Dev</title>
     <link>http://localhost:1313/decisions-with-conditionals/reading/logical-operators/index.html</link>
-    <description>Recent content in Logical Operators on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recall that an operator is one or more characters that carries out an action on its operand(s). In Data and Variables we learned about three types of operators:&#xA;Arithmetic operators, such as +, -, *, /, and %. The string operator +. Compound assignment operators, such as += and -=. Arithmetic and string operators take number and string operands, respectively, returning values of the same type. Compound assignment operators work similarly with numbers or strings while also reassigning the value of the first, variable operand.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/decisions-with-conditionals/reading/logical-operators/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/decisions-with-conditionals/reading/logical-operators/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

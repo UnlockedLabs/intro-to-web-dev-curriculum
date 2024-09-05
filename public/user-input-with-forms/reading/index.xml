@@ -1,85 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/user-input-with-forms/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content Forms Form Submission POST Form Submission Text Inputs Specialized Text Inputs Checkbox Input Radio Input Select Input Validation with JavaScript </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/user-input-with-forms/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/user-input-with-forms/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forms</title>
       <link>http://localhost:1313/user-input-with-forms/reading/forms/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/forms/index.html</guid>
-      <description>As a user of the web, you know that web pages both display and accept data. In this chapter we are going to learn more about how web pages handle data input using HTML forms. An HTML form is used to accept input from the user and send that data to the server.
-Create a Form To declare a form in HTML use the &amp;lt;form&amp;gt; tag with open and closing tags.</description>
+      <description>As a user of the web, you know that web pages both display and accept data. In this chapter we are going to learn more about how web pages handle data input using HTML forms. An HTML form is used to accept input from the user and send that data to the server.&#xA;Create a Form To declare a form in HTML use the &lt;form&gt; tag with open and closing tags. This form element will serve as container for various types of other elements that are designed to capture input from the user.</description>
     </item>
     <item>
       <title>Form Submission</title>
       <link>http://localhost:1313/user-input-with-forms/reading/form-submission/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/form-submission/index.html</guid>
-      <description>Forms collect data input by the user. As we learned in the previous chapter, communication on the web occurs via a series of HTTP requests and responses. A form submission is an HTTP request sent to the server containing the values in a form.
-Trigger Form Submission A form submission is triggered by clicking a button inside the form. A submit button can be an input element with type=submit or a button element.</description>
+      <description>Forms collect data input by the user. As we learned in the previous chapter, communication on the web occurs via a series of HTTP requests and responses. A form submission is an HTTP request sent to the server containing the values in a form.&#xA;Trigger Form Submission A form submission is triggered by clicking a button inside the form. A submit button can be an input element with type=submit or a button element. Both button types are in the below example.</description>
     </item>
     <item>
       <title>POST Form Submission</title>
       <link>http://localhost:1313/user-input-with-forms/reading/post-form-submission/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/post-form-submission/index.html</guid>
-      <description>Form Submission Using POST Instead of using GET and query parameters to submit form data, we can use POST. To submit a form using a POST request, set the form&amp;rsquo;s method attribute to &amp;quot;POST&amp;quot;. Form data submitted via POST will be submitted in the body of the HTTP request. Data submitted by GET requests is less secure than POST because GET request URLs and the query parameters are cached and logged, possibly leaking sensitive data.</description>
+      <description>Form Submission Using POST Instead of using GET and query parameters to submit form data, we can use POST. To submit a form using a POST request, set the form’s method attribute to &#34;POST&#34;. Form data submitted via POST will be submitted in the body of the HTTP request. Data submitted by GET requests is less secure than POST because GET request URLs and the query parameters are cached and logged, possibly leaking sensitive data.</description>
     </item>
     <item>
       <title>Text Inputs</title>
       <link>http://localhost:1313/user-input-with-forms/reading/text-inputs/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/text-inputs/index.html</guid>
-      <description>As you know from interacting with web forms, it&amp;rsquo;s possible to use more than simple text inputs. There are additional input types, each with different uses. Many of the elements are &amp;lt;input&amp;gt; tags with a different type value, however some have entirely different tag names. The next few sections contain lists of input types.
-To start, here are three types of text inputs. These input types can contain text of any value.</description>
+      <description>As you know from interacting with web forms, it’s possible to use more than simple text inputs. There are additional input types, each with different uses. Many of the elements are &lt;input&gt; tags with a different type value, however some have entirely different tag names. The next few sections contain lists of input types.&#xA;To start, here are three types of text inputs. These input types can contain text of any value.</description>
     </item>
     <item>
       <title>Specialized Text Inputs</title>
       <link>http://localhost:1313/user-input-with-forms/reading/specialized-text-inputs/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/specialized-text-inputs/index.html</guid>
-      <description>For these text inputs the browser will validate and provide feedback to the user based on rules for the declared type.
-Type Syntax Description Demo date &amp;lt;input type=&amp;quot;date&amp;quot; name=&amp;quot;flightDate&amp;quot;/&amp;gt; Browser validates the value is a valid date format. Some browsers provide a date picker. email &amp;lt;input type=&amp;quot;email&amp;quot; name=&amp;quot;emailAddress&amp;quot;/&amp;gt; Browser validates the value is a valid email address format. number &amp;lt;input type=&amp;quot;number&amp;quot; name=&amp;quot;fuelTemp&amp;quot;/&amp;gt; Browser validates the value is a valid number format.</description>
+      <description>For these text inputs the browser will validate and provide feedback to the user based on rules for the declared type.&#xA;Type Syntax Description Demo date &lt;input type=&#34;date&#34; name=&#34;flightDate&#34;/&gt; Browser validates the value is a valid date format. Some browsers provide a date picker. email &lt;input type=&#34;email&#34; name=&#34;emailAddress&#34;/&gt; Browser validates the value is a valid email address format. number &lt;input type=&#34;number&#34; name=&#34;fuelTemp&#34;/&gt; Browser validates the value is a valid number format. Example &lt;form action=&#34;https://handlers.education.launchcode.org/request-parrot&#34; method=&#34;post&#34;&gt; &lt;label&gt;Email&lt;input type=&#34;email&#34; name=&#34;emailAddress&#34;/&gt;&lt;/label&gt; &lt;label&gt;Report Date&lt;input type=&#34;date&#34; name=&#34;reportDate&#34;/&gt;&lt;/label&gt; &lt;label&gt;Crew Count&lt;input type=&#34;number&#34; name=&#34;crewCount&#34; min=&#34;1&#34; max=&#34;10&#34;/&gt;&lt;/label&gt; &lt;button&gt;Send Report&lt;/button&gt; &lt;/form&gt;</description>
     </item>
     <item>
       <title>Checkbox Input</title>
       <link>http://localhost:1313/user-input-with-forms/reading/checkbox-input/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/checkbox-input/index.html</guid>
-      <description>A checkbox input represents a box to check. Checkbox inputs can be used by themselves or in groups. Checkbox inputs are best used with &amp;lt;label&amp;gt; tags.
-Type Syntax Description Demo checkbox &amp;lt;input type=&amp;quot;checkbox&amp;quot; name=&amp;quot;signUp&amp;quot;/&amp;gt; A small box for marking form option as checked. sign up Examples Example One checkbox. No value attribute is set, so the default value of on is submitted.
-&amp;lt;label&amp;gt;crew&amp;lt;input type=&amp;#34;checkbox&amp;#34; name=&amp;#34;crewReady&amp;#34;/&amp;gt;&amp;lt;/label&amp;gt; Submitted (if checked)
-crewReady=on Example Multiple checkbox inputs.</description>
+      <description>A checkbox input represents a box to check. Checkbox inputs can be used by themselves or in groups. Checkbox inputs are best used with &lt;label&gt; tags.&#xA;Type Syntax Description Demo checkbox &lt;input type=&#34;checkbox&#34; name=&#34;signUp&#34;/&gt; A small box for marking form option as checked. sign up Examples Example One checkbox. No value attribute is set, so the default value of on is submitted.</description>
     </item>
     <item>
       <title>Radio Input</title>
       <link>http://localhost:1313/user-input-with-forms/reading/radio-input/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/radio-input/index.html</guid>
-      <description>Radio inputs allow a user to pick one option out of a grouping of options. Radio inputs with the same name are grouped. Only one radio input in a group can be chosen at a time. The value attribute of the chosen radio input will be submitted. Radio inputs are best used with &amp;lt;label&amp;gt; tags.
-Type Syntax Description Demo radio &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;crewReady&amp;quot; value=&amp;quot;yes&amp;quot;/&amp;gt; A small circle that allows selecting one of multiple values.</description>
+      <description>Radio inputs allow a user to pick one option out of a grouping of options. Radio inputs with the same name are grouped. Only one radio input in a group can be chosen at a time. The value attribute of the chosen radio input will be submitted. Radio inputs are best used with &lt;label&gt; tags.&#xA;Type Syntax Description Demo radio &lt;input type=&#34;radio&#34; name=&#34;crewReady&#34; value=&#34;yes&#34;/&gt; A small circle that allows selecting one of multiple values. Used in groups of two or more. yesno Example &lt;form action=&#34;https://handlers.education.launchcode.org/request-parrot&#34; method=&#34;post&#34;&gt; Flight Rating: &lt;label&gt;Rough&lt;input type=&#34;radio&#34; name=&#34;flightRating&#34; value=&#34;rough&#34;/&gt;&lt;/label&gt; &lt;label&gt;Few Bumps&lt;input type=&#34;radio&#34; name=&#34;flightRating&#34; value=&#34;fewBumps&#34;/&gt;&lt;/label&gt; &lt;label&gt;Smooth&lt;input type=&#34;radio&#34; name=&#34;flightRating&#34; value=&#34;smooth&#34;/&gt;&lt;/label&gt; &lt;button&gt;Send Report&lt;/button&gt; &lt;/form&gt;</description>
     </item>
     <item>
       <title>Select Input</title>
       <link>http://localhost:1313/user-input-with-forms/reading/select-input/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/select-input/index.html</guid>
-      <description>Select inputs create a clickable menu that displays options and allows the user to select one. The available options are defined by &amp;lt;option&amp;gt; tags inside of the &amp;lt;select&amp;gt;&amp;lt;/select&amp;gt; tag.
-&amp;lt;option&amp;gt; tags have a value attribute which defines the value submitted if that option is selected. The text inside the &amp;lt;option&amp;gt;Option text&amp;lt;/option&amp;gt; is what is displayed in the select menu.
-Type Syntax Description Demo select &amp;lt;select name=&amp;quot;weather&amp;quot;&amp;gt;&amp;lt;option value=&amp;quot;1&amp;quot;&amp;gt;clear&amp;lt;/option&amp;gt;&amp;lt;option value=&amp;quot;2&amp;quot;&amp;gt;cloudy&amp;lt;/option&amp;gt;&amp;lt;/select&amp;gt; A menu that allows selection of one option.</description>
+      <description>Select inputs create a clickable menu that displays options and allows the user to select one. The available options are defined by &lt;option&gt; tags inside of the &lt;select&gt;&lt;/select&gt; tag.&#xA;&lt;option&gt; tags have a value attribute which defines the value submitted if that option is selected. The text inside the &lt;option&gt;Option text&lt;/option&gt; is what is displayed in the select menu.&#xA;Type Syntax Description Demo select &lt;select name=&#34;weather&#34;&gt;&lt;option value=&#34;1&#34;&gt;clear&lt;/option&gt;&lt;option value=&#34;2&#34;&gt;cloudy&lt;/option&gt;&lt;/select&gt; A menu that allows selection of one option. Requires options to be in &lt;option&gt; tags. clearcloudy Example &lt;form action=&#34;https://handlers.education.launchcode.org/request-parrot&#34; method=&#34;post&#34;&gt; &lt;label&gt;Operation Code: &lt;!-- includes empty value &#34;Select One&#34; option --&gt; &lt;select name=&#34;operation&#34;&gt; &lt;option value=&#34;&#34;&gt;* Select One *&lt;/option&gt; &lt;option value=&#34;1&#34;&gt;Simulation&lt;/option&gt; &lt;option value=&#34;2&#34;&gt;Rocket Test&lt;/option&gt; &lt;option value=&#34;3&#34;&gt;Crew Related&lt;/option&gt; &lt;/select&gt; &lt;/label&gt; &lt;label&gt;Facility: &lt;select name=&#34;facility&#34;&gt; &lt;option value=&#34;johnson&#34;&gt;Johnson Space Center, TX&lt;/option&gt; &lt;option value=&#34;kennedy&#34;&gt;Kennedy Space Center, FL&lt;/option&gt; &lt;option value=&#34;white-sands&#34;&gt;White Sands Test Facility, NM&lt;/option&gt; &lt;/select&gt; &lt;/label&gt; &lt;button&gt;Send Report&lt;/button&gt; &lt;/form&gt;</description>
     </item>
     <item>
       <title>Validation with JavaScript</title>
       <link>http://localhost:1313/user-input-with-forms/reading/validation-with-javascript/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/reading/validation-with-javascript/index.html</guid>
-      <description>Validating form inputs before submitting the form can make the user experience much smoother. Some input types have built-in browser validation for basic formats such as numbers and email addresses. We can use event handlers to perform more complex validation on form input values.
-Form Inputs and the DOM Before we can validate what the user has typed we need to understand how to use form inputs with the DOM. Remember that the DOM is a JavaScript representation of the HTML document.</description>
+      <description>Validating form inputs before submitting the form can make the user experience much smoother. Some input types have built-in browser validation for basic formats such as numbers and email addresses. We can use event handlers to perform more complex validation on form input values.&#xA;Form Inputs and the DOM Before we can validate what the user has typed we need to understand how to use form inputs with the DOM. Remember that the DOM is a JavaScript representation of the HTML document. &lt;input&gt; tags can be selected and referenced like any other HTML element.</description>
     </item>
   </channel>
 </rss>

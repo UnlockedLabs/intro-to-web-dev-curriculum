@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/dom-and-events/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content JavaScript and the Browser The Dom More DOM Methods and Properties Events Event Listeners Event Types </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/dom-and-events/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/dom-and-events/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript and the Browser</title>
       <link>http://localhost:1313/dom-and-events/reading/javascript-and-browser/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/dom-and-events/reading/javascript-and-browser/index.html</guid>
-      <description>Taking JavaScript on the Web So far, we have created web pages with HTML and CSS. These pages have been static, meaning that the page appears the same each time it loads. However, you may find that you want to create a web page that changes after it&amp;rsquo;s been loaded. In order to create such a page, you would use JavaScript. Web pages that can change after loading in the browser are called dynamic.</description>
+      <description>Taking JavaScript on the Web So far, we have created web pages with HTML and CSS. These pages have been static, meaning that the page appears the same each time it loads. However, you may find that you want to create a web page that changes after it’s been loaded. In order to create such a page, you would use JavaScript. Web pages that can change after loading in the browser are called dynamic. This is useful to programmers and users alike because they can interact with an application without refreshing the page. Having to constantly refresh the page would be a poor experience for the user and JavaScript helps programmers alleviate this burden.</description>
     </item>
     <item>
       <title>The Dom</title>
@@ -26,33 +27,28 @@
       <link>http://localhost:1313/dom-and-events/reading/more-dom-methods/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/dom-and-events/reading/more-dom-methods/index.html</guid>
-      <description>The following sections are a summary of some DOM classes, methods, and properties. A more complete list can be found in the reference links below. You do NOT need to memorize everything on these reference pages. We are providing them to you as a guide for your future studies of the DOM.
-W3Schools DOM reference . MDN DOM reference . Window The global variable window is an instance of the Window class.</description>
+      <description>The following sections are a summary of some DOM classes, methods, and properties. A more complete list can be found in the reference links below. You do NOT need to memorize everything on these reference pages. We are providing them to you as a guide for your future studies of the DOM.&#xA;W3Schools DOM reference . MDN DOM reference . Window The global variable window is an instance of the Window class. The Window class represents the browser window. In the case of multi-tabbed browsers, the global window variable represents the specific tab in which the JavaScript code is running.</description>
     </item>
     <item>
       <title>Events</title>
       <link>http://localhost:1313/dom-and-events/reading/events/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/dom-and-events/reading/events/index.html</guid>
-      <description>Have you ever thought about how programs respond to interactions from users and other programs? Events are code representations of these interactions that need to be responded to.
-In programming, events are triggered and then handled.
-Events in programming are triggered and handled. Triggering an event is the act of causing an event to be sent. Handling an event is receiving the event and performing an action in response.
-JavaScript and Events JavaScript is an event-driven programming language.</description>
+      <description>Have you ever thought about how programs respond to interactions from users and other programs? Events are code representations of these interactions that need to be responded to.&#xA;In programming, events are triggered and then handled.&#xA;Events in programming are triggered and handled. Triggering an event is the act of causing an event to be sent. Handling an event is receiving the event and performing an action in response.</description>
     </item>
     <item>
       <title>Event Listeners</title>
       <link>http://localhost:1313/dom-and-events/reading/event-listeners/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/dom-and-events/reading/event-listeners/index.html</guid>
-      <description>Using inline event handling is a good way to get started handling events. A second way to handle events uses the DOM objects and methods. Remember, the DOM is an object representation of the entire web page. The DOM allows us to use JavaScript to configure our event handlers. The event handling declaration will no longer be in the HTML element attribute, but will instead be inside &amp;lt;script&amp;gt; tags or in an external JavaScript file.</description>
+      <description>Using inline event handling is a good way to get started handling events. A second way to handle events uses the DOM objects and methods. Remember, the DOM is an object representation of the entire web page. The DOM allows us to use JavaScript to configure our event handlers. The event handling declaration will no longer be in the HTML element attribute, but will instead be inside &lt;script&gt; tags or in an external JavaScript file.</description>
     </item>
     <item>
       <title>Event Types</title>
       <link>http://localhost:1313/dom-and-events/reading/event-types/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/dom-and-events/reading/event-types/index.html</guid>
-      <description>DOM and JavaScript can handle numerous event types. We will discuss a few different types of events here. As you continue your studies of the DOM and events, you may find these two reference links helpful.
-W3Schools Event reference . MDN Event reference . load Event The DOM includes the load event, which is triggered when the window, elements, and resources have been loaded by the browser. Why is it important to know when things have loaded?</description>
+      <description>DOM and JavaScript can handle numerous event types. We will discuss a few different types of events here. As you continue your studies of the DOM and events, you may find these two reference links helpful.&#xA;W3Schools Event reference . MDN Event reference . load Event The DOM includes the load event, which is triggered when the window, elements, and resources have been loaded by the browser. Why is it important to know when things have loaded? Remember you can’t interact with HTML elements in JavaScript unless they have been loaded into the DOM.</description>
     </item>
   </channel>
 </rss>

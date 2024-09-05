@@ -1,78 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math Method Examples on Introduction to Web Dev</title>
+    <title>Math Method Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/math-method-examples/index.html</link>
-    <description>Recent content in Math Method Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description> Math.abs Examples Math.ceil, floor, and trunc Examples Math.max and Math.min Examples Math.pow and Math.sqrt Examples Math.random Examples Math.round Examples </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/math-method-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/math-method-examples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math.abs Examples</title>
       <link>http://localhost:1313/appendices/math-method-examples/abs-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/math-method-examples/abs-examples/index.html</guid>
-      <description>The general syntax for this method is:
-Math.abs(number) This method returns the positive value of a number, which can be printed or stored in a variable. abs works on both integer and decimal values.
-Numerical strings can also be evaluated, but should be avoided as a best practice.
-Example 1 2 3 4 5 6 7 8 let num = Math.abs(-3); console.log(num); console.log(Math.abs(4.44)); console.log(Math.abs(&amp;#39;-3.33&amp;#39;)); console.log(Math.abs(24/-3)); // 24/-3 = -8 Console Output</description>
+      <description>The general syntax for this method is:&#xA;Math.abs(number) This method returns the positive value of a number, which can be printed or stored in a variable. abs works on both integer and decimal values.&#xA;Numerical strings can also be evaluated, but should be avoided as a best practice.&#xA;Example 1 2 3 4 5 6 7 8 </description>
     </item>
     <item>
       <title>Math.ceil, floor, and trunc Examples</title>
       <link>http://localhost:1313/appendices/math-method-examples/ceilfloortrunc-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/math-method-examples/ceilfloortrunc-examples/index.html</guid>
-      <description>Math.ceil The general syntax for this method is:
-Math.ceil(number) This method rounds a decimal value UP to the next integer (hence the ceiling reference in the name). Integer values remain the same.
-ceil also operates on arrays.
-Numerical strings can also be evaluated, but should be avoided as a best practice.
-Example 1 2 3 4 5 6 7 console.log(Math.ceil(8.88)); console.log(Math.ceil(8.1)); console.log(Math.ceil(-3.9)); console.log(Math.ceil(5)); Console Output
-9 9 -3 5 Math.floor The general syntax for this method is:</description>
+      <description>Math.ceil The general syntax for this method is:&#xA;Math.ceil(number) This method rounds a decimal value UP to the next integer (hence the ceiling reference in the name). Integer values remain the same.&#xA;ceil also operates on arrays.&#xA;Numerical strings can also be evaluated, but should be avoided as a best practice.&#xA;Example 1 2 3 4 5 6 7 </description>
     </item>
     <item>
       <title>Math.max and Math.min Examples</title>
       <link>http://localhost:1313/appendices/math-method-examples/max-and-min-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/math-method-examples/max-and-min-examples/index.html</guid>
-      <description>Math.max The general syntax for this method is:
-Math.max(x, y, z, ...) This method finds and returns the largest value from a set of numbers (x, y, z, &amp;hellip;).
-To find the maximum value in an array, see below.
-Example console.log(Math.max(2, 3, 100.01, 0, -5.2, 100)); Console Output
-100.01 Math.min The general syntax for this method is:
-Math.min(x, y, z, ...) This method finds and returns the smallest value from a set of numbers (x, y, z,&amp;hellip;).</description>
+      <description>Math.max The general syntax for this method is:&#xA;Math.max(x, y, z, ...) This method finds and returns the largest value from a set of numbers (x, y, z, …).&#xA;To find the maximum value in an array, see below.&#xA;Example console.log(Math.max(2, 3, 100.01, 0, -5.2, 100));</description>
     </item>
     <item>
       <title>Math.pow and Math.sqrt Examples</title>
       <link>http://localhost:1313/appendices/math-method-examples/pow-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/math-method-examples/pow-examples/index.html</guid>
-      <description>Math.pow The general syntax for this method is:
-Math.pow(x, y) This method calculates and returns the value of x raised to the power of y (x :sup:y), and it is identical to the x**y operation. The pow name refers to the operation to the power of.
-Example 1 2 3 console.log(3**4); console.log(Math.pow(3,4)); //3 raised to the power of 4 = 3*3*3*3 Console Output
-81 81 Math.sqrt The general syntax for this method is:</description>
+      <description>Math.pow The general syntax for this method is:&#xA;Math.pow(x, y) This method calculates and returns the value of x raised to the power of y (x :sup:y), and it is identical to the x**y operation. The pow name refers to the operation to the power of.&#xA;Example 1 2 3 </description>
     </item>
     <item>
       <title>Math.random Examples</title>
       <link>http://localhost:1313/appendices/math-method-examples/random-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/math-method-examples/random-examples/index.html</guid>
-      <description>The general syntax for this method is:
-Math.random() This method returns a random decimal value between 0 and 1, which can be stored in a variable or used in a calculation.
-Note that 0 is a possible selection, but 1 is NOT.
-Example 1 2 3 4 for (i=0; i&amp;lt;5; i++){ let randNum = Math.random(); console.log(randNum); } Console Output
-0.34992592600591066 0.11861535165960668 0.019710093901842862 0.7751799992655235 0.46782849511194136 Generate a Random Integer If a random integer must be generated, the result of Math.</description>
+      <description>The general syntax for this method is:&#xA;Math.random() This method returns a random decimal value between 0 and 1, which can be stored in a variable or used in a calculation.&#xA;Note that 0 is a possible selection, but 1 is NOT.&#xA;Example 1 2 3 4 </description>
     </item>
     <item>
       <title>Math.round Examples</title>
       <link>http://localhost:1313/appendices/math-method-examples/round-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/math-method-examples/round-examples/index.html</guid>
-      <description>The general syntax for this method is:
-Math.round(number) This method returns number rounded to the nearest integer value.
-Numerical strings can also be evaluated, but should be avoided as a best practice.
-Example 1 2 3 4 console.log(Math.round(1.33)); console.log(Math.round(-28.7)); console.log(Math.round(8.5)); console.log(Math.round(&amp;#34;101.45&amp;#34;)); Console Output
-1 -29 9 101 Math.round also works on arrays, but must be combined with the map array method. The syntax for this is:
-arrayName.map(Math.round) Example 1 2 3 let numbers = [1.</description>
+      <description>The general syntax for this method is:&#xA;Math.round(number) This method returns number rounded to the nearest integer value.&#xA;Numerical strings can also be evaluated, but should be avoided as a best practice.&#xA;Example 1 2 3 4 </description>
     </item>
   </channel>
 </rss>

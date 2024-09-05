@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Why Use Anonymous Functions? on Introduction to Web Dev</title>
+    <title>Why Use Anonymous Functions? :: Introduction to Web Dev</title>
     <link>http://localhost:1313/more-on-functions/reading/why-anonymous-functions/index.html</link>
-    <description>Recent content in Why Use Anonymous Functions? on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>At this point, you may be asking yourself Why am I learning anonymous functions? They seem strange, and their utility may not be immediately obvious. While the opinions of programmers differ, there are two main reasons why we think anonymous functions are important to understand.&#xA;Anonymous Functions Can Be Single-Use There are many situations in which you will need to create a function that will only be used once. To see this, recall one of our earlier examples.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/more-on-functions/reading/why-anonymous-functions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/more-on-functions/reading/why-anonymous-functions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

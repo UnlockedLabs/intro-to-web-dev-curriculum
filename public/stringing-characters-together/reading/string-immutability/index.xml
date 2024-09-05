@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>String Immutability on Introduction to Web Dev</title>
+    <title>String Immutability :: Introduction to Web Dev</title>
     <link>http://localhost:1313/stringing-characters-together/reading/string-immutability/index.html</link>
-    <description>Recent content in String Immutability on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>If an object cannot be changed, we say that it is immutable. Strings are immutable, which means we cannot change the individual characters within a given string. While we can access individual characters using bracket notation, attempting to change individual characters simply does not work.&#xA;Example 1 2 3 4 5 </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/stringing-characters-together/reading/string-immutability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/stringing-characters-together/reading/string-immutability/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

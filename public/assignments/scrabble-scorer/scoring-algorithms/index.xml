@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Task 2: Add and Organize Scoring Algorithms on Introduction to Web Dev</title>
+    <title>Task 2: Add and Organize Scoring Algorithms :: Introduction to Web Dev</title>
     <link>http://localhost:1313/assignments/scrabble-scorer/scoring-algorithms/index.html</link>
-    <description>Recent content in Task 2: Add and Organize Scoring Algorithms on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Your job here is to write two other scoring algorithms for the Scrabble player.&#xA;simpleScorer: Define a function that takes a word as a parameter and returns a numerical score. Each letter within the word is worth 1 point. vowelBonusScorer: Define a function that takes a word as a parameter and returns a score. Each vowel within the word is worth 3 points, and each consonant is worth 1 point. Note Make each scoring algorithm case insensitive, meaning that they should all ignore case when assigning points.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/assignments/scrabble-scorer/scoring-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/scrabble-scorer/scoring-algorithms/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

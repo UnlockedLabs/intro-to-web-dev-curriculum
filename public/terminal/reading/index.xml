@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/terminal/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content What is a terminal anyways? Filesystem and Paths How to Do Stuff in the Terminal Running Programs in the Terminal </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/terminal/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/terminal/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is a terminal anyways?</title>
       <link>http://localhost:1313/terminal/reading/what-is-a-terminal/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/terminal/reading/what-is-a-terminal/index.html</guid>
-      <description>GUIs and CLIs Most of the time when we use our computers, we do so through a graphical user interface, or GUI for short. A GUI is a system designed with icons and visual representations of the machine&amp;rsquo;s file systems.
-Programmers often use another kind of interface, called the command line. A CLI, or command line interface, uses textual commands, rather than dragging and dropping icons, to give the computer instructions.</description>
+      <description>GUIs and CLIs Most of the time when we use our computers, we do so through a graphical user interface, or GUI for short. A GUI is a system designed with icons and visual representations of the machine’s file systems.</description>
     </item>
     <item>
       <title>Filesystem and Paths</title>
       <link>http://localhost:1313/terminal/reading/filesystems-paths/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/terminal/reading/filesystems-paths/index.html</guid>
-      <description>A filesystem is a structure for the computer to store the files and folders that make up the data of the operating system.
-Inside a filesystem, folders are referred to as directories. Folders that exist inside other folders are called subdirectories. A root directory can refer to a few different things but essentially means the top-most directory of a given system. In other words, a root directory is not a sub-directory - but it will probably contain its own subdirectories.</description>
+      <description>A filesystem is a structure for the computer to store the files and folders that make up the data of the operating system.&#xA;Inside a filesystem, folders are referred to as directories. Folders that exist inside other folders are called subdirectories. A root directory can refer to a few different things but essentially means the top-most directory of a given system. In other words, a root directory is not a sub-directory - but it will probably contain its own subdirectories. Inside the machine you work with, the root directory is the location of primary hard drive - in Windows, that’s your C drive; in a Mac, the root directory is represented as /. The root directory is the parent directory for the folders stored inside of it.</description>
     </item>
     <item>
       <title>How to Do Stuff in the Terminal</title>
       <link>http://localhost:1313/terminal/reading/how-to-do-stuff/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/terminal/reading/how-to-do-stuff/index.html</guid>
-      <description>Navigating the Terminal Window Moving from a GUI to a CLI can be difficult when we are so used to dragging our files from one folder to another. One of the difficulties is simply figuring out where we are in the filesystem! Here are some key indicators that the terminal gives us to show where we are:
-LaunchCode-Super-Computer:~ lcstaffmember$ This line is called the prompt. The prompt lets us know that the terminal is ready to accept commands.</description>
+      <description>Navigating the Terminal Window Moving from a GUI to a CLI can be difficult when we are so used to dragging our files from one folder to another. One of the difficulties is simply figuring out where we are in the filesystem! Here are some key indicators that the terminal gives us to show where we are:&#xA;LaunchCode-Super-Computer:~ lcstaffmember$This line is called the prompt. The prompt lets us know that the terminal is ready to accept commands. LaunchCode-Super-Computer is the name of the computer. The ~ tells us we are currently in the Home directory. The Home directory is the folder that contains everything in the computer. lcstaffmember is the username of the person who has logged onto the terminal. We will be typing all of our commands after the $.</description>
     </item>
     <item>
       <title>Running Programs in the Terminal</title>
       <link>http://localhost:1313/terminal/reading/running-programs/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/terminal/reading/running-programs/index.html</guid>
-      <description>Quickly navigating through our filesystems is just one benefit of using the terminal for programmers. We can also quickly run our code inside of the terminal to see the outputs.
-The commands used to run a program in the terminal vary widely based on type of program you want to run. However, no matter what language you are coding in, the documentation will include, in some format, ways to run the program in the terminal.</description>
+      <description>Quickly navigating through our filesystems is just one benefit of using the terminal for programmers. We can also quickly run our code inside of the terminal to see the outputs.&#xA;The commands used to run a program in the terminal vary widely based on type of program you want to run. However, no matter what language you are coding in, the documentation will include, in some format, ways to run the program in the terminal.</description>
     </item>
   </channel>
 </rss>

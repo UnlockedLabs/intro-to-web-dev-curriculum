@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio: Objects and Math on Introduction to Web Dev</title>
+    <title>Studio: Objects and Math :: Introduction to Web Dev</title>
     <link>http://localhost:1313/objects-and-math/studio/index.html</link>
-    <description>Recent content in Studio: Objects and Math on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>In the exercises, you created objects to store data about the candidates for our animal astronaut corps. For this studio, we provide you with a ready-made set of candidates.&#xA;You must create code to:&#xA;Select the crew. Perform critical mission calculations. Determine the fuel required for launch. Select the Crew To access the code for the first part, open ObjectsStudio01.js in javascript-projects/objects-and-math/studio.&#xA;Randomly Select ID Numbers Each candidate was assigned an ID number, which is stored in the candidate’s data file and in the idNumbers array.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 13:16:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/objects-and-math/studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/objects-and-math/studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

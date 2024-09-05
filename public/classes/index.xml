@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 18: Classes on Introduction to Web Dev</title>
+    <title>Chapter 18: Classes :: Introduction to Web Dev</title>
     <link>http://localhost:1313/classes/index.html</link>
-    <description>Recent content in Chapter 18: Classes on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Create and instantiate classes Use inheritance to share behavior and data Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on.&#xA;What are Classes? class Declaring and Calling a Class instance Inheritance Object-oriented programming inheritance child classes parent classes Chapter Content Reading Exercises: Classes Studio: Classes Next Steps </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Sep 2023 16:20:48 -0500</lastBuildDate><atom:link href="http://localhost:1313/classes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 16:20:48 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/classes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/classes/reading/index.html</link>
@@ -19,28 +20,21 @@
       <link>http://localhost:1313/classes/exercises/index.html</link>
       <pubDate>Fri, 15 Sep 2023 16:20:48 -0500</pubDate>
       <guid>http://localhost:1313/classes/exercises/index.html</guid>
-      <description>Welcome to the space station! It is your first day onboard and as the newest and most junior member of the crew, you have been asked to organize the library of manuals and fun novels for the crew to read.
-Headquarters have asked that you store the following information about each book.
-The title The author The copyright date The ISBN The number of pages The number of times the book has been checked out.</description>
+      <description>Welcome to the space station! It is your first day onboard and as the newest and most junior member of the crew, you have been asked to organize the library of manuals and fun novels for the crew to read.&#xA;Headquarters have asked that you store the following information about each book.&#xA;The title The author The copyright date The ISBN The number of pages The number of times the book has been checked out. Whether the book has been discarded. Headquarters also needs you to track certain actions that you must perform when books get out of date. First, for a manual, the book must be thrown out if it is over 5 years old. Second, for a novel, the book should be thrown out if it has been checked out over 100 times.</description>
     </item>
     <item>
       <title>Studio: Classes</title>
       <link>http://localhost:1313/classes/studio/index.html</link>
       <pubDate>Fri, 15 Sep 2023 16:20:48 -0500</pubDate>
       <guid>http://localhost:1313/classes/studio/index.html</guid>
-      <description>Getting Started Let&amp;rsquo;s create a class to handle new animal crew candidates!
-Open up ClassStudio.js in javascript-projects/classes/studio and edit the file as you complete the studio activity.
-Part 1 - Add Class Properties Declare a class called CrewCandidate with a constructor that takes three parameters&amp;mdash;name, mass, and scores. Note that scores will be an array of test results.
-Create objects for the following candidates:
-Bubba Bear has a mass of 135 kg and test scores of 88, 85, and 90.</description>
+      <description>Getting Started Let’s create a class to handle new animal crew candidates!&#xA;Open up ClassStudio.js in javascript-projects/classes/studio and edit the file as you complete the studio activity.&#xA;Part 1 - Add Class Properties Declare a class called CrewCandidate with a constructor that takes three parameters—name, mass, and scores. Note that scores will be an array of test results.&#xA;Create objects for the following candidates:</description>
     </item>
     <item>
       <title>Next Steps</title>
       <link>http://localhost:1313/classes/next-steps/index.html</link>
       <pubDate>Fri, 15 Sep 2023 16:20:48 -0500</pubDate>
       <guid>http://localhost:1313/classes/next-steps/index.html</guid>
-      <description>The next chapter will cover more about the terminal. If you would like some additional resources on classes in JavaScript, here are a few of our favorites.
-JavaScript Classes W3Schools MDN documentation </description>
+      <description>The next chapter will cover more about the terminal. If you would like some additional resources on classes in JavaScript, here are a few of our favorites.&#xA;JavaScript Classes W3Schools MDN documentation </description>
     </item>
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Operations on Introduction to Web Dev</title>
+    <title>Operations :: Introduction to Web Dev</title>
     <link>http://localhost:1313/data-and-variables/reading/operations/index.html</link>
-    <description>Recent content in Operations on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Operators and Operands Now that we can store data in variables, let’s explore how we can generate new data from existing data.&#xA;An operator is one or more characters that represents a computation like addition, multiplication, or division. The values an operator works on are called operands.&#xA;The following are all legal JavaScript expressions whose meaning is more or less clear:&#xA;20 + 32 hour - 1 hour * 60 + minute minute / 60 5 ** 2 (5 + 9) * (15 - 7) For example, in the calculation 20 + 32, the operator is + and the operands are 20 and 32.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/data-and-variables/reading/operations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/data-and-variables/reading/operations/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

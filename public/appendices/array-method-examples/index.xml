@@ -1,127 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Array Method Examples on Introduction to Web Dev</title>
+    <title>Array Method Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/array-method-examples/index.html</link>
-    <description>Recent content in Array Method Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Content Links concat Examples includes Example indexOf Examples join Examples push and pop Examples reverse Example shift and unshift Examples slice Examples sort Examples splice Examples split Examples </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/array-method-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/array-method-examples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>concat Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/concat-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/concat-examples/index.html</guid>
-      <description>.concat() Examples The general syntax for this method is:
-arrayName.concat(otherArray1, otherArray2, ...) This method adds the elements of one array to the end of another. The new array must be stored in a variable or printed to the screen, because concat does NOT alter the original arrays.
-Example let arr = [1, 2, 3]; let otherArray = [&amp;#39;M&amp;#39;, &amp;#39;F&amp;#39;, &amp;#39;E&amp;#39;]; let newArray = []; newArray = arr.concat(otherArray); console.log(newArray); newArray = otherArray.</description>
+      <description>.concat() Examples The general syntax for this method is:&#xA;arrayName.concat(otherArray1, otherArray2, ...)This method adds the elements of one array to the end of another. The new array must be stored in a variable or printed to the screen, because concat does NOT alter the original arrays.&#xA;Example let arr = [1, 2, 3]; let otherArray = [&#39;M&#39;, &#39;F&#39;, &#39;E&#39;]; let newArray = []; newArray = arr.concat(otherArray); console.log(newArray); newArray = otherArray.concat(arr); console.log(newArray); console.log(arr.concat(otherArray, arr)); console.log(arr);</description>
     </item>
     <item>
       <title>includes Example</title>
       <link>http://localhost:1313/appendices/array-method-examples/includes-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/includes-examples/index.html</guid>
-      <description>.includes() Example The general syntax for this method is:
-arrayName.includes(item) This method checks if an array contains the item specified in the parentheses (), and returns true or false.
-Example let charles = [1, 7, 5, 9, 5]; let otherArr = [&amp;#39;hello&amp;#39;, &amp;#39;world!&amp;#39;]; console.log(charles.includes(5)); console.log(otherArr.includes(&amp;#39;hi&amp;#39;)); Output
-true false </description>
+      <description>.includes() Example The general syntax for this method is:&#xA;arrayName.includes(item)This method checks if an array contains the item specified in the parentheses (), and returns true or false.&#xA;Example let charles = [1, 7, 5, 9, 5]; let otherArr = [&#39;hello&#39;, &#39;world!&#39;]; console.log(charles.includes(5)); console.log(otherArr.includes(&#39;hi&#39;));</description>
     </item>
     <item>
       <title>indexOf Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/indexof-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/indexof-examples/index.html</guid>
-      <description>.indexOf() Examples The general syntax for this method is:
-arrayName.indexOf(item) This method returns the index of the FIRST occurence of an item in the array. If the item is not in the array, -1 is returned.
-Example let charles = [1, 7, 5, 9, 5]; let otherArray = [&amp;#39;hello&amp;#39;, &amp;#39;world!&amp;#39;]; console.log(charles.indexOf(5)); console.log(otherArray.indexOf(&amp;#39;hi&amp;#39;)); Output
-2 -1 </description>
+      <description>.indexOf() Examples The general syntax for this method is:&#xA;arrayName.indexOf(item)This method returns the index of the FIRST occurence of an item in the array. If the item is not in the array, -1 is returned.&#xA;Example let charles = [1, 7, 5, 9, 5]; let otherArray = [&#39;hello&#39;, &#39;world!&#39;]; console.log(charles.indexOf(5)); console.log(otherArray.indexOf(&#39;hi&#39;));</description>
     </item>
     <item>
       <title>join Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/join-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/join-examples/index.html</guid>
-      <description>.join() Examples The general syntax for this method is:
-arrayName.join(&amp;#39;connector&amp;#39;) join combines all the elements of an array into a string. The connector determines the string that &amp;ldquo;glues&amp;rdquo; the array elements together.
-Example let arr = [1, 2, 3, 4]; let words = [&amp;#39;hello&amp;#39;, &amp;#39;world&amp;#39;, &amp;#39;!&amp;#39;]; let newString = &amp;#39;&amp;#39;; newString = arr.join(&amp;#34;+&amp;#34;); console.log(newString); newString = words.join(&amp;#34;&amp;#34;); console.log(newString); newString = words.join(&amp;#34;_&amp;#34;); console.log(newString); Output
-1+2+3+4 helloworld! hello_world_! </description>
+      <description>.join() Examples The general syntax for this method is:&#xA;arrayName.join(&#39;connector&#39;)join combines all the elements of an array into a string. The connector determines the string that “glues” the array elements together.&#xA;Example let arr = [1, 2, 3, 4]; let words = [&#39;hello&#39;, &#39;world&#39;, &#39;!&#39;]; let newString = &#39;&#39;; newString = arr.join(&#34;+&#34;); console.log(newString); newString = words.join(&#34;&#34;); console.log(newString); newString = words.join(&#34;_&#34;); console.log(newString);</description>
     </item>
     <item>
       <title>push and pop Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/push-pop-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/push-pop-examples/index.html</guid>
-      <description>.push() And .pop() Examples .push() The general syntax for this method is:
-arrayName.push(item1, item2, ...) This method adds one or more items to the END of an array and returns the new length.
-The new items may be of any data type.
-Example let arr = [&amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;]; console.log(arr.push(&amp;#39;d&amp;#39;, &amp;#39;f&amp;#39;, 42)); console.log(arr); Output
-6 [&amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;d&amp;#39;, &amp;#39;f&amp;#39;, 42] .pop() The general syntax for this method is:
-arrayName.pop() This method removes and returns the LAST element in an array.</description>
+      <description>.push() And .pop() Examples .push() The general syntax for this method is:&#xA;arrayName.push(item1, item2, ...)This method adds one or more items to the END of an array and returns the new length.&#xA;The new items may be of any data type.&#xA;Example let arr = [&#39;a&#39;, &#39;b&#39;, &#39;c&#39;]; console.log(arr.push(&#39;d&#39;, &#39;f&#39;, 42)); console.log(arr);</description>
     </item>
     <item>
       <title>reverse Example</title>
       <link>http://localhost:1313/appendices/array-method-examples/reverse-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/reverse-examples/index.html</guid>
-      <description>.reverse() Example The general syntax for this method is:
-arrayName.reverse() This method is straightforward - it reverses the order of the elements in the array.
-No arguments are placed inside the parentheses ().
-Example let arr = [&amp;#39;At&amp;#39;, &amp;#39;banana&amp;#39;, &amp;#39;orange&amp;#39;, &amp;#39;apple&amp;#39;, &amp;#39;zoo&amp;#39;]; arr.reverse(); console.log(arr); Output
-[ &amp;#39;zoo&amp;#39;, &amp;#39;apple&amp;#39;, &amp;#39;orange&amp;#39;, &amp;#39;banana&amp;#39;, &amp;#39;At&amp;#39; ] </description>
+      <description>.reverse() Example The general syntax for this method is:&#xA;arrayName.reverse()This method is straightforward - it reverses the order of the elements in the array.&#xA;No arguments are placed inside the parentheses ().&#xA;Example let arr = [&#39;At&#39;, &#39;banana&#39;, &#39;orange&#39;, &#39;apple&#39;, &#39;zoo&#39;]; arr.reverse(); console.log(arr);</description>
     </item>
     <item>
       <title>shift and unshift Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/shift-unshift-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/shift-unshift-examples/index.html</guid>
-      <description>.shift() And .unshift() Examples .shift() The general syntax for this method is:
-arrayName.shift() This method removes and returns the FIRST element in an array.
-No arguments are placed inside the parentheses ().
-Example let arr = [&amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;d&amp;#39;, &amp;#39;e&amp;#39;]; arr.shift(); console.log(arr); Output
-&amp;#39;a&amp;#39; [&amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;d&amp;#39;, &amp;#39;e&amp;#39;] .unshift() The general syntax for this method is:
-arrayName.unshift(item1, item2, ...) This method adds one or more items to the START of an array and returns the new length.</description>
+      <description>.shift() And .unshift() Examples .shift() The general syntax for this method is:&#xA;arrayName.shift()This method removes and returns the FIRST element in an array.&#xA;No arguments are placed inside the parentheses ().&#xA;Example let arr = [&#39;a&#39;, &#39;b&#39;, &#39;c&#39;, &#39;d&#39;, &#39;e&#39;]; arr.shift(); console.log(arr);</description>
     </item>
     <item>
       <title>slice Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/slice-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/slice-examples/index.html</guid>
-      <description>.slice() Examples The general syntax for this method is:
-arrayName.slice(starting index, ending index) This method copies a range of elements from one array into a new array. slice does NOT change the original array, but returns a new array.
-The ending index is optional. If it is left out, slice returns a new array that includes everything from the starting index to the end of the original array.
-If both indices are used, the new array contains everything from the starting index up to, but NOT including the ending index.</description>
+      <description>.slice() Examples The general syntax for this method is:&#xA;arrayName.slice(starting index, ending index)This method copies a range of elements from one array into a new array. slice does NOT change the original array, but returns a new array.&#xA;The ending index is optional. If it is left out, slice returns a new array that includes everything from the starting index to the end of the original array.</description>
     </item>
     <item>
       <title>sort Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/sort-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/sort-examples/index.html</guid>
-      <description>.sort() Examples The general syntax for this method is:
-arrayName.sort() This method arranges the elements of an array into increasing order. For strings, this means alphabetical order. HOWEVER, the results are not always what we expect.
-Example Alphabetical order?
-let letters = [&amp;#39;f&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;B&amp;#39;, &amp;#39;X&amp;#39;, &amp;#39;a&amp;#39;]; letters.sort(); console.log(letters); Output
-[ &amp;#39;B&amp;#39;, &amp;#39;X&amp;#39;, &amp;#39;a&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;f&amp;#39; ] From the alphabet song, we know that &amp;lsquo;a&amp;rsquo; comes before &amp;lsquo;B&amp;rsquo; (and certainly before &amp;lsquo;X&amp;rsquo;), but JavaScript treats capital and lowercase letters differently.</description>
+      <description>.sort() Examples The general syntax for this method is:&#xA;arrayName.sort()This method arranges the elements of an array into increasing order. For strings, this means alphabetical order. HOWEVER, the results are not always what we expect.&#xA;Example Alphabetical order?</description>
     </item>
     <item>
       <title>splice Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/splice-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/splice-examples/index.html</guid>
-      <description>.splice() Examples The general syntax for this method is:
-arrayName.splice(index, number of elements to change, item1, item2, ...); Inside the parentheses (), only the first argument is required.
-The splice method modifies one or more elements anywhere in the array. Entries can be added, removed, or changed. This method requires practice.
-Hang on, here we go:
-Removing Elements To remove elements from an array, the splice method needs 1 or 2 arguments.</description>
+      <description>.splice() Examples The general syntax for this method is:&#xA;arrayName.splice(index, number of elements to change, item1, item2, ...);Inside the parentheses (), only the first argument is required.&#xA;The splice method modifies one or more elements anywhere in the array. Entries can be added, removed, or changed. This method requires practice.</description>
     </item>
     <item>
       <title>split Examples</title>
       <link>http://localhost:1313/appendices/array-method-examples/split-examples/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/array-method-examples/split-examples/index.html</guid>
-      <description>.split() Examples The general syntax for this method is:
-stringName.split(&amp;#39;delimiter&amp;#39;) split is actually a string method, but it complements the array method join.
-split divides a string into smaller pieces, which are stored in a new array. The delimiter argument determines how the string is broken apart.
-Example let numbers = &amp;#34;1,2,3,4&amp;#34;; let word = &amp;#34;Rutabaga&amp;#34;; let phrase = &amp;#34;Bookkeeper of balloons.&amp;#34; let arr = []; arr = numbers.split(&amp;#39;,&amp;#39;); //split the string at each comma.</description>
+      <description>.split() Examples The general syntax for this method is:&#xA;stringName.split(&#39;delimiter&#39;)split is actually a string method, but it complements the array method join.&#xA;split divides a string into smaller pieces, which are stored in a new array. The delimiter argument determines how the string is broken apart.&#xA;Example let numbers = &#34;1,2,3,4&#34;; let word = &#34;Rutabaga&#34;; let phrase = &#34;Bookkeeper of balloons.&#34; let arr = []; arr = numbers.split(&#39;,&#39;); //split the string at each comma. console.log(arr); arr = phrase.split(&#39; &#39;); //split the string at each space. console.log(arr); arr = word.split(&#39;&#39;); //split the string at each character. console.log(arr);</description>
     </item>
   </channel>
 </rss>

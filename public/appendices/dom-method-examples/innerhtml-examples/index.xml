@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>innerHTML Examples on Introduction to Web Dev</title>
+    <title>innerHTML Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/dom-method-examples/innerhtml-examples/index.html</link>
-    <description>Recent content in innerHTML Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>The general syntax for the innerHTML property is:&#xA;element.innerHTMLThe innerHTML property of elements reads and updates the HTML and or text that is inside the element.&#xA;Note The innerHTML value for empty elements is empty string &#34;&#34;.&#xA;Example &lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;title&gt;DOM Examples&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;h1&gt;innnerHTML Example&lt;/h1&gt; &lt;h2&gt;Yellow Fruits&lt;/h2&gt; &lt;ul class=&#34;yellow&#34;&gt; &lt;li&gt;Banana&lt;/li&gt; &lt;/ul&gt; &lt;script&gt; let ul = document.querySelector(&#34;.yellow&#34;); console.log(ul.innerHTML.trim()); &lt;/script&gt; &lt;/body&gt; &lt;/html&gt;</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/dom-method-examples/innerhtml-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/dom-method-examples/innerhtml-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

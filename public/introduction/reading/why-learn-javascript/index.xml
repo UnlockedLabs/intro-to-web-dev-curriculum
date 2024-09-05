@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Why Learn JavaScript? on Introduction to Web Dev</title>
+    <title>Why Learn JavaScript? :: Introduction to Web Dev</title>
     <link>http://localhost:1313/introduction/reading/why-learn-javascript/index.html</link>
-    <description>Recent content in Why Learn JavaScript? on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>With all the different coding languages in the world, it can be difficult to choose which one to learn first. JavaScript is a programming language that has many different applications. Programmers can use JavaScript to make websites, visualize data, and even create art! This class will start with JavaScript for several reasons.&#xA;The main reason is that JavaScript has become a key language for web development. Understanding how the internet works and being able to create web applications are important skills in today’s landscape. With JavaScript, you can work on your own web applications and support current applications for a company.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/introduction/reading/why-learn-javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/introduction/reading/why-learn-javascript/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

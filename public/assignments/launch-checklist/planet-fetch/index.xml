@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Task 3: Fetching Planetary Data on Introduction to Web Dev</title>
+    <title>Task 3: Fetching Planetary Data :: Introduction to Web Dev</title>
     <link>http://localhost:1313/assignments/launch-checklist/planet-fetch/index.html</link>
-    <description>Recent content in Task 3: Fetching Planetary Data on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Finally, we need some JSON to fill in the crew on the mission destination. Our planetary data can be found in JSON format . Review the list and decide which planet you want to send our intrepid crew to and make note of the index number.&#xA;Note When fetching more than one JSON object, we get an array of all of the JSON objects. In this case, that means an array of our possible mission destinations. When picking the mission destination, just pick the item in the array you want and start counting at 0.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/assignments/launch-checklist/planet-fetch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/launch-checklist/planet-fetch/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

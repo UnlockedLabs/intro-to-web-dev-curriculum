@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 28: The Modern JavaScript Landscape on Introduction to Web Dev</title>
+    <title>Chapter 28: The Modern JavaScript Landscape :: Introduction to Web Dev</title>
     <link>http://localhost:1313/modern-js/index.html</link>
-    <description>Recent content in Chapter 28: The Modern JavaScript Landscape on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives After you complete everything in this chapter, you should be able to do the following:&#xA;Speak to why different frameworks and libraries may use an extension of superset of JavaScript. Understand additional elements of ECMAScript 2015 or ES6 Differentiate between an extension and superset of JavaScript. Key Terminology These are the key terms you should make note of as you read the chapter. The terms are broken down by the page they appear on.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/modern-js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/modern-js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/modern-js/reading/index.html</link>
@@ -19,8 +20,7 @@
       <link>http://localhost:1313/modern-js/next-steps/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/modern-js/next-steps/index.html</guid>
-      <description>This was just an introduction to all that is going on with the modern JavaScript language. If you would like to learn more before diving into React, check out these additional resources:
-JavaScript ES6 JSX in React TypeScript Documentation Babel Documentation </description>
+      <description>This was just an introduction to all that is going on with the modern JavaScript language. If you would like to learn more before diving into React, check out these additional resources:&#xA;JavaScript ES6 JSX in React TypeScript Documentation Babel Documentation </description>
     </item>
   </channel>
 </rss>

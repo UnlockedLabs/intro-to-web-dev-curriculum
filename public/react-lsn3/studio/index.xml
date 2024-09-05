@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio on Introduction to Web Dev</title>
+    <title>Studio :: Introduction to Web Dev</title>
     <link>http://localhost:1313/react-lsn3/studio/index.html</link>
-    <description>Recent content in Studio on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Let’s add some additional functionality to our recipe app! To get started, check out the starter code for the studio in the part3 directory on the main branch of react-exercises-and-studios . The starter code includes all the components you will need and in App.jsx, all the components are laid out for you. However, if you run the code, you will find that the application does not function as expected! Follow the steps below to complete the application.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2023 16:25:46 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-lsn3/studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/react-lsn3/studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

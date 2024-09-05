@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio: Loops on Introduction to Web Dev</title>
+    <title>Studio: Loops :: Introduction to Web Dev</title>
     <link>http://localhost:1313/loops/studio/index.html</link>
-    <description>Recent content in Studio: Loops on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Now that we’ve launched our shuttle, let’s use loops (iteration) to automate some tasks.&#xA;Open loops/studio in javascript-projects. Before you dive in, you might notice that we have several files and folders inside. Your work will go into solution.js, but please feel free to explore the program and please don’t edit anything outside solution.js. To get started, run the command. npm install, in your terminal.&#xA;Part A: Put dinner together First, inside solution.js, use the variables provided to store the following arrays.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2023 09:21:11 -0500</lastBuildDate><atom:link href="http://localhost:1313/loops/studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/loops/studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

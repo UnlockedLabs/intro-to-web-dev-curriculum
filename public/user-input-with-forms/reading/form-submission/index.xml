@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Form Submission on Introduction to Web Dev</title>
+    <title>Form Submission :: Introduction to Web Dev</title>
     <link>http://localhost:1313/user-input-with-forms/reading/form-submission/index.html</link>
-    <description>Recent content in Form Submission on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Forms collect data input by the user. As we learned in the previous chapter, communication on the web occurs via a series of HTTP requests and responses. A form submission is an HTTP request sent to the server containing the values in a form.&#xA;Trigger Form Submission A form submission is triggered by clicking a button inside the form. A submit button can be an input element with type=submit or a button element. Both button types are in the below example.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/user-input-with-forms/reading/form-submission/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/user-input-with-forms/reading/form-submission/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,5 +1,6 @@
 /* lc-light */
 :root {
+  --CODE-theme: relearn-light;
   --BOX-BLUE-color: #3c79b8; /* background color of blue boxes */
   --BOX-GREEN-color: #419f6a; /* background color of green boxes */
   --BOX-ORANGE-color: #df552d; /* background color of orange boxes */

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio: A Few of Your Favorite Recipes on Introduction to Web Dev</title>
+    <title>Studio: A Few of Your Favorite Recipes :: Introduction to Web Dev</title>
     <link>http://localhost:1313/react-lsn1/studio/index.html</link>
-    <description>Recent content in Studio: A Few of Your Favorite Recipes on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>One reason we are learning React is because many top tech companies use it, including Pinterest. On Pinterest, we can create boards and save pins of new recipes, wedding decor concepts, and tips and tricks for crafts. When one clicks on the pin, they are taken to a detailed view which includes a photo, a description of the pin, and in the case of recipes, ingredients one needs for that recipe. Today, we are going to try our own take on this page using React and what we have learned about components.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2023 09:42:17 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-lsn1/studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/react-lsn1/studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

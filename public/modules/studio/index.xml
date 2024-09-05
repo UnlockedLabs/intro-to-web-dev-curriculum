@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio: Boosting Confidence on Introduction to Web Dev</title>
+    <title>Studio: Boosting Confidence :: Introduction to Web Dev</title>
     <link>http://localhost:1313/modules/studio/index.html</link>
-    <description>Recent content in Studio: Boosting Confidence on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>At this point in your learning journey, it’s normal to have doubts about your progress. This class can be challenging. In this studio, we’re spending time as a group to discuss our experiences, as well as build our confidence in our coding abilities.&#xA;Doubting progress is normal and common. Supreme court justice Sonia Sotomayor, Serena Williams, Tom Hanks, and multiple CEOs have all questioned their success.&#xA;The struggle is real, and an open conversation often helps.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/modules/studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/modules/studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

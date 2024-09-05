@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 24: HTTP, the Postal Service of the Internet on Introduction to Web Dev</title>
+    <title>Chapter 24: HTTP, the Postal Service of the Internet :: Introduction to Web Dev</title>
     <link>http://localhost:1313/http/index.html</link>
-    <description>Recent content in Chapter 24: HTTP, the Postal Service of the Internet on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives After completing all the content in this chapter, you should be able to do the following:&#xA;Understand how the HTTP protocol enables web communication Key Terminology Here is a list of key terms for this chapter, broken down by the page they first appear on. Make note of these terms and their definitions as you read through the chapter content.&#xA;How the Internet Works client-server model server client protocol HTTP HTTPS TCP/IP DNS domain names IP address nameserver loopback address uniform resource locator URL web address scheme host port path root path query string HTTP at a Glance requests responses Requests request method request headers Responses response line response code response headers Chapter Content Reading Next Steps </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2023 09:32:07 -0500</lastBuildDate><atom:link href="http://localhost:1313/http/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 09:32:07 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/http/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/http/reading/index.html</link>
@@ -19,8 +20,7 @@
       <link>http://localhost:1313/http/next-steps/index.html</link>
       <pubDate>Tue, 03 Oct 2023 09:32:07 -0500</pubDate>
       <guid>http://localhost:1313/http/next-steps/index.html</guid>
-      <description>Now that you have tackled HTTP, you are ready to take on forms. Before you do so, if you want to review HTTP, here are some of our favorite resources.
-An Introduction to HTTP What is HTTP? </description>
+      <description>Now that you have tackled HTTP, you are ready to take on forms. Before you do so, if you want to review HTTP, here are some of our favorite resources.&#xA;An Introduction to HTTP What is HTTP? </description>
     </item>
   </channel>
 </rss>

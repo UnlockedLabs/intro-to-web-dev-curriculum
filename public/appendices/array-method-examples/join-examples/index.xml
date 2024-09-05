@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>join Examples on Introduction to Web Dev</title>
+    <title>join Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/array-method-examples/join-examples/index.html</link>
-    <description>Recent content in join Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>.join() Examples The general syntax for this method is:&#xA;arrayName.join(&#39;connector&#39;)join combines all the elements of an array into a string. The connector determines the string that “glues” the array elements together.&#xA;Example let arr = [1, 2, 3, 4]; let words = [&#39;hello&#39;, &#39;world&#39;, &#39;!&#39;]; let newString = &#39;&#39;; newString = arr.join(&#34;+&#34;); console.log(newString); newString = words.join(&#34;&#34;); console.log(newString); newString = words.join(&#34;_&#34;); console.log(newString);</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/array-method-examples/join-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/array-method-examples/join-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

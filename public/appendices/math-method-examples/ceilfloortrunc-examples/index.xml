@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math.ceil, floor, and trunc Examples on Introduction to Web Dev</title>
+    <title>Math.ceil, floor, and trunc Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/math-method-examples/ceilfloortrunc-examples/index.html</link>
-    <description>Recent content in Math.ceil, floor, and trunc Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Math.ceil The general syntax for this method is:&#xA;Math.ceil(number) This method rounds a decimal value UP to the next integer (hence the ceiling reference in the name). Integer values remain the same.&#xA;ceil also operates on arrays.&#xA;Numerical strings can also be evaluated, but should be avoided as a best practice.&#xA;Example 1 2 3 4 5 6 7 </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/math-method-examples/ceilfloortrunc-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/math-method-examples/ceilfloortrunc-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

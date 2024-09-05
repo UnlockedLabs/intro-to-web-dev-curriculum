@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 1: Introduction on Introduction to Web Dev</title>
+    <title>Chapter 1: Introduction :: Introduction to Web Dev</title>
     <link>http://localhost:1313/introduction/index.html</link>
-    <description>Recent content in Chapter 1: Introduction on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives After completing the reading in this chapter, you should have a good understanding of the following:&#xA;Why someone would want to learn how to code Why learn how to code using JavaScript The structure of LaunchCode programs The concept of blended learning What platforms this class utilizes How to use this book Key Terminology Here is a list of key terms that appear throughout this chapter organized by the page the term first appears on. Make note of each one and their definition! You may notice that the key terms in this book are bolded. So as you are reading, keep an eye out for those bolded words!</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/introduction/reading/index.html</link>

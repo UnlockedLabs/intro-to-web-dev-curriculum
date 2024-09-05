@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 17: Exceptions on Introduction to Web Dev</title>
+    <title>Chapter 17: Exceptions :: Introduction to Web Dev</title>
     <link>http://localhost:1313/exceptions/index.html</link>
-    <description>Recent content in Chapter 17: Exceptions on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Effectively throw and catch exceptions to improve user experience and make debugging easier Explain what an exception is and why exceptions are used Write a program using a try/catch block Catch exceptions only when something meaningful can be done Throw exceptions with clear, descriptive messages Throw exceptions only when the program can not be properly executed in the given state Give at least three examples of standard exceptions Explain how a finally block works and when one should be used Create negative tests to verify that code throws an exception when necessary Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/exceptions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 09:21:11 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/exceptions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/exceptions/reading/index.html</link>
@@ -19,28 +20,21 @@
       <link>http://localhost:1313/exceptions/exercises/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/exceptions/exercises/index.html</guid>
-      <description>Zero Division: Throw Write a function called divide that takes two parameters: a numerator and a denominator.
-Your function should return the result of numerator / denominator.
-However, if denominator is zero you should throw the error, &amp;quot;Attempted to divide by zero.&amp;quot;
-Note Hint: You can use an if / throw statement to complete this exercise.
-Code your function within the javascript-projects/exceptions/exercises/divide.js
-Check Your Solution function divide(numerator, denominator) { if (denominator === 0) { throw Error(&amp;#39;You cannot divide by zero!</description>
+      <description>Zero Division: Throw Write a function called divide that takes two parameters: a numerator and a denominator.&#xA;Your function should return the result of numerator / denominator.&#xA;However, if denominator is zero you should throw the error, &#34;Attempted to divide by zero.&#34;&#xA;Note Hint: You can use an if / throw statement to complete this exercise.</description>
     </item>
     <item>
       <title>Studio: Strategic Debugging</title>
       <link>http://localhost:1313/exceptions/studio/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/exceptions/studio/index.html</guid>
-      <description>Summary At this point, we have seen a lot of different types of errors. We have possibly created logic errors or syntax errors and now, we have just learned about the Error object in JavaScript. The goal of this studio is for us to develop strategies for debugging so that we can get rid of the bugs and get back to coding!
-Activity Think of a bug you have seen in your code.</description>
+      <description>Summary At this point, we have seen a lot of different types of errors. We have possibly created logic errors or syntax errors and now, we have just learned about the Error object in JavaScript. The goal of this studio is for us to develop strategies for debugging so that we can get rid of the bugs and get back to coding!&#xA;Activity Think of a bug you have seen in your code. This could be the time you dropped a keyword when initializing a variable or misused a method.</description>
     </item>
     <item>
       <title>Next Steps</title>
       <link>http://localhost:1313/exceptions/next-steps/index.html</link>
       <pubDate>Mon, 28 Aug 2023 09:21:11 -0500</pubDate>
       <guid>http://localhost:1313/exceptions/next-steps/index.html</guid>
-      <description>Upon completing everything in this chapter, you are ready to move onto the chapter on classes. If you would like to read more about exceptions before continuing forward, here are some of our favorite resources.
-W3Schools JavaScript Errors mdn web docs_ on Control flow and error handling tutorialspoint errors and exceptions handling geeksforgeeks JavaScript Error and Exceptional Handling with Examples </description>
+      <description>Upon completing everything in this chapter, you are ready to move onto the chapter on classes. If you would like to read more about exceptions before continuing forward, here are some of our favorite resources.&#xA;W3Schools JavaScript Errors mdn web docs_ on Control flow and error handling tutorialspoint errors and exceptions handling geeksforgeeks JavaScript Error and Exceptional Handling with Examples </description>
     </item>
   </channel>
 </rss>

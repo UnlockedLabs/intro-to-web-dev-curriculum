@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Checkbox Input on Introduction to Web Dev</title>
+    <title>Checkbox Input :: Introduction to Web Dev</title>
     <link>http://localhost:1313/user-input-with-forms/reading/checkbox-input/index.html</link>
-    <description>Recent content in Checkbox Input on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>A checkbox input represents a box to check. Checkbox inputs can be used by themselves or in groups. Checkbox inputs are best used with &lt;label&gt; tags.&#xA;Type Syntax Description Demo checkbox &lt;input type=&#34;checkbox&#34; name=&#34;signUp&#34;/&gt; A small box for marking form option as checked. sign up Examples Example One checkbox. No value attribute is set, so the default value of on is submitted.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/user-input-with-forms/reading/checkbox-input/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/user-input-with-forms/reading/checkbox-input/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

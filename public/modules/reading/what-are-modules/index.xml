@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What are Modules on Introduction to Web Dev</title>
+    <title>What are Modules :: Introduction to Web Dev</title>
     <link>http://localhost:1313/modules/reading/what-are-modules/index.html</link>
-    <description>Recent content in What are Modules on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Just like functions should be kept small and accomplish only one thing, we want to apply the same idea for the different parts of our program. Modules allow us to keep the features of our program in separate, smaller pieces. We code these smaller chunks and then connect the modules together to create the big project.&#xA;Modules are like Legos. Each piece has its own distinct shape and function, and the same set of pieces can be combined in lots of different ways to create unique results.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/modules/reading/what-are-modules/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/modules/reading/what-are-modules/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

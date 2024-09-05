@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exercises: Chores vs. Hobbies on Introduction to Web Dev</title>
+    <title>Exercises: Chores vs. Hobbies :: Introduction to Web Dev</title>
     <link>http://localhost:1313/react-lsn1/exercises/index.html</link>
-    <description>Recent content in Exercises: Chores vs. Hobbies on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>The following exercises walk you through the process of modifying existing components and creating new ones.&#xA;Starter Code For this set of exercises, you will need a copy of the LaunchCode React projects repository. If you haven’t done so already,&#xA;Fork the react-exercises-and-studios repository on GitHub. Clone your fork. Navigate into the exercises now:&#xA;$ pwd react-projects $ ls part1 part2 part3 $ cd part1 $ cd exercises </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2023 09:42:17 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-lsn1/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/react-lsn1/exercises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

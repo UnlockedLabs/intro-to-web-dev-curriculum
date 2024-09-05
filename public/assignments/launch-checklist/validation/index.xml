@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Task 2: Adding Validation on Introduction to Web Dev</title>
+    <title>Task 2: Adding Validation :: Introduction to Web Dev</title>
     <link>http://localhost:1313/assignments/launch-checklist/validation/index.html</link>
-    <description>Recent content in Task 2: Adding Validation on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Adding Alerts Now, let’s add validation to notify the user if they forgot to enter a value for any one of the fields.&#xA;This process is going to look similar to the validation section in the chapter on forms. Add an alert to notify the user that all fields are required.&#xA;You also want to make sure that the user entered valid info for each of the fields. Valid information for the fields means that the user submits a value that is easily converted to the correct data type for our fellow engineers. The pilot and co-pilot names should be strings and the fuel level and cargo mass should be numbers. To do this, complete the helper function in your scriptHelper.js called validateInput(). validateInput() should take in a string as a parameter and return &#34;Empty&#34;, &#34;Not a Number&#34;, or &#34;Is a Number&#34; as appropriate. In scriptHelper.js, you will use validateInput() to complete the formSubmission() function. formSubmission() will take in a document parameter and strings representing the pilot, co-pilot, fuel level, and cargo mass. Using the values in those strings and the document parameter for your HTML document, update the shuttle requirements as described below. Make sure to call your formSubmission() function at the appropriate time in your script.js file!</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/assignments/launch-checklist/validation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/launch-checklist/validation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

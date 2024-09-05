@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Radio Input on Introduction to Web Dev</title>
+    <title>Radio Input :: Introduction to Web Dev</title>
     <link>http://localhost:1313/user-input-with-forms/reading/radio-input/index.html</link>
-    <description>Recent content in Radio Input on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Radio inputs allow a user to pick one option out of a grouping of options. Radio inputs with the same name are grouped. Only one radio input in a group can be chosen at a time. The value attribute of the chosen radio input will be submitted. Radio inputs are best used with &lt;label&gt; tags.&#xA;Type Syntax Description Demo radio &lt;input type=&#34;radio&#34; name=&#34;crewReady&#34; value=&#34;yes&#34;/&gt; A small circle that allows selecting one of multiple values. Used in groups of two or more. yesno Example &lt;form action=&#34;https://handlers.education.launchcode.org/request-parrot&#34; method=&#34;post&#34;&gt; Flight Rating: &lt;label&gt;Rough&lt;input type=&#34;radio&#34; name=&#34;flightRating&#34; value=&#34;rough&#34;/&gt;&lt;/label&gt; &lt;label&gt;Few Bumps&lt;input type=&#34;radio&#34; name=&#34;flightRating&#34; value=&#34;fewBumps&#34;/&gt;&lt;/label&gt; &lt;label&gt;Smooth&lt;input type=&#34;radio&#34; name=&#34;flightRating&#34; value=&#34;smooth&#34;/&gt;&lt;/label&gt; &lt;button&gt;Send Report&lt;/button&gt; &lt;/form&gt;</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/user-input-with-forms/reading/radio-input/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/user-input-with-forms/reading/radio-input/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,5 +1,6 @@
 /* my-custom-variant */
 :root {
+  --CODE-theme: relearn-light;
   --BOX-BLUE-color: #3c79b8; /* background color of blue boxes */
   --BOX-GREEN-color: #419F6A; /* background color of green boxes */
   --BOX-GREY-color: #cacacb; /* background color of grey boxes */

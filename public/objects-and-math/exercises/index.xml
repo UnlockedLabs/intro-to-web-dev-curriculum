@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exercises: Objects and Math on Introduction to Web Dev</title>
+    <title>Exercises: Objects and Math :: Introduction to Web Dev</title>
     <link>http://localhost:1313/objects-and-math/exercises/index.html</link>
-    <description>Recent content in Exercises: Objects and Math on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>At our space base, it is a historic day! Five non-human animals are ready to run a space mission without our assistance! For the exercises, you will use the same five animal objects throughout.&#xA;Open up ObjectExercises.js in javascript-projects/objects-and-math/exercises to find all the starter code you will need for these exercises.&#xA;Part 1: Create More Objects Based on the two object literals provided in the starter code, create new object literals for three more animals:</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 13:16:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/objects-and-math/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/objects-and-math/exercises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exercises: Modules on Introduction to Web Dev</title>
+    <title>Exercises: Modules :: Introduction to Web Dev</title>
     <link>http://localhost:1313/modules/exercises/index.html</link>
-    <description>Recent content in Exercises: Modules on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Practice makes better. You will create a project that accomplishes the following:&#xA;Steps through a list of Yes/No questions. Calls functions based on the user’s responses. Rather than coding all of the functions from scratch, you are going to use existing modules to help assemble your project.&#xA;The starter code for these exercises can be found within your javascript-projects/modules/exercises directory.&#xA;Export Finished Modules Lucky you! Some of your teammates have already coded the necessary functions in the averages.js and display.js files.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/modules/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/modules/exercises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

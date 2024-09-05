@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Class Platforms on Introduction to Web Dev</title>
+    <title>Class Platforms :: Introduction to Web Dev</title>
     <link>http://localhost:1313/introduction/reading/class-platforms/index.html</link>
-    <description>Recent content in Class Platforms on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Besides this book, this class uses additional platforms for enrollment, assignments, and grading.&#xA;Canvas LaunchCode monitors your progress in this class through a management system called Canvas. It provides a central location to manage the flow of information, but it does not hold the actual course content. Instead, it links to the lessons you need, and it keeps a record of your completed assignments and scores.&#xA;Login to Canvas Access Canvas and the course materials at this link . To login, use your launchcode.org username and password, which are the same ones you used to apply for this class.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Mar 2023 11:39:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/introduction/reading/class-platforms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/introduction/reading/class-platforms/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>split Examples on Introduction to Web Dev</title>
+    <title>split Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/array-method-examples/split-examples/index.html</link>
-    <description>Recent content in split Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>.split() Examples The general syntax for this method is:&#xA;stringName.split(&#39;delimiter&#39;)split is actually a string method, but it complements the array method join.&#xA;split divides a string into smaller pieces, which are stored in a new array. The delimiter argument determines how the string is broken apart.&#xA;Example let numbers = &#34;1,2,3,4&#34;; let word = &#34;Rutabaga&#34;; let phrase = &#34;Bookkeeper of balloons.&#34; let arr = []; arr = numbers.split(&#39;,&#39;); //split the string at each comma. console.log(arr); arr = phrase.split(&#39; &#39;); //split the string at each space. console.log(arr); arr = word.split(&#39;&#39;); //split the string at each character. console.log(arr);</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/array-method-examples/split-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/array-method-examples/split-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

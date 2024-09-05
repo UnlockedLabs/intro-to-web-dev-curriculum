@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Strings as Objects on Introduction to Web Dev</title>
+    <title>Strings as Objects :: Introduction to Web Dev</title>
     <link>http://localhost:1313/stringing-characters-together/reading/string-objects/index.html</link>
-    <description>Recent content in Strings as Objects on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Beyond bracket notation, there are many other tools we can use to work with strings. Talking about these tools requires some new terminology.&#xA;Object Terminology In JavaScript, strings are objects, so to understand how we can use them in our programs, we must first understand some basics about objects.&#xA;An object is a collection of related data and operations. An operation that can be carried out on an object is known as a method. A piece of data associated with an object is known as a property.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/stringing-characters-together/reading/string-objects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/stringing-characters-together/reading/string-objects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

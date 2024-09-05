@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Installations on Introduction to Web Dev</title>
+    <title>Installations :: Introduction to Web Dev</title>
     <link>http://localhost:1313/installations/index.html</link>
-    <description>Recent content in Installations on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Intro to Web Development Installations Below you will find links for all necessary installations for this class.&#xA;Installing Git Installing Node Visual Studio Code Installation Terminal Setup </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/installations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/installations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Git</title>
       <link>http://localhost:1313/installations/install-git/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/installations/install-git/index.html</guid>
-      <description>Setting Up Git Git will help us track changes and versions of our code.
-Mac Users Open a new terminal window.
-Type the command, git --version, in the terminal.
-If the output includes a Git version, like the code below, then you are ready to use Git!
-git --version Console Output
-git version 2.6.4 (Apple Git-63) If the output does not include a Git version, then a popup will open and ask you to install Developer Tools.</description>
+      <description>Setting Up Git Git will help us track changes and versions of our code.&#xA;Mac Users Open a new terminal window.&#xA;Type the command, git --version, in the terminal.&#xA;If the output includes a Git version, like the code below, then you are ready to use Git!&#xA;git --versionConsole Output</description>
     </item>
     <item>
       <title>Installing Node</title>
       <link>http://localhost:1313/installations/install-node/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/installations/install-node/index.html</guid>
-      <description>We will need Node.js to run JavaScript code in our IDE.
-Setting up Node Installing Node on your computer also installs the NPM Command Line Interface (CLI), which allows you to run specialized commands in the terminal .
-Follow this link to the Node website , and examine the selection screen:
-The LTS version of Node is an older, reliable build that has been tested, debugged, and runs well. The Current version brings in newer features, but it is still being tested.</description>
+      <description>We will need Node.js to run JavaScript code in our IDE.&#xA;Setting up Node Installing Node on your computer also installs the NPM Command Line Interface (CLI), which allows you to run specialized commands in the terminal .&#xA;Follow this link to the Node website , and examine the selection screen:&#xA;The LTS version of Node is an older, reliable build that has been tested, debugged, and runs well. The Current version brings in newer features, but it is still being tested. Either option works for this course, but we recommend downloading the LTS version.</description>
     </item>
     <item>
       <title>Visual Studio Code Installation</title>
@@ -41,10 +34,7 @@ The LTS version of Node is an older, reliable build that has been tested, debugg
       <link>http://localhost:1313/installations/terminal-setup/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/installations/terminal-setup/index.html</guid>
-      <description>Setting Up Your Terminal Familiarizing yourself with the terminal on your machine is vital for any programmer. Over the course of this program and your career, you will find yourself navigating to it frequently.
-Note You will often find yourself coming across terms such as the terminal and the command line.
-A terminal is a program that runs a shell which allows the user to enter commands.
-The command-line is any interface that allows the user to enter text-based commands.</description>
+      <description>Setting Up Your Terminal Familiarizing yourself with the terminal on your machine is vital for any programmer. Over the course of this program and your career, you will find yourself navigating to it frequently.&#xA;Note You will often find yourself coming across terms such as the terminal and the command line.</description>
     </item>
   </channel>
 </rss>

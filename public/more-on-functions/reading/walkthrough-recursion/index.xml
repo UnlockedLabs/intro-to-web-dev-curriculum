@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recursion Walkthrough: The Base Case on Introduction to Web Dev</title>
+    <title>Recursion Walkthrough: The Base Case :: Introduction to Web Dev</title>
     <link>http://localhost:1313/more-on-functions/reading/walkthrough-recursion/index.html</link>
-    <description>Recent content in Recursion Walkthrough: The Base Case on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>To ease into the concept of recursion, let’s start with a loop task.&#xA;In the Arrays chapter, we examined the join method , which combines the elements of an array into a single string. If we have arr = [&#39;L&#39;, &#39;C&#39;, &#39;1&#39;, &#39;0&#39;, &#39;1&#39;], then arr.join(&#39;&#39;) returns the string &#39;LC101&#39;.&#xA;We can reproduce this action with either a for or a while loop.&#xA;Joining Array Elements With a Loop Examine the code samples below:</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/more-on-functions/reading/walkthrough-recursion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/more-on-functions/reading/walkthrough-recursion/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

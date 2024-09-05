@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>How to Do Stuff in the Terminal on Introduction to Web Dev</title>
+    <title>How to Do Stuff in the Terminal :: Introduction to Web Dev</title>
     <link>http://localhost:1313/terminal/reading/how-to-do-stuff/index.html</link>
-    <description>Recent content in How to Do Stuff in the Terminal on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Navigating the Terminal Window Moving from a GUI to a CLI can be difficult when we are so used to dragging our files from one folder to another. One of the difficulties is simply figuring out where we are in the filesystem! Here are some key indicators that the terminal gives us to show where we are:&#xA;LaunchCode-Super-Computer:~ lcstaffmember$This line is called the prompt. The prompt lets us know that the terminal is ready to accept commands. LaunchCode-Super-Computer is the name of the computer. The ~ tells us we are currently in the Home directory. The Home directory is the folder that contains everything in the computer. lcstaffmember is the username of the person who has logged onto the terminal. We will be typing all of our commands after the $.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/terminal/reading/how-to-do-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/terminal/reading/how-to-do-stuff/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

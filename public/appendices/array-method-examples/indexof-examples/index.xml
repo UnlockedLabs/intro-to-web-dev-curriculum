@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>indexOf Examples on Introduction to Web Dev</title>
+    <title>indexOf Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/array-method-examples/indexof-examples/index.html</link>
-    <description>Recent content in indexOf Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>.indexOf() Examples The general syntax for this method is:&#xA;arrayName.indexOf(item)This method returns the index of the FIRST occurence of an item in the array. If the item is not in the array, -1 is returned.&#xA;Example let charles = [1, 7, 5, 9, 5]; let otherArray = [&#39;hello&#39;, &#39;world!&#39;]; console.log(charles.indexOf(5)); console.log(otherArray.indexOf(&#39;hi&#39;));</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/array-method-examples/indexof-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/array-method-examples/indexof-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

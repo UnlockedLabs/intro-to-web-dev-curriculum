@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Task 1: Setting Up the Starter Code on Introduction to Web Dev</title>
+    <title>Task 1: Setting Up the Starter Code :: Introduction to Web Dev</title>
     <link>http://localhost:1313/assignments/launch-checklist/starter-code/index.html</link>
-    <description>Recent content in Task 1: Setting Up the Starter Code on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Fork and clone the starter code repository .&#xA;To get started, navigate to the directory with your copy of the starter code.&#xA;Run npm install. Open index.html with Firefox to verify that your starter code is working. When you open index.html in the browser, you should see the Launch Checklist form with a rectangle above it for the mission destination and a rectangle below it that simply says “Awaiting Information Before Launch”.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/assignments/launch-checklist/starter-code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/launch-checklist/starter-code/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

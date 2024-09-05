@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 31: React, Part 3 on Introduction to Web Dev</title>
+    <title>Chapter 31: React, Part 3 :: Introduction to Web Dev</title>
     <link>http://localhost:1313/react-lsn3/index.html</link>
-    <description>Recent content in Chapter 31: React, Part 3 on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives Once you have completed everything in this chapter, you should be able to do the following:&#xA;Understand what state is in React. Understand the underlying processes of changing the state in React. Work with event handlers to change a component’s state. Be able to render a form and understand what happens when the form is submitted. Key Terminology Here is a list of key terms you should make note of throughout the chapter on the page that they appear.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2023 16:25:46 -0500</lastBuildDate><atom:link href="http://localhost:1313/react-lsn3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 16:25:46 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/react-lsn3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/react-lsn3/reading/index.html</link>
@@ -19,25 +20,21 @@
       <link>http://localhost:1313/react-lsn3/exercises/index.html</link>
       <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
       <guid>http://localhost:1313/react-lsn3/exercises/index.html</guid>
-      <description>Time to make a React app to share a hobby you love with your friends and family!
-Note The solution in the react-part3-exercises-vite branch of the react-exercises-and-studios repo uses needlepoint as an example hobby. Whenever you see a reference to needlepoint in the solution to the exercises, substitute it for your own chosen hobby.
-Create a new application called exercises in the part3 directory in the react-exercises-and-studios repo.
-In App.jsx, remove the boilerplate content as you have done in previous lessons.</description>
+      <description>Time to make a React app to share a hobby you love with your friends and family!&#xA;Note The solution in the react-part3-exercises-vite branch of the react-exercises-and-studios repo uses needlepoint as an example hobby. Whenever you see a reference to needlepoint in the solution to the exercises, substitute it for your own chosen hobby.</description>
     </item>
     <item>
       <title>Studio</title>
       <link>http://localhost:1313/react-lsn3/studio/index.html</link>
       <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
       <guid>http://localhost:1313/react-lsn3/studio/index.html</guid>
-      <description>Let&amp;rsquo;s add some additional functionality to our recipe app! To get started, check out the starter code for the studio in the part3 directory on the main branch of react-exercises-and-studios . The starter code includes all the components you will need and in App.jsx, all the components are laid out for you. However, if you run the code, you will find that the application does not function as expected! Follow the steps below to complete the application.</description>
+      <description>Let’s add some additional functionality to our recipe app! To get started, check out the starter code for the studio in the part3 directory on the main branch of react-exercises-and-studios . The starter code includes all the components you will need and in App.jsx, all the components are laid out for you. However, if you run the code, you will find that the application does not function as expected! Follow the steps below to complete the application.</description>
     </item>
     <item>
       <title>Next Steps</title>
       <link>http://localhost:1313/react-lsn3/next-steps/index.html</link>
       <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
       <guid>http://localhost:1313/react-lsn3/next-steps/index.html</guid>
-      <description>You have completed the last chapter in the textbook! Great job! If you still feel that you are on shaky ground with React and state, here are some of our favorite resources:
-React Documentation What is the difference between virtual and real DOM? How State Works in React </description>
+      <description>You have completed the last chapter in the textbook! Great job! If you still feel that you are on shaky ground with React and state, here are some of our favorite resources:&#xA;React Documentation What is the difference between virtual and real DOM? How State Works in React </description>
     </item>
   </channel>
 </rss>

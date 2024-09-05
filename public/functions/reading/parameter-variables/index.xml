@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Parameters and Variables on Introduction to Web Dev</title>
+    <title>Parameters and Variables :: Introduction to Web Dev</title>
     <link>http://localhost:1313/functions/reading/parameter-variables/index.html</link>
-    <description>Recent content in Parameters and Variables on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Earlier, we said that a parameter “behaves like a variable that exists only within the function.” While this is true, the relationship between variables and parameters is a bit more complicated.&#xA;Function Scope The scope of a variable is the extent to which a variable is visible within a program. Scope consists of all locations within a program where a variable can be used or modified. Introducing functions gives us one of our first examples of limited variable scope—a situation in which a variable is not visible throughout an entire program.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/functions/reading/parameter-variables/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/functions/reading/parameter-variables/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

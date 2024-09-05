@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Receiving Functions as Arguments on Introduction to Web Dev</title>
+    <title>Receiving Functions as Arguments :: Introduction to Web Dev</title>
     <link>http://localhost:1313/more-on-functions/reading/receive-function-as-arguments/index.html</link>
-    <description>Recent content in Receiving Functions as Arguments on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>The previous section illustrates how a function can be passed to another function as an argument. This section takes the opposite perspective to write functions that can take other functions as arguments.&#xA;Example: A Generic Input Validator Our first example will be a generic input validator. It asks the user for some input, using the prompt parameter for the text of the question. A second parameter receives a function that does the actual work of validating the input.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/more-on-functions/reading/receive-function-as-arguments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/more-on-functions/reading/receive-function-as-arguments/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

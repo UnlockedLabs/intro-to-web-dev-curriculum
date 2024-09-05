@@ -1,83 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Introduction to Web Dev</title>
+    <title>Home :: Introduction to Web Dev</title>
     <link>http://localhost:1313/index.html</link>
-    <description>Recent content in Home on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Introduction to Professional Web Development in JavaScript Course Summary This course is an introduction to programming concepts and web development with JavaScript and React. JavaScript is a programming language used commonly for web development. Understanding how the internet works and being able to create web applications are important skills in today’s technology landscape. With JavaScript, you can work on your own web applications and support current applications for a company.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 12:36:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter 1: Introduction</title>
       <link>http://localhost:1313/introduction/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/introduction/index.html</guid>
-      <description>Learning Objectives After completing the reading in this chapter, you should have a good understanding of the following:
-Why someone would want to learn how to code Why learn how to code using JavaScript The structure of LaunchCode programs The concept of blended learning What platforms this class utilizes How to use this book Key Terminology Here is a list of key terms that appear throughout this chapter organized by the page the term first appears on.</description>
+      <description>Learning Objectives After completing the reading in this chapter, you should have a good understanding of the following:&#xA;Why someone would want to learn how to code Why learn how to code using JavaScript The structure of LaunchCode programs The concept of blended learning What platforms this class utilizes How to use this book Key Terminology Here is a list of key terms that appear throughout this chapter organized by the page the term first appears on. Make note of each one and their definition! You may notice that the key terms in this book are bolded. So as you are reading, keep an eye out for those bolded words!</description>
     </item>
     <item>
       <title>Chapter 2: How Programs Work</title>
       <link>http://localhost:1313/how-programs-work/index.html</link>
       <pubDate>Thu, 13 Jul 2023 13:40:55 -0500</pubDate>
       <guid>http://localhost:1313/how-programs-work/index.html</guid>
-      <description>Major Concepts After completing this chapter, you should be able to do the following:
-Explain what an algorithm is. Explain what a programming language is. Explain why one programming language might be chosen over another. Explain how a program runs, including the differences between compiled and interpreted languages. Run a program and locate its output in the console. Understand some basic debugging practices. Key Terminology Here are the key terms for this chapter.</description>
+      <description>Major Concepts After completing this chapter, you should be able to do the following:&#xA;Explain what an algorithm is. Explain what a programming language is. Explain why one programming language might be chosen over another. Explain how a program runs, including the differences between compiled and interpreted languages. Run a program and locate its output in the console. Understand some basic debugging practices. Key Terminology Here are the key terms for this chapter. On the pages that they appear, make note of what they are and their definitions.</description>
     </item>
     <item>
       <title>Chapter 3: How to Write Code</title>
       <link>http://localhost:1313/how-to-write-code/index.html</link>
       <pubDate>Thu, 13 Jul 2023 14:00:03 -0500</pubDate>
       <guid>http://localhost:1313/how-to-write-code/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Write console.log statements Understand what syntax, comments and debugging are when you are coding Key Terminology Here is a list of the key terms throughout this chapter based on the page they first appear on. You should make note of these.
-What is Code? code Syntax Rules syntax Comments comment Output with console.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Write console.log statements Understand what syntax, comments and debugging are when you are coding Key Terminology Here is a list of the key terms throughout this chapter based on the page they first appear on. You should make note of these.&#xA;What is Code? code Syntax Rules syntax Comments comment Output with console.log console newline Fixing Errors in Your Code debugging Content Links Reading Welcome, Novice Coder </description>
     </item>
     <item>
       <title>Chapter 4: Data and Variables</title>
       <link>http://localhost:1313/data-and-variables/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/data-and-variables/index.html</guid>
-      <description>Learning Objectives After completing this chapter you should should understand the various data types covered, how to initialize variables, and use the typeof operator to determine their value. You should also be familiar with operators, operands, and how to receive input from users using readline-sync.
-Key Terminology PEMDAS assignment initialization compund assignment const, constant camel case readline-sync Keywords let const var typeof Values and Data Types String Number Object Variables let var Operators Additon: + Subtraction: - Multiplication: * Division: / Modulus: % Exponentation: ** Increment: ++ Decrement: -- Content Links Reading Exercises: Data and Variables Studio: Goal Setting and Getting into the Right Mindset </description>
+      <description>Learning Objectives After completing this chapter you should should understand the various data types covered, how to initialize variables, and use the typeof operator to determine their value. You should also be familiar with operators, operands, and how to receive input from users using readline-sync.&#xA;Key Terminology PEMDAS assignment initialization compund assignment const, constant camel case readline-sync Keywords let const var typeof Values and Data Types String Number Object Variables let var Operators Additon: + Subtraction: - Multiplication: * Division: / Modulus: % Exponentation: ** Increment: ++ Decrement: -- Content Links Reading Exercises: Data and Variables Studio: Goal Setting and Getting into the Right Mindset </description>
     </item>
     <item>
       <title>Chapter 5: Making Decisions with Conditionals</title>
       <link>http://localhost:1313/decisions-with-conditionals/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/decisions-with-conditionals/index.html</guid>
-      <description>Learning Objectives Understand how common boolean expressions are evaluated Use boolean expression to create conditional statements Debug simple programs and recognize common errors Explain what a boolean value is Explain what logical operators are Understand truth tables for binary boolean operators &amp;amp;&amp;amp; and || Key Terminology Here are the key terms for this chapter. On the pages that they appear make note of what they are and their definitions.
-Booleans data type true, false type conversion ==, !</description>
+      <description>Learning Objectives Understand how common boolean expressions are evaluated Use boolean expression to create conditional statements Debug simple programs and recognize common errors Explain what a boolean value is Explain what logical operators are Understand truth tables for binary boolean operators &amp;&amp; and || Key Terminology Here are the key terms for this chapter. On the pages that they appear make note of what they are and their definitions.</description>
     </item>
     <item>
       <title>Chapter 6: Errors and Debugging</title>
       <link>http://localhost:1313/errors-and-debugging/index.html</link>
       <pubDate>Tue, 01 Aug 2023 10:26:29 -0500</pubDate>
       <guid>http://localhost:1313/errors-and-debugging/index.html</guid>
-      <description>Learning Objectives Upon completion of this chapter, you should be able to do the following:
-Describe how to debug programs using console.log Explain the three common error types: syntax error, runtime error, logic error Give examples of each of the three common error types Explain some best practices to avoid errors and debugging Explain how ReferenceError and SyntaxError may occur, with examples Key Terminology While reading this chapter, you will notice the following key terms listed by the page they first appear on.</description>
+      <description>Learning Objectives Upon completion of this chapter, you should be able to do the following:&#xA;Describe how to debug programs using console.log Explain the three common error types: syntax error, runtime error, logic error Give examples of each of the three common error types Explain some best practices to avoid errors and debugging Explain how ReferenceError and SyntaxError may occur, with examples Key Terminology While reading this chapter, you will notice the following key terms listed by the page they first appear on. As you read, you should make note of the definitions of these terms.</description>
     </item>
     <item>
       <title>Chapter 7: Stringing Characters Together</title>
       <link>http://localhost:1313/stringing-characters-together/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/index.html</guid>
-      <description>Learning Objectives Understand strings, like arrays, are indexed collections Index into a string using bracket notation Describe what it means for strings to be immutable Find the length of a string using the .length method Create strings with special characters: \n, \t, unicode (e.g. &amp;lsquo;\u03a9&amp;rsquo;) Include quotes with strings by escaping them Use template literals to create strings that rely on variable values Use common string methods: indexOf, charAt, toLowerCase, toUpperCase, trim, replace, slice Understand how ASCII allows characters to be represented as numbers Convert characters from string to ASCII codes and back using charCodeAt and String.</description>
+      <description>Learning Objectives Understand strings, like arrays, are indexed collections Index into a string using bracket notation Describe what it means for strings to be immutable Find the length of a string using the .length method Create strings with special characters: \n, \t, unicode (e.g. ‘\u03a9’) Include quotes with strings by escaping them Use template literals to create strings that rely on variable values Use common string methods: indexOf, charAt, toLowerCase, toUpperCase, trim, replace, slice Understand how ASCII allows characters to be represented as numbers Convert characters from string to ASCII codes and back using charCodeAt and String.fromCharCode Key Terminology collection character template literal bracket notation ASCII Unicode object property method Content Links Reading Exercises: Strings </description>
     </item>
     <item>
       <title>Chapter 8: Arrays Keep Things in Order</title>
       <link>http://localhost:1313/arrays/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/arrays/index.html</guid>
-      <description>Learning Objectives Upon completion of this chapter, you should be able to do the following:
-Understand arrays, like strings, are indexed collections Create an array literal Create an array of size n with Array(n) Create arrays that store multiple types of values Create arrays that store other arrays (i.e. multi-dimensional arrays) Access elements within multi-dimensional arrays Find the length of an array using the .length method Index into an array using bracket notation Set an element of an array using bracket notation assignment Describe what it means for arrays to be mutable Understand what happens when asking for an element at index at which no element exists Use common array methods: concat, join, split, push, pop, shift, unshift, slice, reverse, sort, indexOf Convert character arrays to strings using .</description>
+      <description>Learning Objectives Upon completion of this chapter, you should be able to do the following:&#xA;Understand arrays, like strings, are indexed collections Create an array literal Create an array of size n with Array(n) Create arrays that store multiple types of values Create arrays that store other arrays (i.e. multi-dimensional arrays) Access elements within multi-dimensional arrays Find the length of an array using the .length method Index into an array using bracket notation Set an element of an array using bracket notation assignment Describe what it means for arrays to be mutable Understand what happens when asking for an element at index at which no element exists Use common array methods: concat, join, split, push, pop, shift, unshift, slice, reverse, sort, indexOf Convert character arrays to strings using .join(&#39;&#39;) Convert strings to characters arrays using .split(&#39;&#39;) Key Terminology While reading this chapter, you will notice the following key terms listed by the page they first appear on. As you read, you should make note of the definitions of these terms.</description>
     </item>
     <item>
       <title>Chapter 9: Repeating with Loops</title>
       <link>http://localhost:1313/loops/index.html</link>
       <pubDate>Mon, 28 Aug 2023 09:21:11 -0500</pubDate>
       <guid>http://localhost:1313/loops/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Use iteration to repeat the execution of a code block Properly write for and while loops Use for and while loops in appropriate contexts Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Use iteration to repeat the execution of a code block Properly write for and while loops Use for and while loops in appropriate contexts Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 10: Functions Are at Your Beck and Call</title>
@@ -91,181 +83,154 @@ Use iteration to repeat the execution of a code block Properly write for and whi
       <link>http://localhost:1313/more-on-functions/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Create and use anonymous functions Explain how an anonymous function can be called, even though it doesn’t have a defined name Explain common uses of anonymous functions Use recursion to create algorithms that solve recursive problems Use functions as input parameters to other functions Describe the concept of a recursive problem, including the definitions of base case and recursive case Explain how base cases are important in preventing infinite recursion Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Create and use anonymous functions Explain how an anonymous function can be called, even though it doesn’t have a defined name Explain common uses of anonymous functions Use recursion to create algorithms that solve recursive problems Use functions as input parameters to other functions Describe the concept of a recursive problem, including the definitions of base case and recursive case Explain how base cases are important in preventing infinite recursion Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 12: Objects and the Math Object</title>
       <link>http://localhost:1313/objects-and-math/index.html</link>
       <pubDate>Thu, 31 Aug 2023 13:16:22 -0500</pubDate>
       <guid>http://localhost:1313/objects-and-math/index.html</guid>
-      <description>Learning Objectives Upon completing everything in this chapter, you should be able to do the following:
-Create and use object literals in JS Use the Math module for common mathematical operations Key Terminology Here is a list of key terms in this chapter broken down by the page the term first appears on. Make note of the term and its definition as you read along.
-Objects and Why They Matter Objects Key Key/value pair object literal property method Content Links Reading Exercises: Objects and Math Studio: Objects and Math Next Steps </description>
+      <description>Learning Objectives Upon completing everything in this chapter, you should be able to do the following:&#xA;Create and use object literals in JS Use the Math module for common mathematical operations Key Terminology Here is a list of key terms in this chapter broken down by the page the term first appears on. Make note of the term and its definition as you read along.</description>
     </item>
     <item>
       <title>Chapter 13: Modules</title>
       <link>http://localhost:1313/modules/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/modules/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Import external modules Create and import custom modules Explain why modules are useful for organizing and sharing code Use require to import modules Reference and use modules properties Install external Node mudules using npm Create a module and import it with another file in the same project Use the module.exports object to expose modules properties Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Import external modules Create and import custom modules Explain why modules are useful for organizing and sharing code Use require to import modules Reference and use modules properties Install external Node mudules using npm Create a module and import it with another file in the same project Use the module.exports object to expose modules properties Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 14: Unit Testing</title>
       <link>http://localhost:1313/unit-testing/index.html</link>
       <pubDate>Wed, 06 Sep 2023 13:40:41 -0500</pubDate>
       <guid>http://localhost:1313/unit-testing/index.html</guid>
-      <description>Learning Objectives Upon completing the content in this chapter, you should be able to do the following:
-Write unit tests to test the behavior of functions Identify proper test cases for which a test should be written Understand the importance of testing in creating well-functioning code Use test-driven development to define the behavior of code before writing it, and to ensure that code is properly tested Key Terminology Here is a list of key terms for this chapter, broken down by the page they first appear on.</description>
+      <description>Learning Objectives Upon completing the content in this chapter, you should be able to do the following:&#xA;Write unit tests to test the behavior of functions Identify proper test cases for which a test should be written Understand the importance of testing in creating well-functioning code Use test-driven development to define the behavior of code before writing it, and to ensure that code is properly tested Key Terminology Here is a list of key terms for this chapter, broken down by the page they first appear on. Make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 15: Scope</title>
       <link>http://localhost:1313/scope/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/scope/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Understand the contexts in which a variable may be declared: block/local, global,execution context Understand and properly declare variables in the best context for the intended use Describe shadowing, and how it affects variable visibility Explain variable hoisting Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Understand the contexts in which a variable may be declared: block/local, global,execution context Understand and properly declare variables in the best context for the intended use Describe shadowing, and how it affects variable visibility Explain variable hoisting Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 16: More on Types</title>
       <link>http://localhost:1313/more-on-types/index.html</link>
       <pubDate>Thu, 14 Sep 2023 11:34:32 -0500</pubDate>
       <guid>http://localhost:1313/more-on-types/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Describe the meaning of special primitive types undefined and null and provide examples of situations in which they may be used Understand the difference between primitive and object types, including what it means for primitive types to be immutable List the 5 primitive types in JS: string, number, boolean, null, and undefined. Key Terminology Here is a list of key terms you should know from this chapter.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Describe the meaning of special primitive types undefined and null and provide examples of situations in which they may be used Understand the difference between primitive and object types, including what it means for primitive types to be immutable List the 5 primitive types in JS: string, number, boolean, null, and undefined. Key Terminology Here is a list of key terms you should know from this chapter.</description>
     </item>
     <item>
       <title>Chapter 17: Exceptions</title>
       <link>http://localhost:1313/exceptions/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/exceptions/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Effectively throw and catch exceptions to improve user experience and make debugging easier Explain what an exception is and why exceptions are used Write a program using a try/catch block Catch exceptions only when something meaningful can be done Throw exceptions with clear, descriptive messages Throw exceptions only when the program can not be properly executed in the given state Give at least three examples of standard exceptions Explain how a finally block works and when one should be used Create negative tests to verify that code throws an exception when necessary Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Effectively throw and catch exceptions to improve user experience and make debugging easier Explain what an exception is and why exceptions are used Write a program using a try/catch block Catch exceptions only when something meaningful can be done Throw exceptions with clear, descriptive messages Throw exceptions only when the program can not be properly executed in the given state Give at least three examples of standard exceptions Explain how a finally block works and when one should be used Create negative tests to verify that code throws an exception when necessary Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 18: Classes</title>
       <link>http://localhost:1313/classes/index.html</link>
       <pubDate>Fri, 15 Sep 2023 16:20:48 -0500</pubDate>
       <guid>http://localhost:1313/classes/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Create and instantiate classes Use inheritance to share behavior and data Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on.
-What are Classes? class Declaring and Calling a Class instance Inheritance Object-oriented programming inheritance child classes parent classes Chapter Content Reading Exercises: Classes Studio: Classes Next Steps </description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Create and instantiate classes Use inheritance to share behavior and data Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on.&#xA;What are Classes? class Declaring and Calling a Class instance Inheritance Object-oriented programming inheritance child classes parent classes Chapter Content Reading Exercises: Classes Studio: Classes Next Steps </description>
     </item>
     <item>
       <title>Chapter 19: Terminal</title>
       <link>http://localhost:1313/terminal/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/terminal/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Navgiate through your filesystem effectively Create new files Copy existing files Remove directories or files List contents of a directory Understand the difference between an absolute and relative path. Understand the difference between a graphical user interface and a command line interface Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Navgiate through your filesystem effectively Create new files Copy existing files Remove directories or files List contents of a directory Understand the difference between an absolute and relative path. Understand the difference between a graphical user interface and a command line interface Key Terminology Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 20: We Built the Internet on HTML</title>
       <link>http://localhost:1313/html/index.html</link>
       <pubDate>Tue, 19 Sep 2023 14:37:14 -0500</pubDate>
       <guid>http://localhost:1313/html/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Create static HTML pages using a variety of different tags inside the body. Key Terminology Here is a list of key terms for this chapter, based on the page the term first appears on. Make note of these terms and their definitions.
-Background request response Hypertext markup languages element tag semantic html HTML Tags attributes Chapter Content Reading Exercises: HTML Studio: Making Headlines Next Steps </description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Create static HTML pages using a variety of different tags inside the body. Key Terminology Here is a list of key terms for this chapter, based on the page the term first appears on. Make note of these terms and their definitions.&#xA;Background request response Hypertext markup languages element tag semantic html HTML Tags attributes Chapter Content Reading Exercises: HTML Studio: Making Headlines Next Steps </description>
     </item>
     <item>
       <title>Chapter 21: Styling the Web With CSS</title>
       <link>http://localhost:1313/styling-css/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/styling-css/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Add styles to static HTML pages using CSS Explain how CSS allows for separation of display and document structure Describe the 3 locations that style rules may be placed and when one location may be preferred over the others: external, document, inline Use CSS rules at each of the 3 possible locations Describe precedence between CSS rules based on location Use basic CSS rule types: font-size, color, font-family, background-color, text-align, etc Describe the following simple selector types, and situations in which each is preferred: element, ID, class Describe inline and block display; for common elements identify their default display Key Terminology What is CSS?</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Add styles to static HTML pages using CSS Explain how CSS allows for separation of display and document structure Describe the 3 locations that style rules may be placed and when one location may be preferred over the others: external, document, inline Use CSS rules at each of the 3 possible locations Describe precedence between CSS rules based on location Use basic CSS rule types: font-size, color, font-family, background-color, text-align, etc Describe the following simple selector types, and situations in which each is preferred: element, ID, class Describe inline and block display; for common elements identify their default display Key Terminology What is CSS? css CSS Structure rule selector element selector id selector class selector Reading Exercises: CSS Next Steps </description>
     </item>
     <item>
       <title>Chapter 22: Git More Collaboration</title>
       <link>http://localhost:1313/git/index.html</link>
       <pubDate>Tue, 26 Sep 2023 13:52:51 -0500</pubDate>
       <guid>http://localhost:1313/git/index.html</guid>
-      <description>Learning Objectives After completing all the content in this chapter, you should be able to do the following:
-Gain a deeper understanding of what Git is and why programmers use it. Work with Git to version control personal work. Learn how Git can be used to manage teamwork. Key Terminology Here is a list of key terms in this chapter broken down by the page the term first appears on. As you read through this chapter, make note of these terms and their definitions.</description>
+      <description>Learning Objectives After completing all the content in this chapter, you should be able to do the following:&#xA;Gain a deeper understanding of what Git is and why programmers use it. Work with Git to version control personal work. Learn how Git can be used to manage teamwork. Key Terminology Here is a list of key terms in this chapter broken down by the page the term first appears on. As you read through this chapter, make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 23: The DOM and Events</title>
       <link>http://localhost:1313/dom-and-events/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/dom-and-events/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Understand the DOM is used to make dynamic web pages Use DOM objects and methods to alter an HTML web page Understand what events are and that JavaScript is an event driven language Handle and trigger events in JavaScript Differentiate between dynamic and static web pages Describe how the JavaScript environment of a browser is different from other JavaScript environments, such as Node.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Understand the DOM is used to make dynamic web pages Use DOM objects and methods to alter an HTML web page Understand what events are and that JavaScript is an event driven language Handle and trigger events in JavaScript Differentiate between dynamic and static web pages Describe how the JavaScript environment of a browser is different from other JavaScript environments, such as Node.js Use the to include JavaScript into an HTML page Know to put your after the elements you want to alter, unless using load events Understand what the Document Object Model (DOM) is Understand and use the global variable window and these methods and properties: window.alert(), window.console, window.confirm(), window.location. Understand and use the global variable document and these methods and properties: document.title, document.getElementById(), document.querySelector(), document.querySelectorAll() Understand and use Element methods and properties: element.innerHTML, element.style, element.getAttribute(), element.setAttribute(), element.addEventListener() Know that JavaScript is an event driven programming language Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on.</description>
     </item>
     <item>
       <title>Chapter 24: HTTP, the Postal Service of the Internet</title>
       <link>http://localhost:1313/http/index.html</link>
       <pubDate>Tue, 03 Oct 2023 09:32:07 -0500</pubDate>
       <guid>http://localhost:1313/http/index.html</guid>
-      <description>Learning Objectives After completing all the content in this chapter, you should be able to do the following:
-Understand how the HTTP protocol enables web communication Key Terminology Here is a list of key terms for this chapter, broken down by the page they first appear on. Make note of these terms and their definitions as you read through the chapter content.
-How the Internet Works client-server model server client protocol HTTP HTTPS TCP/IP DNS domain names IP address nameserver loopback address uniform resource locator URL web address scheme host port path root path query string HTTP at a Glance requests responses Requests request method request headers Responses response line response code response headers Chapter Content Reading Next Steps </description>
+      <description>Learning Objectives After completing all the content in this chapter, you should be able to do the following:&#xA;Understand how the HTTP protocol enables web communication Key Terminology Here is a list of key terms for this chapter, broken down by the page they first appear on. Make note of these terms and their definitions as you read through the chapter content.&#xA;How the Internet Works client-server model server client protocol HTTP HTTPS TCP/IP DNS domain names IP address nameserver loopback address uniform resource locator URL web address scheme host port path root path query string HTTP at a Glance requests responses Requests request method request headers Responses response line response code response headers Chapter Content Reading Next Steps </description>
     </item>
     <item>
       <title>Chapter 25: User Input with Forms</title>
       <link>http://localhost:1313/user-input-with-forms/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/user-input-with-forms/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Create a form using HTML Understand the main form element attributes, action and method Properly use common inputs: text, submit, radio, checkbox, select, textarea, password, email Use label elements to add human-readable labels to form inputs Use the name attribute to identify inputs in the submitted data Understand and describe form submission Use event handlers to validate form data Know how to cancel form submission using event.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Create a form using HTML Understand the main form element attributes, action and method Properly use common inputs: text, submit, radio, checkbox, select, textarea, password, email Use label elements to add human-readable labels to form inputs Use the name attribute to identify inputs in the submitted data Understand and describe form submission Use event handlers to validate form data Know how to cancel form submission using event.preventDefault() Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on. As you read along, make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 26: JSON</title>
       <link>http://localhost:1313/json/index.html</link>
       <pubDate>Tue, 03 Oct 2023 14:33:43 -0500</pubDate>
       <guid>http://localhost:1313/json/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Understand why data formats are necessary Rules of the JSON data format Know difference between JSON and XML Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on. As you read along, make note of these terms and their definitions.</description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Understand why data formats are necessary Rules of the JSON data format Know difference between JSON and XML Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on. As you read along, make note of these terms and their definitions.</description>
     </item>
     <item>
       <title>Chapter 27: Fetch</title>
       <link>http://localhost:1313/fetch/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/fetch/index.html</guid>
-      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:
-Make a request to an API using fetch Handle a response from an API Understand the asynchronous cycle of network requests Familiar with terms AJAX and XHR (XmlHttpRequest) Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on.
-Fetching Data fetch Asynchronous and Promises Asynchronous Synchronous AJAX requests promise Chapter Content Reading Exercises: Fetch Studio: Fetch &amp;amp; JSON Next Steps </description>
+      <description>Learning Objectives Upon completing all the content in this chapter, you should be able to do the following:&#xA;Make a request to an API using fetch Handle a response from an API Understand the asynchronous cycle of network requests Familiar with terms AJAX and XHR (XmlHttpRequest) Key Terminology Here is a list of key terms for this chapter, broken down by the page the term first appears on.</description>
     </item>
     <item>
       <title>Chapter 28: The Modern JavaScript Landscape</title>
       <link>http://localhost:1313/modern-js/index.html</link>
       <pubDate>Wed, 22 Mar 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/modern-js/index.html</guid>
-      <description>Learning Objectives After you complete everything in this chapter, you should be able to do the following:
-Speak to why different frameworks and libraries may use an extension of superset of JavaScript. Understand additional elements of ECMAScript 2015 or ES6 Differentiate between an extension and superset of JavaScript. Key Terminology These are the key terms you should make note of as you read the chapter. The terms are broken down by the page they appear on.</description>
+      <description>Learning Objectives After you complete everything in this chapter, you should be able to do the following:&#xA;Speak to why different frameworks and libraries may use an extension of superset of JavaScript. Understand additional elements of ECMAScript 2015 or ES6 Differentiate between an extension and superset of JavaScript. Key Terminology These are the key terms you should make note of as you read the chapter. The terms are broken down by the page they appear on.</description>
     </item>
     <item>
       <title>Chapter 29: React, Part 1</title>
       <link>http://localhost:1313/react-lsn1/index.html</link>
       <pubDate>Fri, 31 Mar 2023 09:42:17 -0500</pubDate>
       <guid>http://localhost:1313/react-lsn1/index.html</guid>
-      <description>Learning Objectives Upon completing the content in this chapter, you should be able to do the following:
-Discuss the importance of JS libraries and why developers choose React for their projects. Create a new React application with a tool called &amp;ldquo;Create React App&amp;rdquo;. Understand what a component is and the difference between a functional and class component. Create and style a new component Key Terminology Throughout this chapter, you should make note of the following key terms organized by the pages they appear on.</description>
+      <description>Learning Objectives Upon completing the content in this chapter, you should be able to do the following:&#xA;Discuss the importance of JS libraries and why developers choose React for their projects. Create a new React application with a tool called “Create React App”. Understand what a component is and the difference between a functional and class component. Create and style a new component Key Terminology Throughout this chapter, you should make note of the following key terms organized by the pages they appear on.</description>
     </item>
     <item>
       <title>Chapter 30: React, Part 2</title>
       <link>http://localhost:1313/react-part-2/index.html</link>
       <pubDate>Wed, 03 May 2023 11:39:25 -0500</pubDate>
       <guid>http://localhost:1313/react-part-2/index.html</guid>
-      <description>Learning Objectives Upon completing the content in this chapter, you should be able to do the following:
-Incorporate JavaScript expressions into HTML rendering. Use conditional rendering to display or not display certain elements. Use the following syntax: if/else Embedded expressions with logical operators such as &amp;amp;&amp;amp; Ternary conditional operator ? : Create a list to display the elements in an array using the mapmethod. Key Terminology Arrow Functions Fragments if/else Ternary operator map </description>
+      <description>Learning Objectives Upon completing the content in this chapter, you should be able to do the following:&#xA;Incorporate JavaScript expressions into HTML rendering. Use conditional rendering to display or not display certain elements. Use the following syntax: if/else Embedded expressions with logical operators such as &amp;&amp; Ternary conditional operator ? : Create a list to display the elements in an array using the mapmethod. Key Terminology Arrow Functions Fragments if/else Ternary operator map </description>
     </item>
     <item>
       <title>Chapter 31: React, Part 3</title>
       <link>http://localhost:1313/react-lsn3/index.html</link>
       <pubDate>Wed, 12 Apr 2023 16:25:46 -0500</pubDate>
       <guid>http://localhost:1313/react-lsn3/index.html</guid>
-      <description>Learning Objectives Once you have completed everything in this chapter, you should be able to do the following:
-Understand what state is in React. Understand the underlying processes of changing the state in React. Work with event handlers to change a component&amp;rsquo;s state. Be able to render a form and understand what happens when the form is submitted. Key Terminology Here is a list of key terms you should make note of throughout the chapter on the page that they appear.</description>
+      <description>Learning Objectives Once you have completed everything in this chapter, you should be able to do the following:&#xA;Understand what state is in React. Understand the underlying processes of changing the state in React. Work with event handlers to change a component’s state. Be able to render a form and understand what happens when the form is submitted. Key Terminology Here is a list of key terms you should make note of throughout the chapter on the page that they appear.</description>
     </item>
     <item>
       <title>Chapter 32: Booster Rockets</title>
       <link>http://localhost:1313/booster-rockets/index.html</link>
       <pubDate>Wed, 04 Oct 2023 12:36:25 -0500</pubDate>
       <guid>http://localhost:1313/booster-rockets/index.html</guid>
-      <description>If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do, you have to keep moving forward. — Martin Luther King Jr.
-A wise programmer once told me that the reassuring thing about coding is that there is always an answer. She said that while much of life is uncertain and we&amp;rsquo;re faced with questions that don&amp;rsquo;t have definite answers, when we program we can be certain that there is an answer to whatever problem that we have.</description>
+      <description>If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do, you have to keep moving forward. — Martin Luther King Jr.&#xA;A wise programmer once told me that the reassuring thing about coding is that there is always an answer. She said that while much of life is uncertain and we’re faced with questions that don’t have definite answers, when we program we can be certain that there is an answer to whatever problem that we have. We just need to find it.</description>
     </item>
     <item>
       <title>Graded Assignments</title>
@@ -279,15 +244,14 @@ A wise programmer once told me that the reassuring thing about coding is that th
       <link>http://localhost:1313/installations/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/installations/index.html</guid>
-      <description>Intro to Web Development Installations Below you will find links for all necessary installations for this class.
-Installing Git Installing Node Visual Studio Code Installation Terminal Setup </description>
+      <description>Intro to Web Development Installations Below you will find links for all necessary installations for this class.&#xA;Installing Git Installing Node Visual Studio Code Installation Terminal Setup </description>
     </item>
     <item>
       <title>Appendices</title>
       <link>http://localhost:1313/appendices/index.html</link>
       <pubDate>Fri, 01 Oct 2021 09:28:27 -0500</pubDate>
       <guid>http://localhost:1313/appendices/index.html</guid>
-      <description>Content Links Array Method Examples DOM Method Examples Math Method Examples Terminal Commands Tutorial </description>
+      <description>Content Links Array Method Examples DOM Method Examples String Method Examples Math Method Examples Terminal Commands Tutorial </description>
     </item>
   </channel>
 </rss>

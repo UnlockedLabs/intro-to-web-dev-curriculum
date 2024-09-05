@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>confirm Examples on Introduction to Web Dev</title>
+    <title>confirm Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/dom-method-examples/confirm-examples/index.html</link>
-    <description>Recent content in confirm Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>The general syntax for this method is:&#xA;let answer = window.confirm(&#34;Message to user&#34;);Displays a dialog box with a message and returns true if user clicks “ok” and false if user clicks “cancel”. The browser waits until the user clicks “ok” or “cancel”.&#xA;Example let response = window.confirm(&#34;Would you like to play a game?&#34;); // Code does NOT continue until user responds to confirm window if (response) { console.log(&#34;Let&#39;s play a board game&#34;); } else { console.log(&#34;Oh well, let&#39;s code instead&#34;); }</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/dom-method-examples/confirm-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/dom-method-examples/confirm-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

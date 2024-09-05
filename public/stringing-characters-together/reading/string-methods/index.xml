@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>String Methods on Introduction to Web Dev</title>
+    <title>String Methods :: Introduction to Web Dev</title>
     <link>http://localhost:1313/stringing-characters-together/reading/string-methods/index.html</link>
-    <description>Recent content in String Methods on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>JavaScript provides many useful methods for string objects. Recall that a method is a function that “belongs to” a specific object. Methods will typically result in some operation being carried out on the data within an object. For strings, this means that our methods will typically transform the characters of the given string in some way.&#xA;As we have learned, strings are immutable. Therefore, string methods will not change the value of a string itself, but instead will return a new string that is the result of the given operation.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/stringing-characters-together/reading/string-methods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/stringing-characters-together/reading/string-methods/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

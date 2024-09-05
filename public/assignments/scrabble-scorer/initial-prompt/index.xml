@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Task 1: Initial Prompt on Introduction to Web Dev</title>
+    <title>Task 1: Initial Prompt :: Introduction to Web Dev</title>
     <link>http://localhost:1313/assignments/scrabble-scorer/initial-prompt/index.html</link>
-    <description>Recent content in Task 1: Initial Prompt on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description> Modify the provided initialPrompt() function to prompt the user to enter a word to score. Use the oldScrabbleScorer() function provided to score the word provided by the user. Print the result to the console. Before you move on, be sure you’re on the right track. At this point, your program should have an output like this:&#xA;$ node index Let&#39;s play some Scrabble! Enter a word to score: pineapple Points for &#39;P&#39;: 3 Points for &#39;I&#39;: 1 Points for &#39;N&#39;: 1 Points for &#39;E&#39;: 1 Points for &#39;A&#39;: 1 Points for &#39;P&#39;: 3 Points for &#39;P&#39;: 3 Points for &#39;L&#39;: 1 Points for &#39;E&#39;: 1 </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/assignments/scrabble-scorer/initial-prompt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/scrabble-scorer/initial-prompt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

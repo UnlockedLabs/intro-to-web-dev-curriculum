@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter 7: Stringing Characters Together on Introduction to Web Dev</title>
+    <title>Chapter 7: Stringing Characters Together :: Introduction to Web Dev</title>
     <link>http://localhost:1313/stringing-characters-together/index.html</link>
-    <description>Recent content in Chapter 7: Stringing Characters Together on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Learning Objectives Understand strings, like arrays, are indexed collections Index into a string using bracket notation Describe what it means for strings to be immutable Find the length of a string using the .length method Create strings with special characters: \n, \t, unicode (e.g. ‘\u03a9’) Include quotes with strings by escaping them Use template literals to create strings that rely on variable values Use common string methods: indexOf, charAt, toLowerCase, toUpperCase, trim, replace, slice Understand how ASCII allows characters to be represented as numbers Convert characters from string to ASCII codes and back using charCodeAt and String.fromCharCode Key Terminology collection character template literal bracket notation ASCII Unicode object property method Content Links Reading Exercises: Strings </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/stringing-characters-together/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/stringing-characters-together/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/stringing-characters-together/reading/index.html</link>
@@ -19,9 +20,7 @@
       <link>http://localhost:1313/stringing-characters-together/exercises/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/stringing-characters-together/exercises/index.html</guid>
-      <description>Part One The length method returns how many characters are in a string. However, the method will NOT give us the length of a number. If num = 1001, num.length returns undefined rather than 4. Use type conversion to print the length (number of digits) of an integer.
-Print the number of digits in a DECIMAL value (e.g. num = 123.45 has 5 digits but a length of 6).
-Modify your code to print out the length of a decimal value EXCLUDING the period.</description>
+      <description>Part One The length method returns how many characters are in a string. However, the method will NOT give us the length of a number. If num = 1001, num.length returns undefined rather than 4. Use type conversion to print the length (number of digits) of an integer.&#xA;Print the number of digits in a DECIMAL value (e.g. num = 123.45 has 5 digits but a length of 6).</description>
     </item>
   </channel>
 </rss>

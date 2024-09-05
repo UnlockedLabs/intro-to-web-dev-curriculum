@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio: Fetch &amp; JSON on Introduction to Web Dev</title>
+    <title>Studio: Fetch &amp; JSON :: Introduction to Web Dev</title>
     <link>http://localhost:1313/fetch/studio/index.html</link>
-    <description>Recent content in Studio: Fetch &amp; JSON on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Your task is to build a website that shows astronauts fetched from an API.&#xA;Get Started Take a look at the starter code for the following studio located here: javascript-projects/fetch/studio Requirements Add code that runs on the window load event.&#xA;This is done because we can’t interact with the HTML elements until the page has loaded. Make a GET request using fetch to the astronauts API &lt;https://handlers.education.launchcode.org/static/astronauts.json&gt;__</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/fetch/studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/fetch/studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

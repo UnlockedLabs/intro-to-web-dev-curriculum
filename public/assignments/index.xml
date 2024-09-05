@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graded Assignments on Introduction to Web Dev</title>
+    <title>Graded Assignments :: Introduction to Web Dev</title>
     <link>http://localhost:1313/assignments/index.html</link>
-    <description>Recent content in Graded Assignments on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>What is a Graded Assignment? Graded Assignments will count towards your final grade in the course. Each assignment is graded pass-fail. While Assignment 0 is more of a tutorial to get you used to autograding in JavaScript, you have to get a passing grade on each assignment in order for you to continue on to the next unit. Each assignment builds on concepts introduced over multiple lessons, so we encourage you to begin reviewing the assignment and working on the different tasks as soon as the assignment becomes available in Canvas.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autograding Your Tests</title>
       <link>http://localhost:1313/assignments/github-actions/index.html</link>
       <pubDate>Tue, 13 Jun 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/assignments/github-actions/index.html</guid>
-      <description>We use unit tests in your graded assignments to provide feedback on your progress. We will refer to them as auto-graded or auto-grading tests in these projects. Use the tests to check your work as you complete the assignment. The goal is to pass all tests.
-There are 2 ways to work with auto-grading tests:
-Using GitHub Actions in GitHub Inside your terminal Using GitHub Actions Your Graded Assignment is not complete until you receive a green check mark from GitHub Actions.</description>
+      <description>We use unit tests in your graded assignments to provide feedback on your progress. We will refer to them as auto-graded or auto-grading tests in these projects. Use the tests to check your work as you complete the assignment. The goal is to pass all tests.&#xA;There are 2 ways to work with auto-grading tests:&#xA;Using GitHub Actions in GitHub Inside your terminal Using GitHub Actions Your Graded Assignment is not complete until you receive a green check mark from GitHub Actions.</description>
     </item>
     <item>
       <title>Assignment 0: Hello, World!</title>
@@ -35,8 +34,7 @@ Using GitHub Actions in GitHub Inside your terminal Using GitHub Actions Your Gr
       <link>http://localhost:1313/assignments/scrabble-scorer/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/assignments/scrabble-scorer/index.html</guid>
-      <description>For your second assignment, we&amp;rsquo;ll ask you to modify and improve our Scrabble Scorer program. Did you think you were going to work on Mars Rover code already? That will come next!
-We want you to update our program that asks a user for a word and outputs a score. Your final version will have three scoring algorithms and allow a user to interactively choose which algorithm to use. We&amp;rsquo;ve provided some starter code that includes the official Scrabble scoring point system and we&amp;rsquo;d like you to make some modifications to improve it.</description>
+      <description>For your second assignment, we’ll ask you to modify and improve our Scrabble Scorer program. Did you think you were going to work on Mars Rover code already? That will come next!&#xA;We want you to update our program that asks a user for a word and outputs a score. Your final version will have three scoring algorithms and allow a user to interactively choose which algorithm to use. We’ve provided some starter code that includes the official Scrabble scoring point system and we’d like you to make some modifications to improve it.</description>
     </item>
     <item>
       <title>Assignment 3: Mars Rover</title>
@@ -57,8 +55,7 @@ We want you to update our program that asks a user for a word and outputs a scor
       <link>http://localhost:1313/assignments/launch-checklist/index.html</link>
       <pubDate>Fri, 07 Jul 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/assignments/launch-checklist/index.html</guid>
-      <description>Using our knowledge of forms, the DOM, and HTTP, the commanders of our favorite space shuttle program asked us to create a quick launch checklist. We have four fields that need to be filled out with vital information: the pilot&amp;rsquo;s name, the co-pilot&amp;rsquo;s name, the fuel levels, and the mass of the cargo.
-Our pilot, Chris, and the co-pilot, Blake, have been hard at work securing the cargo and filling the shuttle tank.</description>
+      <description>Using our knowledge of forms, the DOM, and HTTP, the commanders of our favorite space shuttle program asked us to create a quick launch checklist. We have four fields that need to be filled out with vital information: the pilot’s name, the co-pilot’s name, the fuel levels, and the mass of the cargo.&#xA;Our pilot, Chris, and the co-pilot, Blake, have been hard at work securing the cargo and filling the shuttle tank. All we need to do is use validation to ensure that we have all of the info for the space shuttle program and make sure no one prematurely launches the shuttle.</description>
     </item>
     <item>
       <title>Assignment 6: Orbit Report</title>
@@ -72,8 +69,7 @@ Our pilot, Chris, and the co-pilot, Blake, have been hard at work securing the c
       <link>http://localhost:1313/assignments/next-steps/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/assignments/next-steps/index.html</guid>
-      <description>Next Steps After completing the assignments for this course, you will be ready for the next unit. In the next unit, you will work with a statically typed language such as Java or C#. The syntax may vary, but you have been equipped with the skills to complete all of the assignments and projects.
-Great job on completing unit 1!</description>
+      <description>Next Steps After completing the assignments for this course, you will be ready for the next unit. In the next unit, you will work with a statically typed language such as Java or C#. The syntax may vary, but you have been equipped with the skills to complete all of the assignments and projects.&#xA;Great job on completing unit 1!</description>
     </item>
   </channel>
 </rss>

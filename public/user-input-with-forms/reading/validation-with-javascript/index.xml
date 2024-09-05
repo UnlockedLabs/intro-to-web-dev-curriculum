@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Validation with JavaScript on Introduction to Web Dev</title>
+    <title>Validation with JavaScript :: Introduction to Web Dev</title>
     <link>http://localhost:1313/user-input-with-forms/reading/validation-with-javascript/index.html</link>
-    <description>Recent content in Validation with JavaScript on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Validating form inputs before submitting the form can make the user experience much smoother. Some input types have built-in browser validation for basic formats such as numbers and email addresses. We can use event handlers to perform more complex validation on form input values.&#xA;Form Inputs and the DOM Before we can validate what the user has typed we need to understand how to use form inputs with the DOM. Remember that the DOM is a JavaScript representation of the HTML document. &lt;input&gt; tags can be selected and referenced like any other HTML element.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/user-input-with-forms/reading/validation-with-javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/user-input-with-forms/reading/validation-with-javascript/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

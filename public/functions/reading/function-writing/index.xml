@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Good Function-Writing Process on Introduction to Web Dev</title>
+    <title>A Good Function-Writing Process :: Introduction to Web Dev</title>
     <link>http://localhost:1313/functions/reading/function-writing/index.html</link>
-    <description>Recent content in A Good Function-Writing Process on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>The function is the most complex JavaScript construct that we have seen. Functions have more components to their syntax than conditionals or loops, and can be used in more intricate ways than those constructs.&#xA;To avoid frustration and bugs, it’s important to approach writing functions in an intentional, structured way. This is essential as you start to write more complex functions.&#xA;In this section, we outline what we think is the best approach. To provide concrete examples, we will consider a fictional function that is able to make a sandwich.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/functions/reading/function-writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/functions/reading/function-writing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

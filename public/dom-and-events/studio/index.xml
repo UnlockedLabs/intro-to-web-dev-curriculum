@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio: The DOM and Events on Introduction to Web Dev</title>
+    <title>Studio: The DOM and Events :: Introduction to Web Dev</title>
     <link>http://localhost:1313/dom-and-events/studio/index.html</link>
-    <description>Recent content in Studio: The DOM and Events on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Now that we can build a basic flight simulator, we want to add more controls for the staff at our space station. The HTML, CSS, and JavaScript files are provided. For each event, the requirements and desired effect is listed.&#xA;Getting Started Open the starter code within your javascript-projects/dom-and-events/studio directory.&#xA;The Requirements Use the window load event to ensure all elements have loaded before attaching event handlers. When the “Take off” button is clicked, the following should happen: A window confirm should let the user know “Confirm that the shuttle is ready for takeoff.” If the shuttle is ready for liftoff, then add the points below: The flight status should change to “Shuttle in flight.” The background color of the shuttle flight screen (id = &#34;shuttleBackground&#34;) should change from green to blue. The shuttle height should increase by 10,000 miles. Note When you are moving the shuttle, you want to use absolute positioning in CSS. Absolute positioning means positioning the object based on its location in the parent object. In the case of our flight simulator, the parent object is a div with the id, shuttleBackground. Relative positioning means positioning the object based on its fellow child objects. We might use relative positioning if there were planet objects within our shuttleBackground div.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/dom-and-events/studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/dom-and-events/studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Require Modules on Introduction to Web Dev</title>
+    <title>Require Modules :: Introduction to Web Dev</title>
     <link>http://localhost:1313/modules/reading/require-modules/index.html</link>
-    <description>Recent content in Require Modules on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>In order to take advantage of modules, we must import them with the require command. You have seen this before with readline-sync.&#xA;const input = require(&#39;readline-sync&#39;); let name = input.question(&#34;What is your name?&#34;); console.log(`Hello, ${name}`);Line 1 imports the readline-sync module and assigns its functions to the input variable.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/modules/reading/require-modules/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/modules/reading/require-modules/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

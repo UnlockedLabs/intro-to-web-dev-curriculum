@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>style property Examples on Introduction to Web Dev</title>
+    <title>style property Examples :: Introduction to Web Dev</title>
     <link>http://localhost:1313/appendices/dom-method-examples/style-property-examples/index.html</link>
-    <description>Recent content in style property Examples on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>The general syntax for the style property:&#xA;element.style.aStylePropertyThe style property is an object that allows you to read and update the INLINE style properties of the element. The style property does NOT read or update styles defined in a &lt;style&gt; tag or an external CSS file linked with a &lt;link&gt; tag.&#xA;Example &lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;title&gt;DOM Examples&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;h1&gt;style property Example&lt;/h1&gt; &lt;div id=&#34;strawberry&#34; style=&#34;color: red;&#34;&gt;Strawberry&lt;/div&gt; &lt;div id=&#34;blackberry&#34; style=&#34;color: purple; font-size: 5px&#34;&gt;Blackberry&lt;/div&gt; &lt;script&gt; let strawberry = document.querySelector(&#34;#strawberry&#34;); console.log(strawberry.style.color); let blackberry = document.querySelector(&#34;#blackberry&#34;); console.log(blackberry.style.fontSize); // Update the font size of strawberry strawberry.style.fontSize = &#34;45px&#34;; console.log(strawberry.style.fontSize); &lt;/script&gt; &lt;/body&gt; &lt;/html&gt;</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 09:28:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/appendices/dom-method-examples/style-property-examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/appendices/dom-method-examples/style-property-examples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

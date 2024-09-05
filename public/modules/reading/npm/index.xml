@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NPM on Introduction to Web Dev</title>
+    <title>NPM :: Introduction to Web Dev</title>
     <link>http://localhost:1313/modules/reading/npm/index.html</link>
-    <description>Recent content in NPM on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>NPM, Node Package Manager, is a tool for finding and installing Node modules. NPM has two major parts:&#xA;A registry of modules. Command line tools to install modules. NPM Registry The NPM registry is a listing of thousands of modules that are stored on a remote server. These can be required and downloaded to your project. The modules have been contributed by other developers just like you.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/modules/reading/npm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/modules/reading/npm/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

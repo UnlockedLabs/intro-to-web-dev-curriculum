@@ -1,93 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/more-on-functions/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content Links Functions as Objects Anonymous Functions Passing Functions as Arguments Receiving Functions as Arguments Why Use Anonymous Functions? Recursion Recursion Walkthrough: The Base Case Making a Function Call Itself Recursion Wrap-Up </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/more-on-functions/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/more-on-functions/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Functions as Objects</title>
       <link>http://localhost:1313/more-on-functions/reading/functions-as-values/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/functions-as-values/index.html</guid>
-      <description>Functions are powerful tools in any programming language, and JavaScript uses these tools in some flexible and creative ways. This chapter introduces a bit more of the power of functions.
-Functions Are Objects We defined a value as &amp;ldquo;a specific piece of data.&amp;rdquo; Some examples are the number 42, the string &amp;quot;LC101&amp;quot;, and the array [&amp;quot;MO&amp;quot;, &amp;quot;FL&amp;quot;, &amp;quot;DC&amp;quot;]. *Functions appear to be very different from other keywords we have worked with, they share many core characteristics.</description>
+      <description>Functions are powerful tools in any programming language, and JavaScript uses these tools in some flexible and creative ways. This chapter introduces a bit more of the power of functions.&#xA;Functions Are Objects We defined a value as “a specific piece of data.” Some examples are the number 42, the string &#34;LC101&#34;, and the array [&#34;MO&#34;, &#34;FL&#34;, &#34;DC&#34;]. *Functions appear to be very different from other keywords we have worked with, they share many core characteristics.</description>
     </item>
     <item>
       <title>Anonymous Functions</title>
       <link>http://localhost:1313/more-on-functions/reading/anonymous-functions/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/anonymous-functions/index.html</guid>
-      <description>You already know one method for creating a function :
-function myFunction(parameter1, parameter2,..., parameterN) { // function body } A function defined in this way is a named function (myFunction, in the example above).
-Many programming languages, including JavaScript, allow us to create anonymous functions, which do not have names. We can create an anonymous function by simply leaving off the function name when defining it:
-function (parameter1, parameter2,..., parameterN) { // function body } You might be asking yourself, How do I call a function if it doesn&amp;rsquo;t have a name?</description>
+      <description>You already know one method for creating a function :&#xA;function myFunction(parameter1, parameter2,..., parameterN) { // function body }A function defined in this way is a named function (myFunction, in the example above).&#xA;Many programming languages, including JavaScript, allow us to create anonymous functions, which do not have names. We can create an anonymous function by simply leaving off the function name when defining it:</description>
     </item>
     <item>
       <title>Passing Functions as Arguments</title>
       <link>http://localhost:1313/more-on-functions/reading/pass-function-as-arguments/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/pass-function-as-arguments/index.html</guid>
-      <description>Functions are objects, and therefore can be passed around just like other values. This means a function can be passed to another function as an argument. This allows the function being called to use the function argument to carry out its action. This turns out to be extremely useful.
-Examples best illustrate this technique, so let&amp;rsquo;s look at a couple now.
-Example: setTimeout The built-in function setTimeout allows a programmer to pass a function, specifying that it should be called at a later point in time.</description>
+      <description>Functions are objects, and therefore can be passed around just like other values. This means a function can be passed to another function as an argument. This allows the function being called to use the function argument to carry out its action. This turns out to be extremely useful.&#xA;Examples best illustrate this technique, so let’s look at a couple now.&#xA;Example: setTimeout The built-in function setTimeout allows a programmer to pass a function, specifying that it should be called at a later point in time. Its basic syntax is:</description>
     </item>
     <item>
       <title>Receiving Functions as Arguments</title>
       <link>http://localhost:1313/more-on-functions/reading/receive-function-as-arguments/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/receive-function-as-arguments/index.html</guid>
-      <description>The previous section illustrates how a function can be passed to another function as an argument. This section takes the opposite perspective to write functions that can take other functions as arguments.
-Example: A Generic Input Validator Our first example will be a generic input validator. It asks the user for some input, using the prompt parameter for the text of the question. A second parameter receives a function that does the actual work of validating the input.</description>
+      <description>The previous section illustrates how a function can be passed to another function as an argument. This section takes the opposite perspective to write functions that can take other functions as arguments.&#xA;Example: A Generic Input Validator Our first example will be a generic input validator. It asks the user for some input, using the prompt parameter for the text of the question. A second parameter receives a function that does the actual work of validating the input.</description>
     </item>
     <item>
       <title>Why Use Anonymous Functions?</title>
       <link>http://localhost:1313/more-on-functions/reading/why-anonymous-functions/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/why-anonymous-functions/index.html</guid>
-      <description>At this point, you may be asking yourself Why am I learning anonymous functions? They seem strange, and their utility may not be immediately obvious. While the opinions of programmers differ, there are two main reasons why we think anonymous functions are important to understand.
-Anonymous Functions Can Be Single-Use There are many situations in which you will need to create a function that will only be used once. To see this, recall one of our earlier examples.</description>
+      <description>At this point, you may be asking yourself Why am I learning anonymous functions? They seem strange, and their utility may not be immediately obvious. While the opinions of programmers differ, there are two main reasons why we think anonymous functions are important to understand.&#xA;Anonymous Functions Can Be Single-Use There are many situations in which you will need to create a function that will only be used once. To see this, recall one of our earlier examples.</description>
     </item>
     <item>
       <title>Recursion</title>
       <link>http://localhost:1313/more-on-functions/reading/recursion/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/recursion/index.html</guid>
-      <description>Quick Review In the previous chapter, we learned how to define a function and its parameters.
-Example function addTwoToNumber(num){ return num += 2; } console.log(addTwoToNumber(12)); Console Output
-14 When called, the parameter num is passed an argument, which in this case is the number 12. The function executes and returns the value 14, which the console.log statement prints.
-Functions Can Call Other Functions Functions should only accomplish one (preferably simple) task.</description>
+      <description>Quick Review In the previous chapter, we learned how to define a function and its parameters.&#xA;Example function addTwoToNumber(num){ return num += 2; } console.log(addTwoToNumber(12));</description>
     </item>
     <item>
       <title>Recursion Walkthrough: The Base Case</title>
       <link>http://localhost:1313/more-on-functions/reading/walkthrough-recursion/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/walkthrough-recursion/index.html</guid>
-      <description>To ease into the concept of recursion, let&amp;rsquo;s start with a loop task.
-In the Arrays chapter, we examined the join method , which combines the elements of an array into a single string. If we have arr = [&#39;L&#39;, &#39;C&#39;, &#39;1&#39;, &#39;0&#39;, &#39;1&#39;], then arr.join(&#39;&#39;) returns the string &#39;LC101&#39;.
-We can reproduce this action with either a for or a while loop.
-Joining Array Elements With a Loop Examine the code samples below:</description>
+      <description>To ease into the concept of recursion, let’s start with a loop task.&#xA;In the Arrays chapter, we examined the join method , which combines the elements of an array into a single string. If we have arr = [&#39;L&#39;, &#39;C&#39;, &#39;1&#39;, &#39;0&#39;, &#39;1&#39;], then arr.join(&#39;&#39;) returns the string &#39;LC101&#39;.&#xA;We can reproduce this action with either a for or a while loop.&#xA;Joining Array Elements With a Loop Examine the code samples below:</description>
     </item>
     <item>
       <title>Making a Function Call Itself</title>
       <link>http://localhost:1313/more-on-functions/reading/making-function-call-itself/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/making-function-call-itself/index.html</guid>
-      <description>Congratulations! Identifying the base case is often the trickiest part of building a recursive function.
-We&amp;rsquo;ve made it this far with combineEntries:
-function combineEntries(arrayName){ if (arrayName.length &amp;lt;= 1){ return arrayName[0]; } else { //call combineEntries again } } Now we are ready to take the next step.
-A Visual Representation To help visualize what happens during recursion, let&amp;rsquo;s start with the base case [&#39;L&#39;]:
-Nothing complicated here. combineEntries sees only one item in the array, so it returns &#39;L&#39;.</description>
+      <description>Congratulations! Identifying the base case is often the trickiest part of building a recursive function.&#xA;We’ve made it this far with combineEntries:&#xA;function combineEntries(arrayName){ if (arrayName.length &lt;= 1){ return arrayName[0]; } else { //call combineEntries again } }</description>
     </item>
     <item>
       <title>Recursion Wrap-Up</title>
       <link>http://localhost:1313/more-on-functions/reading/recursion-wrap-up/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/more-on-functions/reading/recursion-wrap-up/index.html</guid>
-      <description>In order to function (ba-dum chhhh), recursion must fulfill four conditions:
-A series of small, identical steps combine to solve a larger problem. A base case must be defined. When true, this simplest case halts the recursion. A recursive function repeatedly calls itself. Each time the recursive function is called, it must alter the data/variables/conditions in order to move closer to the base case. Benefits of Recursion: Fewer lines of code required to accomplish a task, Makes code cleaner and more readable.</description>
+      <description>In order to function (ba-dum chhhh), recursion must fulfill four conditions:&#xA;A series of small, identical steps combine to solve a larger problem. A base case must be defined. When true, this simplest case halts the recursion. A recursive function repeatedly calls itself. Each time the recursive function is called, it must alter the data/variables/conditions in order to move closer to the base case. Benefits of Recursion: Fewer lines of code required to accomplish a task, Makes code cleaner and more readable. Drawbacks of Recursion: More abstract than using loops, Code is “more readable” only if the reader understands recursion. Recursion in a Nutshell Build a single function to break a big problem into a slightly smaller version of the exact same problem. The function repeatedly calls itself to reduce the problem into smaller and smaller pieces. Eventually, the function reaches a simplest case (the base), which it solves. Solving the base case sets up the solutions to all of the previous steps. Why Do I Need To Know Recursion? If you ask veteran programmers how often they use recursion, you will get answers ranging from “Not since I had to do it in school,” to “Very regularly.” Some programmers avoid recursion like the plague, while others look forward to using it wherever it fits.</description>
     </item>
   </channel>
 </rss>

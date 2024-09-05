@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-Dimensional Arrays on Introduction to Web Dev</title>
+    <title>Multi-Dimensional Arrays :: Introduction to Web Dev</title>
     <link>http://localhost:1313/arrays/reading/multi-dimensional-arrays/index.html</link>
-    <description>Recent content in Multi-Dimensional Arrays on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Earlier we learned that arrays can store any type of value. If that is true, can we store arrays inside of arrays? Well yes we can….&#xA;A multi-dimensional array is an array of arrays, meaning that the values inside the array are also arrays. The inner arrays can store other values such as strings, numbers, or even more arrays.&#xA;The figure below demonstrates a synonyms array that has arrays as values. The inner arrays contain words that are synonyms of each other. Notice each inner array has an index position.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/arrays/reading/multi-dimensional-arrays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/arrays/reading/multi-dimensional-arrays/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

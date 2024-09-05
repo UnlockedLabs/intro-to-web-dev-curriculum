@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CSS Structure on Introduction to Web Dev</title>
+    <title>CSS Structure :: Introduction to Web Dev</title>
     <link>http://localhost:1313/styling-css/reading/css-structure/index.html</link>
-    <description>Recent content in CSS Structure on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Writing CSS Programmers can change a lot of different styling using CSS rules. A rule includes the selector and a declaration block. A selector determines which elements will be affected by the rule. Inside the declaration block, programmers set CSS properties to specific values. CSS has a lot of different properties and it would be impossible to memorize them all.&#xA;selector { declaration block } </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/styling-css/reading/css-structure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/styling-css/reading/css-structure/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

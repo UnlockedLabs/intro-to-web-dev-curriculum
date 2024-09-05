@@ -1,55 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading on Introduction to Web Dev</title>
+    <title>Reading :: Introduction to Web Dev</title>
     <link>http://localhost:1313/decisions-with-conditionals/reading/index.html</link>
-    <description>Recent content in Reading on Introduction to Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Reading Content Links Booleans Equality Logical Operators Conditionals Nested Conditionals </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/decisions-with-conditionals/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 12:55:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/decisions-with-conditionals/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Booleans</title>
       <link>http://localhost:1313/decisions-with-conditionals/reading/booleans/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/decisions-with-conditionals/reading/booleans/index.html</guid>
-      <description>One of the core features of any programming language is the ability to conditionally execute a segment of code. This means that a program will run a segment of code only if a given condition is met.
-Example Consider a banking application that can remind you when a bill is due. The application will notify you that a bill is due soon, but only if the bill has not already been paid.</description>
+      <description>One of the core features of any programming language is the ability to conditionally execute a segment of code. This means that a program will run a segment of code only if a given condition is met.&#xA;Example Consider a banking application that can remind you when a bill is due. The application will notify you that a bill is due soon, but only if the bill has not already been paid.</description>
     </item>
     <item>
       <title>Equality</title>
       <link>http://localhost:1313/decisions-with-conditionals/reading/equality/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/decisions-with-conditionals/reading/equality/index.html</guid>
-      <description>Loose Equality With == In the section booleans , we learned about the comparison operators == and !=, which test whether two values are equal or not equal, respectively. However, there are some quirks with using the == operator, which occur when we use == to compare different data types.
-Example console.log(7 == &amp;#34;7&amp;#34;); console.log(0 == false); console.log(0 == &amp;#39;&amp;#39;); Console Output
-true true true In order to properly make a comparison, the two operands must be the same type.</description>
+      <description>Loose Equality With == In the section booleans , we learned about the comparison operators == and !=, which test whether two values are equal or not equal, respectively. However, there are some quirks with using the == operator, which occur when we use == to compare different data types.&#xA;Example console.log(7 == &#34;7&#34;); console.log(0 == false); console.log(0 == &#39;&#39;);</description>
     </item>
     <item>
       <title>Logical Operators</title>
       <link>http://localhost:1313/decisions-with-conditionals/reading/logical-operators/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/decisions-with-conditionals/reading/logical-operators/index.html</guid>
-      <description>Recall that an operator is one or more characters that carries out an action on its operand(s). In Data and Variables we learned about three types of operators:
-Arithmetic operators, such as +, -, *, /, and %. The string operator +. Compound assignment operators, such as += and -=. Arithmetic and string operators take number and string operands, respectively, returning values of the same type. Compound assignment operators work similarly with numbers or strings while also reassigning the value of the first, variable operand.</description>
+      <description>Recall that an operator is one or more characters that carries out an action on its operand(s). In Data and Variables we learned about three types of operators:&#xA;Arithmetic operators, such as +, -, *, /, and %. The string operator +. Compound assignment operators, such as += and -=. Arithmetic and string operators take number and string operands, respectively, returning values of the same type. Compound assignment operators work similarly with numbers or strings while also reassigning the value of the first, variable operand.</description>
     </item>
     <item>
       <title>Conditionals</title>
       <link>http://localhost:1313/decisions-with-conditionals/reading/conditionals/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/decisions-with-conditionals/reading/conditionals/index.html</guid>
-      <description>At the beginning of this chapter, we decided that we wanted to be able to write code that only executes when a given condition is true.
-Again, here is our motivating example:
-Example Consider a banking application that can remind you when a bill is due. The application will notify you that a bill is due soon, but only if the bill has not already been paid.
-We summarized the condition as follows: Send a notification of an upcoming bill if the statement &amp;ldquo;the bill is unpaid&amp;rdquo; is true.</description>
+      <description>At the beginning of this chapter, we decided that we wanted to be able to write code that only executes when a given condition is true.&#xA;Again, here is our motivating example:&#xA;Example Consider a banking application that can remind you when a bill is due. The application will notify you that a bill is due soon, but only if the bill has not already been paid.</description>
     </item>
     <item>
       <title>Nested Conditionals</title>
       <link>http://localhost:1313/decisions-with-conditionals/reading/nested-conditionals/index.html</link>
       <pubDate>Thu, 25 May 2023 12:55:09 -0500</pubDate>
       <guid>http://localhost:1313/decisions-with-conditionals/reading/nested-conditionals/index.html</guid>
-      <description>We can write code with more complex branching behavior by combining conditionals and, in particular, by nesting conditionals. Let&amp;rsquo;s see how this works by tackling the following problem.
-Example Write code that prints different messages based on the value of a number variable. If the number is odd, print nothing. If it is even, print &amp;ldquo;EVEN&amp;rdquo;. If it is also positive print &amp;ldquo;POSITIVE&amp;rdquo;.
-Our first attempt at a solution might look like this:</description>
+      <description>We can write code with more complex branching behavior by combining conditionals and, in particular, by nesting conditionals. Let’s see how this works by tackling the following problem.&#xA;Example Write code that prints different messages based on the value of a number variable. If the number is odd, print nothing. If it is even, print “EVEN”. If it is also positive print “POSITIVE”.</description>
     </item>
   </channel>
 </rss>
