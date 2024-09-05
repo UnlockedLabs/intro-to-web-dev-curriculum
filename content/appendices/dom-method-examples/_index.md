@@ -1,7 +1,7 @@
 ---
 title: "DOM Method Examples"
 date: 2021-10-01T09:28:27-05:00
-weight: 8
+weight: 4
 draft: false
 originalAuthor: John Woolbright # to be set by page creator
 originalAuthorGitHub: jwoolbright23 # to be set by page creator

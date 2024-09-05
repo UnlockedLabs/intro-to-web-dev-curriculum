@@ -2,7 +2,7 @@
 title: "String Method Examples"
 date: 2024-09-05T16:28:27-05:00
 draft: false
-weight: 9
+weight: 1
 originalAuthor: Christian Frauenhoffer # to be set by page creator
 originalAuthorGitHub: johncfrauen-lc101 # to be set by page creator
 reviewer: # update any time edits are made after review
