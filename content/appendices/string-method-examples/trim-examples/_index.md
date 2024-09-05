@@ -23,7 +23,7 @@ This method returns a copy of the string with any leading or trailing whitespace
 
 {{% notice blue "Example" "rocket" %}}
 
- ```js {linenos=table}
+```js {linenos=table}
 	console.log("Saint Louis ".trim());
 	console.log(" Saint Louis".trim());
 	console.log(" Saint Louis ".trim());

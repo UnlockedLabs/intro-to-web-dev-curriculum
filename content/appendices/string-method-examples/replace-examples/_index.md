@@ -21,13 +21,13 @@ The general syntax for this method is:
 Given a search string `searchChar` and a replacement value `replacementChar`, this method returns a copy of `stringName` with the *first* occurrence of `searchChar` replaced by `replacementChar`.
 
 {{% notice blue Note "rocket" %}}
-The `replace` method can be used in more powerful ways utilizing regular expressions. We will not cover those here, but you [can read more at MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace).
+The `replace` method can be used in more powerful ways utilizing regular expressions. We will not cover those here, but you [can read more at MDN.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 {{% /notice %}}
 
 
 {{% notice blue "Example" "rocket" %}}
  ```js {linenos=table}
-	// If you provide a string for the first argument, only the first occurrence of that string inside the overall string will be replaced.
+
 	console.log("carrot".replace("r", "t"));
 
 	console.log("Launch Code".replace(" ", ""));
@@ -45,7 +45,7 @@ Some email providers, including Gmail, allow users to put a `.` anywhere before 
 
 Remove the `.` before the `@` symbol in an email address.
 
- ```js {linenos=table}
+```js {linenos=table}
 	let input = "fake.email@launchcode.org";
 	let email = input.replace(".", "");
 	console.log(email);
@@ -56,7 +56,7 @@ Remove the `.` before the `@` symbol in an email address.
 	fakeemail@launchcode.org
 ```
 
-This example illustrates a common use case of `replace`, which is to remove a character by replacing it with the empty string.
+This example illustrates a common use case of `replace`, which is to remove a character by replacing it with an empty string.
 
 {{% /notice %}}
 

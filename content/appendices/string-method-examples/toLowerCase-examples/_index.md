@@ -15,13 +15,13 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 The general syntax for this method is:
 
 ```console
-   stringName.toLowerCase();
+	stringName.toLowerCase();
 ```
 
 This method returns a copy of `stringName` with all uppercase letters replaced by their lowercase counterparts. It leaves non-alphabetic characters unchanged.
 
-```console
-   "LaunchCode".toLowerCase();
+```js
+	"LaunchCode".toLowerCase();
 ```
 
 **Console Output**
@@ -31,15 +31,15 @@ This method returns a copy of `stringName` with all uppercase letters replaced b
 ```
 
 {{% notice blue "Example" "rocket" %}}
-The domain portion of an email address (the portion after the `@` symbol) is case-insensitive. Emails with domain `launchcode.org are the same as those with domain `LAUNCHCODE.ORG`. By convention, the all-lowercase version is typically used by an application.
+The domain portion of an email address (the portion after the `@` symbol) is case-insensitive. Emails with domain `launchcode.org` are the same as those with domain `LAUNCHCODE.ORG`. By convention, the all-lowercase version is typically used by an application.
 
 This program standardizes an email address by converting it to all lowercase characters.
 
- ```js {linenos=table}
+```js {linenos=table}
 	let input = "fake.email@LAUNCHCODE.ORG";
-	
+
 	let email = input.toLowerCase();
-	
+
 	console.log(email);
 ```
 

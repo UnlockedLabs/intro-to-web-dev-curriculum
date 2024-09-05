@@ -16,12 +16,12 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 The general syntax for this method is:
 
 ```console
-   stringName.slice(i, j);
+	stringName.slice(i, j);
 ```
 
 Given a starting index `i` and an optional ending index `j`, return the substring consisting of characters from index `i` through index `j-1`. If the ending index is ommitted, the returned substring includes all characters from the starting index through the end of the string.
 
-```console
+```js {linenos=table}
 	"LaunchCode".slice(0, 6);
 
 	"LaunchCode".slice(6);
