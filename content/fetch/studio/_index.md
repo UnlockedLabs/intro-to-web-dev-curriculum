@@ -132,14 +132,14 @@ build HTML dynamically for each astronaut returned from the API.
 ```html
 <div class="astronaut">
     <div class="bio">
-        <h3>Mae Jemison</h3>
+        <h2>Mae Jemison</h2>
         <ul>
         <li>Hours in space: 190</li>
         <li>Active: false</li>
         <li>Skills: Physician, Chemical Engineer</li>
         </ul>
     </div>
-    <img class="avatar" src="images/mae-jemison.jpg">
+    <img class="avatar" src="images/mae-jemison.jpg" alt="Headshot of Mae Jemison">
 </div>
 ```
 
