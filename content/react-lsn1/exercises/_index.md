@@ -81,7 +81,7 @@ they appear pretty bland. Let's change that.
 ### Add More Movies
 
 The list of movies is built using an array defined in
-`MovieList.js`.
+`MovieList.jsx`.
 
 3. Add two more items to the `movies` array.
 
