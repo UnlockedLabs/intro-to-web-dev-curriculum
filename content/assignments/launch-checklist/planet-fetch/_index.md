@@ -25,11 +25,25 @@ Review the list and decide which planet you want to send our intrepid crew to an
 {{% /notice %}}
 
 In `scriptHelper.js`, you have three functions for this task: `myFetch()`, `pickPlanet()`, and `addDestinationInfo()`.
+
 First, review the comments in `addDestinationInfo()`.
-This is the format of the `innerHTML` for the `missionTarget` div, which you can locate using the `document` parameter of `addDestinationInfo()`.
-`addDestinationInfo()` does not need to return anything.
+This is the format of the `innerHTML` for the `missionTarget` div, which you can locate using the `document` parameter of `addDestinationInfo()`. `addDestinationInfo()` does not need to return anything.
+
 `pickPlanet()` takes in one argument: a list of planets. Using `Math.random()`, return one planet from the list with a randomly-selected index.
-`myFetch()` has some of the code necessary for fetching planetary JSON, however, it is not complete. You need to add the URL and return `response.json()`.
+
+`myFetch()` has some of the code necessary for fetching planetary JSON, however, it is not complete. You need to add the URL to the `fetch` method call and return `response.json()` from the inner function.
+
+
+{{% notice blue "Note" "rocket" %}}
+
+    `myFetch` has an `async` prefix prior the function declaration, and also uses the `await` keyword 
+    in the body.
+    
+    This is an advanced language feature used by the autograder that you do not need to worry about for 
+    class.
+
+{{% /notice %}}
+
 
 Now it is time to make use of these helper functions in `script.js`.  We provided some of the code necessary:
 
