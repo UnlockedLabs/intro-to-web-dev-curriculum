@@ -116,7 +116,7 @@ First create inside `src`, a folder called `components`. Now tackle creating the
    </div>
    ```
 
-1. Run your application! You should have a white screen that just includes your `RecipeDescription` component.
+1. Run your application! You should have a simple page that just includes your `RecipeDescription` component.
 
 ### The `RecipeIngredients` Component
 
