@@ -213,7 +213,7 @@ The `react-exercises-and-studios` repository contains two branches:
 If you get stuck on a particular exercise:
 
 1. Try again.
-1. Ask your TA, instructor, classmates, or Google for tips.
+1. Ask your IA, instructor, classmates, or Google for tips.
 1. Try again.
 1. Take a break and give your brain a chance to rest.
 1. Try again.
