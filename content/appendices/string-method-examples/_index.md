@@ -1,17 +1,15 @@
 ---
-title: "Array Method Examples"
-date: 2021-10-01T09:28:27-05:00
-weight: 2
+title: "String Method Examples"
+date: 2024-09-05T16:28:27-05:00
 draft: false
-originalAuthor: John Woolbright # to be set by page creator
-originalAuthorGitHub: jwoolbright23 # to be set by page creator
+weight: 1
+originalAuthor: Christian Frauenhoffer # to be set by page creator
+originalAuthorGitHub: johncfrauen-lc101 # to be set by page creator
 reviewer: # update any time edits are made after review
 reviewerGitHub: # update any time edits are made after review
 lastEditor: # update any time edits are made after review
 lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
-
-## Content Links
 
 {{% children %}}
