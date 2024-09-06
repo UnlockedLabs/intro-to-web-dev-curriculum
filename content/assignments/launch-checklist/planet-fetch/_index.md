@@ -17,11 +17,9 @@ Our planetary data can be found in [JSON format](https://handlers.education.laun
 Review the list and decide which planet you want to send our intrepid crew to and make note of the index number.
 
 {{% notice blue "Note" "rocket" %}} 
-
-   When fetching more than one JSON object, we get an array of all of the JSON objects.
-   In this case, that means an array of our possible mission destinations.
-   When picking the mission destination, just pick the item in the array you want and start counting at 0.
-
+When fetching more than one JSON object, we get an array of all of the JSON objects.
+In this case, that means an array of our possible mission destinations.
+When picking the mission destination, just pick the item in the array you want and start counting at 0.
 {{% /notice %}}
 
 In `scriptHelper.js`, you have three functions for this task: `myFetch()`, `pickPlanet()`, and `addDestinationInfo()`.
@@ -35,13 +33,11 @@ This is the format of the `innerHTML` for the `missionTarget` div, which you can
 
 
 {{% notice blue "Note" "rocket" %}}
+`myFetch` has an `async` prefix prior the function declaration, and also uses the `await` keyword 
+in the body.
 
-    `myFetch` has an `async` prefix prior the function declaration, and also uses the `await` keyword 
-    in the body.
-    
-    This is an advanced language feature used by the autograder that you do not need to worry about for 
-    class.
-
+This is an advanced language feature used by the autograder that you do not need to worry about for 
+class.
 {{% /notice %}}
 
 
