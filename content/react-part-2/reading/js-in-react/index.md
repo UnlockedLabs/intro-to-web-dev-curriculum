@@ -267,7 +267,7 @@ function GreetFriend(name ="Tacocat") {
    );
 }
 
-export default GreetingFriend;
+export default GreetFriend;
 ```
 
 **Option 2:** As part of the declaration
