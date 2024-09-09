@@ -16,7 +16,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 The general syntax for this method is:
 
 ```console
-   stringName.trim();
+stringName.trim();
 ```
 
 This method returns a copy of the string with any leading or trailing whitespace removed. Whitespace characters are those that do not display anything on the screen, such as spaces and tabs.
@@ -24,17 +24,17 @@ This method returns a copy of the string with any leading or trailing whitespace
 {{% notice blue "Example" "rocket" %}}
 
 ```js {linenos=table}
-	console.log("Saint Louis ".trim());
-	console.log(" Saint Louis".trim());
-	console.log(" Saint Louis ".trim());
+console.log("Saint Louis ".trim());
+console.log(" Saint Louis".trim());
+console.log(" Saint Louis ".trim());
 ```
 
 **Console Output**
 
 ```console
-	Saint Louis
-	Saint Louis
-	Saint Louis
+Saint Louis
+Saint Louis
+Saint Louis
 ```
 {{% /notice %}}
 
@@ -44,14 +44,14 @@ When typing an email address into a web site, a user may inadvertently type a sp
 This example cleans up user input with `trim`.
 
  ```js {linenos=table}
-	let input = " fake.email@launchcode.org ";
-	let email = input.trim();
-	console.log(email);
+let input = " fake.email@launchcode.org ";
+let email = input.trim();
+console.log(email);
 ```
 
 **Console Output**
 
 ```console
-	fake.email@launchcode.org
+fake.email@launchcode.org
 ```
 {{% /notice %}}

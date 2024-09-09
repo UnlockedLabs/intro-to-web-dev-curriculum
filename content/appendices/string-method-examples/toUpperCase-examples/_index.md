@@ -15,7 +15,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 The general syntax for this method is:
 
 ```console
-   stringName.toUpperCase();
+stringName.toUpperCase();
 ```
 
 This method returns a copy of `stringName` with all lowercase letters replaced by their uppercase counterparts. It leaves non-alphabetic characters unchanged.
@@ -23,16 +23,16 @@ This method returns a copy of `stringName` with all lowercase letters replaced b
 {{% notice blue "Example" "rocket" %}}
 
  ```js {linenos=table}
-	console.log("LaunchCode".toUpperCase());
-	console.log("launchcode".toUpperCase());
-	console.log("LaunchCode's LC101".toUpperCase());
+console.log("LaunchCode".toUpperCase());
+console.log("launchcode".toUpperCase());
+console.log("LaunchCode's LC101".toUpperCase());
 ```
 
 **Console Output**
 
 ```console
-	LAUNCHCODE
-	LAUNCHCODE
-	LAUNCHCODE'S LC101
+LAUNCHCODE
+LAUNCHCODE
+LAUNCHCODE'S LC101
 ```
 {{% /notice %}}
