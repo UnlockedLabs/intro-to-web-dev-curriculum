@@ -35,7 +35,7 @@ exception!
 
 ## Error Object
 
-When a runtime error, also known as an exception, is raised JavaScript returns
+When a runtime error, (also known as an exception) is raised, JavaScript returns
 an `Error` object. An Error Object has two properties: a name and a message.
 The name refers to the type of error that occurred, while the message gives the
 user information on why that exception occurred.
