@@ -1,0 +1,14 @@
+chptr 17
+    1. Introduction: the MDN Errors Documentation link does not work.
+    2. Introduction: the W3Schools JavaScript Error link does not work.
+    3. Next Steps: the W3Schools JavaScript Errors link does not work.
+    4. Next Steps: the mdn web docs_ on Control flow and error handling link does not work.
+    5. Next Steps: the tutorialspoint errors and exceptions handling link does not work.
+    6. Next Steps: the geeksforgeeks JavaScript Error and Exceptional Handling with Examples link does not work.
+chptr 18
+chptr 19
+chptr 20
+chptr 21
+chptr 22
+chptr 23
+chptr 24

@@ -21,7 +21,7 @@ Upon completing all the content in this chapter, you should be able to do the fo
 
 ## Key Terminology
 
-Here is a list of key terms for this chapter, broken down by the page the term first appears on.
+Here is a list of key terms for this chapter, broken down by the page where the term first appears on.
 
 ### What are Classes?
 
