@@ -22,10 +22,10 @@ Upon completing all the content in this chapter, you should be able to do the fo
 1. List contents of a directory
 1. Understand the difference between an `absolute` and `relative` path.
 1. Understand the difference between a graphical user interface and a command line interface
-1. 
+
 
 ## Key Terminology
-Here is a list of key terms for this chapter broken down by the page the term first appears on. You should make note of these terms and their definitions.
+Here is a list of key terms for this chapter broken down by the page where the term first appears on. You should make note of these terms and their definitions.
 
 ### What is a terminal anyways?
 1. graphical user interface (GUI)
