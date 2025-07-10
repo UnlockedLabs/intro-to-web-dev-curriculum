@@ -13,6 +13,13 @@ chptr 19
     1. Running Programs in the Terminal: the npm CLI link does not work
     2. Next Steps: None of the links work (looking for outside site)
 chptr 20
+    1. Exercise: Mozilla link does not work (looking for outside site)
+    2. Studio: full documentation link does not work (looking for outside site)
+    3. Studio: The New York Times link does not work 
+    4. Studio: Using Firefox Page Inspector link does not work
+    5. Studio: Firefox DevTools Documentation link does not work
+    6. Studio: Dropbox link does not work
+    7. Next Steps: None of the links work (looking for outside site)
 chptr 21
 chptr 22
 chptr 23

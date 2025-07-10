@@ -20,7 +20,7 @@ Upon completing all the content in this chapter, you should be able to do the fo
 
 ## Key Terminology
 
-Here is a list of key terms for this chapter, based on the page the term first appears on. Make note of these terms and their definitions.
+Here is a list of key terms for this chapter, based on the page where the term first appears on. Make note of these terms and their definitions.
 
 ### Background
 
