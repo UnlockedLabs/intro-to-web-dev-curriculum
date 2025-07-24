@@ -35,3 +35,19 @@ chptr 23
     4. Event Types: the W3Schools (have the site to W3Schools but path not to it)
     5. Event Types: the MDN DOM reference.
 chptr 24
+    1. How the Internet Works:  “series of tubes" link does not work(looking for outside site going to youtube)
+    2. How the Internet Works: MX Toolbox link does not work (looking for outside site)
+    3. How the Internet Works: search on duckduckgo.com link does not work (look for outside site)
+    4. How the Internet Works: How Do URLs Work? link does not work
+    5. How the Internet Works: How the Internet Works link does not work
+    6. HTTP at a Glance: US Air Force link does not work (looking for outside site) 
+    7. HTTP at a Glance: verkeorg link does not work (looking for outside site)
+    8. Requests: World Wide Web Consortium (W3C) link does not work (looking for outside site)
+    9. Requests: 8 methods link does not work (looking for outside site)
+    10. Requests: "quite a few request headers" link does not work (looking for outside site)
+    11. Requests: "Wikipedia’s article on HTTP request headers" link does not work (looking for outside site)
+    12. Responses: "quite a few response headers" link does not work (looking for outside site - Wikipedia)
+    13. Responses: "Wikipedia’s article on HTTP response codes" link does not work (looking for outside site)
+    14. HTTP in the Browser: MDN link does not work (looking for outside site)
+    15. HTTP in the Browser: "our example from the HTML Me Something assignment" link does not work (looking for education.launchcode.org)
+    16. Next Steps: None of the links work (looking for outside site)
