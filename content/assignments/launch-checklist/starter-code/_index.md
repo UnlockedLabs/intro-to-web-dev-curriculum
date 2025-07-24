@@ -16,7 +16,7 @@ Fork and clone the starter code [repository](https://github.com/LaunchCodeEducat
 
 To get started, navigate to the directory with your copy of the starter code. 
 
-1. Run `npm install`.
+1. Run `npm install` [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}).
 1. Open `index.html` with Firefox to verify that your starter code is working.
 
 When you open `index.html` in the browser, you should see the Launch Checklist form with a rectangle above it for the mission destination and a rectangle below it that simply says "Awaiting Information Before Launch".

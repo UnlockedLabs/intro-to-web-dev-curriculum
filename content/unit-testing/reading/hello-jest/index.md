@@ -39,7 +39,7 @@ A project using Jest has several components:
 
 Let's build a "Hello, World!" Jest project, to get familiar with the basic components. Open the `hello-jest` directory in the `chapter-examples` folder in `javascript-projects/unit-testing`.
 
-We will walk you through the steps needed to get a simple Jest project up and running. Code along with us throughout this section. Run `npm install` in your terminal to make sure that your project is ready to run when you want to see how the code works.
+We will walk you through the steps needed to get a simple Jest project up and running. Code along with us throughout this section. Run `npm install` [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}) in your terminal to make sure that your project is ready to run when you want to see how the code works.
 
 ### `hello.js`
 

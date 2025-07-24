@@ -55,7 +55,7 @@ should be modifying here to write your Scrabble Scorer program.
 To run the starter code as is, take the following steps:
 
 1. Open the terminal in Visual Studio Code.
-1. Run the command, `npm install`.
+1. Run the command, `npm install` [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}).
 1. Once that is complete, run the command, `node index`. You'll see a message printed to the console:
 
 ```console

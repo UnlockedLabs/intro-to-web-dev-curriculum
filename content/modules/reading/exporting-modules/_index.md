@@ -57,7 +57,7 @@ In `index.js`, we import `practiceExports.js` with a `require` statement.
 `palindromeCheck`, and we can now call the function from within `index.js`.
 
 {{% notice green "Try it!" "rocket"%}}
-Add the following code to `index.js`, then click "Run".
+Add the following code to `index.js`, then run it.
 
 ```javascript
 const palindromeCheck = require('./practiceExports.js');

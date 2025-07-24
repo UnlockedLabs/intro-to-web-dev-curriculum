@@ -31,7 +31,7 @@ Open your file tree.  You should see a `__tests__` directory and some JavaScript
    1. The `__tests__` directory contains the autograding tests. 
    1. The remaining files are configured for the autograder. You do not need to edit these.
 
-Before you start your project make sure you run `npm install` to pull in the necessary packages and dependencies.
+Before you start your project make sure you run `npm install` to pull in the necessary packages and dependencies [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}).
 
 The instructions for this project will have you run the tests as the final step of this project.
 
