@@ -215,7 +215,7 @@ It then decides which player won the match and returns a string.
    {{% /expand %}}
 
 1. Write a test in `RPS.test.js` to check if `whoWon` behaves correctly
-   when the players tie (both choose the same option). Click "Run" and examine
+   when the players tie (both choose the same option). Run the code and examine
    the output. SPOILER ALERT: The code for checking ties is correct in
    `whoWon`, so the test should pass. If it does not, modify your `test`
    statement.

@@ -20,6 +20,13 @@ After you have done some exploring, open a terminal window within your `Visual S
 
 ![Open Terminal window within Visual Studio Code](pictures/open-terminal-visual-studio-code.png?classes=border)
 
+{{% notice green "Offline Student Note" "rocket" %}}
+You do not need to run the `npm i` or `npm install` commands
+as the modules that download from these commands have already
+been provided for you.  See [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}) for more information.
+{{% /notice %}}
+
+
 {{% notice blue Note "rocket" %}}
 You can also open a terminal and navigate to the `assignment0` project directory location and run the following commands as well.
 {{% /notice %}}

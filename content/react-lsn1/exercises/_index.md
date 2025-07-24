@@ -38,7 +38,7 @@ Navigate into the exercises now:
 You should be able to run  `npm start`, but the page will not look pretty. Time to fix that! 
 
 {{% notice blue "Note" "rocket" %}}
-   If the `exercises` app doesn't run at first, try running `npm install`. Once that process has completed, you should be able to run `npm start` again to get the development server going.
+   If the `exercises` app doesn't run at first, try running `npm install` [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}). Once that process has completed, you should be able to run `npm start` again to get the development server going.
 {{% /notice %}}
 
 ## Part 1: Modify the CSS

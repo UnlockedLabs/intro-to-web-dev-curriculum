@@ -16,7 +16,7 @@ Now that we've launched our shuttle, let's use loops (iteration) to
 automate some tasks.
 
 Open `loops/studio` in `javascript-projects`. Before you dive in, you might notice that we have several files and folders inside.
-Your work will go into `solution.js`, but please feel free to explore the program and please don't edit anything outside `solution.js`. To get started, run the command. `npm install`, in your terminal.
+Your work will go into `solution.js`, but please feel free to explore the program and please don't edit anything outside `solution.js`. To get started, run the command. `npm install` [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}), in your terminal.
 
 ## Part A: Put dinner together
 

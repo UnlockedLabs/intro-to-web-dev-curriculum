@@ -31,7 +31,8 @@ perform some useful actions.
 {{% notice blue Note "rocket" %}}
 This portion of the studio can be found at the following location: `javascript-projects/arrays/studio/string-modification.js`.
 
-Dont forget to run `npm i` or `npm install` within your studio directories.
+Dont forget to run `npm i` or `npm install` within your studio directories
+[(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}).
 {{% /notice %}}
 
 Use string methods to convert a word into pseudo-pig latin.

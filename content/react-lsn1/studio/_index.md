@@ -28,7 +28,7 @@ To get started coding, you need to first create an application.
 1. Open up your `react-exercises-and-studios` repo and navigate into the `part1` directory.
 1. Create a new React app named `studio` with the command: `npm create vite@latest`.
 - Select the `React` and `JavaScript` options when prompted.
-1. Install all of the required dependencies within the project using `npm install` or `npm i`.
+1. Install all of the required dependencies within the project using `npm install` or `npm i` [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}).
 1. Once your application is set up, run `npm run dev` to verify that your application runs and is ready to go.
 
 ## The Components

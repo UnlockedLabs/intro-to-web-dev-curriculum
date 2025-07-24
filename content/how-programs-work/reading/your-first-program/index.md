@@ -161,7 +161,7 @@ We have used the phrase `Hello, World` as an example throughout this chapter bec
    1. Enter your code on line 7 to print 'Hello, World!
    1. Open a terminal inside Visual Studio Code.  If you need a refresher, checkout the [installation guide]({{< relref "../../../installations/install-visual-studio/_index.md" >}}).
    1. Inside your terminal type the following commands
-      1. `npm install` (We will explore this more in future chapters).  You will see that more files and directories have been added to your project. That is expected.
+      1. `npm install` [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}). (We will explore this more in future chapters).  You will see that more files and directories have been added to your project. That is expected.
       1. Next type the command `node hello.js`.  This should run the program, which in this case prints your message in the terminal.  
       ```bash
       node hello.js
