@@ -18,12 +18,12 @@ Upon completing all the content in this chapter, you should be able to do the fo
 
 1. Understand the DOM is used to make dynamic web pages
 1. Use DOM objects and methods to alter an HTML web page
-1. Understand what events are and that JavaScript is an event driven language
+1. Understand what events are
 1. Handle and trigger events in JavaScript
 1. Differentiate between dynamic and static web pages
 1. Describe how the JavaScript environment of a browser is different from other JavaScript environments, such as Node.js
-1. Use the <script> to include JavaScript into an HTML page
-1. Know to put your <script> after the elements you want to alter, unless using load events
+1. Use the `<script>` tag to include JavaScript into an HTML page
+1. Know to put your `<script>`tag after the elements you want to alter, unless using load events
 1. Understand what the Document Object Model (DOM) is
 1. Understand and use the global variable window and these methods and properties: `window.alert()`, `window.console`, `window.confirm()`, `window.location`.
 1. Understand and use the global variable document and these methods and properties: `document.title`, `document.getElementById()`, `document.querySelector()`, `document.querySelectorAll()`

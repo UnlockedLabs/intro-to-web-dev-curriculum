@@ -29,4 +29,9 @@ chptr 22
     3.Task 2: Time to Communicate: Resolving Conflicts In the Command Line link does not work (looking for outside site)
     4.Next Steps: None of the links work (looking for outside site)
 chptr 23
+    1. JavaScript and the Browser: Can I Use link do not work
+    2. More DOM Methods and Properties: the W3Schools (have the site to W3Schools but path not to it)
+    3. More DOM Methods and Properties: the MDN DOM reference.
+    4. Event Types: the W3Schools (have the site to W3Schools but path not to it)
+    5. Event Types: the MDN DOM reference.
 chptr 24
