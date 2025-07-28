@@ -59,4 +59,4 @@ Your CSS must:
  Once you finish your adding your stylings, be sure to stage and `commit` your changes.
 {{% /notice %}}
 
-Now that you have applied your stylings, you are ready to test your work and submit your final project.  Move on over to [Task 3]({{< relref "../part-3/index.md" >}}) to work on these final steps.
+Now that you have applied your stylings, you are ready to test your work and submit your final project.  Move on over to [Task 3]({{% relref "../part-3/index.md" %}}) to work on these final steps.

@@ -24,7 +24,7 @@ To select a random item from the array ``happiness = ['Hope', 'Joy', 'Peace',
 generate an index value from 0 to 7. Since `Math.random()` returns a
 decimal number between 0 and 1, the method on its own will not work.
 
-The [Math.random]({{< relref "../../../appendices/math-method-examples/random-examples" >}}) appendix page describes how to
+The [Math.random]({{% relref "../../../appendices/math-method-examples/random-examples" %}}) appendix page describes how to
 generate random integers by combining the `random` and `floor` methods. We
 will use this functionality now.
 

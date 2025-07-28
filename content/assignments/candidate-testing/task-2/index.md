@@ -52,4 +52,4 @@ In the terminal run `npm test`.  This will run the autograding tests.  The resul
 
 You should still pass tests 1-6 from Task 1. 
 
-Move on to [Task 3]({{< relref "../task-3/index.md" >}})
+Move on to [Task 3]({{% relref "../task-3/index.md" %}})

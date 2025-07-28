@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-With [the Message Class section]({{< relref "../message-class/_index.md" >}}) completed, let's turn our attention to the final class, the `Rover` class.
+With [the Message Class section]({{% relref "../message-class/_index.md" %}}) completed, let's turn our attention to the final class, the `Rover` class.
 
 ## `Rover`
 
@@ -128,4 +128,4 @@ The response value for `completed` will be `false` if the command could NOT be c
 | LOW_POWER   | Can't be moved in this state. |
 | NORMAL      | None |
 
-Once your `Rover` class is complete, make sure to [Submit Your Work]({{< relref "../submitting-your-work/_index.md" >}}).
+Once your `Rover` class is complete, make sure to [Submit Your Work]({{% relref "../submitting-your-work/_index.md" %}}).

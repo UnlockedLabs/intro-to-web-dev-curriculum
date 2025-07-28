@@ -30,11 +30,11 @@ In true TDD form, you will be asked to first write the appropriate unit tests fo
 
 ## Sections:
 
-1. [Starter Code]({{< relref "#submitting-your-work" >}})
-1. [Command Class]({{< relref "../command-class/_index.md" >}})
-1. [Message Class]({{< relref "../message-class/_index.md" >}})
-1. [Rover Class]({{< relref "../rover-class/_index.md" >}})
-1. [Submitting Your Work]({{< relref "../submitting-your-work/_index.md" >}})
+1. [Starter Code]({{% relref "#submitting-your-work" %}})
+1. [Command Class]({{% relref "../command-class/_index.md" %}})
+1. [Message Class]({{% relref "../message-class/_index.md" %}})
+1. [Rover Class]({{% relref "../rover-class/_index.md" %}})
+1. [Submitting Your Work]({{% relref "../submitting-your-work/_index.md" %}})
 
 ## Get the Starter Code
 
@@ -55,4 +55,4 @@ Each numbered item describes a test. *You should use the given phrases as the te
 Do NOT try to write all of the tests at once. Doing so will be inefficient and will cause excessive frustration.
 {{% /notice %}}
 
-Once you are ready, move on to the next section: [Command Class]({{< relref "../command-class/_index.md" >}})
+Once you are ready, move on to the next section: [Command Class]({{% relref "../command-class/_index.md" %}})

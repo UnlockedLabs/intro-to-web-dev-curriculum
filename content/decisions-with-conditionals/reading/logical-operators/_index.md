@@ -13,7 +13,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
 Recall that an operator is one or more characters that carries out an action on
-its operand(s). In [Data and Variables]({{< relref "../../../data-and-variables/_index.md" >}}) we learned about three types of
+its operand(s). In [Data and Variables]({{% relref "../../../data-and-variables/_index.md" %}}) we learned about three types of
 operators:
 
 - Arithmetic operators, such as `+`, `-`, `*`, `/`, and `%`.

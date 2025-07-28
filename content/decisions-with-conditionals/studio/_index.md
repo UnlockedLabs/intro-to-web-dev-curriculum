@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # Wed Jul 5 08:49:19 AM CDT 2023
 ---
 
-In this studio, you are going to write code to verify that your Space Shuttle is prepared for LiftOff! This activity will combine knowledge you have gained from this chapter and the [Data and Variables Chapter]({{< relref "../../data-and-variables/_index.md" >}})
+In this studio, you are going to write code to verify that your Space Shuttle is prepared for LiftOff! This activity will combine knowledge you have gained from this chapter and the [Data and Variables Chapter]({{% relref "../../data-and-variables/_index.md" %}})
 
 {{% notice blue Note "rocket" %}}
 The starter code for this studio can be found inside of the following repository: [javascript-projects](https://github.com/LaunchCodeEducation/javascript-projects/) within the `booleans-and-conditionals` directory.

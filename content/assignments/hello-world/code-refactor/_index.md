@@ -23,7 +23,7 @@ After you have done some exploring, open a terminal window within your `Visual S
 {{% notice green "Offline Student Note" "rocket" %}}
 You do not need to run the `npm i` or `npm install` commands
 as the modules that download from these commands have already
-been provided for you.  See [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}) for more information.
+been provided for you.  See [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}) for more information.
 {{% /notice %}}
 
 

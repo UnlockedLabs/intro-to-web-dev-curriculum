@@ -18,7 +18,7 @@ Work on the following studio within your `javascript-projects/more-on-functions/
 
 ## Sort Numbers For Real
 
-Recall that using the `sort` method on an array of numbers [produced an unexpected result]({{< relref "../../appendices/array-method-examples/sort-examples/_index.md" >}}), since JavaScript converts
+Recall that using the `sort` method on an array of numbers [produced an unexpected result]({{% relref "../../appendices/array-method-examples/sort-examples/_index.md" %}}), since JavaScript converts
 the numbers to strings by default. Let's fix this!
 
 Here is one approach to sorting an array:

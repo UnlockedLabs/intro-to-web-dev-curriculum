@@ -103,7 +103,7 @@ function isPalindrome(str) {
 
 This function is still short, which is good. But does it do one thing (check if a string is a palindrome) or multiple things (check the string, *and* reverse a string)? This is a bit subjective, and here the answer is certainly debatable. 
 
-Some cases will be much more clear-cut, however. Consider the sandwich function, `makeSandwich`, from the section [A Good Function Writing Process]({{< relref "../function-writing/_index.md" >}}). Suppose we wanted to expand the capability of our program to not only make a sandwich, but to also pour a beverage (to go along with our lunch). It would be a bad idea to amend our function to do both, ending up with a function that has a name like `makeSandwichAndPourDrink`.
+Some cases will be much more clear-cut, however. Consider the sandwich function, `makeSandwich`, from the section [A Good Function Writing Process]({{% relref "../function-writing/_index.md" %}}). Suppose we wanted to expand the capability of our program to not only make a sandwich, but to also pour a beverage (to go along with our lunch). It would be a bad idea to amend our function to do both, ending up with a function that has a name like `makeSandwichAndPourDrink`.
 
 A much better solution would look like this:
 
@@ -124,4 +124,4 @@ function makeLunch( /*parameters*/ ) {
 
 Why is this better? Smaller functions are easier to debug, for one thing. And by separating single responsibilities into individual functions, we also make our code easier to read and more reusable. In looking at the `makeLunch` function, it is very clear what is going on. First, it makes a sandwich, then it pours a drink. 
 
-Were the `makeLunch` function to simply contain all of the code necessary to carry out *both* tasks, there would be no clear separation between one task and the other, and the only way we might describe the various sections of the larger function would be to use comments. And, [as we have discussed]({{< relref "../naming-functions/_index.md#use-descriptive-names" >}}), comments should be a secondary option for explaining your code.
+Were the `makeLunch` function to simply contain all of the code necessary to carry out *both* tasks, there would be no clear separation between one task and the other, and the only way we might describe the various sections of the larger function would be to use comments. And, [as we have discussed]({{% relref "../naming-functions/_index.md#use-descriptive-names" %}}), comments should be a secondary option for explaining your code.

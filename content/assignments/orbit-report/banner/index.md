@@ -42,4 +42,4 @@ lastMod: 2023-10-16 # UPDATE ANY TIME CHANGES ARE MADE
 
 1. Check to see if your `Banner` renders.  
 
-[Next]({{< relref "../../../assignments/orbit-report/update-app/" >}})
+[Next]({{% relref "../../../assignments/orbit-report/update-app/" %}})
