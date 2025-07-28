@@ -41,7 +41,7 @@ exercises:
 
 ### Declare and assign variables
 
-1. Declare and assign a variable for each item in [the Data Table]({{< relref "#the-data" >}}) above.
+1. Declare and assign a variable for each item in [the Data Table]({{% relref "#the-data" %}}) above.
 
 {{% notice blue Tip "rocket" %}}
 When declaring and assigning your variables, remember that you will
@@ -63,7 +63,7 @@ const milesPerKm = 0.621;
 
 1. For each variable you declared in part A, use the ``typeof`` operator to print its type to the console, one item per line.
 
-1. Verify your code works as expected by running the program. Once you have the correct output move on to [Calculate a space mission!]({{< relref "#calculate-a-space-mission" >}})
+1. Verify your code works as expected by running the program. Once you have the correct output move on to [Calculate a space mission!]({{% relref "#calculate-a-space-mission" %}})
 
 {{% notice blue Note "rocket" %}}
 In order to run your program, open a terminal and navigate to the directory containing your `data-and-variables-exercises.js` file.
@@ -111,7 +111,7 @@ We need to determine how many days it will take to reach Mars.
 1. Using variables from above, print to the screen a sentence that says ``"_____ will take ___ days to reach Mars."`` Fill in the blanks with 
 the shuttle name and the calculated time.
 
-1. Verify that your code works as expected by running the program. Once you have the correct output move on to [Calculate a trip to the Moon]({{< relref "#calculate-a-trip-to-the-moon" >}})
+1. Verify that your code works as expected by running the program. Once you have the correct output move on to [Calculate a trip to the Moon]({{% relref "#calculate-a-trip-to-the-moon" %}})
 ### Calculate a trip to the Moon
 
 Repeat the calculations, but this time determine the number of days it would take to travel to the Moon and print to the screen a sentence that says ``"_____ will take ___ days to reach the Moon."``.

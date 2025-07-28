@@ -28,16 +28,16 @@ To see detailed examples for a particular method, click on its name.
 
 | Method | Syntax | Description |
 |--------|--------|-------------|
-| [abs]({{< relref "../../../appendices/math-method-examples/abs-examples/" >}}) | `Math.abs(number)` | Returns the positive value of `number`. |
-| [ceil]({{< relref "../../../appendices/math-method-examples/ceilfloortrunc-examples/" >}}) | `Math.ceil(number)` | Rounds the decimal `number` UP to the closest integer value. |
-| [floor]({{< relref "../../../appendices/math-method-examples/ceilfloortrunc-examples/#mathfloor" >}}) | `Math.floor(number)` | Rounds the decimal `number` DOWN to the closest integer value. |
-| [max]({{< relref "../../../appendices/math-method-examples/max-and-min-examples" >}}) | `Math.max(x,y,z,...)` | Returns the largest value from a set of numbers. |
-| [min]({{< relref "../../../appendices/math-method-examples/max-and-min-examples/#mathmin" >}}) | `Math.min(x,y,z,...)` | Returns the smallest value from a set of numbers. |
-| [pow]({{< relref "../../../appendices/math-method-examples/pow-examples" >}}) | `Math.pow(x,y)` | Returns the value of x raised to the power of y (x :sup:`y`). |
-| [random]({{< relref "../../../appendices/math-method-examples/random-examples" >}}) | `Math.random()` | Returns a random decimal value between 0 and 1, NOT including 1. |
-| [round]({{< relref "../../../appendices/math-method-examples/round-examples" >}}) | `Math.round(number)` | Returns `number` rounded to the nearest integer value. |
-| [sqrt]({{< relref "../../../appendices/math-method-examples/pow-examples/#mathsqrt" >}}) | `Math.sqrt(number)` | Returns the square root of `number`. |
-| [trunc]({{< relref "../../../appendices/math-method-examples/ceilfloortrunc-examples/#mathtrunc" >}}) | `Math.trunc(number)` | Removes any decimals and returns the integer part of `number`. |
+| [abs]({{% relref "../../../appendices/math-method-examples/abs-examples/" %}}) | `Math.abs(number)` | Returns the positive value of `number`. |
+| [ceil]({{% relref "../../../appendices/math-method-examples/ceilfloortrunc-examples/" %}}) | `Math.ceil(number)` | Rounds the decimal `number` UP to the closest integer value. |
+| [floor]({{% relref "../../../appendices/math-method-examples/ceilfloortrunc-examples/#mathfloor" %}}) | `Math.floor(number)` | Rounds the decimal `number` DOWN to the closest integer value. |
+| [max]({{% relref "../../../appendices/math-method-examples/max-and-min-examples" %}}) | `Math.max(x,y,z,...)` | Returns the largest value from a set of numbers. |
+| [min]({{% relref "../../../appendices/math-method-examples/max-and-min-examples/#mathmin" %}}) | `Math.min(x,y,z,...)` | Returns the smallest value from a set of numbers. |
+| [pow]({{% relref "../../../appendices/math-method-examples/pow-examples" %}}) | `Math.pow(x,y)` | Returns the value of x raised to the power of y (x :sup:`y`). |
+| [random]({{% relref "../../../appendices/math-method-examples/random-examples" %}}) | `Math.random()` | Returns a random decimal value between 0 and 1, NOT including 1. |
+| [round]({{% relref "../../../appendices/math-method-examples/round-examples" %}}) | `Math.round(number)` | Returns `number` rounded to the nearest integer value. |
+| [sqrt]({{% relref "../../../appendices/math-method-examples/pow-examples/#mathsqrt" %}}) | `Math.sqrt(number)` | Returns the square root of `number`. |
+| [trunc]({{% relref "../../../appendices/math-method-examples/ceilfloortrunc-examples/#mathtrunc" %}}) | `Math.trunc(number)` | Removes any decimals and returns the integer part of `number`. |
 
 ## Check Your Understanding
 

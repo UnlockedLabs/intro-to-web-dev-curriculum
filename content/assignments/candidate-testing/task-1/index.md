@@ -77,7 +77,7 @@ The rest of the tests are for Tasks 2 and 3.
 
    Run the following command to make sure the app is running without errors, if you do encounter any errors:
    1. Revisit the above instructions step by step to ensure you completed all steps in Task 1.
-   1. If you are still encountering problems, take a look back at [this page]({{< relref "../../../errors-and-debugging/reading/asking-good-questions/index.md" >}}) and reach out to your instructional assistant.
+   1. If you are still encountering problems, take a look back at [this page]({{% relref "../../../errors-and-debugging/reading/asking-good-questions/index.md" %}}) and reach out to your instructional assistant.
 
    ```JavaScript
    node index.js
@@ -86,4 +86,4 @@ The rest of the tests are for Tasks 2 and 3.
    This is also a great time to save, commit, and push up your work.
    {{% /notice %}}
 
-Ready for [Task 2]({{< relref "../task-2/index.md" >}})
+Ready for [Task 2]({{% relref "../task-2/index.md" %}})

@@ -18,7 +18,7 @@ We'll follow TDD practices for the creation of `Message` and `Rover`, but for th
 
 This class builds an object with two properties: `constructor(commandType, value)`
 1. `commandType` is a string that represents the type of command. We will go over the details of the types when we get to the `Rover` class and tests. At this time, note that a command type will be one of the following: `MODE_CHANGE`, `MOVE`, or `STATUS_CHECK`.
-1. To peek ahead at the full functionality of these types, refer to the [Command Types Table]({{< relref "../rover-class/_index.md#rover-command-types" >}}).
+1. To peek ahead at the full functionality of these types, refer to the [Command Types Table]({{% relref "../rover-class/_index.md#rover-command-types" %}}).
 1. `value` is a value related to the type of command.
 
 {{% notice blue Example "rocket" %}}
@@ -31,7 +31,7 @@ let moveCommand = new Command('MOVE', 12000);
 
 `LOW_POWER` and 12000 are passed in as the `value`. Different command types require different kinds of values. `STATUS_CHECK` takes no value.
 
-Don't worry about the mode options for now. To peek ahead, see the [Rover Modes Table]({{< relref "../rover-class/_index.md#rover-modes" >}}).
+Don't worry about the mode options for now. To peek ahead, see the [Rover Modes Table]({{% relref "../rover-class/_index.md#rover-modes" %}}).
 {{% /notice %}}
 
 Now that we've gone over the class, let's check out the tests.
@@ -68,5 +68,5 @@ Run `npm test` to verify that all 3 command tests pass.
 As you move through the remaining instructions, the amount of guidance will decrease. Refer to your earlier, passing tests to help you construct new tests and passing code.
 {{% /notice %}}
 
-Great job, astronaut! When you are ready to keep going, check out the [Message Class]({{< relref "../message-class/_index.md" >}})!
+Great job, astronaut! When you are ready to keep going, check out the [Message Class]({{% relref "../message-class/_index.md" %}})!
 

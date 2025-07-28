@@ -22,7 +22,7 @@ Like loops, functions help us keep our code DRY. When we need to repeat the same
 
 ## Functions Make Your Code More Readable
 
-Placing a piece of functionality within a function allows us to put a name on that functionality. Consider our [palindrome example]({{< relref "../composing-functions/_index.md#the-ispalindrome-function" >}}). One way to write that function is:
+Placing a piece of functionality within a function allows us to put a name on that functionality. Consider our [palindrome example]({{% relref "../composing-functions/_index.md#the-ispalindrome-function" %}}). One way to write that function is:
 
 ```javascript
 function isPalindrome(str) {

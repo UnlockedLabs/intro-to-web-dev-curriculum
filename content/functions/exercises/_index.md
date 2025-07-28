@@ -236,7 +236,7 @@ console.log(makeDiamond(5));
 ```
 
 {{% notice green Tip "rocket" %}}
-Consider what happens if you create a triangle and reverse it using [our reverse function]({{< relref "../reading/composing-functions/_index.md#the-reverse-function" >}}).
+Consider what happens if you create a triangle and reverse it using [our reverse function]({{% relref "../reading/composing-functions/_index.md#the-reverse-function" %}}).
 {{% /notice %}}
 
 ## Bonus Mission

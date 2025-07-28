@@ -31,5 +31,5 @@ Git will help us track changes and versions of our code.
 
 ### Windows Users
 
-Since you already installed Git Bash when you [set up your terminal]({{< relref "../../installations/terminal-setup/#windows-users" >}}), you are good to go!
+Since you already installed Git Bash when you [set up your terminal]({{% relref "../../installations/terminal-setup/#windows-users" %}}), you are good to go!
 

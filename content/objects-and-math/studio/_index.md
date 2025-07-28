@@ -33,7 +33,7 @@ data file and in the `idNumbers` array.
 
 1. Write a `selectRandomEntry` function to select a random entry from the
    `idNumbers` array. Review the
-   [Combining Math Methods]({{< relref "../reading/math-applications/#random-selection-from-an-array" >}}) section if you need a
+   [Combining Math Methods]({{% relref "../reading/math-applications/#random-selection-from-an-array" %}}) section if you need a
    reminder on how to do this.
 1. Call the function three times to select three ID numbers. Store these
    selections in a new array, making sure to avoid repeated numbers. No animal

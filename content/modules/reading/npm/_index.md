@@ -13,7 +13,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
 {{% notice blue "Offline Student Note" "rocket" %}}
-As an offline student, you will not be able to access the online version of the NPM Registry. The NPM modules that you need to complete this curriculum have been downloaded and provided for you. See [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md" >}}) for more information.
+As an offline student, you will not be able to access the online version of the NPM Registry. The NPM modules that you need to complete this curriculum have been downloaded and provided for you. See [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md" %}}) for more information.
 {{% /notice %}}
 
 **NPM**, Node Package Manager, is a tool for finding and installing Node modules. NPM has two major parts:

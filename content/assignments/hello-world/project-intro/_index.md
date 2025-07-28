@@ -16,9 +16,9 @@ Your first assignment is mostly an exercise in following instructions. We'll ask
 {{% notice red Warning "rocket" %}}
 In order to complete this assignment there are a few things that you will need to have already completed! You can find these items below:
 
-1. [Installed Git]({{< relref "../../../installations/install-git/" >}})
-1. [Installed Visual Studio Code]({{< relref "../../../installations/install-visual-studio/" >}})
-1. [Installed Node]({{< relref "../../../installations/install-node/" >}})
+1. [Installed Git]({{% relref "../../../installations/install-git/" %}})
+1. [Installed Visual Studio Code]({{% relref "../../../installations/install-visual-studio/" %}})
+1. [Installed Node]({{% relref "../../../installations/install-node/" %}})
 {{% /notice %}}
 
 Programming jobs often require you to get familiar with, or at least make use of, additional technologies. Here, you'll be Github to write your code, run it, save it, and submit your assignment.

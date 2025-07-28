@@ -22,7 +22,7 @@ For this course, you will be working in a **integrated development environment (
 
 This is where you will write and run your code.
 
-We have created a Visual Studio Code [installation guide]({{< relref "../../../installations/install-visual-studio/_index.md" >}}) for you to follow.
+We have created a Visual Studio Code [installation guide]({{% relref "../../../installations/install-visual-studio/_index.md" %}}) for you to follow.
 
 ## Setting Up Your Terminal
 
@@ -30,7 +30,7 @@ We will be using the terminal to keep track of our code.  You will need to make 
 
 This tool is used for giving commands to your code to run or start.  This tool is also used to help track the status of your code as you work on it.  We will learn about it more in later chapters.
 
-We have created a Terminal [installation guide]({{< relref "../../../installations/terminal-setup/_index.md" >}}) for you to follow.
+We have created a Terminal [installation guide]({{% relref "../../../installations/terminal-setup/_index.md" %}}) for you to follow.
 
 ## Setting Up Node.js
 
@@ -38,13 +38,13 @@ Once your terminal has been installed, you will need to install `Node.js`.  This
 
 You will use these commands to run, build, and test your JavaScript code as you work through this course.
 
-We have created a `Node.js` [installation guide]({{< relref "../../../installations/install-node/_index.md" >}}) for you to follow.
+We have created a `Node.js` [installation guide]({{% relref "../../../installations/install-node/_index.md" %}}) for you to follow.
 
 ## Setting Up Git
 
 In the terminal, we will be using Git.  Git is a version control tool, or a way to track and manage changes in your code.  We will explore it more later in this course.  In the next section of this chapter, you will learn the basic git commands needed to work with the codebases in this course.
 
-We have created a Git [installation guide]({{< relref "../../../installations/install-git/_index.md" >}}) for you to follow.
+We have created a Git [installation guide]({{% relref "../../../installations/install-git/_index.md" %}}) for you to follow.
 
 ### Creating Your GitHub Account
 
@@ -59,7 +59,7 @@ Your GitHub account username is something that you may share with other develope
 {{% /notice %}}
 
 {{% notice blue Note "rocket" %}}
-In order to work with the starter code for this course, you will need to take some extra authentication steps so your computer can securely communicate with GitHub. This will mean either creating a [Personal Access Token]({{< relref "#creating-your-github-personal-access-token-pat" >}}) or [SSH key]({{< relref "#creating-your-github-ssh-key" >}}).
+In order to work with the starter code for this course, you will need to take some extra authentication steps so your computer can securely communicate with GitHub. This will mean either creating a [Personal Access Token]({{% relref "#creating-your-github-personal-access-token-pat" %}}) or [SSH key]({{% relref "#creating-your-github-ssh-key" %}}).
 
 The `Github Personal Access Token` will act as a password when you are sending requests to `Github`. Should you decide to create a personal access token, you will need to enter in your username and password when pushing new code to your repositories.
 

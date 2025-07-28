@@ -53,4 +53,4 @@ When you completed you have the option to apply CSS styling or not.  The end res
    <img src="images/completed-no-css.png" alt="Starter Code Initial Run" width=50% />
 {{< /rawhtml >}}
 
-[Start The Assignment]({{< relref "../../../assignments/orbit-report/getting-started/" >}})
+[Start The Assignment]({{% relref "../../../assignments/orbit-report/getting-started/" %}})

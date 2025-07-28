@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-You already know [one method for creating a function]({{< relref "../../../functions/reading/creating-functions/_index.md#function-syntax" >}}):
+You already know [one method for creating a function]({{% relref "../../../functions/reading/creating-functions/_index.md#function-syntax" %}}):
 
 ```javascript
 function myFunction(parameter1, parameter2,..., parameterN) {

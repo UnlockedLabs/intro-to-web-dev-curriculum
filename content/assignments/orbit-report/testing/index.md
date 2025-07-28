@@ -21,7 +21,7 @@ files you create and their behavior.
 Run the tests when you reach this section of the instructions. You may run them as you work on the project. These tests are looking to see if your components render. They do not provide help in creating the project.
 
 {{% notice orange "Warning" "rocket" %}} 
- In order to pass this assignment, you must pass the workflow tests in [GitHub Actions]({{< relref "../../../assignments/github-actions/" >}}) .  
+ In order to pass this assignment, you must pass the workflow tests in [GitHub Actions]({{% relref "../../../assignments/github-actions/" %}}) .  
 {{% /notice %}}
 
 ### To Run the Tests in Your Terminal

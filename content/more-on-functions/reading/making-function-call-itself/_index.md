@@ -92,7 +92,7 @@ needs to happen each time the statement runs:
 
 Bracket notation takes care of part a: `arrayName[0]`.
 
-For part b, remember that the [slice methoed]({{< relref "../../../appendices/array-method-examples/slice-examples/_index.md" >}}) returns
+For part b, remember that the [slice methoed]({{% relref "../../../appendices/array-method-examples/slice-examples/_index.md" %}}) returns
 selected entries from an array. To return everything BUT the first entry in
 `arr = ['L', 'C', '1', '0', '1']``, use ``arr.slice(1)`.
 

@@ -14,7 +14,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 ## Loose Equality With `==`
 
-In the section [booleans]({{< relref "../booleans/_index.md" >}}), we learned about the comparison operators `==` and `!=`, which test whether two values are equal or not equal, respectively. However, there are some quirks with using the `==` operator, which occur when we use `==` to compare different data types.
+In the section [booleans]({{% relref "../booleans/_index.md" %}}), we learned about the comparison operators `==` and `!=`, which test whether two values are equal or not equal, respectively. However, there are some quirks with using the `==` operator, which occur when we use `==` to compare different data types.
 
 {{% notice blue Example "rocket" %}}
 ```javascript

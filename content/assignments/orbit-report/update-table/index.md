@@ -44,7 +44,7 @@ You should have a Banner, four buttons, and a table.  When you click on a button
 **Great job!**  You are ready for the next steps.
 
 
-[Step 6]({{< relref "../../../assignments/orbit-report/styling/" >}}) contains optional styling features.  You can skip this step, if you would like. 
+[Step 6]({{% relref "../../../assignments/orbit-report/styling/" %}}) contains optional styling features.  You can skip this step, if you would like. 
 
 
-[Step 7]({{< relref "../../../assignments/orbit-report/testing/" >}}) contains information for running the auto-grading tests.  You will need to do step 7. 
+[Step 7]({{% relref "../../../assignments/orbit-report/testing/" %}}) contains information for running the auto-grading tests.  You will need to do step 7. 

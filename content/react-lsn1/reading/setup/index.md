@@ -16,7 +16,7 @@ Now that we understand more about React and components, we are ready to build a 
 
 To get started we first need to install `vite` within the project directory.
 
-[(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#create-a-react-application" >}})
+[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#create-a-react-application" %}})
 
 ```console
 npm create vite@latest

@@ -71,7 +71,7 @@ Open the `App.jsx` file.
     </>
    ```
 
-[Next]({{< relref "../../../assignments/orbit-report/update-buttons/" >}})
+[Next]({{% relref "../../../assignments/orbit-report/update-buttons/" %}})
 
 
 

@@ -54,7 +54,7 @@ First, create an anonymous function and practice how to use the map method.
    ```
    {{% /expand %}}
 
-2. Add to your code! Use your function and the [map method]({{< relref "../reading/pass-function-as-arguments/_index.md#example-the-array-method-map" >}}) to change the array `['Elocution', 21, 'Clean teeth', 100]` as follows:
+2. Add to your code! Use your function and the [map method]({{% relref "../reading/pass-function-as-arguments/_index.md#example-the-array-method-map" %}}) to change the array `['Elocution', 21, 'Clean teeth', 100]` as follows:
 
 - Triple all the numbers.
 - Replace the strings with "ARRR!"

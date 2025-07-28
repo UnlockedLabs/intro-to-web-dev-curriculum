@@ -44,4 +44,4 @@ lastMod: 2023-10-16 # UPDATE ANY TIME CHANGES ARE MADE
    1. This button needs to be _outside_ of the `map` function.
    1. Inside the `<button>` tag, create an `onClick` function that points to `setSat`.  Pass `satData` to `setSat`. 
 
-[Next]({{< relref "../../../assignments/orbit-report/update-table/" >}})
+[Next]({{% relref "../../../assignments/orbit-report/update-table/" %}})

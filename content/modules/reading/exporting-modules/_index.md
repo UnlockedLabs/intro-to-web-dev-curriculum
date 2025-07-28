@@ -120,7 +120,7 @@ This will NOT work, because Node expects only ONE `module.exports` statement in 
 
 ### Try It
 
-Use the object syntax [as shown above]({{< relref "#exporting-multiple-functions" >}}) to
+Use the object syntax [as shown above]({{% relref "#exporting-multiple-functions" %}}) to
 modify `module.exports` in `practiceExports.js`. We could include only one
 or two of the functions, but for this practice let's use all of them.
 

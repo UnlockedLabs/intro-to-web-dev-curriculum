@@ -42,7 +42,7 @@ At the same level as `command.spec.js`, look for a file called `message.spec.js`
 
 This test description is "throws error if a name is NOT passed into the constructor as the first parameter". Review the first test in `command.spec.js` for an example of how this test works.
 
-1. Look at the code in `command.js`. Use that to help you write the `Message` class in `message.js` so that your test passes. Refer to the [Message Class description]({{< relref "#message-class-description" >}}) above for more details.
+1. Look at the code in `command.js`. Use that to help you write the `Message` class in `message.js` so that your test passes. Refer to the [Message Class description]({{% relref "#message-class-description" %}}) above for more details.
 
 **Test 5**
 
@@ -56,5 +56,5 @@ The description reads "contains a commands array passed into the constructor as 
 You are moving onto the red planet now. Be prepared for fewer instructions.
 {{% /notice %}}
 
-The final class we need to work on is `Rover`. Let's check it out in [the Rover Class section]({{< relref "../rover-class/_index.md" >}}).
+The final class we need to work on is `Rover`. Let's check it out in [the Rover Class section]({{% relref "../rover-class/_index.md" %}}).
 

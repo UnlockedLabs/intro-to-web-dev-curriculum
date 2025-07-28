@@ -21,7 +21,7 @@ If you are working as an offline student, you do not need to run the `npm instal
 <!-- 
 Brandon, Drey, Bill: here is the format for the link to this npm install section
 
-[(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}}) 
+[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}) 
 
 -->
 
@@ -31,6 +31,6 @@ Brandon, Drey, Bill: here is the format for the link to this npm install section
 
 Brandon: here is the format for the link to this Create a React Application section. I did not make any changes to the Create a React Application located at http://localhost:1313/react-lsn1/reading/setup/
 
-[(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#create-a-react-application" >}}) 
+[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#create-a-react-application" %}}) 
 -->
 

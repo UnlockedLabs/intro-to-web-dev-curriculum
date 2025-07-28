@@ -14,11 +14,11 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 This textbook will often reference the `javascript-projects` Github repository as you are working your way through. This repository contains code for most, but not all code snippets, exercises, and studios throught the book. However, it does *not* contain any graded assignments.
 
-Before moving on to the next section you will need to `fork` and `clone` the [javascript-projects](https://github.com/LaunchCodeEducation/javascript-projects) repository. You have already completed this same process during the [Your First Program]({{< relref "../../../how-programs-work/reading/your-first-program/index.md" >}}) section of the previous chapter.
+Before moving on to the next section you will need to `fork` and `clone` the [javascript-projects](https://github.com/LaunchCodeEducation/javascript-projects) repository. You have already completed this same process during the [Your First Program]({{% relref "../../../how-programs-work/reading/your-first-program/index.md" %}}) section of the previous chapter.
 
 ## Fork Repository
 
-For a refresher on forking please revisit [this section]({{< relref "../../../how-programs-work/reading/your-first-program/#go-to-github" >}})
+For a refresher on forking please revisit [this section]({{% relref "../../../how-programs-work/reading/your-first-program/#go-to-github" %}})
 
 Fork the [javascript-projects](https://github.com/LaunchCodeEducation/javascript-projects) repository to your own personal Github account.
 
@@ -46,6 +46,6 @@ git clone git@github.com:<your-github-username>/javascript-projects.git
 
 ## Updates to `javascript-projects` Repository
 
-As mentioned in [this section]({{< relref "../../../how-programs-work/reading/your-first-program/#handling-changes-to-the-original-repo" >}}), there will be occasional updates to the `javascript-projects` repository. That means you will need to update your own forked copy periodically so that you are up to date! Please reference back to the [above mentioned section]({{< relref "../../../how-programs-work/reading/your-first-program/#handling-changes-to-the-original-repo" >}}) anytime you need to do so.
+As mentioned in [this section]({{% relref "../../../how-programs-work/reading/your-first-program/#handling-changes-to-the-original-repo" %}}), there will be occasional updates to the `javascript-projects` repository. That means you will need to update your own forked copy periodically so that you are up to date! Please reference back to the [above mentioned section]({{% relref "../../../how-programs-work/reading/your-first-program/#handling-changes-to-the-original-repo" %}}) anytime you need to do so.
 
 Once you have completed the above steps you are ready to move on!

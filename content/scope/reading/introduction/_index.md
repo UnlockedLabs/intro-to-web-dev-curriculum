@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-In the [functions chapter]({{< relref "../../../functions/reading/parameter-variables/_index.md#function-scope" >}}), we saw that *where* variables
+In the [functions chapter]({{% relref "../../../functions/reading/parameter-variables/_index.md#function-scope" %}}), we saw that *where* variables
 are declared and initialized in the code affects when they can be used. This
 idea is called **scope**, and it describes the ability of a program to access
 or modify a variable.

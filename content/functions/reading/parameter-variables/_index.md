@@ -97,7 +97,7 @@ this, and will be explored in depth in a later chapter.
 
 There is, however, a specific type of variable that is visible to every
 function, known as a **global variable**. We
-[remarked earlier in this section]({{< relref "../../../data-and-variables/reading/variables/_index.md" >}}) that a global variable is
+[remarked earlier in this section]({{% relref "../../../data-and-variables/reading/variables/_index.md" %}}) that a global variable is
 created when initializing a variable without using `let`, `const`, or
 `var`, and they should be used very rarely.
 {{% /notice %}}

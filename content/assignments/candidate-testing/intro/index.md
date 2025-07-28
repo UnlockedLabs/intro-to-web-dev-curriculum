@@ -20,7 +20,7 @@ Fork and clone the [starter code repo](https://github.com/LaunchCodeEducation/Ca
 
 1. Open a terminal and `cd` into the project file.
    1. You will see `candidate-testing.js` and other files if you run `ls`
-1. Run `npm install` to bring in all of the packages you need to run the application [(Offline Student Read Here)]({{< relref "../../../content/appendices/offiline-students/_index.md#npm-install" >}})
+1. Run `npm install` to bring in all of the packages you need to run the application [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}})
 
 You should be ready to code your application.  Good luck! 
 
@@ -102,6 +102,6 @@ Correct Answer: 3
  The output will vary slightly based on the candidate's answers to each question.
 {{% /notice %}}
 
-Let's get started on [Task 1]({{< relref "../task-1/index.md" >}})
+Let's get started on [Task 1]({{% relref "../task-1/index.md" %}})
 
 
