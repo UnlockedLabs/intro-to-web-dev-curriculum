@@ -7,13 +7,18 @@ originalAuthor: John Woolbright # to be set by page creator
 originalAuthorGitHub: jwoolbright23 # to be set by page creator
 reviewer: Sally Steuterman 
 reviewerGitHub: gildedgardenia 
-lastEditor: # update any time edits are made after review
+lastEditor: Brandon Milburn # update any time edits are made after review
 lastEditorGitHub: # update any time edits are made after review
-lastMod: # Wed Jul 5 08:49:19 AM CDT 2023
+lastMod: # Wed Jul 24 11:49:19 AM CDT 2025
 ---
 
 Introduction
 ------------
+
+{{% notice blue Note "rocket" %}}
+Offline Students will *not* have access to the search engine URLs to properly run this studio.
+However, they can still complete the studio and take note of the key/value pairs passed to the URL in the browser.
+{{% /notice %}}
 
 This chapter taught you that forms submit data in HTTP requests. This studio
 uses form and HTTP concepts to build a *search engine selector*, that is, a
