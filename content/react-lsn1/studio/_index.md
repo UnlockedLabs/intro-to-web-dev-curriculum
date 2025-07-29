@@ -14,6 +14,8 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 One reason we are learning React is because many top tech companies use it, including Pinterest. On Pinterest, we can create boards and save pins of new recipes, wedding decor concepts, and tips and tricks for crafts. When one clicks on the pin, they are taken to a detailed view which includes a photo, a description of the pin, and in the case of recipes, ingredients one needs for that recipe. Today, we are going to try our own take on this page using React and what we have learned about components. 
 
+[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-29-studio-a-few-of-your-favorite-recipes" %}})
+
 Before you start coding, find a recipe for some food you would like to eat! It can be any recipe, sweet or savory, but you should make sure that it meets the following:
 
 1. The recipe is easily found online.
@@ -28,7 +30,7 @@ To get started coding, you need to first create an application.
 1. Open up your `react-exercises-and-studios` repo and navigate into the `part1` directory.
 1. Create a new React app named `studio` with the command: `npm create vite@latest`.
 - Select the `React` and `JavaScript` options when prompted.
-1. Install all of the required dependencies within the project using `npm install` or `npm i` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}).
+1. Install all of the required dependencies within the project using `npm install` or `npm i`.
 1. Once your application is set up, run `npm run dev` to verify that your application runs and is ready to go.
 
 ## The Components
@@ -160,7 +162,7 @@ First create inside `src`, a folder called `components`. Now tackle creating the
 1. Add a new function called `RecipePhoto()` and add something similar to the following JSX to your return statement with the correct URL to your chosen recipe's image:
 
    ```jsx
-   <img src="valid URL to recipe photo" alt="recipe photo" className = {styles.imageUpdates} />
+   <img src="valid URL to recipe photo" alt="recipe photo" className={styles.imageUpdates} />
    ```
 
 1. Add the following `import` statement to the top of your file: `import styles from './Description.module.css';`.
@@ -196,9 +198,9 @@ First create inside `src`, a folder called `components`. Now tackle creating the
 1. Return to `App.jsx` and add `className="recipePhotoBlock"` to the `<div>` that contains `<RecipePhoto />` and the innermost `<div>`.
 1. Re-run the application to see the result!
 
-## Submitting Your Work
+<!-- ## Submitting Your Work
 
 Before you submit, check out the `solutions` branch to see an example of how the application should work.
 
 1. Save your work and commit and push to your remote.
-1. Submit the link to your remote repository on Canvas.
+1. Submit the link to your remote repository on Canvas. -->
