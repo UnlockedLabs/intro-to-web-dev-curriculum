@@ -14,9 +14,9 @@ lastMod: 10-17-2023 # UPDATE ANY TIME CHANGES ARE MADE
 
 Now that we understand more about React and components, we are ready to build a React app. To make a new React application, we will be using a front-end tool called [Vite](https://vitejs.dev/). This will allow us to scaffold a new `React` project with the required dependencies and launch a local dev server.
 
-To get started we first need to install `vite` within the project directory.
-
 [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#create-a-react-application" %}})
+
+To get started we first need to install `vite` within the project directory.
 
 ```console
 npm create vite@latest
