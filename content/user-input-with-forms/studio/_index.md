@@ -7,18 +7,13 @@ originalAuthor: John Woolbright # to be set by page creator
 originalAuthorGitHub: jwoolbright23 # to be set by page creator
 reviewer: Sally Steuterman 
 reviewerGitHub: gildedgardenia 
-lastEditor: Brandon Milburn # update any time edits are made after review
+lastEditor: # update any time edits are made after review
 lastEditorGitHub: # update any time edits are made after review
 lastMod: # Wed Jul 24 11:49:19 AM CDT 2025
 ---
 
 Introduction
 ------------
-
-{{% notice blue Note "rocket" %}}
-Offline Students will *not* have access to the search engine URLs to properly run this studio.
-However, they can still complete the studio and take note of the key/value pairs passed to the URL in the browser.
-{{% /notice %}}
 
 This chapter taught you that forms submit data in HTTP requests. This studio
 uses form and HTTP concepts to build a *search engine selector*, that is, a
@@ -27,7 +22,9 @@ use. It will look like this:
 
 ![A form with a text input and radio buttons corresponding to various search engines.](pictures/search-engine-selector.png?classes=border)
 
-Most search engines work the same way. The have a single text input, and they
+[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-25-studio-http-and-forms" %}})
+
+Most search engines work the same way. They have a single text input, and they
 submit data using a `GET` request. Additionally, many of the most popular
 search engines also use the same name for the search parameter, `q`.
 
