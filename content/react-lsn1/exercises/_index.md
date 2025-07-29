@@ -18,13 +18,9 @@ components and creating new ones.
 ## Starter Code
 
 For this set of exercises, you will need a copy of the LaunchCode React
-projects repository. If you haven't done so already,
+projects repository. If you haven't done so already, clone the *react-exercises-and-studios* repository from your local server.
 
-1. Fork the [react-exercises-and-studios repository](https://github.com/LaunchCodeEducation/react-exercises-and-studios)
-   on GitHub.
-1. Clone your fork.
-
-Navigate into the exercises now:
+Navigate into the exercises:
 
 ```console
    $ pwd
@@ -36,10 +32,6 @@ Navigate into the exercises now:
 ```
 
 You should be able to run  `npm start`, but the page will not look pretty. Time to fix that! 
-
-{{% notice blue "Note" "rocket" %}}
-   If the `exercises` app doesn't run at first, try running `npm install` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}). Once that process has completed, you should be able to run `npm start` again to get the development server going.
-{{% /notice %}}
 
 ## Part 1: Modify the CSS
 
@@ -101,12 +93,16 @@ The list of movies is built using an array defined in
 5. The `BookList` component has been generated, but it is incomplete. The
    page needs more images, which also need to be smaller in size.
 
+   [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#complete-the-booklist-component" %}})
+
    1. In the `BookList` function, assign a better section heading to
       the `pageTitle` variable.
    1. The `book` variables should hold URLs for images, but only one is
       is filled in and it isn't a valid link. Update the three variables to include valid link addresses for three new book releases. To copy the URL for an image on the web, right-click
       (or control-click) on the image and select the "Copy Image Address" menu
       option.
+
+
    1. In the `return` statement for this component, use JSX in the `img`
       tags to display your chosen images and update the `alt` text to reflect what book you are linking.
 
@@ -205,20 +201,21 @@ Your final page should have this format:
 
 ## Sanity Check
 
-The `react-exercises-and-studios` repository contains two branches:
+<!-- The `react-exercises-and-studios` repository contains two branches:
 
 1. A `main` branch with all the starter code for lessons 1, 2, and 3.
-1. A `solutions` branch with completed code.
+1. A `solutions` branch with completed code. -->
 
 If you get stuck on a particular exercise:
 
 1. Try again.
-1. Ask your IA, instructor, classmates, or Google for tips.
+<!-- 1. Ask your IA, instructor, classmates, or Google for tips. -->
+1. Ask your IA, instructor, or classmates for tips.
 1. Try again.
 1. Take a break and give your brain a chance to rest.
 1. Try again.
-1. Feel completely justified in switching to the `solutions` branch to check
-   the code.
+<!-- 1. Feel completely justified in switching to the `solutions` branch to check
+   the code. -->
 
 {{% notice blue "Note" "rocket" %}}
 

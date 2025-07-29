@@ -50,7 +50,7 @@ We can, however, observe the URL in the browser and verify that our search engin
 [(Back to the Studio)]({{% relref "../../../content/user-input-with-forms/studio/_index.md#getting-started" %}})
 
 
-## Create a React Application
+## Chapter 28 Reading: Create a React Application
 
 Since you are in an offline environment, we took the liberty of using Vite to set up your React applications for you.
 To access them, you will need a copy of the LaunchCode React projects repository.
@@ -92,7 +92,45 @@ You do not need to press `h` in order for the shortcuts to work. Once the app is
 
 [Continue Chapter 29 Reading]({{% relref "../../../content/react-lsn1/reading/more-on-vite/index.md" %}})
 
+## Chapter 29 Exercise: Chores vs. Hobbies
 
+### Complete the `BookList` Component
+
+1. In the `BookList` function, assign a better section heading to the `pageTitle` variable.
+   1. The `book` variables should hold URLs for images, but only one is is filled in and it isn't a valid link. 
+   Update the three variables to include valid link addresses for three new book releases. Since you're offline,
+   we've provided a few book covers for you to choose from. Here's the URL to use: `http://handlers.education.launchcode.org/static/images/books/Title_of_Book.png`
+
+   ![Image of various book covers for use in ch29 exercise](pictures/ch29-exercise-books.png?classes=border)
+
+   2. In the `return` statement for this component, use JSX in the `img`
+      tags to display your chosen images and update the `alt` text to reflect what book you are linking.
+
+      ```jsx
+         <img src={book1} alt="Appropriate text for the book">
+      ```
+
+   1. Refresh the webpage to check the updated content.
+
+   {{% expand "Check Your Solution" %}}
+   
+   This solution includes three books from the latest releases the week we were working on this book. Your code will have different books!
+
+   ```jsx
+   <div>
+   <h3>{pageTitle}</h3>
+   <img src={book1} alt="Romantic Comedy by Curtis Sittenfield" />
+   <img src={book2} alt="Tress of the Emerald Sea by Brandon Sanderson" />
+   <img src={book3} alt="The London Seance Society by Sarah Penner" />
+   </div>
+   ```
+
+   {{% /expand %}}
+
+Before moving on, save and commit your work.
+
+
+[Back to the Exercise]({{% relref "../../../content/react-lsn1/exercises/_index.md#part-2-add-another-component" %}})
 
 <!--
 
