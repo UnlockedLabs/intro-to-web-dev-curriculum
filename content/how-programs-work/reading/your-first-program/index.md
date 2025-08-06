@@ -12,6 +12,10 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
+{{% notice red "Warning for Offline Students" "rocket" %}}
+[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-2-reading" %}})
+{{% /notice %}}
+
 ## Your First Program
 
 We are going to walk you through a very simple **workflow**, or sequence of steps, to start coding.
