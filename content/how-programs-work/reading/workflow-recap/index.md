@@ -21,24 +21,20 @@ That was a lot.  Here is a quick version of the workflow.
    - `cd <directory-name>` changes your location to the named directory
    - `mkdir <directory-name>` creates a new directory 
 
-## 3. Go to GitHub
-   1. Fork the repo
+## 3. Go to GitWeb
+   1. Copy the desired project's URL.
    1. Clone the repo to your computer
 
 ## 4. Open Visual Studio Code
    1. Open your new repo
    1. Open the terminal - make sure you are in your project directory
-   1. Run the command: `npm install` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}})
    1. Write your code
    1. Run your code often to check your progress
    1. Save your changes
 
-## 5. Push up to GitHub
+## 5. Maintain Project Version Control
    1. In the terminal run the following commands:
       1. `git status`
       1. `git add .`
       1. `git status` - make sure you added things you wanted
       1. `git commit -m "with a message"`
-      1. `git push`
-
-## 6. Verify your changes are in your GitHub repo
