@@ -12,6 +12,11 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
+{{% notice red "Notice for Offline Students" "rocket" %}}
+Offline students need not heed the information on this page. If you are an 
+[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-3-reading-how-to-write-code" %}})
+{{% /notice %}}
+
 This textbook will often reference the `javascript-projects` Github repository as you are working your way through. This repository contains code for most, but not all code snippets, exercises, and studios throught the book. However, it does *not* contain any graded assignments.
 
 Before moving on to the next section you will need to `fork` and `clone` the [javascript-projects](https://github.com/LaunchCodeEducation/javascript-projects) repository. You have already completed this same process during the [Your First Program]({{% relref "../../../how-programs-work/reading/your-first-program/index.md" %}}) section of the previous chapter.
