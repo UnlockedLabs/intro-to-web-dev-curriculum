@@ -11,7 +11,7 @@ lastEditor: # update any time edits are made after review
 lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
-{{% notice red "Warning for Offline Students" "rocket" %}}
+{{% notice red "Notice for Offline Students" "rocket" %}}
 Offline students should not perform the following actions. The coding tools software installation and setup has already been completed for you.
 {{% /notice %}}
 
