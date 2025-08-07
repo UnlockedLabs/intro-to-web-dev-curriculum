@@ -12,7 +12,8 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-{{% notice red "Warning for Offline Students" "rocket" %}}
+{{% notice red "Notice for Offline Students" "rocket" %}}
+Offline students need not heed the information on this page. If you are an 
 [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-2-reading" %}})
 {{% /notice %}}
 
