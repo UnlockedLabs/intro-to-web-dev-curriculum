@@ -48,7 +48,7 @@ number
 ```
 {{% /notice %}}
 
-Not surprisingly, JavaScript reports that the data type of `"Hello, World!"` is `string`, while the data type of both `17` and `3.14` is `number`. Note that some JavaScript environments may print type names and strings with single quotes around them, as in `'string'` `'number'`, and `'hello'`.
+Not surprisingly, JavaScript reports that the data type of `"Hello, World!"` is `string`, while the data type of both `17` and `3.14` is `number`. Note that some JavaScript environments may print type names and strings with single quotes around them, as in `'string'`, `'number'`, and `'hello'`.
 
 {{% notice blue Note "rocket" %}}
 Notice that `console.log(typeof "Hello, World!");` prints out `string` to the console. The `typeof` keyword is not printed to the console because the statement `typeof "Hello, World!"` is an **expression**. Briefly, expressions are code segments that are reduced to a value. We will learn more about expressions soon.
@@ -60,7 +60,7 @@ We say that an expression **returns** a value. That is, `typeof "Hello, World!"`
 `typeof` is a JavaScript entity known as an **operator**. It is similar to a function in that it carries out some kind of action, though the syntax is different from that of functions (notice using `typeof` does not require parentheses).
 {{% /notice %}}
 
-We will more about operators in upcoming sections.
+We will learn more about operators in upcoming sections.
 
 There are data types other than string and number, including object and function, which we will learn about in future chapters.
 
@@ -146,11 +146,11 @@ console.log(3.4, "hello", 45);
 {{% /notice %}}
 
 <!-- TODO: Update the below link when the How Programs Work chapter is added -->
-Remember not to put commas or spaces in your integers, no matter how big they are. Also revisit what we said in the chapter [How Programs Work]() formal languages are strict, the notation is concise, and even the smallest change might mean something quite different from what you intend.
+Remember not to put commas or spaces in your integers, no matter how big they are. Also revisit what we said in the chapter [How Programs Work]({{% relref "../../../how-programs-work/_index.md" %}}): formal languages are strict, the notation is concise, and even the smallest change might mean something quite different from what you intend.
 
 ## Type Systems
 
-Every programming language has a **type system**, which is the set of rules that determine how the languages deals with data of different types. In particular, how values are divided up into different data types is one characteristic of a type system.
+Every programming language has a **type system**, which is the set of rules that determine how the language deals with data of different types. In particular, how values are divided up into different data types is one characteristic of a type system.
 
 In many programming languages, integers and floats are considered to be different data types. For example, in Python `42` is of the `int` data type, while `42.0` is of the `float` data type.
 
