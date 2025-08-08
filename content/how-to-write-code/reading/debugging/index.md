@@ -18,7 +18,6 @@ The process of working through issues in code is called **debugging**. We will c
 
 1. Errors are common and even the most experienced programmers are regularly debugging their code.
 1. Asking for help from peers and mentors can be a key part of the process.
-1. Google is very much an acceptable resource when it comes to debugging.
 
 ## Asking for Help
 
@@ -28,9 +27,8 @@ Before asking for help, make sure that you have the answers to some of the quest
 
 Here are some tips on what information you might need when asking for help:
 
-1. Ask Google for help first. If you see an error message as opposed to "Hello World!", copy it into Google and search. You may find the answer right away! If you don't find the answer or are not sure you understand it, make note of that. 
 1. Make sure to document everything. The steps you took before you encountered the problem, screenshots of what the error message is, what your application should be able to do. This is all helpful information for the person assisting you.
-1. When asking your question, make sure that the person knows what documentation you have. If you took a screenshot or saved Google results related to the error message, inform the person who is helping you before you all start working together on the issue.
+1. When asking your question, make sure that the person knows what documentation you have. If you took a screenshot or saved the error message, inform the person who is helping you before you all start working together on the issue.
 
 When trying to fix an error in code, many people start by following the exact same steps to see if they get the same results.
 The more information you can give the person who is helping you, the easier it will be for them to help you.
