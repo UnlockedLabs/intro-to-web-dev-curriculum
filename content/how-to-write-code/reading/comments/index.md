@@ -34,7 +34,7 @@ In order to launch Visual Studio Code from the command line as referenced in the
 1. [freecodecame.org article](https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/)
 1. [Launch From the command line with macOS](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
 
-Launching Visual Studio Code from your terminal with the command `code .` will open Visual Studio Code with all files and directories at your current(relative) location.
+Launching Visual Studio Code from your terminal with the command `code .` will open Visual Studio Code with all files and directories at your current (relative) location.
 
 You may also find the following [Tips and Tricks section](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) useful.
 {{% /notice %}}
@@ -63,7 +63,7 @@ You may also find the following [Tips and Tricks section](https://code.visualstu
 1. Try removing or un-commenting some code first. Then try adding both a single-line and multi-line comment. 
 
    {{% notice green "Tip" "rocket" %}}
-   Remember to run the program, you should use the command, `node comments`.
+   Remember to run the program, you should use the command, `node Comments`.
    {{% /notice %}}
 
 Notice that when you first run the program, it still prints the phrase `Hello,
