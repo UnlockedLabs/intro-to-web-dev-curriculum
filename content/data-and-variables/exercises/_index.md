@@ -21,7 +21,7 @@ You don't need to show proof of completing the exercises to pass, so do them for
 Unlike the concept checks, you will need a code editor to complete the exercises. We will be using `Visual Studio Code` as our code editor.
 
 {{% notice blue Note "rocket" %}}
-Fork and Clone the following github repository to get started: [JavaScript Projects](https://github.com/LaunchCodeEducation/javascript-projects)
+The exercises can be found inside of the `data-and-variables` folder inside of the `javascript-projects`.
 {{% /notice %}}
 
 ## The Data
