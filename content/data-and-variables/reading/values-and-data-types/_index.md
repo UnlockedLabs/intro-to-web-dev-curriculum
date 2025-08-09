@@ -145,7 +145,6 @@ console.log(3.4, "hello", 45);
 ```
 {{% /notice %}}
 
-<!-- TODO: Update the below link when the How Programs Work chapter is added -->
 Remember not to put commas or spaces in your integers, no matter how big they are. Also revisit what we said in the chapter [How Programs Work]({{% relref "../../../how-programs-work/_index.md" %}}): formal languages are strict, the notation is concise, and even the smallest change might mean something quite different from what you intend.
 
 ## Type Systems
