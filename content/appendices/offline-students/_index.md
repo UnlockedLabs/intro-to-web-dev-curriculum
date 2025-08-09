@@ -69,7 +69,7 @@ You are now ready to add the repo to your directory.
 
 ### Go to GitWeb
 
-You will be provided the name of the repo needed for any particular exercise, studio, or assignment.  You will need to **clone** them to your computer.  When you clone a repo, you are making a copy of the original code.  Any changes you make to the cloned repo will not be applied to the original code.  This keeps the original starter code intact.
+All the git repositories needed for this course are located in GitWeb. You will be provided the name of the repo needed for any particular exercise, studio, or assignment.  You will need to **clone** them to your computer.  When you clone a repo, you are making a copy of the original code.  Any changes you make to the cloned repo will not be applied to the original code.  This keeps the original starter code intact.
 
 1. Open GitWeb by clicking the application icon.
    {{< rawhtml >}}
@@ -194,6 +194,12 @@ We have used the phrase `Hello, World` as an example throughout this chapter bec
    {{% /notice %}}
 
 [(Back to the Reading)]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md" %}})
+
+## Chapter 3 Reading: How To Write Code
+### JavaScript Projects Repository
+The `javascript-projects` git repository is located in GitWeb. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "#go-to-gitweb" %}})
+
+[(Back to the Reading)]({{% relref "../../../content/how-to-write-code/reading/javascript-projects-repo/index.md" %}})
 
 ## npm install
 
