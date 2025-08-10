@@ -197,7 +197,10 @@ We have used the phrase `Hello, World` as an example throughout this chapter bec
 
 ## Chapter 3 Reading: How To Write Code
 ### JavaScript Projects Repository
-The `javascript-projects` git repository is located in GitWeb. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "#go-to-gitweb" %}})
+
+This textbook will often reference the `javascript-projects` git repository as you are working your way through. This repository contains code for most, but not all code snippets, exercises, and studios throught the book. However, it does *not* contain any graded assignments.
+
+The `javascript-projects` git repository is located in GitWeb. Before moving on to the next section you will need to `clone` the repository. You have already completed this process once already. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "#go-to-gitweb" %}})
 
 [(Back to the Reading)]({{% relref "../../../content/how-to-write-code/reading/javascript-projects-repo/index.md" %}})
 
