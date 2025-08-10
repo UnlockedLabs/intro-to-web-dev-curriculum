@@ -56,4 +56,4 @@ Learning to code follows the same idea:
 
 And don't forget:
 
-> Your heros worked really hard, so should you.  **Do your homework**.
+> Your heroes worked really hard, so should you.  **Do your homework**.
