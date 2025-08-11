@@ -19,7 +19,7 @@ remember it.
 Take note of any problem here or topic from this chapter that you don't understand. 
 Take a break and return to the problem. Do you see it in a new way or have a better 
 understanding? If not, try spending five minutes researching the topic. Start with this
-book and if you still have questions, ask one on the internet or Slack/Discourse. 
+book and if you still have questions, ask one of your fellow students, a previous graduate, or a TA. 
 You're not the first person to learn to code and you're definitely not the first person
 to ask a question or get stuck!
 
