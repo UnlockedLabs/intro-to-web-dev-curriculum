@@ -21,8 +21,9 @@ You don't need to show proof of completing the exercises to pass, so do them for
 Unlike the concept checks, you will need a code editor to complete the exercises. We will be using `Visual Studio Code` as our code editor.
 
 {{% notice blue Note "rocket" %}}
-The exercises can be found inside of the `data-and-variables` folder inside of the `javascript-projects`.
+Open the exercises inside of the `javascript-projects/data-and-variables/exercises` directory to get started.
 {{% /notice %}}
+
 
 ## The Data
 
