@@ -139,7 +139,7 @@ If you explore the equality operator in more depth, you will find some surprises
 - `0 == false`
 - `0 == ''`
 
-We will explore the nuances of `==` in the upcoming section [equality](#equality), and introduce two new operators, `===` and `!==`, that will align more closely with our intuitive notion of equality.
+We will explore the nuances of `==` in the upcoming section [equality]({{% relref "../equality/_index.md" %}}), and introduce two new operators, `===` and `!==`, that will align more closely with our intuitive notion of equality.
 {{% /notice %}}
 
 ## Check Your Understanding
