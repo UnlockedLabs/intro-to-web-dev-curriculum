@@ -22,7 +22,7 @@ Your directions from superiors:
    launch.
 1. If all checks are successful, print a countdown to launch in the console.
 
-To get started, check out the `exercises` directory in `javascript-projects/errors-and-debugging`.
+To get started, open the `exercises` directory located in `javascript-projects/errors-and-debugging`.
 
 ## Debugging Practice
 
