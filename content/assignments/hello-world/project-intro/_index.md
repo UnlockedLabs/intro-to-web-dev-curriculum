@@ -21,32 +21,17 @@ In order to complete this assignment there are a few things that you will need t
 1. [Installed Node]({{% relref "../../../installations/install-node/" %}})
 {{% /notice %}}
 
-Programming jobs often require you to get familiar with, or at least make use of, additional technologies. Here, you'll be Github to write your code, run it, save it, and submit your assignment.
+Programming jobs often require you to get familiar with, or at least make use of, additional technologies and/or processes.
 
 So while the coding task may appear straightforward, you'll be introduced to a set of instructions, or **workflow**, that is important for the rest of your success in this class.
 
 ## Requirements
 
-1. Sign up for a GitHub account.
 1. Change the code in Visual Studio Code.
 1. Commit the code.
-1. Push the code to your assignment repository.
 1. Make sure your assignment passes the test.
 
-### GitHub
-
-If you haven't done so already, create a [GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
-
-{{% notice blue Note "rocket" %}}
-You can also learn more about Git and GitHub by viewing the following [resource page](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
-{{% /notice %}}
-
 ### Assignment Invitation
-
-{{% notice blue Tip "rocket" %}}
-Before starting on any assignment, make sure you are signed into your GitHub account!
-{{% /notice %}}
-
-First, find `Assignment #0` in Canvas and click on the starter code repo link. Fork the repository to your personal profile, copy the repo’s URL for cloning, and clone the project to a directory on your machine.
+First, find `assignment0-javascript.git` in GitWeb, copy the repo’s URL for cloning, and clone the project to a directory on your machine. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md#go-to-gitweb" %}})
 
 After you have cloned the directory to your machine, open up the project within `Visual Studio Code` and move on to the next section!

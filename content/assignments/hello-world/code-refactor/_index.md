@@ -20,32 +20,11 @@ After you have done some exploring, open a terminal window within your `Visual S
 
 ![Open Terminal window within Visual Studio Code](pictures/open-terminal-visual-studio-code.png?classes=border)
 
-{{% notice green "Offline Student Note" "rocket" %}}
-You do not need to run the `npm i` or `npm install` commands
-as the modules that download from these commands have already
-been provided for you.  See [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}) for more information.
-{{% /notice %}}
-
-
 {{% notice blue Note "rocket" %}}
 You can also open a terminal and navigate to the `assignment0` project directory location and run the following commands as well.
 {{% /notice %}}
 
-Before we begin, we are going to install the required packages within our project directory. We will be using `npm` (Node Package Manager) to do so. Run the following command within your terminal:
-
-```console
-npm i
-```
-
-The `i` stands for install. This is the shorter version, you can also fully type out `npm install`. You terminal output should look something like this after typing in the command:
-
-![Installing node packages with npm -i, loading image](pictures/npm-i-loading.png?classes=border)
-
-After a short amount of time you should see that the packages were installed successfully:
-
-![Image of all node packages successfully installed within the terminal window](pictures/npm-i-success.png?classes=border)
-
-Now that we have installed all required packages we can move forward with running the program. Type the following command into your terminal window:
+Type the following command into your terminal window:
 
 ```console
 node index.js
@@ -66,12 +45,12 @@ function hello() {
 module.exports = hello;
 ```
 
-We haven't learned about either of these items yet, but we will! If you are so compelled, google these terms to get a brief introduction. If you are not compelled, you don't need to know what they do for the purposes of this class until later lessons.
+We haven't learned about either of these items yet, and you don't need to know what they do for the purposes of this assignment. We will learn about these in later lessons!
 
 {{% notice blue Tip "rocket" %}}
-Set a timer for 5 mins and google search "JavaScript functions" or "JavaScript module.exports". Or look these items up directly on [W3Schools](https://www.w3schools.com/) or [MDN](https://developer.mozilla.org/en-US/). When the timer is up, write down whatever you have found interesting or most salient from your search.
+If you are so compelled, set a timer for 5 mins and search StackOverflow for "JavaScript functions" or "JavaScript module.exports". Or look these items up directly on [W3Schools](https://www.w3schools.com/) or [MDN](https://developer.mozilla.org/en-US/). When the timer is up, write down whatever you have found interesting or most salient from your search.
 
-Although you won't start learning about these terms in this book until later on, getting into the habit of exploring code and google searching topics helps to get you into the developer mindset.
+Although you won't start learning about these terms in this book until later on, getting into the habit of exploring code and searching topics helps to get you into the developer mindset.
 
 This may not be the only place where this book leaves you with more questions than answers and getting answers from the world wide web is how every developer spends their time.
 {{% /notice %}}
