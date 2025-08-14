@@ -38,8 +38,8 @@ Open up the `studio` directory in `javascript-projects/unit-testing` and note th
 
 1. `index.js` holds the object we want to design.
 1. `tests/launchcode.test.js` holds the testing script.
+1. `node_modules` holds the required NPM modules.
 
-The files are mostly empty. Only a framework has been provided for you. Run `npm install` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}})in the terminal to get everything ready to go.
 
 ## Start With the Properties
 

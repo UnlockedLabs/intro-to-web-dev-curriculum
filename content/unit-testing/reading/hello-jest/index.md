@@ -19,8 +19,8 @@ We will use [Jest](https://jestjs.io/), a popular JavaScript testing framework. 
 ## Using Jest
 
 
-Jest is an npm module that can be installed and used in a manner similar to
-`readline-sync`. Jest will require that we first install it. We then will have to configure everything to make sure that Jest can run the tests in our project.
+Jest is an npm module that has been installed for your and used in a manner similar to
+`readline-sync`. We will have to configure everything to make sure that Jest can run the tests in our project.
 
 A project using Jest has several components:
 
@@ -39,7 +39,7 @@ A project using Jest has several components:
 
 Let's build a "Hello, World!" Jest project, to get familiar with the basic components. Open the `hello-jest` directory in the `chapter-examples` folder in `javascript-projects/unit-testing`.
 
-We will walk you through the steps needed to get a simple Jest project up and running. Code along with us throughout this section. Run `npm install` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}) in your terminal to make sure that your project is ready to run when you want to see how the code works.
+We will walk you through the steps needed to get a simple Jest project up and running. Code along with us throughout this section.
 
 ### `hello.js`
 
