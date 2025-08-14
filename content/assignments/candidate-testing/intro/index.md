@@ -16,11 +16,9 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 Welcome to your first graded assignment.  We would like you to create a short quiz console application.
 
-Fork and clone the [starter code repo](https://github.com/LaunchCodeEducation/Candidate-Testing-Autograded/tree/main).
+First, find `Candidate-Testing-Autograded.git` in GitWeb, copy the repo’s URL for cloning, and clone the project to a directory on your machine. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md#go-to-gitweb" %}})
 
-1. Open a terminal and `cd` into the project file.
-   1. You will see `candidate-testing.js` and other files if you run `ls`
-1. Run `npm install` to bring in all of the packages you need to run the application [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}})
+Second, open a terminal and `cd` into the project file. You will see `candidate-testing.js` and other files if you run `ls`
 
 You should be ready to code your application.  Good luck! 
 
