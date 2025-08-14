@@ -43,7 +43,7 @@ You should still pass tests 1-10 from Tasks 1 and 2.
    <img src="../images/AllTests-Pass.png" alt=" " width=60% />
 {{< /rawhtml >}}
 
-When you pass all 17 tests, push up your work.  Your repo should receive a green check mark. Let your TA know you have this checkmark.  You need to walk your TA through your code in order to be marked complete.
+When you pass all 17 tests, push up your work.  Submit your work into Canvas.
 
 ## Congratulations!  
 
