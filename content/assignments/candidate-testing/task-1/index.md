@@ -42,11 +42,9 @@ For the sake of this assignment, look for the `TODO` statements. Some are outsid
 1. Ask the user to answer a single quiz question. Look for `TODO 1.2a`. Below the TODO statement, define variables called `question`, `correctAnswer`, and `candidateAnswer`.
 
    1. `question` should be initialized to the following string: `"Who was the first American woman in space? "`.
-
    {{% notice blue "Note" "rocket" %}} 
    Don't forget the trailing space at the end of this string! It is required.
    {{% /notice %}}
-
    1. `correctAnswer` should be initialized to `"Sally Ride"`.
    1. `candidateAnswer` will initially be set to the empty string.
 
