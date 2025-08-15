@@ -75,4 +75,4 @@ Your mission is to build a page that:
  Once you finish your page, use Git to `add` and `commit` your `index.html` changes.
 {{% /notice %}}
 
-Well done! You may notice that you haven't got a green check mark on your repository yet. You need to create and apply some design features.  You will do that in [Task 2]({{% relref "../part-2/index.md" %}}).
+Well done! Now you need to create and apply some design features.  You will do that in [Task 2]({{% relref "../part-2/index.md" %}}).
