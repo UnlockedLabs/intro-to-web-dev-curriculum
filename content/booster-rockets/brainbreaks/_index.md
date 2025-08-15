@@ -18,7 +18,7 @@ Sometimes you just need to take a break.  When you find yourself getting frustra
 it's time to do something else for a bit and come back with fresh eyes.
 
 Exercise, go for a walk, do the dishes, put on some music and dance, meditate, set a timer 
-and look up memes (bonus share them with your peers).  
+and do something else.  
 Does not matter what you do. By giving your brain a break, often times 
 when you come back to the code you'll have new insight to the problem that had frustrated you in the first place. 
 
@@ -28,7 +28,7 @@ The following are curated lists from fellow LaunchCoders.  By no means are they 
 
 **Music**
 
-Make your own playlist, or search for a tech/it/coding/homework music compilations on your internet player of choice (i.e., pandora, spotify, youtube). Some LaunchCode favorites to get you started:
+Make your own playlist. Some LaunchCode favorites to get you started:
 
 1. [Gloria by Laura Branigan](https://www.youtube.com/watch?v=nNEb2k_EmMg)
 1. [Gonna Fly Now (Theme from Rocky)](https://www.youtube.com/watch?v=Qwu5zWTEYVs)
