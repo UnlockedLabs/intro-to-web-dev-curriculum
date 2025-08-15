@@ -46,7 +46,7 @@ Let's roll.
 
 ## Starter Code
 
-Fork and clone the [starter code repo](https://github.com/LaunchCodeEducation/Scrabble-Scorer-Autograded).
+First, find `Scrabble-Scorer-Autograded.git` in GitWeb, copy the repo’s URL for cloning, and clone the project to a directory on your machine. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md#go-to-gitweb" %}})
 
 You only need to pay attention to one file here, `scrabble-scorer.js`. Within this JavaScript
 file is still some more starter code that you don't need to touch. We'll point out what you 
@@ -55,8 +55,7 @@ should be modifying here to write your Scrabble Scorer program.
 To run the starter code as is, take the following steps:
 
 1. Open the terminal in Visual Studio Code.
-1. Run the command, `npm install` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}).
-1. Once that is complete, run the command, `node index`. You'll see a message printed to the console:
+1. Run the command, `node index`. You'll see a message printed to the console:
 
 ```console
    $ node index
