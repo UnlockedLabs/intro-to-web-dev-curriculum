@@ -28,21 +28,13 @@ We will provide descriptions of the required features you need to implement in t
 
 In true TDD form, you will be asked to first write the appropriate unit tests for these features, then write the code in the given class to pass those tests.
 
-## Sections:
-
-1. [Starter Code]({{% relref "#submitting-your-work" %}})
-1. [Command Class]({{% relref "../command-class/_index.md" %}})
-1. [Message Class]({{% relref "../message-class/_index.md" %}})
-1. [Rover Class]({{% relref "../rover-class/_index.md" %}})
-1. [Submitting Your Work]({{% relref "../submitting-your-work/_index.md" %}})
-
 ## Get the Starter Code
 
-Fork and Clone the following repository:[Assignment #3: Mars Rover](https://github.com/LaunchCodeEducation/Mars-Rover-starter)
+First, find `Mars-Rover-starter.git` in GitWeb, copy the repo’s URL for cloning, and clone the project to a directory on your machine. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md#go-to-gitweb" %}})
 
-## How-To TDD
+s## How-To TDD
 
-Recall that in TDD, you write the test for a given behavior before you code the actual function. Feel free to review the [Test/Code cycle](https://education.launchcode.org/intro-to-web-dev-curriculum/unit-testing/reading/tdd/index.html) while you work on this project.
+Recall that in TDD, you write the test for a given behavior before you code the actual function. Feel free to review the [Test/Code cycle](http://localhost:1313/unit-testing/reading/tdd/#the-testcode-cycle) while you work on this project.
 
 1. Focus on one test at a time.
 1. Write the test and *then* create the code to make it pass.
