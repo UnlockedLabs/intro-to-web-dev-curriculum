@@ -30,7 +30,6 @@ In this particular case, the programmer has to import the work from an online re
 onto their local machine.
 
 They can clone a remote repository by using the `git clone <url>` command.
-Github and other online Git systems give users the option to clone the repository through HTTPS or SSH depending on how their Github profile is set up.
 The `<url>` of the command is where the programmer adds the url to the repository that they are cloning. 
 
 {{% notice blue "Note" "rocket" %}}
@@ -54,7 +53,7 @@ $ git branch
 For the examples in this book, we refer to the default branch as `main`.
 However, depending on the Git settings on your computer, you might see a
 different one. This won't affect the performance of your project in any way.
-That said, GitHub defaults to `main` for all new repositories. To keep our
+That said, GitWeb defaults to `main` for all new repositories. To keep our
 work clear, we should match our local and remote branch names.
 
 {{% notice blue "Example" "rocket" %}}

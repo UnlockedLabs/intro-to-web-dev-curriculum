@@ -90,7 +90,7 @@ This is helpful for looking through the log and seeing detailed comments of the 
 
 {{% notice green "Tip" "rocket" %}}
 
-It's important to include a descriptive commit message. Such messages are visible in your local Git log, as well as in the commit history on GitHub. A good commit message allows you and your fellow developers to easily identify the changes made in a given commit.
+It's important to include a descriptive commit message. Such messages are visible in your local Git log, as well as in the commit history on GitWeb. A good commit message allows you and your fellow developers to easily identify the changes made in a given commit.
 
 {{% /notice %}}
 
