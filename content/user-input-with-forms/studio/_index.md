@@ -24,14 +24,15 @@ use. It will look like this:
 
 [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-25-studio-http-and-forms" %}})
 
-Most search engines work the same way. They have a single text input, and they
-submit data using a `GET` request. Additionally, many of the most popular
-search engines also use the same name for the search parameter, `q`.
+As an offline student, you may have never used a search engine before. Whether you have or haven't, its important to know that most search engines work the same way. They have a single text input, and they submit data using a `GET` request. Additionally, many of the most popular search engines also use the same name for the search parameter, `q`.
 
 {{% notice blue "Try It!" "rocket" %}}
-Use 2-3 different search engines to search for the same term. On the results page, look at the URL. Did the search happen via `GET` or `POST`? If a `GET` request was made, what is the name of the parameter containing your search term?
+Unfortunately, as an offline student you cannot use a real-world search engine. However, you *can* understand how they work.
+Open a new tab in your browser and type this into the URL: `http://handlers.education.launchcode.org/request-parrot?q=your+search+term+here`
 
-*Note:* You may have to copy/paste the URL into a text editor to find the search parameter. Some engines add other parameters to the URL, causing it to extend past the end of the browser's address bar.
+Use 2-3 different search terms to get an idea of what is happening.
+
+As you have probably gathered, a `GET` request was made containing the name of the parameter `q` and your search term.
 {{% /notice %}}
 
 {{% notice blue Note "rocket" %}}
@@ -40,13 +41,8 @@ We remarked previously that most forms use `POST` because they cause data to be 
 
 The fact that most search engines use the name `q` for their search boxes
 will allow us to easily create a form that is capable of sending a search
-request to several search engines.
-
-The form will send a request with query parameter `q` to the selected engine.
-Since this request looks essentially the same as requests coming from the
-search engine's own form (for example, at [google.com](https://google.com))
-it will give us back the results the same as if we had searched via those
-sites.
+request to several search engine URLs, even though we can't access the results.
+We can, however, observe the URL in the browser and verify that our search engine selector is working properly.
 
 ## Getting Started
 
