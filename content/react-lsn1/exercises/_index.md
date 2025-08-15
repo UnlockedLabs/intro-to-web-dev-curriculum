@@ -93,41 +93,38 @@ The list of movies is built using an array defined in
 5. The `BookList` component has been generated, but it is incomplete. The
    page needs more images, which also need to be smaller in size.
 
-   [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#complete-the-booklist-component" %}})
-
-   1. In the `BookList` function, assign a better section heading to
-      the `pageTitle` variable.
-   1. The `book` variables should hold URLs for images, but only one is
-      is filled in and it isn't a valid link. Update the three variables to include valid link addresses for three new book releases. To copy the URL for an image on the web, right-click
-      (or control-click) on the image and select the "Copy Image Address" menu
-      option.
-
-
-   1. In the `return` statement for this component, use JSX in the `img`
-      tags to display your chosen images and update the `alt` text to reflect what book you are linking.
-
-      ```jsx
-         <img src={book1} alt="Appropriate text for the book">
-      ```
-
-   1. Refresh the webpage to check the updated content.
+   1. In the `BookList` function, assign a better section heading to the `pageTitle` variable.
+      1. The `book` variables should hold URLs for images, but only one is is filled in and it isn't a valid link. 
+      Update the three variables to include valid link addresses for three new book releases. Since you're offline,
+      we've provided a few book covers for you to choose from. Here's the URL to use: `http://handlers.education.launchcode.org/static/images/books/Title_of_Book.png`
+   
+      ![Image of various book covers for use in ch29 exercise](pictures/ch29-exercise-books.png?classes=border)
+   
+      2. In the `return` statement for this component, use JSX in the `img`
+         tags to display your chosen images and update the `alt` text to reflect what book you are linking.
+   
+         ```jsx
+            <img src={book1} alt="Appropriate text for the book">
+         ```
+   
+6. Refresh the webpage to check the updated content.
 
    {{% expand "Check Your Solution" %}}
    
    This solution includes three books from the latest releases the week we were working on this book. Your code will have different books!
 
    ```jsx
-   <div>
-   <h3>{pageTitle}</h3>
-   <img src={book1} alt="Romantic Comedy by Curtis Sittenfield" />
-   <img src={book2} alt="Tress of the Emerald Sea by Brandon Sanderson" />
-   <img src={book3} alt="The London Seance Society by Sarah Penner" />
-   </div>
+      <div>
+         <h3>{pageTitle}</h3>
+         <img src={book1} alt="Romantic Comedy by Curtis Sittenfield" />
+         <img src={book2} alt="Tress of the Emerald Sea by Brandon Sanderson" />
+         <img src={book3} alt="The London Seance Society by Sarah Penner" />
+      </div>
    ```
 
    {{% /expand %}}
-
-Before moving on, save and commit your work.
+   
+   Before moving on, save and commit your work.
 
 ## Part 2: Add Another Component
 
