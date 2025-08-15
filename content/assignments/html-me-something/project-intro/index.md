@@ -20,9 +20,7 @@ Best practices dictate that content and style should be kept as separate as poss
 
 ## Getting Started
 
-Fork and clone the [Graded Assignment #4: HTML Me Something repository](https://github.com/LaunchCodeEducation/HTML-Me-Something-Start).
-
-As always, if you need to refer back to a guide, check out [Assignment 0]({{% relref "../../hello-world/_index.md" %}}).
+First, find `HTML-Me-Something-Start.git` in GitWeb, copy the repo’s URL for cloning, and clone the project to a directory on your machine. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md#go-to-gitweb" %}})
 
 ## Setup the Project
 Open your file tree.  You should see a `__tests__` directory and some JavaScript in addition to `index.html` and `styles.css`.
@@ -30,8 +28,6 @@ Open your file tree.  You should see a `__tests__` directory and some JavaScript
    1. You should only edit `index.html` and `styles.css`
    1. The `__tests__` directory contains the autograding tests. 
    1. The remaining files are configured for the autograder. You do not need to edit these.
-
-Before you start your project make sure you run `npm install` to pull in the necessary packages and dependencies [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}).
 
 The instructions for this project will have you run the tests as the final step of this project.
 
