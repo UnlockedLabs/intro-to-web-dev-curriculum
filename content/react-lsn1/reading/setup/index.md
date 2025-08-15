@@ -14,31 +14,23 @@ lastMod: 10-17-2023 # UPDATE ANY TIME CHANGES ARE MADE
 
 Now that we understand more about React and components, we are ready to build a React app. To make a new React application, we will be using a front-end tool called [Vite](https://vitejs.dev/). This will allow us to scaffold a new `React` project with the required dependencies and launch a local dev server.
 
-[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#create-a-react-application" %}})
+Since you are in an offline environment, we took the liberty of using Vite to set up your React applications for you.
+To access them, you will need a copy of the LaunchCode React projects repository.
 
-To get started we first need to install `vite` within the project directory.
+1. Clone the *react-exercises-and-studios repository* from your local server.
+1. Switch to the *offline* branch.
+1. Navigate into the *react-part-one* root directory:
 
 ```console
-npm create vite@latest
+   $ pwd
+      react-exercises-and-studios
+   $ ls
+      part1 part2 part3
+   $ cd part1
+   $ cd react-part-one
 ```
 
-You will be asked to provide a name for the project. The below example uses the name `react-part-one`.
-
-![Image of creating a new react app with vite](pictures/npm-create-vite.png?classes=border)
-
-You will then use your arrow keys to select the `React` option.
-
-![Image of selecting a variant after running npm create vite@latest command](pictures/select-variant.png?classes=border)
-
-You will then need to select the `JavaScript` variant.
-
-![Image of complete scaffolded React project using Vite](pictures/scaffolded-project-complete.png?classes=border)
-
-Now that your project has scaffolded you can navigate into the project root directory and run the following commands:
-
-```bash
-npm install
-```
+Now that you are in your project's root directory, run the following command:
 
 ```bash
 npm run dev
