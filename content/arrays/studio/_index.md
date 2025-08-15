@@ -30,9 +30,6 @@ perform some useful actions.
 
 {{% notice blue Note "rocket" %}}
 This portion of the studio can be found at the following location: `javascript-projects/arrays/studio/string-modification.js`.
-
-Dont forget to run `npm i` or `npm install` within your studio directories
-[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}).
 {{% /notice %}}
 
 Use string methods to convert a word into pseudo-pig latin.
@@ -46,7 +43,7 @@ Use string methods to convert a word into pseudo-pig latin.
 {{% notice blue Note "rocket" %}}
 The starter code for this section contains unit tests. You will see a lot of new code in the starter code. The directions will tell you which function to work in. Look for the `TODO` and `NOTE` comments for guidance and direction. The [Autograding Your Tests]({{% relref "../../assignments/github-actions/_index.md" %}}) page provides more information and tips for working inside code like this.
 
-Open the `javascript-projects/arrays/studio/array-string-conversion` directory and run `npm i` to install the required dependences.
+Open the `javascript-projects/arrays/studio/array-string-conversion` directory.
 {{% /notice %}}
 
 The `split` and `join` methods convert back and forth between strings
