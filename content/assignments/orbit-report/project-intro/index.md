@@ -23,7 +23,9 @@ Your completed assignment will have the following features:
 1. Multiple **buttons** that show satellites in an orbit path. When a user clicks a button the table will render the satellites with that designated orbit path.
 
 ## Getting Started
-Fork and clone the Graded Assignment's [starter code](https://github.com/LaunchCodeEducation/orbitReport-React). Open the project in Visual Studio Code.
+First, find `orbitReport-React.git` in GitWeb, copy the repo’s URL for cloning, and clone the project to a directory on your machine. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md#go-to-gitweb" %}})
+
+Open the project in Visual Studio Code.
 
 ### Starter Code Check
 
@@ -41,7 +43,7 @@ Throughout this assignment, you may notice that the screenshots show `localhost:
 
 ### Completed Code Check
 
-When you completed you have the option to apply CSS styling or not.  The end result of the assignment will look like one of the following:
+When you are completed you have the option to apply CSS styling or not.  The end result of the assignment will look like one of the following:
 
 **With Styling Applied**
 {{< rawhtml >}}
