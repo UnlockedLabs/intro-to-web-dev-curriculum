@@ -13,8 +13,8 @@ lastMod: 2023-10-16 # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
 ### Explore the Starter Code
-1. Fork and Clone the [starter code](https://github.com/LaunchCodeEducation/orbitReport-React) repo.
-   1. Run `npm install` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}})
+1. If you haven't already done so,
+   1. Clone the `orbitReport-React.git` repo from GitWeb.
    1. Run `npm start` to run the starter code.
 
 
