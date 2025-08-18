@@ -12,12 +12,11 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-Fork and clone the starter code [repository](https://github.com/LaunchCodeEducation/Launch-Checklist-Autograded).
+First, find `Launch-Checklist-Autograded.git` in GitWeb, copy the repo’s URL for cloning, and clone the project to a directory on your machine. For a refresher on locating and cloning git repositories please revisit [this section]({{% relref "../../../content/how-programs-work/reading/your-first-program/index.md#go-to-gitweb" %}})
 
 To get started, navigate to the directory with your copy of the starter code. 
 
-1. Run `npm install` [(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#npm-install" %}}).
-1. Open `index.html` with Firefox to verify that your starter code is working.
+Open `index.html` with Firefox to verify that your starter code is working.
 
 When you open `index.html` in the browser, you should see the Launch Checklist form with a rectangle above it for the mission destination and a rectangle below it that simply says "Awaiting Information Before Launch".
 
