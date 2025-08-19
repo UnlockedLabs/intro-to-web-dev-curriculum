@@ -64,8 +64,8 @@ required first. You will both start by creating a new repository for each of you
 
 ### Step 1: Create a New Local Repository
 
-**Control and Pilot**: Both of you need to complete steps 1 - 6 on your own
-machines.
+**Control**: You need to complete steps 1 - 6 on your own
+machine.
 
 1. In the terminal, navigate to your development folder. Enter the following
    command to clone the project.

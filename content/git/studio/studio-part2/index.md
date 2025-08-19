@@ -23,7 +23,7 @@ Read about how to do this in the chapter content.
 
 {{% /notice %}}
 
-## Step 5: First Message Exchange
+## Step 3: First Message Exchange
 
 1. **Pilot**: Use the *File* menu in Visual Studio Code to open the cloned
    `communication-log-control` directory. Double click the `index.html`
@@ -34,14 +34,14 @@ Read about how to do this in the chapter content.
    write.
 1. **Pilot**: After you finish, commit your change with the usual
    `git status/git add ./git commit -m` process.
-1. **Pilot**: Push up your changes up to GitHub so **Control** can see them as
+1. **Pilot**: Push up your changes so **Control** can see them as
    well. Use the command:
 
    ```console
       $ git push origin main
       Counting objects: 9, done.
       remote: Resolving deltas: 100% (8/8), completed with 8 local objects.
-      To git@github.com:username/communication-log.git
+      To http://localhost/srv/git/communication-log.git
          511239a..679de77  main -> main
    ```
 
@@ -49,7 +49,7 @@ Read about how to do this in the chapter content.
 
    ```console
       $ git pull origin main
-      From github.com:username/communication-log
+      From http://localhost/srv/git/communication-log
          e0de62d..e851b7e  main     -> origin/main
       Updating e0de62d..e851b7e
       Fast-forward
@@ -81,7 +81,7 @@ would see from the `pwd` command in the terminal.
 
 {{% /notice %}}
 
-## Step 6: Create a Branch In Git
+## Step 4: Create a Branch In Git
 
 This back-and-forth workflow is nice, but it can get in the way. After all,
 professional developers don't sit around waiting for their teammates to commit
@@ -137,7 +137,7 @@ allow partners to work on a project at the same time and at their own pace.
 
    Note that the command is a little different than what you used before
    (`git push origin main`). The final part is the name of the branch that
-   you want to push to GitHub.
+   you want to push.
 
 1. **Control**: To pull down the new `open-mic` branch, enter the command:
 
@@ -155,61 +155,28 @@ allow partners to work on a project at the same time and at their own pace.
 1. **Pilot and Control**: If you haven't already done so, open `index.html`
    in a browser to see what it looks like.
 
-Good! Now let's take a look at GitHub and find the new `open-mic` branch.
 
-### View Branches in GitHub
+## Step 5: Merge the Pull Request
 
-**Pilot and Control**: To view the available branches on GitHub, select
-*Branches* from the navigation section just below the repository title.
+1. **Control**: Switch to the main branch with the following commands.
 
-![A GitHub repository page with the Branches button highlighted](pictures/two-branches.png)
+```console
+   $ git checkout main
+   Switched to branch 'main'   
+   Your branch is ahead of 'origin/main' by 1 commit.
+   (use "git push" to publish your local commits)
 
-Great progress! Now let's figure out how to merge two branches in GitHub.
+   $ git merge open-mic
+   Updating 05c14bb..8d65423
+   1 file changed, 0 insertions(+), 0 deletions(-)   
+   ```
 
-## Step 7: Open a Pull Request in GitHub
+  
 
-1. **Pilot**: In your browser, go to the GitHub project and click on *Branches*
-   and make sure you see the new branch name, *open-mic*.
-
-   ![The Branches page of a repo, with a button to open a new pull request to the right of each feature branch](pictures/new-pr-button.png)
-
-1. **Pilot**: Click *New Pull Request* to ask Control to review your changes in
-   the `open-mic` branch before merging them into `main`. Add some text in
-   the description box to let Control know what you did and why.
-
-   {{% notice blue "Note" "rocket" %}}
-
-   The branch selected in the *base* dropdown is the one you want to merge
-   *into*, while the selected branch in the *compare* dropdown is the one
-   you want to merge *from*.
-
-   ![The form for creating a new pull request](pictures/PR-window.png)
-
-   {{% /notice %}}
-
-This is what an opened pull request looks like:
-
-![An open pull request](pictures/open-pr.png)
-
-## Step 8: Merge the Pull Request
-
-1. **Control**: Go to your repo in GitHub. Click on *Pull Requests*. Next,
-   click on the title for the one and only PR.
-
-   ![Review the PR details](pictures/check-pr-info.png)
-
-1. **Control**: The page that opens shows the history of all the commits made
-   to the `open-mic` branch. When ready, click the green *Merge Pull Request*
-   button, followed by *Confirm Merge*.
-
-   ![Confirm the merge request](pictures/confirm-merge.png)
-
-1. Upon a successful merge, you should see a screen similar to the following:
-
-   ![The screen displayed after a PR is merged](pictures/pr-merged.png)
+1. **Control**: Repeat the merge steps for any other branches that was created.
 
 1. **Pilot and Control**: The changes from `open-mic` are now in the `main`
-   branch, but only in the remote repository on GitHub. You will need to pull
+   branch, but only in the remote repository. You will need to pull
    the updates to your `main` for them to be present locally.
 
    ```console
@@ -303,15 +270,15 @@ Meanwhile...
 
 ### Resolve the Merge Conflicts
 
-1. **Control**: Try to push your changes up to GitHub. You should get an error
+1. **Control**: Try to push your changes. You should get an error
    message. How exciting!
 
    ```console
    $ git push origin main
 
-   To git@github.com:username/communication-log.git
+   To http://localhost/srv/git/communication-log.git
    ! [rejected]        main -> main (fetch first)
-   error: failed to push some refs to 'git@github.com:username/communication-log.git'
+   error: failed to push some refs to 'http://localhost/srv/git/communication-log.git'
    hint: Updates were rejected because the remote contains work that you do
    hint: not have locally. This is usually caused by another repository pushing
    hint: to the same ref. You may want to first integrate the remote changes
@@ -329,7 +296,7 @@ Meanwhile...
    ```console
    $ git pull
    
-   From github.com:username/communication-log
+   From http://localhost/srv/git/communication-log
       7d7e42e..0c21659  main     -> origin/main
    Auto-merging style.css
    CONFLICT (content): Merge conflict in style.css
@@ -372,7 +339,7 @@ Turn the tables so **Pilot** can practice resolving a merge conflict.
 
 1. **Control and Pilot**: Decide which file and lines of code you will both
    change. Make *different* changes in those places.
-1. **Control**: Save, commit, and push your changes up to GitHub.
+1. **Control**: Save, commit, and push your changes.
 1. **Pilot**: Try to pull down the changes, and notice that there are merge
    conflicts. Resolve them, then save, commit, and push the result.
 1. **Control**: Pull down the final, resolved code.
