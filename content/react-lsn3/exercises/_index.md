@@ -107,7 +107,3 @@ The solution in the `react-part3-exercises-vite` branch of the `react-exercises-
    ```
 
 1. Return to `App.jsx` and call the completed `MyProjects` component below `HobbyIntroduction`. Run the application to see your new gallery! Hit the *Next* button to see state in action!
-
-## Submitting Your Work
-
-Commit and push your work to GitHub and submit the link to your repository on the assignment page in Canvas.

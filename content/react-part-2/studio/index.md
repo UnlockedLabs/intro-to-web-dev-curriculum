@@ -181,6 +181,4 @@ _Desired Output_: A single component that returns the author's name, image, and 
       );
    ```
 
-## Wrapping Up
 
-**Congrats!** You've finished the studio!  Make sure that you `stage`, `commit`, and `push` your work up to GitHub.

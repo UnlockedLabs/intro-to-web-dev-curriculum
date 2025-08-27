@@ -49,7 +49,3 @@ Time to finish the final component! In `StatusChange.jsx`, we have some empty me
 1. Update the HTML in the `return` statement so that it uses the value of `notes` and displays a different message if `recipeStatus` is `true`.
 
 Run the application! You should be able to change the board the recipe belongs to and add notes to the recipe once you have tried it out yourself.
-
-## Submit Your Work
-
-Once you are done with the studio, push your work to Github and submit the link to your repo on Canvas.
