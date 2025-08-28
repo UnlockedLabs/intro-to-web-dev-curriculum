@@ -85,14 +85,16 @@ return (
 1. Add one more `import` statement: `import React from 'react';`
 1. Add a class called `RecipeDescription` which extends `React.Component`. This class should have only a `render()` method which returns something similar to the following JSX:
 
-   ```html
-    <div>
+   ```jsx
+   return (
       <div>
-        <h1>Paradise Brownies</h1>
-        <p>Whip up the most magical brownies west of the Mississippi!</p>
+        <div>
+          <h1>Paradise Brownies</h1>
+          <p>Whip up the most magical brownies west of the Mississippi!</p>
+        </div>
+        <RecipeAuthor />
       </div>
-      <RecipeAuthor />
-    </div>
+    )
    ```
 
 1. At the bottom of `Description.jsx`, add `export default RecipeDescription;`.
