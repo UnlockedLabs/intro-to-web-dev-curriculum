@@ -62,7 +62,8 @@ they appear pretty bland. Let's change that.
 
    {{% /expand %}}
 
-2. Change the chore list text by adjusting the code in
+2. Build a chore list and heading in `ChoresList.jsx` using what you picked up
+   from `MovieList.jsx`, then change the chore list text by adjusting the code in
    `ChoresList.module.css` to accomplish the following:
 
    1. Use a different font, with a size large enough to easily read.
@@ -206,13 +207,11 @@ Your final page should have this format:
 If you get stuck on a particular exercise:
 
 1. Try again.
-<!-- 1. Ask your IA, instructor, classmates, or Google for tips. -->
 1. Ask your IA, instructor, or classmates for tips.
 1. Try again.
 1. Take a break and give your brain a chance to rest.
 1. Try again.
-<!-- 1. Feel completely justified in switching to the `solutions` branch to check
-   the code. -->
+1. Move on.
 
 {{% notice blue "Note" "rocket" %}}
 
