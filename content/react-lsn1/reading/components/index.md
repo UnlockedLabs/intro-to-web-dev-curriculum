@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-**Components** are the building blocks of React applications. Components are reusable, independent, and are responsible from individual elements of the webpage. For example, take a look at [Instacart](https://www.instacart.com/) and make note of elements of the webpage. You might see:
+**Components** are the building blocks of React applications. Components are reusable, independent, and are responsible for individual elements of the webpage. For example, take a look at [Instacart](https://www.instacart.com/) and make note of elements of the webpage. You might see:
 
 1. A button for logging into your account.
 1. A button for signing up for a new account.
