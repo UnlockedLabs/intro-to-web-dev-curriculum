@@ -48,8 +48,7 @@ The app you complete in this studio will have the following functionality:
       We will be providing the code (hard coding) for this app to render conditionally.  Keep that in mind as you work on this studio. Test things by changing these variables here.
 
    1. In the `components` folder:  
-      1. Open the `recipe.json` file and populate the values with data from a recipe you find online. This can be the same recipe you used in Part 1 or a new recipe. 
-      1. Save the file.
+      1. Open the `recipe.json` file and take a look at the values with data from a same recipe we provided for you. 
 
 ## Part 1: `RateARecipe`
 
@@ -128,36 +127,41 @@ You will need to create a conditional that will render `SaveButton` or `ClickedB
 
 ## Part 3: Add the Recipe Data
 
-The remaining components will be using the `recipe.json` file.  You will need to import this file into each component.  We can also use the `map` function to find the desired keys if it makes sense to you.
+The remaining components will be using the `recipe.json` file and the `map` function to find the desired keys. You will need to import this file into each component.
 
 ### Recipe Name
 
 _Desired Output_: This function needs to return the recipe name as an `<h1>` level header.
 
 1. Open the `RecipeName` component.
-1. Render the recipe's name as an `<h1>` level header.  
-1. `return` the `recipeName` variable.  
+1. Use the `map` function to create a `recipeName` variable
+1. Return the recipe's name as an `<h1>` level header.  
 
 ### Image
 
 _Desired Output_:  Returns the image of the recipe from the JSON.
 
 1. Import the recipe JSON file.
-1. Find the `recipeImage`.  
+1. Find the `recipeImage` property.  
    1. Use the `<img>` tag.  You can pass the recipe name to the alt text value.
    1. Styling has been created for the image. If you would like to apply it set the `className` equal to `recipeImage`. 
-1. Return `recipeImage` inside its own `<div>`.
+1. Return the recipe's image inside its own `<div>`.
 
 ### Ingredient Lists
 
 _Desired Output_:  Create an unordered list of ingredients.
 
-This component will map over a list of ingredients.  The ingredients are contained within an array inside our JSON object. We will create a `map` function to iterate through the array of ingredients.
+This component will map over a list of ingredients.  The ingredients are contained within an array inside our JSON object. We will create a `map` function to access our recipe, then add a nested `map` function to iterate through the array of ingredients and return each item in a list.
+
+<!-- 1. Import the recipe.
+1. `IngredientsList` will return a single `<div>` that holds an `<h3>Ingredients</h3>` header.
+1. Create a list object by placing our map inside curly braces.  In the other components, we used a variable to hold our map output.  In this component, we will return the list as we render it.
+1. The `map` function will iterate through the ingredients using the string `id` as a key.  -->
 
 1. Import the recipe.
 1. `IngredientsList` will return a single `<div>` that holds an `<h3>Ingredients</h3>` header.
-1. Create a list object by placing our map inside curly braces.  In the other components, we used a variable to hold our map output.  In this component, we will return the list as we render it.
-1. The `map` function will iterate through the ingredients using `id` as a key. 
+1. In the other components, we used a variable to hold our map output.  In this component, we will map the JSON object giving us access to the ingredient list.
+1. Return the list of items by using the `map` function again to iterate through the ingredients and render each item in a `<li>` tag. Use an index parameter as the key. Reference the [The map() Function]({{% relref "../../../content/react-part-2/reading/mapping/index.md/#map" %}}) page for some help.
 
 ### Author Info
 
