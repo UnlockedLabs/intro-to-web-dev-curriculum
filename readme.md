@@ -1,5 +1,21 @@
 ## Any major concerns we need to address:
 
+* Chapter 30 > Studio > Part 3: Add the Recipe > Ingredients Lists - I (Brandon) did not have the solutions branch for refrence so I wasn't sure how to proceed here. The chapter reading did not explicitly cover accessing an array within a JSON object and the studio instructions were not very clear on the steps to complete what is being asked. I came up with a simple solution and changed the instructions to better explain. If there is a better solution we can change again. Here's my code:
+
+<!-- 
+function IngredientList() {
+  return (
+    <div>
+      <h3>Ingredients</h3>
+      <ul>
+        {recipedata.map((data) => {
+          return data.ingredients.map((item, index) => <li key={index}>{item}</li>);
+        })}
+      </ul>
+    </div>
+  );
+}
+ -->
 
 
 ## List of additional http links found within the course that should be downloaded and included:
