@@ -43,7 +43,7 @@ they appear pretty bland. Let's change that.
 
    1. The text for the heading and list items can be any color EXCEPT black.
       (HINT: Take advantage of the `movieText` class).
-   1. The movie list should have heading that aligns to the *left*.
+   1. The movie list and heading should be aligned to the *left*.
    1. The font size should be large enough to easily read.
 
    {{% expand "Check Your Solution" %}}
