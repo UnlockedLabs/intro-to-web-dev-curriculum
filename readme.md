@@ -28,8 +28,11 @@ function IngredientList() {
 }
  -->
 
+__handlers.education.launchcode.org__ We might be able to use the current apache server to accomplish what the Flask app is doing.  Please see http://education.launchcode.org/request-parrot.php in the current image as an example.
+
 
 ## List of additional http links found within the course that should be downloaded and included:
+
 
 
 
@@ -41,7 +44,7 @@ function IngredientList() {
 
 ## List of changes to the below Test/Validation list to remove outdated content and test this course properly:
 
-* __Test Wolf Checker__ Wolf Checker may need to be removed as it was written for the previous intro-to-web-dev-curriculum. Note: this note is coming from the guy to who wolf-checker-js. :-O
+* __Test Wolf Checker__ Wolf Checker may need to be removed as it was written for the previous intro-to-web-dev-curriculum. Note: this note is coming from the guy to who wrote wolf-checker-js. :-O
 
 * __Jasmine Tests__ update to Jest.
 
