@@ -36,9 +36,13 @@ function IngredientList() {
 
 __handlers.education.launchcode.org__ We might be able to use the current apache server to accomplish what the Flask app is doing.  Please see http://education.launchcode.org/request-parrot.php in the current image as an example.
 
+* Chapter 1: Introduction > Reading > Class Platforms:
+  * The way in which Canvas is referenced for use is not the way we use our little module. Our module is only used for a rough calendar, submitting Assignments, and the Gradebook for rubrics and grading. We would love to import the Canvas module being referenced in the curriculum and begin to use it.
+
 
 ## List of additional http links found within the course that should be downloaded and included:
-
+* Refer to broken_links.ods
+* For multiple page web site scrapes, how should we package the site for reference (hlink)? As an http site, or a raw file path? And where in the file structure should it/they put located?
 
 
 
