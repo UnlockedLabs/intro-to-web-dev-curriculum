@@ -117,9 +117,3 @@ Let's return to manufacturing. Since the shoe factory is having so many issues t
 1. We don't have anywhere to actually send our data, so all we need to do for now is create an alert popup and use `event.preventDefault()` to ensure the form does not actually submit.
 
 When working with forms in React, you need to separate out what you would like to happen if the state changes versus when the state resets. A preview of a form field could be immensely helpful, but when form submission occurs, the state resets back to the initial state and the preview returns to an empty field.
-
-{{% notice blue "Note" "rocket" %}}
-
-   Check our completed manufacturing application on [GitHub](https://github.com/LaunchCodeEducation/react-exercises-and-studios/tree/react-part3-forms/part3/react-part3-forms)!
-
-{{% /notice %}}

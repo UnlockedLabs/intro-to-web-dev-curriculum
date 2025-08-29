@@ -16,7 +16,7 @@ When changing the state, our intended effect may involve using some of the metho
 
 We are at a shoe factory and the mechanism responsible for counting how many shoes come off the line is broken. The factory manager doesn't want to stop production and cause unnecessary delays so they have asked you to sit by the machine and manually count the shoes coming down the line. With your React skills, you can quickly code an application that contains a single button and displays the current shoe count.
 
-1. Create a new React application using Vite. 
+1. We've created a new React app for you using Vite. Navigate into `react-part-three` in your React repo and in the terminal run `npm run dev`. 
 1. Make a new `components` directory within `src`.
 1. Make a new file called `ShoeButton.jsx`.
 1. Add the following code to that file.
