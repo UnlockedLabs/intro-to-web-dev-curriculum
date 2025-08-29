@@ -21,16 +21,17 @@ In the `components` directory, you will find `Recipe.jsx`. This file contains so
 1. The recipe's title
 1. A short description of the recipe
 1. Five ingredients used in the recipe
-1. A link to a photo from the recipe
-1. A link to a photo of the recipe's author
 1. The author's name 
 1. A link to the author's website
+1. A link to a photo from the recipe
+1. A link to a photo of the recipe's author
+* [Use the recipe and author images from the Part 1 Studio]({{% relref "../../../content/react-lsn1/studio/_index.md" %}})
 
 With all this information at hand, review `Recipe.jsx` and add each piece of information where it is appropriate. None of this information belongs in another file so you do not need to check out any of the other components just yet. When you feel like you have put everything where it should go, run the app again. It should still have some warnings and errors, so it is time to move on to the next component.
 
 ## `BoardAssignment.jsx`
 
-Staying in the `components` directory, turn your attention to `BoardAssignment.jsx`. First, brainstorm three boards that the recipe you chose might belong to. 
+Staying in the `components` directory, turn your attention to `BoardAssignment.jsx`. On Pinterest, boards are collections of Pinterest pins (like your recipe) that pertain to a particular theme. Before getting started, brainstorm three boards that the recipe you chose might belong to (Comfort food, Desserts, Mom's Favorites).
 
 1. Currently, `boards` is an empty array. `boards` should contain three objects representing the three boards that you just brainstormed. Each object must contain a `label` property and a `value` property. We will be using these three objects to create a dropdown menu that a user can select the board they want to save the recipe to.
 1. With all the options we want to display in our dropdown in `boards`, we need to use `map()` to set up an `<option>` tag for each item in `boards`. The `<option>` tags go between `<select>` and `</select>` and have this general structure: `<option value={appropriate value}>{appropriate label}</option>`. This is just a dropdown so now we need to handle whatever the user ends up choosing.
