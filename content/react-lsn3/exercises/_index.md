@@ -12,16 +12,10 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-Time to make a React app to share a hobby you love with your friends and family!
+Time to make a React app to share a hobby you love (or pretend like you love) with your friends and family!
 
-{{% notice blue "Note" "rocket" %}}
-
-The solution in the `react-part3-exercises-vite` branch of the `react-exercises-and-studios` repo uses needlepoint as an example hobby. Whenever you see a reference to needlepoint in the solution to the exercises, substitute it for your own chosen hobby.
-
-{{% /notice %}}
-
-1. Create a new application called `exercises` in the `part3` directory in the [react-exercises-and-studios](https://github.com/LaunchCodeEducation/react-exercises-and-studios) repo.
-1. In `App.jsx`, remove the boilerplate content as you have done in previous lessons. Replace it with an `<h1>` heading that says "My Hobby: " with your hobby coming after the colon.
+1. We've created a new application called `exercises` in the `part3` directory of the *react-exercises-and-studios* repo. cd into it and run `npm run dev`
+1. In `App.jsx`, remove the boilerplate content as you have done in previous lessons. Replace it with an `<h1>` heading that says "My Hobby: " with your temporary favorite hobby (needlepoint!) coming after the colon.
 
    {{% expand "Check Your Solution" %}}
    ```jsx
@@ -44,8 +38,11 @@ The solution in the `react-part3-exercises-vite` branch of the `react-exercises-
 
 1. This functional component return a `<div>` that contains the following:
 
-   1. An `<h2>` heading that says something to the effect of "3 Fun Facts About this Hobby".
-   1. An ordered list that contains three facts that you want others to know about your chosen hobby.
+   1. An `<h2>` heading that says something to the effect of "3 Fun Facts About Needlepoint".
+   1. An ordered list that contains three facts that you want others to know about needlepoint. Here's a few:
+      * Needlepoint uses a specialized canvas as it's base.
+      * The most basic stitch is called a tent stitch.
+      * Needlepoint uses a lot of different kinds of fibers.
 
 1. Import and Call the new `HobbyIntroduction` component under your `<h1>` heading in `App.jsx`.
 
@@ -59,10 +56,10 @@ The solution in the `react-part3-exercises-vite` branch of the `react-exercises-
    {{% /expand %}}
 
 1. Run the application to see your new fun facts! Once you are satisfied, turn off the server so we can practice with state.
-1. Inside `src`, create a new file called `data.json`. We are going to use this file to make a small gallery of images of projects or plans you have for your hobby. Inside this file, set up a new list of JSON objects called `projects`. Your list should contain 5 JSON objects and each one should have 4 properties that make sense with what your hobby is.
+1. Inside `src`, we've added a file called `data.json`. We are going to use this file to make a small gallery of images of projects or plans you have needlpoint. Inside this file, you will see a list of JSON objects called `projects`. Your list should contain 4 JSON objects and each one should have 4 properties.
 
    {{% expand "Check Your Solution" %}}
-   Here is an example of what an object looks like for those making their app about needlepoint.
+   Here is a shortened example of what an object looks like for our app about needlepoint.
 
    ```json
    {
@@ -90,7 +87,23 @@ The solution in the `react-part3-exercises-vite` branch of the `react-exercises-
    1. First, set up a JavaScript variable that contains your list from `data.json`. Then set up a variable that contains the item in that list at the position determined by `index`.
    1. Inside `return`, set up a button that contains the text, "Next". Set the `onClick` attribute to `{handleClick}`. 
    1. Below your button, add HTML that will nicely display all four properties of your JSON objects.
+   {{% expand "Check Your Solution" %}}
+   ```jsx
+  let projects = data.projects;
+  let project = projects[index];
 
+  return (
+    <div>
+      <button onClick={handleClick}>
+        Next
+      </button>
+      <h2>{project.canvas} by {project.designer}
+      </h2>
+      <img src={project.photoUrl} alt={project.alt} />
+    </div>
+  );
+   ```
+   {{% /expand %}}
 1. Finally, above the return statement, we need to set up `handleClick()` like so:
 
    ```jsx 
