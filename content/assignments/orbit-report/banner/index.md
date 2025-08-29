@@ -16,8 +16,8 @@ lastMod: 2023-10-16 # UPDATE ANY TIME CHANGES ARE MADE
 
 1. Create a new file named `Banner.jsx` inside the `components` directory.
 1. Inside this file, create a function called `Banner`.  
-   1. This function should return a `<header>` tag that says: "Orbit Report".
-   1. Below the `<header>` create a `<p>` tag with instructions for users. 
+   1. This function should return a `<h1>` tag that says: "Orbit Report".
+   1. Below the `<h1>` create a `<p>` tag with instructions for users. 
    
       Here is an example message: 
       ```bash

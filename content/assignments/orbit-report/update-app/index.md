@@ -60,7 +60,7 @@ Open the `App.jsx` file.
    ```
 1. Before we leave the `App()` function, we need to provide props for the `Buttons` and `Table` components.
    ```react{linenos=table,hl_lines=[],linenostart=11}
-    <>
+    <div>
       <Banner />
       <Buttons
         filterByType={filterByType}
@@ -68,7 +68,7 @@ Open the `App.jsx` file.
         displaySats={displaySats}
       />
       <Table sat={sat} />
-    </>
+    </div>
    ```
 
 [Next]({{% relref "../../../assignments/orbit-report/update-buttons/" %}})
