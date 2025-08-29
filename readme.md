@@ -1,5 +1,16 @@
 ## Any major concerns we need to address:
 
+* React repo "react-exercises-and-studios" needed some work for offline use. Many of the React apps would not start because they were missing certain node modules. I (Brandon) cut an "offline" branch and added multiple Vite React apps, node modules, and changed JSON data throughout to work offline:
+  * Part 1 Reading First React App, added Vite React app "/part1/react-part-one"
+  * Part 1 Studio "/part1/studio"
+  * Part 2 Exercise oceans.json image urls (I added these images to the handlers.education.launchcode.org flask server)
+  * Part 2 Studio recipe.json image urls (I added these images to the handlers.education.launchcode.org flask server)
+  * Part 3 Reading, added Vite React app
+  * Part 3 Exercise, added Vite React app and updated data.json for offline
+  * Part 3 Studio, added Vite React app and startcode files
+
+* I (Brandon) added images to the handlers.education.launchcode.org flask server, in the static/images directory. These are required for all three React chapters.
+
 * Chapter 30 > Studio > Part 3: Add the Recipe > Ingredients Lists - I (Brandon) did not have the solutions branch for refrence so I wasn't sure how to proceed here. The chapter reading did not explicitly cover accessing an array within a JSON object and the studio instructions were not very clear on the steps to complete what is being asked. I came up with a simple solution and changed the instructions to better explain. If there is a better solution we can change again. Here's my code:
 
 <!-- 
