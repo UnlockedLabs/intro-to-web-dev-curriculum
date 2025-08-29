@@ -14,8 +14,6 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 One reason we are learning React is because many top tech companies use it, including Pinterest. On Pinterest, we can create boards and save pins of new recipes, wedding decor concepts, and tips and tricks for crafts. When one clicks on the pin, they are taken to a detailed view which includes a photo, a description of the pin, and in the case of recipes, ingredients one needs for that recipe. Today, we are going to try our own take on this page using React and what we have learned about components. 
 
-[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-29-studio-a-few-of-your-favorite-recipes" %}})
-
 Before you start coding, check out this image of a few popular foods you may enjoy. Go ahead and pick something sweet or savory and jot down the image filename and five of the food's main ingredients. It's time to make a recipe!
 
 ![Image of sample food pics](pictures/ch29-studio-foods.png?classes=border)
