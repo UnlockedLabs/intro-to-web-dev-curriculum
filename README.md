@@ -28,6 +28,12 @@ function IngredientList() {
 }
  -->
 
+ * Assignment 6 React error:
+    * I (Brandon) worked through the assignment. Here's the problem: The app passes all the test when I run `npm test` and and renders in the browser, but the app doesn't function properly. I have the React Dev Tools for Firefox (these and the React VS Code extensions would be nice to have in the finished image btw) and its giving me an error. Its totally possible I made a mistake, but the fact that it passed all the tests makes me think I'm good on what I was asked to do. I'm punting to you guys on this. Here's the error:
+
+    Warning: Cannot update a component (`App`) while rendering a different component (`Buttons`). To locate the bad setState() call inside `Buttons` follow the stack trace as described in https://reactjs.org/link/setstate-in-render
+
+
 __handlers.education.launchcode.org__ We might be able to use the current apache server to accomplish what the Flask app is doing.  Please see http://education.launchcode.org/request-parrot.php in the current image as an example.
 
 
@@ -39,6 +45,8 @@ __handlers.education.launchcode.org__ We might be able to use the current apache
 ## List of other software modifications like missing npm packages for certain gitweb projects, etc:
 
 * Will you __please__ include the solutions for exercises, studios, assignments, etc for intro-to-web-dev-curriculum and Java Web Development? The TAs would like to have access to them. Thank you.
+
+* Please include Rect Dev Tools and React VSCode extensions in the finished image
 
 
 
