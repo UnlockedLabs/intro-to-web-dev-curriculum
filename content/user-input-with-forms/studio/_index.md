@@ -22,8 +22,6 @@ use. It will look like this:
 
 ![A form with a text input and radio buttons corresponding to various search engines.](pictures/search-engine-selector.png?classes=border)
 
-[(Offline Student Read Here)]({{% relref "../../../content/appendices/offline-students/_index.md#chapter-25-studio-http-and-forms" %}})
-
 As an offline student, you may have never used a search engine before. Whether you have or haven't, its important to know that most search engines work the same way. They have a single text input, and they submit data using a `GET` request. Additionally, many of the most popular search engines also use the same name for the search parameter, `q`.
 
 {{% notice blue "Try It!" "rocket" %}}
