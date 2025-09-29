@@ -16,8 +16,7 @@ The following sections are a summary of some DOM classes, methods, and propertie
 more complete list can be found in the reference links below. You do NOT need to memorize everything on these reference pages.
 We are providing them to you as a guide for your future studies of the DOM.
 
-1. [W3Schools DOM reference](https://www.w3schools.com/js/js_htmldom_document.asp).
-2. [MDN DOM reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Important_Data_Types).
+1. [MDN DOM reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Important_Data_Types).
 
 ## Window
 

@@ -23,7 +23,7 @@ rules for the declared type.
 
 {{% notice blue Example "rocket" %}}
 ```html
-<form action="https://handlers.education.launchcode.org/request-parrot" method="post">
+<form action="http://handlers.education.launchcode.org/request-parrot" method="post">
     <label>Email<input type="email" name="emailAddress"/></label>
     <label>Report Date<input type="date" name="reportDate"/></label>
     <label>Crew Count<input type="number"

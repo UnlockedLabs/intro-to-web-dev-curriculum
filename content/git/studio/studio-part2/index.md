@@ -208,10 +208,6 @@ Firefox, Chrome, and Safari), hold down the `Shift` key and click
 Before moving on to the bonus studio content, here are some external resources
 for using Git and GitHub.
 
-1. [Git Branching - Basic Branching and Merging](https://Git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
-1. [Adding Another Person To Your Repository](https://help.Github.com/articles/inviting-collaborators-to-a-personal-repository/)
-1. [Resolving Conflicts In the Command Line](https://help.Github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
-
 ## Bonus: Merge Conflicts!
 
 When teaming up on a project, things won't always go smoothly. It's common for

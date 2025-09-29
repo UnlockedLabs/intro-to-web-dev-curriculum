@@ -97,7 +97,7 @@ triggered.
     });
     </script>
     <body>
-    <form method="POST" action="https://handlers.education.launchcode.org/request-parrot">
+    <form method="POST" action="http://handlers.education.launchcode.org/request-parrot">
         <label>Username <input type="text" name="username"></label>
         <label>Team Name <input type="text" name="team"></label>
         <button>Submit</button>

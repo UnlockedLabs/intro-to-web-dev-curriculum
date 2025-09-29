@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-In order to unit test our code, we need to use a module. Such a module is called a **unit-testing framework**, and there are [many to choose from](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript).
+In order to unit test our code, we need to use a module. Such a module is called a **unit-testing framework**, and there are many to choose from.
 
 We will use [Jest](https://jestjs.io/), a popular JavaScript testing framework. We are using Jest because of it's popularity in industry, excellent developer support, and it is used for testing React applications, which we will learn more about in later lessons.
 

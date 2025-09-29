@@ -96,12 +96,8 @@ Core modules are installed in Node itself, and as such do not require a path
 description. These modules are *local*, but Node knows where to find them.
 Core modules take precedence over ANY other modules with the same name.
 
-{{% notice blue Note "rocket" %}}
-[W3 schools](https://www.w3schools.com/nodejs/ref_modules.asp) provides a convenient list of the Core Node modules.
-{{% /notice %}}
-
 If Node does not find the requested module after checking Core, it looks to the
-[NPM registry](https://docs.npmjs.com/about-npm/), which contains hundreds
+NPM registry, which contains hundreds
 of thousands of free code packages for developers.
 
 In the next section, we will learn more about NPM and how to use it.

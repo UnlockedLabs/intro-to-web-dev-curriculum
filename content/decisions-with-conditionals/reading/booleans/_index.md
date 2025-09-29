@@ -25,7 +25,7 @@ The condition for the above example is: Send a notification of an upcoming bill 
 The JavaScript data type for storing true and false values is `boolean`, named after the British mathematician George Boole.
 
 {{% notice blue Note "rocket" %}}
-George Boole created [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra), which is the basis of all modern computer arithmetic.
+George Boole created Boolean Algebra, which is the basis of all modern computer arithmetic.
 {{% /notice %}}
 
 There are only two **boolean values**---`true` and `false`. JavaScript is case-sensitive, so `True` and `False` are *not* valid boolean values.

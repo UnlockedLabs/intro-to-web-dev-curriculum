@@ -18,7 +18,7 @@ While we have covered all of the HTTP concepts you need to know at this point, i
 
 {{% notice green "Tip" "rocket" %}}
 
-   This section requires you to use Firefox's developer tools. If you need a refresher or just a reference, visit [MDN](https://developer.mozilla.org/en-US/docs/Tools).
+   This section requires you to use Firefox's developer tools.
 
 {{% /notice %}}
 

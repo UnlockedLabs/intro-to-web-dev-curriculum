@@ -65,7 +65,7 @@ We don't expect you to memorize all of the response codes, but you should be abl
 
 ## Response Headers
 
-There are [quite a few response headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields), but only a few will be useful to us.
+There are quite a few response headers, but only a few will be useful to us.
 
 | Header | Purpose | Example |
 |--------|---------|---------|
@@ -89,11 +89,5 @@ When a response is received by a browser, it is loaded into the browser's memory
    1. The user needs to log in.
    1. The requested resource does not exist.
    1. The server's database crashed.
-
-{{% /notice %}}
-
-{{% notice green "Question" "rocket" %}}
-
-   Visit [Wikipedia's article on HTTP response codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). Which response code is used to signify that the user must authenticate themselves (that is, log in) before viewing the given resource? 
 
 {{% /notice %}}

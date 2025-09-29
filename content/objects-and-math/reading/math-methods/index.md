@@ -21,7 +21,6 @@ involved than simple multiplication, division, addition, or subtraction.
 The `Math` object contains over 30 methods. The table below provides a sample
 of the most frequently used options. More complete lists can be found here:
 
-1. [W3 Schools Math Reference](https://www.w3schools.com/jsref/jsref_obj_math.asp)
 1. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 To see detailed examples for a particular method, click on its name.

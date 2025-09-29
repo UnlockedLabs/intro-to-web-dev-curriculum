@@ -25,11 +25,7 @@ Below you will find brief descriptions on the main technologies used in this cou
 JavaScript and React are considered cornerstones of building the part of websites users interact with called the front end. Many web development jobs ask for some knowledge of front end development and JavaScript. 
 
 ### Unit 2 Technologies
-Once you complete Unit 1 you will move on to Unit 2 of this program. Unit 2 will involve learning either `Java/Spring `or `C#/ASP.NET`
-1. [Java](https://education.launchcode.org/java-web-dev-curriculum/index.html)
-1. [Spring](https://spring.io/why-spring)
-1. [C#](https://education.launchcode.org/csharp-web-dev-curriculum/index.html)
-1. [ASP.NET](https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet)
+Once you complete Unit 1 you will move on to Unit 2 of this program.
 
 These Unit 2 technologies are oftentimes used for the back end of a website. We will explore more about what the back end is in Unit 2, but lots of web development jobs ask for some understanding of back end development too.
 

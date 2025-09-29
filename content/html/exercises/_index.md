@@ -13,7 +13,6 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
 In this course, we will mostly use Firefox as our browser. 
-If you haven't installed Firefox, you can get it from [Mozilla](https://www.mozilla.org/en-US/firefox/new/). 
 Other browsers have good developer tools as well (Chrome, in particular) but we're going to stick with Firefox. 
 If you are more comfortable with another browser, you'll find that most of the developer tools functionality exists in other browsers' dev tools as well.
 
@@ -36,7 +35,7 @@ that do the following.
    {{% expand "Check Your Solution" %}}
 
    ```html
-   <a href="https://www.webelements.com/" target="_blank">WebElements</a>
+   <a href="http://education.launchcode.org/intro-to-professional-web-dev/" target="_blank">Introduction to Professional Web Development in JavaScript</a>
    ```
    
    {{% /expand %}}

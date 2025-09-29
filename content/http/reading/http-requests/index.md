@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-HTTP requests must conform to the structure outlined by the [World Wide Web Consortium (W3C)](https://www.w3.org/). We'll discuss the most important and most commonly-used aspects of HTTP request structure.
+HTTP requests must conform to the structure outlined by the World Wide Web Consortium (W3C) `https://www.w3.org/`. We'll discuss the most important and most commonly-used aspects of HTTP request structure.
 
 A generic HTTP request looks like this:
 
@@ -42,7 +42,7 @@ The structure has these components:
 
 The request line is minimal. We have already discussed the path, which specifies the resource being requested. The first part of the request line, the request method, is new to us.
 
-A **request method** specifies the type of action to be carried out on the requested resource. HTTP defines [8 methods](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), of which we will only need to use 2: `GET` and `POST`.
+A **request method** specifies the type of action to be carried out on the requested resource. HTTP defines 8 methods `https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods`, of which we will only need to use 2: `GET` and `POST`.
 
 ### The `GET` Method
 
@@ -78,7 +78,7 @@ Using the `POST` method tells the server that we want to *create* new data on th
 
 ## Headers
 
-There are [quite a few request headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields), but only a few will be useful to us.
+There are quite a few request headers `https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields`, but only a few will be useful to us.
 
 | Header | Purpose | Example |
 |--------|---------|---------|
@@ -92,11 +92,3 @@ There are [quite a few request headers](https://en.wikipedia.org/wiki/List_of_HT
 The optional request body may contain any data whatsoever, though it often includes form data submitted via a `POST` request. For example, when signing into a web site, the request body will contain your username and password. We will later learn that it can contain other data formats such as XML and JSON.
 
 As mentioned above, `GET` requests generally do *not* have a body.
-
-## Check Your Understanding
-   
-{{% notice green "Question" "rocket" %}}
-
-   Visit [Wikipedia's article on HTTP request headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields). Which request header is used to set cookies? (Cookies are small pieces of data related to your interaction with a web site.)
-
-{{% /notice %}}

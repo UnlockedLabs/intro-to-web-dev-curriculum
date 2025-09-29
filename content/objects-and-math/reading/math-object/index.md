@@ -77,7 +77,7 @@ the property name (e.g. `SQRT2` stores the value for the square root of 2).
 
 ## Other `Math` Properties
 
-Besides the value of pi, JavaScript provides [7 other constants](https://www.w3schools.com/jsref/jsref_obj_math.asp).
+Besides the value of pi, JavaScript provides7 other constants.
 How useful you find each of these depends on the type of project you need to
 complete.
 

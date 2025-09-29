@@ -14,6 +14,8 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 ## Next Steps
 
+
+
 The following articles and links are optional reading or projects that you can explore.
 
 - Visual Studio Code created a [short tutorial](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) for working with Node.js/JavaScript and the terminal.

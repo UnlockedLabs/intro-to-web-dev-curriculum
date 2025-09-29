@@ -28,5 +28,3 @@ the requirements for your job.
 If you would like to further explore content related to modules please view the following resources:
 
 1. [mdn web docs on JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-1. [freecodecamp on JavaScript Modules](https://www.freecodecamp.org/news/javascript-modules-a-beginner-s-guide-783f7d7a5fcc/)
-1. [geeksforgeeks on JavaScript Modules](https://www.geeksforgeeks.org/javascript-modules/)

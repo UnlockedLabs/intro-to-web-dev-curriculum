@@ -14,5 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 You are now ready to tackle the DOM. Before moving on to the next chapter, if you would like additional resources on Git, here are a few of our favorites.
 
-1. [Linux Basics](https://education.launchcode.org/linux/git/index.html)
 1. [Git Commands Documentation](https://git-scm.com/docs)

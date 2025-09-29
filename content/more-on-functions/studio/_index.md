@@ -80,20 +80,11 @@ the array. This takes way too much time for large arrays.
 
 Fortunately, JavaScript has an elegant way to properly sort numbers.
 
-{{% notice green Tip "rocket" %}}
-Here is a nice, visual comparison of [different sorting methods](https://www.toptal.com/developers/sorting-algorithms).
-
-Feel free to Google "bubble sort JavaScript" to explore a different way to
-order numbers in an array.
-{{% /notice %}}
-
 ## Part 3: Number Sorting the Easy Way
 
 If you Google "JavaScript sort array of numbers" (or something similar), many
 options appear, and they all give pretty much the same result. The sites just
 differ in how much detail they provide when explaining the solution.
-
-One reference is here: [W3Schools](https://www.w3schools.com/jsref/jsref_sort.asp).
 
 End result: the JavaScript syntax for numerical sorting is
 `arrayName.sort(function(a, b){return a-b});`.

@@ -34,7 +34,7 @@ broken across lines,
 ```
 {{% /notice %}}
 
-We can also represent Unicode characters (most of which aren't on a normal keyboard) using special character combinations of the form `\uXXXX`, where the Xs are combinations referenced by the [Unicode table](https://unicode-table.com/en/). This allows us to use character sets other than the basic Latin characters that English is based on, such as Greek, Cyrillic, and Arabic, as well as a wider array of symbols.
+We can also represent Unicode characters (most of which aren't on a normal keyboard) using special character combinations of the form `\uXXXX`, where the Xs are combinations referenced by the Unicode table. This allows us to use character sets other than the basic Latin characters that English is based on, such as Greek, Cyrillic, and Arabic, as well as a wider array of symbols.
 
 {{% notice blue Example "rocket" %}}
 ```javascript

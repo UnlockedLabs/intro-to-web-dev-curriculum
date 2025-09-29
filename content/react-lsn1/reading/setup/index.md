@@ -12,7 +12,7 @@ lastEditorGitHub: jwoolbright23 # update any time edits are made after review
 lastMod: 10-17-2023 # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-Now that we understand more about React and components, we are ready to build a React app. To make a new React application, we will be using a front-end tool called [Vite](https://vitejs.dev/). This will allow us to scaffold a new `React` project with the required dependencies and launch a local dev server.
+Now that we understand more about React and components, we are ready to build a React app. To make a new React application, we will be using a front-end tool called `Vite`. This will allow us to scaffold a new `React` project with the required dependencies and launch a local dev server.
 
 Since you are in an offline environment, we took the liberty of using Vite to set up your React applications for you.
 To access them, you will need a copy of the LaunchCode React projects repository.

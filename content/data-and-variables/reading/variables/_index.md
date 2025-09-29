@@ -63,8 +63,6 @@ var programmingLanguage = "JavaScript";
 ```
 
 While this is valid syntax, you should NOT use ``var`` to declare a variable. Using ``var`` is old JavaScript syntax, and it differs from ``let`` in important ways that we will learn about later. When you see examples using ``var``, use ``let`` instead.
-
-If you're curious, read about [the differences between var and let](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables#The_difference_between_var_and_let).
 {{% /notice %}}
 
 To give a variable a value, use the **assignment operator**, `=`. This operator should not be confused with the concept of *equality*, which expresses whether two things are the "same" (we will see later that equality uses the `===` operator). The assignment statement links a *name*, on the left-hand side of the operator, with a *value*, on the right-hand side. This is why you will get an error if you try to run:

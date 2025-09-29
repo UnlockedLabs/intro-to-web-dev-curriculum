@@ -14,5 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 Now you are ready to take on fetch! Before going on to the next chapter, if you would like to review JSON, here are a few of our favorite resources.
 
-1. [JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp)
-1. [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+1. Working with JSON `https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON`

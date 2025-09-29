@@ -29,14 +29,10 @@ that stretch over multiple lines, the text falls between the symbols
 ## Experiment with Comments
 
 {{% notice blue Note "rocket" %}}
-In order to launch Visual Studio Code from the command line as referenced in the section below you will need to install the `code` command in your PATH. The following articles will help you navigate this process:
-
-1. [freecodecame.org article](https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/)
-1. [Launch From the command line with macOS](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
+In order to launch Visual Studio Code from the command line as referenced in the section below you will need to install the `code` command in your PATH.
 
 Launching Visual Studio Code from your terminal with the command `code .` will open Visual Studio Code with all files and directories at your current (relative) location.
 
-You may also find the following [Tips and Tricks section](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) useful.
 {{% /notice %}}
 
 1. On your own computer, in `javascript-projects`, locate the `how-to-write-code` folder. Within that folder, you will find an example called `Comments.js`. *You should use the terminal to do so.* Here are the steps:

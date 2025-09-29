@@ -70,7 +70,7 @@ We will chain the `map()` function to `props` in this example. The callback para
 
 **Keys and Arrays**
 
-The example above used a simple array that contained a collection of strings. The `map()` function always uses [key-value pairs](https://education.launchcode.org/intro-to-professional-web-dev/chapters/objects-and-math/background.html).  When working with an array, unless otherwise specified, the key becomes the index value of the array element.  You can set the key equal to the index like we did in line 13 of the example above, however, this may cause an issue if items are rearranged or added to the array.
+The example above used a simple array that contained a collection of strings. The `map()` function always uses key-value pairs.  When working with an array, unless otherwise specified, the key becomes the index value of the array element.  You can set the key equal to the index like we did in line 13 of the example above, however, this may cause an issue if items are rearranged or added to the array.
 
 **Keys and Objects**
 

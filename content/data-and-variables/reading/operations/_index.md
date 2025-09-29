@@ -105,10 +105,6 @@ The value returned by `a % b` will be in the range from `0` to `b`
    (not including `b`).
 {{% /notice %}}
 
-{{% notice green Tip "rocket" %}}
-If remainders and the modulus operator seem tricky to you, we recommend getting additional practice at [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic).
-{{% /notice %}}
-
 ## Order of Operations
 
 When more than one operator appears in an expression, the order of evaluation depends on the **rules of precedence**. JavaScript follows the same precedence rules for its arithmetic operators that mathematics does.

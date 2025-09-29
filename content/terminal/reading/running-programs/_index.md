@@ -30,7 +30,7 @@ In many cases, typing *ctrl+c* into the terminal will stop a process that is cur
 
 ### npm CLI
 
-There is existing documentation on the npm CLI that you can view here: [npm CLI](https://docs.npmjs.com/cli/v10)
+There is existing documentation on the npm CLI that you can view here: use `npm help npm` in the terminal.
 
 There are also many other programs and software designed to run within the terminal or cli specifically. Below is a fun example.
 

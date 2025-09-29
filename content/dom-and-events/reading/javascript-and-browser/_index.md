@@ -36,10 +36,6 @@ Firefox uses an engine called Spider Monkey to run client-side JavaScript.
 Since each browser uses its engine, each browser may handle HTML, CSS, or JavaScript differently. 
 This can lead to discrepancies between browsers.  
 
-{{% notice orange Warning "rocket" %}}
-The website [Can I Use](https://caniuse.com) is a great resource to check browser usability of any JavaScript, HTML or CSS.
-{{% /notice %}}
-
 ### The `<script>` Tag
 
 In the HTML chapter, we learned that an HTML page is made up of elements that are written as tags. Those

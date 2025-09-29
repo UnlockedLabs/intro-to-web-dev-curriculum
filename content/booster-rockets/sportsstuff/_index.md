@@ -22,7 +22,7 @@ Attention sports fans! Embrace your favorite quote(s):
 | Football | "I was always willing to work. I was not the fastest or biggest player, but I was determined to be the best football player I could be on the football field, and I think I was able to accomplish that through hard work." - *Jerry Rice* |
 | Soccer | "The backbone of success is...hard work, determination, good planning, and perseverance." - *Mia Hamm* |
 | Tennis | "If I don't get it right, I don't stop until I do." - *Serena Williams* |
-| Rocky | How can you listen to this and NOT be inspired? ([Gonna Fly now](https://www.youtube.com/watch?v=ioE_O7Lm0I4/)) |
+| Rocky | How can you listen to this and NOT be inspired? |
 | Optional | Imagine your favorite motivational phrase here. - *Some admired person* |
 
 ## Marathon Analogy

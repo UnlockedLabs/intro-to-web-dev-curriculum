@@ -15,7 +15,7 @@ lastMod: 2023-10-16 # UPDATE ANY TIME CHANGES ARE MADE
 ## Introduction and Background
 There are thousands of satellites orbiting the earth. You are tasked with updating a searchable, sortable table of satellites. For the purposes of this assignment, a **satellite** will be defined as any object purposefully placed into orbit.
 
-For this assignment, you will create a table that shows satellites based on their orbit paths.  There are three [types of orbit paths](https://earthobservatory.nasa.gov/features/OrbitsCatalog) for satellites: Low, Medium, High.  
+For this assignment, you will create a table that shows satellites based on their orbit paths.  There are three types of orbit paths for satellites: Low, Medium, High.  
 
 Your completed assignment will have the following features:
 1. A **banner** that introduces the project and provides instructions on how to use the application.

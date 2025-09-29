@@ -42,18 +42,15 @@ Your CSS must:
 ### Notes
    1. In order to see any visible change, make sure to link the stylesheet to your main document.
    1. Feel free to check out our [styled example](https://education.launchcode.org/html-me-something/submissions/chrisbay/index.html) to see how we did things. Use “View Source” (by right-clicking anywhere on the page and selecting _View Source_).
-   1. Another thing you might find useful is your browser’s [developer tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools).
+   1. Another thing you might find useful is your browser’s developer tools.
 
    1. And be sure to use the _Resources_ section below as you go.
 
 ## Resources
 
 ### General CSS Examples and References:¶
-1. [w3schools CSS Reference](https://www.w3schools.com/css/default.asp): Great site for syntax examples
 1. [CSS Zen Garden](http://www.csszengarden.com/): This site provides multiple examples of what you can do with CSS in a browser.
-1. (Advanced) [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 1. (Advanced) [Specificity (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-1. (Advanced) [CSS Design Awards](https://www.cssdesignawards.com/): Showcase for CSS designers to share their work.
 
 {{% notice green "Tip" "rocket" %}} 
  Once you finish your adding your stylings, be sure to stage and `commit` your changes.

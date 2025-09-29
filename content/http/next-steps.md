@@ -12,7 +12,4 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-Now that you have tackled HTTP, you are ready to take on forms. Before you do so, if you want to review HTTP, here are some of our favorite resources.
-
-1. [An Introduction to HTTP](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
-1. [What is HTTP?](https://www.w3schools.com/whatis/whatis_http.asp)
+Now that you have tackled HTTP, you are ready to take on forms.

@@ -117,7 +117,7 @@ Now each user's logged miles for hikes are saved in arrays for each week. The mi
 This way we don't have to loop through `milesHikedThisWeek` to pass all seven values to `findWeeklyTotal()`. We can just use the spread operator!
 
 {{% notice orange "Warning" "rocket" %}}
-   You may be tempted to try and use the spread operator in function parameters, but doing so will make the item a rest parameter. To learn more about rest parameters and how they differ from the spread operator, check out this article from [freeCodeCamp](https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/).
+   You may be tempted to try and use the spread operator in function parameters, but doing so will make the item a rest parameter.
 {{% /notice %}}
 
 ## To `Map` or not to `map()`?

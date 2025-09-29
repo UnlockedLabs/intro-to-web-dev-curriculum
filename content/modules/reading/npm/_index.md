@@ -27,10 +27,10 @@ The NPM registry is a listing of thousands of modules that are stored on a
 remote server. These can be `required` and downloaded to your project. The
 modules have been contributed by other developers just like you.
 
-There is an [online version of the registry](https://www.npmjs.com/) where you can search for a module by name or desired functionality.
+There is an online version of the registry `https://www.npmjs.com/` where you can search for a module by name or desired functionality.
 
 {{% notice blue Example "rocket" %}}
-Go to [online NPM registry](https://www.npmjs.com/) and enter "readline-sync" into the search packages input box.
+Go to online NPM registry `https://www.npmjs.com/` and enter "readline-sync" into the search packages input box.
 
 ![Results for searching readline-sync within the NPM registry](pictures/readline-sync-npm-results.png?classes=border)
 

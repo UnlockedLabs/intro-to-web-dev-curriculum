@@ -40,7 +40,6 @@ While `nonprofit.toLowerCase()` evaluated to `"launchcode"`, the value of `nonpr
 
 Here we present the most commonly-used string methods. You can find documentation for other string methods at:
 
-- [W3Schools](https://www.w3schools.com/jsref/jsref_obj_string.asp)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Methods_2)
 
 | Method                                      | Syntax                                  | Description                                                                                   |

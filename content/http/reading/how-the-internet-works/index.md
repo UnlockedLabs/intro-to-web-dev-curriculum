@@ -57,7 +57,7 @@ When a server sends a file back to a client, that file must physically be sent a
 
 {{% notice blue "Note" "rocket" %}}
 
-   You can think of the Internet as a "[series of tubes.](https://www.youtube.com/watch?time_continue=15&v=_cZC67wXUTs)" This phrase was used by a U.S. Senator in 2006 and widely mocked. However, we think it's actually a reasonable analogy. TCP/IP allows data to be passed from one tube to another until reaching the final destination.
+   You can think of the Internet as a "series of tubes." This phrase was used by a U.S. Senator in 2006 and widely mocked. However, we think it's actually a reasonable analogy. TCP/IP allows data to be passed from one tube to another until reaching the final destination.
 
 {{% /notice %}}
 
@@ -79,7 +79,7 @@ The sending computer will attempt to *resolve* the domain name by looking it up 
 
    It's easy to look up the IP address of any domain name using freely-available tools. 
 
-   Use the popular site [MX Toolbox](https://mxtoolbox.com/DNSLookup.aspx) to look up the IP address of `launchcode.org`.
+   Use the popular site `https://mxtoolbox.com/DNSLookup.aspx` to look up the IP address of `launchcode.org`.
 
 {{% /notice %}}
 
@@ -167,7 +167,7 @@ If a path is not specified, then the **root path** `/` is used. The root path ty
 
 ### Query String
 
-Following the path is an optional **query string**, which begins with `?` and contains a set of key-value pairs. Each pair is joined by `=` and is separated from the other pairs by `&`. For example, the query string of a [search on duckduckgo.com](https://duckduckgo.com/?q=launchcode&atb=v167-5__&ia=web) looks like this:
+Following the path is an optional **query string**, which begins with `?` and contains a set of key-value pairs. Each pair is joined by `=` and is separated from the other pairs by `&`. For example, the query string of a `https://duckduckgo.com/?q=launchcode&atb=v167-5__&ia=web` looks like this:
 
 ```console
 ?q=launchcode&atb=v167-5__&ia=web
@@ -189,8 +189,10 @@ We just covered a *lot* of information! While these nuts-and-bolts details are i
 
 To tie these ideas together, watch these two videos on URLs and the Internet as a whole:
 
-1. [How Do URLs Work?](https://www.youtube.com/watch?v=OvF_pnJ6zrY)
-1. [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc)
+education.launchcode.org/resources/intro-to-web-dev-curriculum
+
+1. [How Do URLs Work?](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/OvF_pnJ6zrY.webm)
+1. [How the Internet Works](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/7_LPdttKXPc.webm)
 
 ## Check Your Understanding
 

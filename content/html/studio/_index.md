@@ -26,12 +26,6 @@ This studio requires you to use Firefox's developer tools. In particular, you sh
 1. Modify an element's HTML
 1. Explain the difference between the content displayed when using *View Source* and what you see in the *Inspector* tab
 
-{{% notice blue "Note" "rocket" %}}
-
-The [full documentation](https://developer.mozilla.org/en-US/docs/Tools) for Firefox's developer tools covers these items, and much more.
-
-{{% /notice %}}
-
 ## Studio
 
 Pick a news site ([The New York Times](https://www.nytimes.com/), for example), and use your browser's developer tools to modify one of the main articles to use a picture and text of your choosing.
@@ -50,19 +44,5 @@ If the site loads over `https` and your image uses `http` then the image may not
 
 ## Resources
 
-* [Using Firefox Page Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector)
-* [Firefox DevTools Documentation](https://developer.mozilla.org/en-US/docs/Tools)
-
-## Bonus Mission
-
-Try adding your own image! If you want to use an image of your own that is not already available via the internet, here's how:
-
-1. Upload the photo to a [Dropbox](https://www.dropbox.com/) account. You can use Dropbox Basic for this!
-1. View the photo on Dropbox and select *Share*, then *Get link*, then *Go to link*
-1. You should now be viewing the image on the Dropbox site. If the URL contains `?dl=0`, remove it. Add `?raw=1` to the end of the URL in the location bar of your browser and hit *Enter*. The URL should look something like this:
-
-   ```console
-   https://www.dropbox.com/sc/qc3htnhv7fb3i2x/AAC5OzECOyBynstMDWawCZhxa?raw=1
-   ```
-
-1. Copy the URL of the loaded image. You can use this URL within any HTML.
+* `Using Firefox Page Inspector https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector`
+* `Firefox DevTools Documentation https://developer.mozilla.org/en-US/docs/Tools`

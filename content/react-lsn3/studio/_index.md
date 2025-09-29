@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-Let's add some additional functionality to our recipe app! To get started, check out the starter code for the studio in the `part3` directory on the `main` branch of [react-exercises-and-studios](https://github.com/LaunchCodeEducation/react-exercises-and-studios). The starter code includes all the components you will need and in `App.jsx`, all the components are laid out for you. However, if you run the code, you will find that the application does not function as expected! Follow the steps below to complete the application.
+Let's add some additional functionality to our recipe app! To get started, check out the starter code for the studio in the `part3` directory on the `main` branch of react-exercises-and-studios. The starter code includes all the components you will need and in `App.jsx`, all the components are laid out for you. However, if you run the code, you will find that the application does not function as expected! Follow the steps below to complete the application.
 
 ## `Recipe.jsx`
 
