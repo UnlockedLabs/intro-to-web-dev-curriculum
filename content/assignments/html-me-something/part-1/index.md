@@ -34,7 +34,7 @@ Your `index.html` comes with a simplified HTML5 boilerplate:
 ## Getting to Work
 Your mission is to build a page that:
 
-1. _Tells a story_. This can be personal or impersonal, funny, serious or neither. You can do whatever you like, but it should be something in the range of 3-10 paragraphs or sections. [Here is an example](https://education.launchcode.org/html-me-something/submissions/chrisbay/index-nocss.html), and here are some other ideas:
+1. _Tells a story_. This can be personal or impersonal, funny, serious or neither. You can do whatever you like, but it should be something in the range of 3-10 paragraphs or sections. Some ideas are:
 
    1. Create a résumé page that tells the story of your professional journey to-date, and where you want to go as a coder.
    1. Describe a trip you took.
@@ -48,7 +48,7 @@ Your mission is to build a page that:
       1. `<main>`
       1. `<article>`. 
       
-      If you need to review any of these tags, check out the [HTML tag reference](https://www.w3schools.com/tags/default.asp) at w3schools.
+      If you need to review any of these tags, check out the tag by name under Elements dropdown [HTML tag reference](http://localhost:8080/devdocs_en_html_2025-01/index).
 
    1. Uses at least one `<img>` tag (hopefully more). 
    
@@ -60,11 +60,11 @@ Your mission is to build a page that:
 
    1. Demonstrates creativity. 
    
-      Don’t stop with these items or tags. Have some ideas for your page, and make it great. And dig into the [w3schools HTML reference](https://www.w3schools.com/tags/default.asp) to learn more about other tags, their usage and attributes!
+      Don’t stop with these items or tags. Have some ideas for your page, and make it great. And dig into the [HTML elements and attributes](http://localhost:8080/devdocs_en_html_2025-01/index) to learn more about other tags, their usage and attributes!
 
 ## Notes and Tips
 
-1. Use your browser developer tools to look at the [example page](https://education.launchcode.org/html-me-something/submissions/chrisbay/index-nocss.html), or to troubleshoot things that don’t look right. You can mimic the document structure of this example, but do NOT just copy/paste!
+1. Use your browser developer tools to look at an existing web page, or to troubleshoot things that don’t look right. You can mimic the document structure of this example, but do NOT just copy/paste!
 1. Use the example to learn how your HTML elements might be structured, and build your page to fit your own content.
 1. Don’t add any CSS yet. Really, we mean it! If you think your page looks boring now, that’s okay. We’ll get there soon enough.
 1. As you make changes, you will obviously want to see the results. To do so, re-save the file in your text editor, then click Refresh in the browser window (or use cmd+R on a Mac, ctrl+R on Windows).

@@ -22,7 +22,7 @@ While we have covered all of the HTTP concepts you need to know at this point, i
 
 {{% /notice %}}
 
-Open a web browser and visit some web page, say, [our example from the HTML Me Something assignment](https://education.launchcode.org/html-me-something/submissions/chrisbay/index.html). After the page loads, open your browser's developer tools and select the *Network* tab.
+Open a web browser and visit some web page, say, [our example from the HTML Me Something assignment](../../../assignments/html-me-something/). After the page loads, open your browser's developer tools and select the *Network* tab.
 
 You'll see something like this:
 

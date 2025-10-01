@@ -15,5 +15,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 The next chapter will cover more about the terminal. If you would like some additional resources on classes in JavaScript, here are a few of our favorites.
 
 1. [JavaScript Classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/)
-1. [W3Schools](https://www.w3schools.com/js/js_classes.asp)
 1. [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)

@@ -51,7 +51,7 @@ This is very similar to how an HTTP request works. The letter is like a request 
 When you drop the letter in your mailbox, you know it will be delivered since you followed the postal service's rules. When we make HTTP requests, we don't know *how* our request will get to the server, but as long as we properly structure a request, it *will* be delivered.
 
 ![An image of a mail processing facility next to an image of network cables](pictures/postal-network.png)
-*Both the postal service and the Internet deliver messages, as long as you follow their formatting rules. Images used with permission. L: via [US Air Force](https://www.af.mil/News/Article-Display/Article/1399724/deployed-airmen-volunteer-to-enhance-morale-downrange/), R: via Flickr user [verkeorg](https://www.flickr.com/photos/verkeorg/24501780183)*
+*Both the postal service and the Internet deliver messages, as long as you follow their formatting rules. Images used with permission. L: via US Air Force, R: via Flickr user verkeorg.*
 
 And just as your friend will respond with a letter telling you their favorite cheese (sharp white cheddar!), an HTTP request will result in a response from the server. 
 

@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-When changing the state, our intended effect may involve using some of the methods and processes we learned about earlier when we first talked about the [DOM and events](https://education.launchcode.org/intro-to-professional-web-dev/chapters/dom-and-events/index.html). Let's take a closer look at changing state with an application in manufacturing.
+When changing the state, our intended effect may involve using some of the methods and processes we learned about earlier when we first talked about the [DOM and events](../../../dom-and-events/). Let's take a closer look at changing state with an application in manufacturing.
 
 We are at a shoe factory and the mechanism responsible for counting how many shoes come off the line is broken. The factory manager doesn't want to stop production and cause unnecessary delays so they have asked you to sit by the machine and manually count the shoes coming down the line. With your React skills, you can quickly code an application that contains a single button and displays the current shoe count.
 
@@ -57,7 +57,7 @@ This is an example of a counter button, which is one of the simplest ways to upd
 1. Reconciliation occurs and the real DOM is updated to display the new count.
 1. Now the component is re-rendered and you can hit the button again!
 
-In this code, `handleClick()` is our event handler for the `onClick` event. We previously learned about `onClick` in [DOM and Events](https://education.launchcode.org/intro-to-professional-web-dev/chapters/dom-and-events/events.html?highlight=onclick#handling-events). In React, we use event handlers to trigger changes in state based on users' actions. You may have noticed that we are able to write web applications that perform similar actions as the ones we learned about previously with much less code.
+In this code, `handleClick()` is our event handler for the `onClick` event. We previously learned about `onClick` in [DOM and Events](../../../dom-and-events/reading/events/). In React, we use event handlers to trigger changes in state based on users' actions. You may have noticed that we are able to write web applications that perform similar actions as the ones we learned about previously with much less code.
 
 When we first learned about event handlers, we created a small application that would update some HTML when a button was clicked.
 

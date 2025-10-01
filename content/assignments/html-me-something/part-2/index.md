@@ -24,12 +24,12 @@ Go ahead and start adding styles in your `styles.css` file!
 
 Your CSS must:
 
-1.  Use [margin](https://www.w3schools.com/css/css_margin.asp) and [padding](https://www.w3schools.com/css/css_padding.asp) to space your elements in a visually pleasing manner.
+1.  Use [margin](http://localhost:8080/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#margin_examples) and [padding](http://localhost:8080/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#padding_examples) to space your elements in a visually pleasing manner.
 
 1. Use at least one of each of the following types of selectors:
-   1. [element](https://www.w3schools.com/cssref/sel_element.php)
-   1. [class](https://www.w3schools.com/cssref/sel_class.php)
-   1. [id](https://www.w3schools.com/cssref/sel_id.php)
+   1. [element/type](http://localhost:8080/devdocs_en_css_2025-01/type_selectors)
+   1. [class](http://localhost:8080/devdocs_en_css_2025-01/class_selectors)
+   1. [id](http://localhost:8080/devdocs_en_css_2025-01/id_selectors)
 
 1. Follow these rules:
 
@@ -41,9 +41,7 @@ Your CSS must:
 
 ### Notes
    1. In order to see any visible change, make sure to link the stylesheet to your main document.
-   1. Feel free to check out our [styled example](https://education.launchcode.org/html-me-something/submissions/chrisbay/index.html) to see how we did things. Use “View Source” (by right-clicking anywhere on the page and selecting _View Source_).
    1. Another thing you might find useful is your browser’s developer tools.
-
    1. And be sure to use the _Resources_ section below as you go.
 
 ## Resources

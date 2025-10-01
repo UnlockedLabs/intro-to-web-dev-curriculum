@@ -145,7 +145,7 @@ has been logged. We will use that object next.
 
 ### Response Object
 
-The response to the GET request is contained in a `Response` object, which is an instance of the [Response class](https://developer.mozilla.org/en-US/docs/Web/API/Response).
+The response to the GET request is contained in a `Response` object, which is an instance of the [Response class](http://localhost:8080/devdocs_en_dom_2025-01/response).
 The class contains methods that allow us to access the status of an API request and the data returned in the response.
 
 {{% notice blue Example "rocket" %}}

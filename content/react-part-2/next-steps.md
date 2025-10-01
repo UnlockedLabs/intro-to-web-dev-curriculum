@@ -12,7 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-[Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+[Working with JSON](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/json)
 
 [What is the Arrow Function in ReactJS?](https://www.tutorialspoint.com/what-is-the-arrow-function-in-reactjs)
 

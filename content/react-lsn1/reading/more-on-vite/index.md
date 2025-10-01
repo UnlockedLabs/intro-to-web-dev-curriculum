@@ -85,7 +85,7 @@ Let's take a look at the config file below:
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
+// http://localhost:8080/devdocs_en_vite_2025-01/config/index
 export default defineConfig({
   plugins: [react()],
 })

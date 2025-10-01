@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 After reading through this chapter, you are ready to start learning more on types! Here are some additional resources on scope in case you are interested.
 
-1. [Scope and Closures in JavaScript](https://www.freecodecamp.org/news/scope-and-closures-in-javascript/)
+1. [Scope and Closures in JavaScript](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/Scope%20and%20Closures%20in%20JavaScript.html)

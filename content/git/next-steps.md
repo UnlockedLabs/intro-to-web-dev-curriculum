@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 You are now ready to tackle the DOM. Before moving on to the next chapter, if you would like additional resources on Git, here are a few of our favorites.
 
-1. [Git Commands Documentation](https://git-scm.com/docs)
+1. [Git Commands Documentation](http://localhost:8080/devdocs_en_git_2025-07/index)

@@ -34,7 +34,7 @@ First, find `Mars-Rover-starter.git` in GitWeb, copy the repo’s URL for clonin
 
 s## How-To TDD
 
-Recall that in TDD, you write the test for a given behavior before you code the actual function. Feel free to review the [Test/Code cycle](http://localhost:1313/unit-testing/reading/tdd/#the-testcode-cycle) while you work on this project.
+Recall that in TDD, you write the test for a given behavior before you code the actual function. Feel free to review the [Test/Code cycle](../../../unit-testing/reading/tdd/#the-testcode-cycle) while you work on this project.
 
 1. Focus on one test at a time.
 1. Write the test and *then* create the code to make it pass.
