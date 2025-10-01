@@ -12,9 +12,6 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-This was just an introduction to all that is going on with the modern JavaScript language. If you would like to learn more before diving into React, check out these additional resources:
+This was just an introduction to all that is going on with the modern JavaScript language. If you would like to learn more before diving into React, explore this resource:
 
-1. [JavaScript ES6](https://www.w3schools.com/js/js_es6.asp)
-1. [JSX in React](https://www.freecodecamp.org/news/jsx-in-react-introduction/)
-1. [TypeScript Documentation](https://www.typescriptlang.org/)
-1. [Babel Documentation](https://babeljs.io/)
+1. [JavaScript](http://localhost:8080/devdocs_en_javascript_2025-01/index)

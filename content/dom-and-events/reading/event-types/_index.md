@@ -13,10 +13,9 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
 DOM and JavaScript can handle numerous event types. We will discuss a few different types of events here.
-As you continue your studies of the DOM and events, you may find these two reference links helpful.
+As you continue your studies of the DOM and events, you may find this reference link helpful.
 
-1. [W3Schools Event reference](https://www.w3schools.com/jsref/dom_obj_event.asp).
-2. [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events).
+1. [MDN Event reference](http://localhost:8080/devdocs_en_dom_2025-01/window/load_event).
 
 ## `load` Event
 

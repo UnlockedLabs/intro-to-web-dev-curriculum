@@ -14,14 +14,8 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 [Working with JSON](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/json)
 
-[What is the Arrow Function in ReactJS?](https://www.tutorialspoint.com/what-is-the-arrow-function-in-reactjs)
+[React](hhttp://localhost:8080/devdocs_en_react_2025-01/index)
 
-[React Basics: What’s the difference between JavaScript and JSX?](https://medium.com/weekly-webtips/react-basics-whats-the-difference-between-javascript-and-jsx-604dd224b1cf)
+[JavaScript in JSX with Curly Braces](http://localhost:8080/devdocs_en_react_2025-01/learn/javascript-in-jsx-with-curly-braces)
 
-[React Props Explained with Examples](https://refine.dev/blog/react-props/)
-
-[A Beginner’s Guide to Loops in React JSX](https://www.telerik.com/blogs/beginners-guide-loops-in-react-jsx)
-
-[Using map() in JavaScript and React.js](https://ordinarycoders.com/blog/article/javascript-react-map-method)
-
-[Using a condition inside map() in React](https://bobbyhadz.com/blog/react-map-with-condition)
+[Passing Props to a Component](http://localhost:8080/devdocs_en_react_2025-01/learn/passing-props-to-a-component)

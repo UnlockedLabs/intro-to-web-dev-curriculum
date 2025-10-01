@@ -47,8 +47,7 @@ Your CSS must:
 ## Resources
 
 ### General CSS Examples and References:¶
-1. [CSS Zen Garden](http://www.csszengarden.com/): This site provides multiple examples of what you can do with CSS in a browser.
-1. (Advanced) [Specificity (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+1. (Advanced) [Specificity (MDN)](http://localhost:8080/devdocs_en_css_2025-01/specificity)
 
 {{% notice green "Tip" "rocket" %}} 
  Once you finish your adding your stylings, be sure to stage and `commit` your changes.

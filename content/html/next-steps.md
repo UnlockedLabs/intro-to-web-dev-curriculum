@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 Before continuing on to learning about CSS, here are a few additional resources on HTML in case you want to review.
 
-1. [MDN Web Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+1. [MDN Web Documentation](http://localhost:8080/devdocs_en_html_2025-01/index)

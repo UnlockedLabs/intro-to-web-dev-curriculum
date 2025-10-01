@@ -14,7 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 Upon completing everything in this chapter, you are ready to move onto the chapter on `JSON`. If you would like to read more about `forms` before continuing forward, here are some of our favorite resources.
 
-1. [W3Schools HTML Forms](https://www.w3schools.com/html/html_forms.asp)
-1. [geeksforgeeks HTML Forms](https://www.geeksforgeeks.org/html-forms/)
-1. [tutorialspoint HTML - Forms](https://www.geeksforgeeks.org/html-forms/)
-1. [mdn web docs_ Web Forms - Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+1. [the Form element](http://localhost:8080/devdocs_en_html_2025-01/element/form)

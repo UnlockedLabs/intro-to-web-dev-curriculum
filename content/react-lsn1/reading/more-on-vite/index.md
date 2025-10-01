@@ -96,5 +96,5 @@ This is the default `vite.config.js` file included with every project. It is cus
 It starts by importing the `defineConfig` function from the `vite` package. The second line imports the `react` plugin to allow `React` support within your project. It then exports the default configuration object (`defineConfig`) that was imported above, with the `react` plugin that enables your `React` code to run.
 
 {{% notice blue Note "rocket" %}}
-While you begin to work more with `Vite` and `React` keep in mind that `Vite`, like webpack, Rollup and Parcel is a build tool that enhances the frontend development experience. Ultimately, the goal of this course is to learn basic skills for using the `React` library. If you would like to delve a bit deeper in `Vite` you can find more resources here at the [Vite Homepage](https://vitejs.dev/).
+While you begin to work more with `Vite` and `React` keep in mind that `Vite`, like webpack, Rollup and Parcel is a build tool that enhances the frontend development experience. Ultimately, the goal of this course is to learn basic skills for using the `React` library. If you would like to delve a bit deeper in `Vite` you can find more information in the documentation at [Vite Docs](http://localhost:8080/devdocs_en_vite_2025-01/index).
 {{% /notice %}}

@@ -87,8 +87,3 @@ Here are some tips that we recommend to help boost your confidence:
 1. *Voice your worth*. Many people use daily exercises to affirm their  abilities.
 1. *Teach*. This is a great way to reinforce your learning, and it helps you recognize how much you know.
 1. *Remember the power of 'Yet'*. You are not the master of all skills, of course, but you do know how to learn. With more practice, you will fill in any gaps in your knowledge.
-
-## Other Resources
-
-- 5 Steps To Shake The Feeling That You are An Impostor `https://www.npr.org/2021/01/22/959656202/5-steps-to-shake-the-feeling-that-youre-an-impostor.`
-- Stop Telling Women They Have Imposter Syndrome `https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome.`

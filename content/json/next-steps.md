@@ -12,6 +12,7 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-Now you are ready to take on fetch! Before going on to the next chapter, if you would like to review JSON, here are a few of our favorite resources.
+Now you are ready to take on fetch! Before going on to the next chapter, if you would like to review JSON, here are is resource.
 
-1. Working with JSON `https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON`
+
+1. [JSON](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/json)

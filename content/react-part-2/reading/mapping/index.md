@@ -198,9 +198,7 @@ We can also use `map()` to render array elements based on conditions.  This can 
 {{% notice blue "Example mapping Conditionally" "rocket" %}} 
 Let's explore how to use map and conditionals to selectively render items to the UI.
 
-This example uses the same JSON file as the previous example.  You can explore it more in "Try It" link below.
-
-You can code along here: **[Try It!](https://codesandbox.io/s/conditionalmapping-yds8ue)** 
+This example uses the same JSON file as the previous example. 
 
 
 ```react{linenos=table,hl_lines=[],linenostart=1}

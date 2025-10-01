@@ -33,8 +33,7 @@ To start, here are three types of text inputs. These input types can contain tex
 
 {{% notice blue Note "rocket"%}}
 Form inputs will NOT look exactly the same in all browsers.
-However, the inputs *should* function the same way. Use [caniuse.com](https://caniuse.com),
-if there is ever a question of browser support for a certain feature.
+However, the inputs *should* function the same way.
 {{% /notice %}}
 
 {{% notice blue Example "rocket" %}}

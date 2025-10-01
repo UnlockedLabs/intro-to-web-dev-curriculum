@@ -19,7 +19,7 @@ Below you will find brief descriptions on the main technologies used in this cou
 ### Unit 1 Technologies
 1. JavaScript: Reference back to [this page]({{% relref "../../../_index.md" %}})
 1. [React](http://localhost:8080/devdocs_en_react_2025-01/index) is a library developed and maintained by `Facebook`. This is one of the most widely used web technologies used by `front-end` developers today.
-1. [Node.js](https://nodejs.org/en/about) is a popular web technology primarily used for running `JavaScript` code on the `server-side` as opposed to the `client-side`.
+1. Node.js is a popular web technology primarily used for running `JavaScript` code on the `server-side` as opposed to the `client-side`.
 1. [git](http://localhost:8080/devdocs_en_git_2025-07/index) is an open-source `version-control` system that you will be using throughout this course in order maintain code that you have written.
 
 JavaScript and React are considered cornerstones of building the part of websites users interact with called the front end. Many web development jobs ask for some knowledge of front end development and JavaScript. 

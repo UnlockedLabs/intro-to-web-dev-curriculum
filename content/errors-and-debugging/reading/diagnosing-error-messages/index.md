@@ -172,7 +172,7 @@ The message is:
 ReferenceError: Julie is not defined
 ```
 
-The type of error is `ReferenceError`. If we search the web for "JS ReferenceError" then one of the first results is the [MDN documentation for ReferenceError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError). No need to read the entire document, however. The first sentence on this page tells us what we need to know:
+The type of error is `ReferenceError`. If we search the web for "JS ReferenceError" then one of the first results is the [MDN documentation for ReferenceError](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/referenceerror). No need to read the entire document, however. The first sentence on this page tells us what we need to know:
 
 > The `ReferenceError` object represents an error when a variable that doesn't exist (or hasn't yet been initialized) in the current scope is referenced.
 

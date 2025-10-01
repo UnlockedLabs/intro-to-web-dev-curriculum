@@ -41,8 +41,3 @@ You might do something like this:
 When linking to an image, pay attention to the protocol of both the site you are modifying and of the image you are including. The protocol will be either `http` or `https`.
 
 If the site loads over `https` and your image uses `http` then the image may not load properly due to browser security restrictions. You should try to add `s` to the image protocol, and if that doesn't work, look for another image.
-
-## Resources
-
-* `Using Firefox Page Inspector https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector`
-* `Firefox DevTools Documentation https://developer.mozilla.org/en-US/docs/Tools`

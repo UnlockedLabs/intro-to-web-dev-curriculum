@@ -39,11 +39,11 @@ Open the `App.jsx` file.
          const displaySats = [...new Set(satData.map((data) => data.orbitType))];
          // code continues ...
       ```
-   This variable will use the `Set` [method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) to create a new array that holds unique elements.  This function will be used to create the buttons, so we want to pull out the `orbitType` values of each object inside `satData`.  The `Set` method prevents duplicate elements.  We are using it because there are only three types of `orbitTypes`: Low, Medium, and High.  This will eventually create three buttons.  If we only used map, we would create 10 buttons, and many of them would be duplicates. 
+   This variable will use the `Set` [method](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/set) to create a new array that holds unique elements.  This function will be used to create the buttons, so we want to pull out the `orbitType` values of each object inside `satData`.  The `Set` method prevents duplicate elements.  We are using it because there are only three types of `orbitTypes`: Low, Medium, and High.  This will eventually create three buttons.  If we only used map, we would create 10 buttons, and many of them would be duplicates. 
 
 1. Next, create an arrow function called `filterByType`.  
    1. This function will take a parameter that you can call `currentType`.
-   1. Inside this function, you will update the `displaySats` variable using the `filter` [method](https://upmostly.com/tutorials/react-filter-filtering-arrays-in-react-with-examples).  
+   1. Inside this function, you will update the `displaySats` variable using the `filter`.  
       1. `filter` is similar to `map`, in that it will iterate through a collection until it finds the desired element.
    1. `filter` requires a callback, call the callback `newSatDisplay`.  
    1. The `filter` function will return the `newSatDisplay.orbitType` that is equal to `currentType`.  

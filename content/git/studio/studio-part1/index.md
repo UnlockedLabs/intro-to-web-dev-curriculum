@@ -192,7 +192,7 @@ your machine and rename it!
    The clone command looks something like this:
 
    ```console
-   $ git clone https://localhost/srv/git/communication-log.git
+   $ git clone http://localhost/srv/git/communication-log.git
    ```
 
    Replace the URL with the address you are given by your TA.
