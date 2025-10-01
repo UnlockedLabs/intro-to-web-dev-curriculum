@@ -14,7 +14,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 In order to unit test our code, we need to use a module. Such a module is called a **unit-testing framework**, and there are many to choose from.
 
-We will use [Jest](https://jestjs.io/), a popular JavaScript testing framework. We are using Jest because of it's popularity in industry, excellent developer support, and it is used for testing React applications, which we will learn more about in later lessons.
+We will use [Jest](http://localhost:8080/devdocs_en_jest_2025-01/index), a popular JavaScript testing framework. We are using Jest because of it's popularity in industry, excellent developer support, and it is used for testing React applications, which we will learn more about in later lessons.
 
 ## Using Jest
 
@@ -108,7 +108,7 @@ As you get started with unit testing, nearly *all* of your tests will take this 
 The argument to `expect()` is a call to the function `hello()`. The argument to `toBe()` is the expected output from that function call. 
 `toBe()` is a specialized method called a **matcher**. Matchers in Jest compare the value passed to the value passed to `expect()`.
 These comparisons are not just limited to checking if the two values are equal. Jest has a wide variety of matchers built-in and developers can also build custom matchers.
-For a full list of the provided matchers, check out the [Jest documentation](https://jestjs.io/docs/using-matchers).
+For a full list of the provided matchers, check out the [Jest documentation](http://localhost:8080/devdocs_en_jest_2025-01/using-matchers).
 
 If the two arguments are indeed equal, the test will pass. Otherwise, the test will fail. In this case, we are declaring that we *expect* `hello("Jest")` to return the value `"Hello, Jest!"`.
 

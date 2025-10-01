@@ -48,7 +48,7 @@ module.exports = hello;
 We haven't learned about either of these items yet, and you don't need to know what they do for the purposes of this assignment. We will learn about these in later lessons!
 
 {{% notice blue Tip "rocket" %}}
-If you are so compelled, set a timer for 5 mins and search StackOverflow for "JavaScript functions" or "JavaScript module.exports". Or look these items up directly on [MDN](https://developer.mozilla.org/en-US/). When the timer is up, write down whatever you have found interesting or most salient from your search.
+If you are so compelled, set a timer for 5 mins and search StackOverflow for "JavaScript functions" or "JavaScript module.exports". Or look these items up directly on [MDN](http://localhost:8080/devdocs_en_javascript_2025-01/index). When the timer is up, write down whatever you have found interesting or most salient from your search.
 
 Although you won't start learning about these terms in this book until later on, getting into the habit of exploring code and searching topics helps to get you into the developer mindset.
 

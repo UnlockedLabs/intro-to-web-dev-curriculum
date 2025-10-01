@@ -158,6 +158,6 @@ Note the absence of brackets, `[]`, around the numbers printed by line 6.
    very convenient, is NOT compatible with Internet Explorer or older versions
    of other browsers (pre-2015). For more details on the spread operator and its
    compatibility, check the
-   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax).
+   [MDN Web Docs](http://localhost:8080/devdocs_en_javascript_2025-01/operators/spread_syntax).
 
 {{% /notice %}}

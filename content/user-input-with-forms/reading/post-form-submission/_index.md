@@ -79,7 +79,7 @@ Firefox browser with request handler loaded and network tab showing requests
    
 {{% notice orange Warning "rocket" %}}
 Using POST for form submissions adds a very low level of security. Using
-[HTTPS](https://en.wikipedia.org/wiki/HTTPS) instead of HTTP adds a
+[HTTPS](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/Wikipedia%20-%20HTTPS.html) instead of HTTP adds a
 higher level of security. Configuring HTTPS is beyond the scope of this
 class.
 {{% /notice %}}

@@ -21,7 +21,7 @@ stringName.replace(searchChar, replacementChar);
 Given a search string `searchChar` and a replacement value `replacementChar`, this method returns a copy of `stringName` with the *first* occurrence of `searchChar` replaced by `replacementChar`.
 
 {{% notice blue Note "rocket" %}}
-The `replace` method can be used in more powerful ways utilizing regular expressions. We will not cover those here, but you [can read more at MDN.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+The `replace` method can be used in more powerful ways utilizing regular expressions. We will not cover those here, but you [can read more at MDN.](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/string/replace)
 {{% /notice %}}
 
 

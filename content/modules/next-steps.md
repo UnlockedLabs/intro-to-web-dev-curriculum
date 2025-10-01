@@ -24,7 +24,3 @@ function (which means no dot notation).
 The skills you practiced in this chapter provide a solid foundation for
 modules. Learning the alternatives becomes a matter of personal preference and
 the requirements for your job.
-
-If you would like to further explore content related to modules please view the following resources:
-
-1. [mdn web docs on JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)

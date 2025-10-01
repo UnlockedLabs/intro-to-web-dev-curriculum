@@ -107,7 +107,7 @@ false
 {{% notice orange Warning "rocket" %}}
 The single symbols `&` and `|` are themselves valid JavaScript operators, so accidentally leaving off one symbols when typing `&&` or `||` will not result in an error message.
 
-The operators `&` and `|` are [bitwise operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators), which are beyond the scope of this course.
+The operators `&` [Bitwise AND (&)](http://localhost:8080/devdocs_en_javascript_2025-01/operators/bitwise_and) and `|` [Bitwise OR (|)](http://localhost:8080/devdocs_en_javascript_2025-01/operators/bitwise_or) are bitwise operators, which are beyond the scope of this course.
 
 Most programmers rarely use `&` and `|`, and it is not important for you to understand them at this point. However, you should never use them in place of `&&` and `||`.
 
@@ -163,7 +163,7 @@ While parentheses are not always necessary due to default operator precedence,
 they make expressions much more readable. As a best practice, we encourage you
 to use them, especially for more complicated expressions.
 
-The following table lists operators in order of precedence, from highest (applied first) to lowest (applied last). A complete table for the entire language can be found in the [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence#Table).
+The following table lists operators in order of precedence, from highest (applied first) to lowest (applied last). A complete table for the entire language can be found in the [MDN JavaScript Documentation](http://localhost:8080/devdocs_en_javascript_2025-01/operators/operator_precedence#table).
 
 | Precedence | Category                      | Operators                |
 |------------|-------------------------------|--------------------------|

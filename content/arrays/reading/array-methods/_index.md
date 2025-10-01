@@ -21,8 +21,8 @@ the array, or *create and return* a new array.
 Here is a sample of the most frequently used array methods. More complete lists
 can be found here:
 
-1. [W3 Schools Array Methods](https://www.w3schools.com/jsref/jsref_obj_array.asp).
-1. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
+1. [MDN Web Docs](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/array#array_methods_and_empty_slots).
+
 
 To see detailed examples for a particular method, control-click
 (or right-click) on its name to open the view in a new tab.

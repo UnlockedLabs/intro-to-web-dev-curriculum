@@ -77,7 +77,7 @@ ASCII provides a standard translation of the most commonly-used characters to
 one of the integers 0...127, which means each character can be stored in a
 computer using a single byte.
 
-ASCII maps `a` to 97, `b` to 98, and so on for lowercase letters, with `z` mapping to 122. Uppercase letters map to the values 65 through 90. The other integers between 0 and 127 represent symbols, punctuation, and other assorted odd characters. This scheme is called the **ASCII table**, and rather than replicate it here, we refer you to an [excellent one online](https://www.ascii-code.com/).
+ASCII maps `a` to 97, `b` to 98, and so on for lowercase letters, with `z` mapping to 122. Uppercase letters map to the values 65 through 90. The other integers between 0 and 127 represent symbols, punctuation, and other assorted odd characters. This scheme is called the **ASCII table**, and rather than replicate it here, we refer you to an [excellent one online](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/ASCII%20table.html).
 
 In summary, strings are stored in a computer using the following process:
 

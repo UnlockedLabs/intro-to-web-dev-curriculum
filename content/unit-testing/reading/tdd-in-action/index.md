@@ -15,7 +15,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 Open `transmission-processor` in `javascript-projects/unit-testing/chapter-examples`
 and follow along as we implement a project using TDD.
 
-We need to write a Node module to process transmissions from the [Voyager1 probe](https://voyager.jpl.nasa.gov/mission/).
+We need to write a Node module to process transmissions from the [Voyager1 probe](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/Wikipedia%20-%20Voyager%20program.html).
 
 {{% notice blue "Example" "rocket" %}}
 

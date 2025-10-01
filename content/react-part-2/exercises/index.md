@@ -13,7 +13,7 @@ lastMod: 2023-10-17 # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
 ## Getting Started:
-Check out the starter code for the `exercises-2` in the `part2` directory on the `main` branch of [react-exercises-and-studios](https://github.com/LaunchCodeEducation/react-exercises-and-studios)
+Check out the starter code for the `exercises-2` in the `part2` directory on the `main` branch of [react-exercises-and-studios](http://localhost/git/)
 
 ### Code Review
 1. `App` is returning 2 components: `Profile` and `Banner`.
@@ -48,7 +48,7 @@ We would like to update the `Banner.jsx` to fit the application better.
 {{% /expand %}}
 
 ### Part 2: `Button.jsx`
-We would like the button to do something.  Right now, when you click on it nothing happens.  For this application, we will create an [alert method](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert) that will share a message with a water or ocean theme.
+We would like the button to do something.  Right now, when you click on it nothing happens.  For this application, we will create an [alert method](http://localhost:8080/devdocs_en_dom_2025-01/window/alert) that will share a message with a water or ocean theme.
 
 1. Inside the `Button` function, create a new function called `onLearnMore`.  This function will hold the `alert` method.  Your method should display a message like "Splish Splash" or something related to the ocean or water.  
 1. Update the `return` statement of the `Button` function.  It should activate the `onLearnMore` alert when clicked.

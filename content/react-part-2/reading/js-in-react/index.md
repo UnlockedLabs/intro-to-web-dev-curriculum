@@ -29,9 +29,9 @@ The syntax is a little different in React, but the functionality is the same.
 
 In React part 1, we used `className` to apply CSS stylings instead of `class`. This is because `class` is a JavaScript keyword.  React adapted by using `className`.  Note the use of camelCase.
 
-We can use the `onclick` method in React, but we need to apply camel casing to the name: `onClick`.   
+We can use the `onclick` method in React, but we need to apply camel casing to the name: `onClick`.
 
-W3 Schools created some nice examples of [React Events](https://www.w3schools.com/react/react_events.asp) if you would like to learn more.
+If you would like to learn more about React events, please explore the [React documentation](http://localhost:8080/devdocs_en_react_2025-01/learn/responding-to-events) .
 
 {{% /notice %}}
 
@@ -249,7 +249,7 @@ export default Greeting;
 
 {{% notice blue "Note" "rocket" %}} 
    Lines 9 and 14 in the example above are empty tags.
-   These are **Fragments**.  [Fragments](https://react.dev/reference/react/Fragment#usage) allow you to group many elements and treat them as a single element.  You will often find fragments in return statements.
+   These are **Fragments**.  [Fragments](http://localhost:8080/devdocs_en_react_2025-01/reference/react/fragment#usage) allow you to group many elements and treat them as a single element.  You will often find fragments in return statements.
 {{% /notice %}}
 
 ### Importing and Exporting 

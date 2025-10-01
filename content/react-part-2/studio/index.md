@@ -22,7 +22,7 @@ The app you complete in this studio will have the following functionality:
 
 ## Getting Started
 
-1. Check out the application in the `part2/studio` directory from the [exercises and studio](https://github.com/LaunchCodeEducation/react-exercises-and-studios) repo.
+1. Check out the application in the `part2/studio` directory from the [exercises and studio](http://localhost/git/) repo.
 
 1. Explore the codebase.  
    1. Look at the `App` function. 

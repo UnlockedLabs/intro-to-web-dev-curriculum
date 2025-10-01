@@ -18,9 +18,9 @@ Below you will find brief descriptions on the main technologies used in this cou
 
 ### Unit 1 Technologies
 1. JavaScript: Reference back to [this page]({{% relref "../../../_index.md" %}})
-1. [React](https://react.dev/) is a library developed and maintained by `Facebook`. This is one of the most widely used web technologies used by `front-end` developers today.
+1. [React](http://localhost:8080/devdocs_en_react_2025-01/index) is a library developed and maintained by `Facebook`. This is one of the most widely used web technologies used by `front-end` developers today.
 1. [Node.js](https://nodejs.org/en/about) is a popular web technology primarily used for running `JavaScript` code on the `server-side` as opposed to the `client-side`.
-1. [git](https://git-scm.com/) is an open-source `version-control` system that you will be using throughout this course in order maintain code that you have written.
+1. [git](http://localhost:8080/devdocs_en_git_2025-07/index) is an open-source `version-control` system that you will be using throughout this course in order maintain code that you have written.
 
 JavaScript and React are considered cornerstones of building the part of websites users interact with called the front end. Many web development jobs ask for some knowledge of front end development and JavaScript. 
 
@@ -37,7 +37,7 @@ You may find yourself gravitating towards either front end or back end developme
 
 ### Databases
 Regardless of which Unit 2 programming language you learn you will be working with a `MySQL` database. You can find more on `MySQL` below.
-1. [MySQL](https://www.mysql.com/why-mysql/)
+1. [MySQL](http://localhost:8080/devdocs_en_mariadb_2025-01/index)
 
 ### Additional Information
-You can also view the 2023 Stack Overflow developer survey results related to technologies here: [Survey Results](https://survey.stackoverflow.co/2023/#most-popular-technologies-language). While these surveys are cool, we want to note that this survey covers multiple industries. While Python is towards the top of the list in terms of popularity, you won't find us teaching it to you in this class. That is because it is an immensely popular language in the field of data and not popular at all in web development.
+You can also view the 2023 Stack Overflow developer survey results related to technologies here: [Survey Results](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/StackOverflow%20Survey%202025.html). While these surveys are cool, we want to note that this survey covers multiple industries. While Python is towards the top of the list in terms of popularity, you won't find us teaching it to you in this class. That is because it is an immensely popular language in the field of data and not popular at all in web development.
