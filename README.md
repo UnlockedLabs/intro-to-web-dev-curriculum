@@ -59,3 +59,84 @@ __handlers.education.launchcode.org__ We might be able to use the current apache
 * __Test Scratch__ remove for Intro to Professional Web Dev NOT for Think Python.
 
 * __Launchcode http://education.launchcode.org there should be 5 blue and white tiles users can select from__ the number 5 might change based upon updates.
+
+## Resources
+
+We added two new resources to the resource directory: www.nytimes.com and HTML5NotesForProfessionals_entities.pdf.
+
+We reused www.nytimes.com/index.html. The page that contains the link to it is http://localhost:1313/html/studio/.
+
+HTML5NotesForProfessionals_entities.pdf is linked to on page http://localhost:1313/assignments/html-me-something/part-1/.  We could not find any entities in the zims.  There may be a better resource to use for this page. 
+
+We linked the 7_LPdttKXPc.webm and OvF_pnJ6zrY.webm videos. However, they seem to be the same video.
+
+## links, servers, and ports
+
+The following links require running servers.  Please note the port numbers.
+
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/7_LPdttKXPc.webm
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/ASCII%20table.html
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/HTML5NotesForProfessionals_entities.pdf
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/OvF_pnJ6zrY.webm
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/Scope%20and%20Closures%20in%20JavaScript.html
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/StackOverflow%20Survey%202025.html
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/Substack%20-%20First%20Computer%20Bug.html
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/Wikipedia%20-%20HTTPS.html
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/Wikipedia%20-%20Voyager%20program.html
+* http://education.launchcode.org/resources/intro-to-web-dev-curriculum/www.nytimes.com/index.html
+* http://handlers.education.launchcode.org/static/planets.json
+* http://handlers.education.launchcode.org/static/weather.json
+* http://localhost:8081/devdocs_en_css_2025-01/class_selectors
+* http://localhost:8081/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#margin_examples
+* http://localhost:8081/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#padding_examples
+* http://localhost:8081/devdocs_en_css_2025-01/id_selectors
+* http://localhost:8081/devdocs_en_css_2025-01/index
+* http://localhost:8081/devdocs_en_css_2025-01/specificity
+* http://localhost:8081/devdocs_en_css_2025-01/type_selectors
+* http://localhost:8081/devdocs_en_dom_2025-01/document_object_model
+* http://localhost:8081/devdocs_en_dom_2025-01/html_dom_api
+* http://localhost:8081/devdocs_en_dom_2025-01/response
+* http://localhost:8081/devdocs_en_dom_2025-01/window/alert
+* http://localhost:8081/devdocs_en_dom_2025-01/window/load_event
+* http://localhost:8081/devdocs_en_git_2025-07/index
+* http://localhost:8081/devdocs_en_html_2025-01/element/form
+* http://localhost:8081/devdocs_en_html_2025-01/index
+* http://localhost:8081/devdocs_en_javascript_2025-01/classes
+* http://localhost:8081/devdocs_en_javascript_2025-01/functions/arguments
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/array#array_methods_and_empty_slots
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/error
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/json
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/math
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/object
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/referenceerror
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/set
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/string/length#description
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/string/replace
+* http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/string#instance_methods
+* http://localhost:8081/devdocs_en_javascript_2025-01/index
+* http://localhost:8081/devdocs_en_javascript_2025-01/lexical_grammar#keywords
+* http://localhost:8081/devdocs_en_javascript_2025-01/operators/bitwise_and
+* http://localhost:8081/devdocs_en_javascript_2025-01/operators/bitwise_or
+* http://localhost:8081/devdocs_en_javascript_2025-01/operators/equality
+* http://localhost:8081/devdocs_en_javascript_2025-01/operators/operator_precedence#table
+* http://localhost:8081/devdocs_en_javascript_2025-01/operators/spread_syntax
+* http://localhost:8081/devdocs_en_javascript_2025-01/statements/for#see_also
+* http://localhost:8081/devdocs_en_javascript_2025-01/statements/try...catch
+* http://localhost:8081/devdocs_en_jest_2025-01/index
+* http://localhost:8081/devdocs_en_jest_2025-01/using-matchers
+* http://localhost:8081/devdocs_en_mariadb_2025-01/index
+* http://localhost:8081/devdocs_en_react_2025-01/index
+* http://localhost:8081/devdocs_en_react_2025-01/learn/javascript-in-jsx-with-curly-braces
+* http://localhost:8081/devdocs_en_react_2025-01/learn/passing-props-to-a-component
+* http://localhost:8081/devdocs_en_react_2025-01/learn/responding-to-events
+* http://localhost:8081/devdocs_en_react_2025-01/reference/react/fragment#usage
+* http://localhost:8081/devdocs_en_vite_2025-01/index
+* http://localhost:8081/devdocs_en_vitest_2025-01/index
+
+## gitweb
+
+assumes gitweb lives at http://localhost/git/
+
+## lively_links
+
+This is a python script that walks through the curriculum while being served by hugo.  As it walks, it checks each url for a status code of 200. If the code is not 200, then the failed url is written to the missing_links.csv file. We are running hugo at http://localhost:1313/. Please note line 27 in run.py.  This script takes about 5 minutes to complete on the securebooks.
