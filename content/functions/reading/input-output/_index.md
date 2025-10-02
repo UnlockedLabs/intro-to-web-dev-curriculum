@@ -310,7 +310,7 @@ Hello, Jim!
 {{% /notice %}}
 
 {{% notice blue "Fun Fact" "rocket" %}}
-These "extra" arguments can still be accessed using a special object named `arguments`, which is made available to every function. If you are curious, [read more at MDN](http://localhost:8080/devdocs_en_javascript_2025-01/functions/arguments). However, we will not need to use this advanced JavaScript feature in this course.
+These "extra" arguments can still be accessed using a special object named `arguments`, which is made available to every function. If you are curious, [read more at MDN](http://localhost:8081/devdocs_en_javascript_2025-01/functions/arguments). However, we will not need to use this advanced JavaScript feature in this course.
 {{% /notice %}}
 
 ## Check Your Understanding

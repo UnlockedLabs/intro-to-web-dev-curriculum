@@ -12,10 +12,10 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-[Working with JSON](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/json)
+[Working with JSON](http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/json)
 
-[React](http://localhost:8080/devdocs_en_react_2025-01/index)
+[React](http://localhost:8081/devdocs_en_react_2025-01/index)
 
-[JavaScript in JSX with Curly Braces](http://localhost:8080/devdocs_en_react_2025-01/learn/javascript-in-jsx-with-curly-braces)
+[JavaScript in JSX with Curly Braces](http://localhost:8081/devdocs_en_react_2025-01/learn/javascript-in-jsx-with-curly-braces)
 
-[Passing Props to a Component](http://localhost:8080/devdocs_en_react_2025-01/learn/passing-props-to-a-component)
+[Passing Props to a Component](http://localhost:8081/devdocs_en_react_2025-01/learn/passing-props-to-a-component)

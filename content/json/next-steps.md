@@ -15,4 +15,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 Now you are ready to take on fetch! Before going on to the next chapter, if you would like to review JSON, here are is resource.
 
 
-1. [JSON](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/json)
+1. [JSON](http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/json)

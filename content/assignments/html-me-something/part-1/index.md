@@ -48,7 +48,7 @@ Your mission is to build a page that:
       1. `<main>`
       1. `<article>`. 
       
-      If you need to review any of these tags, check out the tag by name under Elements dropdown [HTML tag reference](http://localhost:8080/devdocs_en_html_2025-01/index).
+      If you need to review any of these tags, check out the tag by name under Elements dropdown [HTML tag reference](http://localhost:8081/devdocs_en_html_2025-01/index).
 
    1. Uses at least one `<img>` tag (hopefully more). 
    
@@ -60,7 +60,7 @@ Your mission is to build a page that:
 
    1. Demonstrates creativity. 
    
-      Don’t stop with these items or tags. Have some ideas for your page, and make it great. And dig into the [HTML elements and attributes](http://localhost:8080/devdocs_en_html_2025-01/index) to learn more about other tags, their usage and attributes!
+      Don’t stop with these items or tags. Have some ideas for your page, and make it great. And dig into the [HTML elements and attributes](http://localhost:8081/devdocs_en_html_2025-01/index) to learn more about other tags, their usage and attributes!
 
 ## Notes and Tips
 

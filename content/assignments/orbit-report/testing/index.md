@@ -48,7 +48,7 @@ _AFTER_ completing your project, you should see the following test results:
 
 ## Troubleshooting Vitest
 
-Vite uses [Vitest](http://localhost:8080/devdocs_en_vitest_2025-01/index) for testing React applications. It should already be part of your project. Vitest is configured in such a way that the tests are the exact same for Vitest and Jest, but it runs slightly differently and will have different output.
+Vite uses [Vitest](http://localhost:8081/devdocs_en_vitest_2025-01/index) for testing React applications. It should already be part of your project. Vitest is configured in such a way that the tests are the exact same for Vitest and Jest, but it runs slightly differently and will have different output.
 
 1. If you are not able to get the tests to run, make sure you are running the command inside the project repo. 
 

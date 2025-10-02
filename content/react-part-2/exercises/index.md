@@ -48,7 +48,7 @@ We would like to update the `Banner.jsx` to fit the application better.
 {{% /expand %}}
 
 ### Part 2: `Button.jsx`
-We would like the button to do something.  Right now, when you click on it nothing happens.  For this application, we will create an [alert method](http://localhost:8080/devdocs_en_dom_2025-01/window/alert) that will share a message with a water or ocean theme.
+We would like the button to do something.  Right now, when you click on it nothing happens.  For this application, we will create an [alert method](http://localhost:8081/devdocs_en_dom_2025-01/window/alert) that will share a message with a water or ocean theme.
 
 1. Inside the `Button` function, create a new function called `onLearnMore`.  This function will hold the `alert` method.  Your method should display a message like "Splish Splash" or something related to the ocean or water.  
 1. Update the `return` statement of the `Button` function.  It should activate the `onLearnMore` alert when clicked.

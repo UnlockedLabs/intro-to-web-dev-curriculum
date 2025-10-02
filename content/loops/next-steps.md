@@ -14,5 +14,5 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 Upon completing everything in this chapter, you should go on to the chapter on functions. If you would like to read more about loops before continuing forward, here are some of our favorite resources.
 
-1. [MDN Web Docs](http://localhost:8080/devdocs_en_javascript_2025-01/statements/for#see_also)
+1. [MDN Web Docs](http://localhost:8081/devdocs_en_javascript_2025-01/statements/for#see_also)
 

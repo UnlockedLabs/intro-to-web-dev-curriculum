@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 The next chapter will cover more about the terminal. If you would like some additional resources on classes in JavaScript, here are a few of our favorites.
 
-1. [MDN documentation](http://localhost:8080/devdocs_en_javascript_2025-01/classes)
+1. [MDN documentation](http://localhost:8081/devdocs_en_javascript_2025-01/classes)

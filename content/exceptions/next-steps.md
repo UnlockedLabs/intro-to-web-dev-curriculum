@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 Upon completing everything in this chapter, you are ready to move onto the chapter on classes. If you would like to read more about exceptions before continuing forward, here is a resource.
 
-1. [try...catch](http://localhost:8080/devdocs_en_javascript_2025-01/statements/try...catch)
+1. [try...catch](http://localhost:8081/devdocs_en_javascript_2025-01/statements/try...catch)

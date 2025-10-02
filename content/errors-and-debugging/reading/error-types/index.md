@@ -34,7 +34,7 @@ SyntaxError: Invalid or unexpected token
    at internal/main/run_main_module.js:21:11
 ```
 
-We have now seen two error types, `ReferenceError` and `SyntaxError`. There are several other [error types in JavaScript](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/error), such as `TypeError` and `RangeError`. 
+We have now seen two error types, `ReferenceError` and `SyntaxError`. There are several other [error types in JavaScript](http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/error), such as `TypeError` and `RangeError`. 
 
 The following table describes all JavaScript error types. Some of these relate to coding concepts we have not covered yet, but we include them here as a reference for future use.
 

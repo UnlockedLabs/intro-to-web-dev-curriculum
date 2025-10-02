@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 Upon completing everything in this chapter, you are ready to move onto the chapter on git. If you would like to read more about `css` before continuing forward, here is a resource.
 
-1. [W3Schools CSS Tutorial](http://localhost:8080/devdocs_en_css_2025-01/index)
+1. [W3Schools CSS Tutorial](http://localhost:8081/devdocs_en_css_2025-01/index)

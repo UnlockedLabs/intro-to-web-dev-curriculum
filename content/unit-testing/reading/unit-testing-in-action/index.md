@@ -216,7 +216,7 @@ Now run the tests, which should all pass.
 
 You might think that another edge case is that of the longest possible palindrome. Such a palindrome would be as long as the longest possible string in JavaScript. This case is not worth considering for a couple of reasons:
 
-1. The length of the longest string [can vary across different JavaScript implementations](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/string/length#description).
+1. The length of the longest string [can vary across different JavaScript implementations](http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/string/length#description).
 1. The most recent JavaScript specification states that the maximum allowed length of a string should be 2^53 - 1 characters. This is a LOT of characters, and it is unrealistic to expect that our function will ever be given such a string.
 
 ## Toward a Better Testing Workflow

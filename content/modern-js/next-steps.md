@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 This was just an introduction to all that is going on with the modern JavaScript language. If you would like to learn more before diving into React, explore this resource:
 
-1. [JavaScript](http://localhost:8080/devdocs_en_javascript_2025-01/index)
+1. [JavaScript](http://localhost:8081/devdocs_en_javascript_2025-01/index)

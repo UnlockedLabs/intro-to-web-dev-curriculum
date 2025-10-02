@@ -34,7 +34,7 @@ true
 
 In order to properly make a comparison, the two operands must be the same type. If the two operands to `==` are of different data types, JavaScript will implicitly convert the operands so that the values are of the same data type before comparing the two. For this reason, the `==` operator is often said to measure **loose equality**.
 
-Type conversions with `==` are carried out according to a [complex set of rules](http://localhost:8080/devdocs_en_javascript_2025-01/operators/equality), and while many of these conversions make some sense, others do not. 
+Type conversions with `==` are carried out according to a [complex set of rules](http://localhost:8081/devdocs_en_javascript_2025-01/operators/equality), and while many of these conversions make some sense, others do not. 
 
 For example, `Number("7")` returns `7`, so it makes some sense that `7 == "7"` returns `true`. However, the following example leaves us scratching our heads.
 

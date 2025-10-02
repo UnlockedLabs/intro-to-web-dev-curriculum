@@ -14,4 +14,4 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 After completing this chapter, you are ready to learn about modules. If you would like to learn more about objects before going on to the next chapter, here is a resource.
 
-1. [JavaScript Objects](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/object)
+1. [JavaScript Objects](http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/object)

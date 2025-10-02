@@ -16,7 +16,7 @@ The following sections are a summary of some DOM classes, methods, and propertie
 more complete list can be found in the reference links below. You do NOT need to memorize everything on these reference pages.
 We are providing them to you as a guide for your future studies of the DOM.
 
-1. [MDN DOM reference](http://localhost:8080/devdocs_en_dom_2025-01/document_object_model).
+1. [MDN DOM reference](http://localhost:8081/devdocs_en_dom_2025-01/document_object_model).
 
 ## Window
 

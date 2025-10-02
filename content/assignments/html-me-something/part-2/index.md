@@ -24,12 +24,12 @@ Go ahead and start adding styles in your `styles.css` file!
 
 Your CSS must:
 
-1.  Use [margin](http://localhost:8080/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#margin_examples) and [padding](http://localhost:8080/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#padding_examples) to space your elements in a visually pleasing manner.
+1.  Use [margin](http://localhost:8081/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#margin_examples) and [padding](http://localhost:8081/devdocs_en_css_2025-01/css_logical_properties_and_values/margins_borders_padding#padding_examples) to space your elements in a visually pleasing manner.
 
 1. Use at least one of each of the following types of selectors:
-   1. [element/type](http://localhost:8080/devdocs_en_css_2025-01/type_selectors)
-   1. [class](http://localhost:8080/devdocs_en_css_2025-01/class_selectors)
-   1. [id](http://localhost:8080/devdocs_en_css_2025-01/id_selectors)
+   1. [element/type](http://localhost:8081/devdocs_en_css_2025-01/type_selectors)
+   1. [class](http://localhost:8081/devdocs_en_css_2025-01/class_selectors)
+   1. [id](http://localhost:8081/devdocs_en_css_2025-01/id_selectors)
 
 1. Follow these rules:
 
@@ -47,7 +47,7 @@ Your CSS must:
 ## Resources
 
 ### General CSS Examples and References:¶
-1. (Advanced) [Specificity (MDN)](http://localhost:8080/devdocs_en_css_2025-01/specificity)
+1. (Advanced) [Specificity (MDN)](http://localhost:8081/devdocs_en_css_2025-01/specificity)
 
 {{% notice green "Tip" "rocket" %}} 
  Once you finish your adding your stylings, be sure to stage and `commit` your changes.

@@ -40,7 +40,7 @@ While `nonprofit.toLowerCase()` evaluated to `"launchcode"`, the value of `nonpr
 
 Here we present the most commonly-used string methods. You can find documentation for other string methods at:
 
-- [MDN](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/string#instance_methods)
+- [MDN](http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/string#instance_methods)
 
 | Method                                      | Syntax                                  | Description                                                                                   |
 |---------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------|

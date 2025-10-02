@@ -14,5 +14,5 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 We are going to continue with React in the next chapter. If you are not sure about React or components yet, here is an are some additional resources on these topics:
 
-1. [Vite Docs](http://localhost:8080/devdocs_en_vite_2025-01/index)
-1. [React Docs](http://localhost:8080/devdocs_en_react_2025-01/index)
+1. [Vite Docs](http://localhost:8081/devdocs_en_vite_2025-01/index)
+1. [React Docs](http://localhost:8081/devdocs_en_react_2025-01/index)

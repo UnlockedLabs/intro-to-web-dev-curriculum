@@ -39,7 +39,7 @@ Open the `App.jsx` file.
          const displaySats = [...new Set(satData.map((data) => data.orbitType))];
          // code continues ...
       ```
-   This variable will use the `Set` [method](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/set) to create a new array that holds unique elements.  This function will be used to create the buttons, so we want to pull out the `orbitType` values of each object inside `satData`.  The `Set` method prevents duplicate elements.  We are using it because there are only three types of `orbitTypes`: Low, Medium, and High.  This will eventually create three buttons.  If we only used map, we would create 10 buttons, and many of them would be duplicates. 
+   This variable will use the `Set` [method](http://localhost:8081/devdocs_en_javascript_2025-01/global_objects/set) to create a new array that holds unique elements.  This function will be used to create the buttons, so we want to pull out the `orbitType` values of each object inside `satData`.  The `Set` method prevents duplicate elements.  We are using it because there are only three types of `orbitTypes`: Low, Medium, and High.  This will eventually create three buttons.  If we only used map, we would create 10 buttons, and many of them would be duplicates. 
 
 1. Next, create an arrow function called `filterByType`.  
    1. This function will take a parameter that you can call `currentType`.

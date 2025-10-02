@@ -214,7 +214,7 @@ SyntaxError: Unexpected token const
 Most code editors will highlight keywords in a different color than variables or other parts of your code. This serves as a visual cue that a given word is a keyword, and can help prevent mistakes.
 {{% /notice %}}
 
-We will not provide the full list of keywords at this time, but rather point them out as we learn about each of them. If you are curious, the [full list is available at MDN](http://localhost:8080/devdocs_en_javascript_2025-01/lexical_grammar#keywords).
+We will not provide the full list of keywords at this time, but rather point them out as we learn about each of them. If you are curious, the [full list is available at MDN](http://localhost:8081/devdocs_en_javascript_2025-01/lexical_grammar#keywords).
 
 ## Check Your Understanding
 
