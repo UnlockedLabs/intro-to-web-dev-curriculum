@@ -59,23 +59,3 @@ __handlers.education.launchcode.org__ We might be able to use the current apache
 * __Test Scratch__ remove for Intro to Professional Web Dev NOT for Think Python.
 
 * __Launchcode http://education.launchcode.org there should be 5 blue and white tiles users can select from__ the number 5 might change based upon updates.
-
-
-
-## How to convert intro-to-web-dev-curriculum to a static site:
-
-We found a way to convert a running hugo server into a static html site using wget.  Please note that there may be a way to do this with a hugo command (maybe?).
-
-Steps:
-
-* Start hugo server.
-* Open terminal.
-* Enter:
-* wget --restrict-file-names=windows -p -m  -k -P ./mirror http://localhost:1313/
-* Change port 1313 if hugo is running on a different port.
-* Wait for wget to finish.
-* Open the mirror directory.
-* Rename localhost:1313 to a directory name of your choosing. 
-* Drop the new directory onto apache server.
-* Open browser and enter url path to site.
-

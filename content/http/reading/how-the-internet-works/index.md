@@ -191,8 +191,8 @@ To tie these ideas together, watch these two videos on URLs and the Internet as 
 
 education.launchcode.org/resources/intro-to-web-dev-curriculum
 
-1. [How Do URLs Work?](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/OvF_pnJ6zrY.webm)
-1. [How the Internet Works](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/7_LPdttKXPc.webm)
+1. [How Do URLs Work?](http://education.launchcode.org/resources/intro-to-web-dev-curriculum/OvF_pnJ6zrY.webm)
+1. [How the Internet Works](http://education.launchcode.org/resources/intro-to-web-dev-curriculum/7_LPdttKXPc.webm)
 
 ## Check Your Understanding
 

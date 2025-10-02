@@ -28,7 +28,7 @@ This studio requires you to use Firefox's developer tools. In particular, you sh
 
 ## Studio
 
-Pick a news site ([The New York Times](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/www.nytimes.com/index.html), for example), and use your browser's developer tools to modify one of the main articles to use a picture and text of your choosing.
+Pick a news site ([The New York Times](http://education.launchcode.org/resources/intro-to-web-dev-curriculum/www.nytimes.com/index.html), for example), and use your browser's developer tools to modify one of the main articles to use a picture and text of your choosing.
 
 Have fun with this, but be respectful of others and avoid overtly critical political or social commentary.
 
