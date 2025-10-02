@@ -54,7 +54,7 @@ Your mission is to build a page that:
    
       1. When placing images in your page, put them in a new subfolder called images within your `html-me-something` directory.
 
-   1. Uses at least one [HTML entity](https://www.w3schools.com/html/html_entities.asp). 
+   1. Uses at least one [HTML entity](http://education.launchcode.org/intro-to-professional-web-dev/resources/intro-to-web-dev-curriculum/HTML5NotesForProfessionals_entities.pdf). 
       
       Hint: putting a copyright notice in your footer will afford you the opportunity to use `&copy;`, but you should also try to get creative here.
 

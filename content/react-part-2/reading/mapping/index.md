@@ -25,7 +25,7 @@ In this example, we are using an array of strings that name the days of the week
 
 We will chain the `map()` function to `props` in this example. The callback parameter is `day`.  `ListOfDays` will return `day` as a list item.  `ListOfDays` is contained within the `DaysOfTheWeek` function.  The `DaysOfTheWeek` function is returning an unordered list of `ListOfDays`.  Notice in this return statement, the array `weekDays` is the parameter.
 
-**[Try it!](https://codesandbox.io/p/sandbox/map-function-le3cw3)**
+**Try it!**
 
    ```react{linenos=table,hl_lines=[],linenostart=1}
    let weekDays = [
@@ -90,7 +90,7 @@ Let's look at some data.
 
 We created a `calendar.json` file to store our data in our app.
 
-**[Try It](https://codesandbox.io/p/sandbox/map-function-le3cw3?file=%2Fsrc%2FApp.js%3A1%2C4)**
+**Try It**
 ```react{linenos=table,hl_lines=[],linenostart=1}
 [{
     "month": "January",

@@ -25,7 +25,7 @@ and scores.
 
 ### Login to Canvas
 
-Access Canvas and the course materials at [this link](https://launchcode.instructure.com/).
+Access Canvas and the course materials at `https://launchcode.instructure.com/`.
 To login, use your launchcode.org username and password, which are the same ones you used to apply for this class.
 
 ### Canvas Dashboard

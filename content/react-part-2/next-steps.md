@@ -14,7 +14,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 [Working with JSON](http://localhost:8080/devdocs_en_javascript_2025-01/global_objects/json)
 
-[React](hhttp://localhost:8080/devdocs_en_react_2025-01/index)
+[React](http://localhost:8080/devdocs_en_react_2025-01/index)
 
 [JavaScript in JSX with Curly Braces](http://localhost:8080/devdocs_en_react_2025-01/learn/javascript-in-jsx-with-curly-braces)
 

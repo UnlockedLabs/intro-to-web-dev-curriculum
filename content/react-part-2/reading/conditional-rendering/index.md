@@ -26,7 +26,7 @@ In the `App` function, we use an `if` statement and `props` to render which stat
 {{% notice blue "Example Setting our Conditional to True" "rocket" %}}
 
 
-[Try it!](https://codesandbox.io/s/rainorshine-if-49kscs?file=/src/App.js)
+**Try it!**
    ```react{linenos=table,hl_lines=[14],linenostart=1}
    function Rainy(){
       return(
