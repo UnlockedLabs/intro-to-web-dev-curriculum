@@ -16,7 +16,7 @@ lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 
 1. A button for logging into your account.
 1. A button for signing up for a new account.
-1. A section full of local to you stores so that you can select one you would like delivery from. 
+1. A section full of local stores to you so that you can select one you would like delivery from. 
 1. Each store and vital information about them such as when items can be delivered by and a short byline about what the store sells.
 1. Common questions have their own section that expands when the user clicks on it to reveal the answer.
 
