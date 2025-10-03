@@ -12,8 +12,6 @@ lastEditorGitHub: # update any time edits are made after review
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
 ---
 
-{{< youtube "DNCeFhfp5jg">}}
-
 ## Embrace Failure
 
 Does the following statement resonate with you? If so, perfect.
