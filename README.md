@@ -34,10 +34,6 @@ __handlers.education.launchcode.org__ We might be able to use the current apache
   * The way in which Canvas is referenced for use is not the way we use our little module. Our module is only used for a rough calendar, submitting Assignments, and the Gradebook for rubrics and grading. We would love to import the Canvas module being referenced in the curriculum and begin to use it.
 
 
-## List of additional http links found within the course that should be downloaded and included:
-* Refer to broken_links.ods
-* For multiple page web site scrapes, how should we package the site for reference (hlink)? As an http site, or a raw file path? And where in the file structure should it/they put located?
-
 
 
 ## List of other software modifications like missing npm packages for certain gitweb projects, etc:
@@ -142,8 +138,13 @@ assumes gitweb lives at http://localhost/git/
 This is a python script that walks through the curriculum while being served by hugo.  As it walks, it checks each url for a status code of 200. If the code is not 200, then the failed url is written to the missing_links.csv file. We are running hugo at http://localhost:1313/. Please note line 27 in run.py.  This script takes about 5 minutes to complete on the securebooks.
 
 ## kiwix.service
+We figured out how to start the Kiwix Server as a service. This makes it much more reliable, ie. it has yet to crash. You need the following files:
+ - kiwix.service
+ - kiwix.setup.sh
+
 
 ## Chapter - User Input With Forms Studio
+We are not sure what to do with this. We cannot create hrefs to the outside world. Any thoughts?
 
 
 ## ul-pcc-sprint-3
