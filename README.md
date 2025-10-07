@@ -50,7 +50,7 @@ __handlers.education.launchcode.org__ We might be able to use the current apache
 
 ## List of changes to the below Test/Validation list to remove outdated content and test this course properly:
 
-* __Test Wolf Checker__ Wolf Checker may need to be removed as it was written for the previous intro-to-web-dev-curriculum. Note: this note is coming from the guy to who wrote wolf-checker-js. :-O
+* __Test Wolf Checker__ Wolf Checker should be removed as it was written for the previous intro-to-web-dev-curriculum. Note: this note is coming from the guy to who wrote wolf-checker-js. :-O
 
 * __Jasmine Tests__ update to Jest.
 
@@ -68,7 +68,7 @@ We reused www.nytimes.com/index.html. The page that contains the link to it is h
 
 HTML5NotesForProfessionals_entities.pdf is linked to on page http://localhost:1313/assignments/html-me-something/part-1/.  We could not find any entities in the zims.  There may be a better resource to use for this page. 
 
-We linked the 7_LPdttKXPc.webm and OvF_pnJ6zrY.webm videos. However, they seem to be the same video.
+We linked the 7_LPdttKXPc.webm and OvF_pnJ6zrY.webm videos. However, they seem to be the same video. Please find the right one.
 
 ## links, servers, and ports
 
@@ -140,3 +140,11 @@ assumes gitweb lives at http://localhost/git/
 ## lively_links
 
 This is a python script that walks through the curriculum while being served by hugo.  As it walks, it checks each url for a status code of 200. If the code is not 200, then the failed url is written to the missing_links.csv file. We are running hugo at http://localhost:1313/. Please note line 27 in run.py.  This script takes about 5 minutes to complete on the securebooks.
+
+## kiwix.service
+
+## Chapter - User Input With Forms Studio
+
+
+## ul-pcc-sprint-3
+We are teaching and working on the React chapters (29, 30, 31). Any corrections, etc. will be made in the upcoming branch (ul-pcc-sprint-3).

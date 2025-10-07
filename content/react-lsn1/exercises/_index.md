@@ -95,7 +95,7 @@ The list of movies is built using an array defined in
    page needs more images, which also need to be smaller in size.
 
    1. In the `BookList` function, assign a better section heading to the `pageTitle` variable.
-      1. The `book` variables should hold URLs for images, but only one is is filled in and it isn't a valid link. 
+      1. The `book` variables should hold URLs for images, but only one is filled in and it isn't a valid link. 
       Update the three variables to include valid link addresses for three new book releases. Since you're offline,
       we've provided a few book covers for you to choose from. Here's the URL to use: `http://handlers.education.launchcode.org/static/images/books/Title_of_Book.png`
    
@@ -139,7 +139,7 @@ The list of movies is built using an array defined in
          <a href = {hobbyLinks[0]}>Link text...</a>
       ```
 
-   1. Add `<HobbyLinks />` to `App.js`. Save all of
+   1. Add `<HobbyLinks />` to `App.jsx`. Save all of
       your changes, then refresh the page to see your new content.
 
    {{% expand "Check Your Solution" %}}
@@ -158,7 +158,7 @@ The list of movies is built using an array defined in
 ## Part 3: Rearrange the Components
 
 The content on the page appears quite jumbled, since we gave you no guidance on
-where to put the components in `App.js`. Fortunately, templates
+where to put the components in `App.jsx`. Fortunately, templates
 allow us to easily move items around the framework.
 
 8. Rearrange the components to create a specific page layout:

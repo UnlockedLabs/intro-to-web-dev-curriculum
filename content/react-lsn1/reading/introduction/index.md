@@ -33,7 +33,7 @@ While some developers use the terms interchangeably, **frameworks** are differen
 **React** is a front-end library maintained by Meta, also known as Facebook, and an open-source community of developers/JavaScript fans. While there are many front-end frameworks and libraries that will aid you in making a beautiful website, there are a few key reasons why one may choose React over the others.
 
 1. React is flexible enough that it can be used for cross-platform work. This means that React can be used to develop applications for mobile platforms in addition to web applications.
-1. Thanks to JSX, writting HTML and JavaScript for your React application is a more straight-forward process compared to working with Angular where the code is separated into multiple files.
+1. Thanks to JSX, writing HTML and JavaScript for your React application is a more straight-forward process compared to working with Angular where the code is separated into multiple files.
 1. React is built on **components**, which are blocks of reusable code that we as developers write. The way React uses components makes it easy for us to call our components and reuse them in the application as we need to.
 
 These are some of the reasons why companies, such as Netflix and Instacart, choose React. Let's dive into the final reason and learn more about components in React.

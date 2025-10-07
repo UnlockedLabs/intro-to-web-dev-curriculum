@@ -75,7 +75,7 @@ let tupleName: [number, string, number];
 tupleName = [10, "9", 8];
 ```
 
-This is just a short introduction to TypeScript to expose you to supersets and one of the most famous ones in the JavaScript landscape. Not only can React applications be writting in TypeScript, but Angular, a popular front-end framework, is written in TypeScript. In addition to its popularity, learning a bit more about TypeScript can help you make the transition to Unit 2, where the back-end development is done with a statically typed language.
+This is just a short introduction to TypeScript to expose you to supersets and one of the most famous ones in the JavaScript landscape. Not only can React applications be written in TypeScript, but Angular, a popular front-end framework, is written in TypeScript. In addition to its popularity, learning a bit more about TypeScript can help you make the transition to Unit 2, where the back-end development is done with a statically typed language.
 
 ## Check Your Understanding
 
