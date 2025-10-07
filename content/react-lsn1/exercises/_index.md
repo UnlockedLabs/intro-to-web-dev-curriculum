@@ -111,21 +111,17 @@ The list of movies is built using an array defined in
 6. Refresh the webpage to check the updated content.
 
    {{% expand "Check Your Solution" %}}
-   
-   This solution includes three books from the latest releases the week we were working on this book. Your code will have different books!
 
    ```jsx
       <div>
          <h3>{pageTitle}</h3>
-         <img src={book1} alt="Romantic Comedy by Curtis Sittenfield" />
-         <img src={book2} alt="Tress of the Emerald Sea by Brandon Sanderson" />
-         <img src={book3} alt="The London Seance Society by Sarah Penner" />
+         <img src={book1} alt="Cross My Heart by James Patterson" />
+         <img src={book2} alt="Doctor Sleep by Stephen King" />
+         <img src={book3} alt="Gone Girl by Gillian Flynn" />
       </div>
    ```
 
    {{% /expand %}}
-   
-   Before moving on, save and commit your work.
 
 ## Part 2: Add Another Component
 
@@ -135,7 +131,7 @@ The list of movies is built using an array defined in
    1. In the `HobbyLinks()` function, define the variable `hobbyLinks` and
       assign it an array that contains two or more URLs for websites that pertain to your hobbies.
    1. In the `return` statement for this component, add a set of `<a>` tags for
-      the web links. Each link should be on its own line.
+      the web links. Each link should appear in the browser on its own line.
    1. Inside each `<a>` tag, set the `href` attribute equal to a
       placeholder for an element in the `hobbyLinks` array:
 
@@ -165,7 +161,7 @@ The content on the page appears quite jumbled, since we gave you no guidance on
 where to put the components in `App.js`. Fortunately, templates
 allow us to easily move items around the framework.
 
-8. Rearrange the components etc. to create a specific page layout:
+8. Rearrange the components to create a specific page layout:
 
    1. You now have three components that could be grouped together and one that doesn't belong with the others.
       Put the odd one out at the top of the page.
@@ -207,7 +203,7 @@ Your final page should have this format:
 If you get stuck on a particular exercise:
 
 1. Try again.
-1. Ask your IA, instructor, or classmates for tips.
+1. Ask an instructor or other classmates for tips.
 1. Try again.
 1. Take a break and give your brain a chance to rest.
 1. Try again.

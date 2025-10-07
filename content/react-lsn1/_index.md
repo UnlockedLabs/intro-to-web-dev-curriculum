@@ -17,7 +17,7 @@ lastMod: 2023-08-03 # UPDATE ANY TIME CHANGES ARE MADE
 Upon completing the content in this chapter, you should be able to do the following:
 
 1. Discuss the importance of JS libraries and why developers choose React for their projects.
-1. Create a new React application with a tool called "Create React App".
+1. Identify how a new React app is scaffolded using a tool like "Vite".
 1. Understand what a component is and the difference between a functional and class component.
 1. Create and style a new component
 
@@ -37,10 +37,6 @@ Throughout this chapter, you should make note of the following key terms organiz
 1. functional components
 1. class components
 1. props
-
-### Create a React Application
-
-1. Create React App
 
 ## Content Links
 
