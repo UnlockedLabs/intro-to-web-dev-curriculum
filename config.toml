@@ -1,4 +1,4 @@
-baseURL = 'https://intro-to-web-dev-curriculum.netlify.app/'
+baseURL = 'http://javascript.education.launchcode.org/'
 languageCode = 'en-us'
 title = 'Introduction to Web Dev'
 theme = "hugo-theme-relearn"
